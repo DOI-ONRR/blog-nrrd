@@ -103,9 +103,10 @@ jobs:
       - run:
           name: Build gatsby
           command: npm run build
-      - run:
-          name: Run tests
-          command: npm test
+ #currently no tests
+ #     - run:
+ #         name: Run tests
+ #         command: npm test
       - run:
           name: deploy to cloud.gov
           command: |
@@ -142,9 +143,9 @@ jobs:
       - run:
           name: Build gatsby
           command: npm run build
-      - run:
-          name: Run tests
-          command: npm test
+#      - run:
+#          name: Run tests
+#          command: npm test
 
       - run:
           name: deploy preview to cloud.gov
