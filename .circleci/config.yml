@@ -79,10 +79,6 @@ jobs:
             sudo dpkg -i cf-cli_amd64.deb
             bash .circleci/preview.sh
 
-      # Upload test results
-      
-      - store_test_results:
-          path: /tmp/test-reports
    
   dev:
     docker:
@@ -162,21 +158,6 @@ jobs:
 
 
 workflows:
-  audits:
-    jobs:
-      - lighthouse_audit:
-          filters:
-            branches:
-              ignore:
-                - preview
-                - master
-      - quick:
-          filters:
-            branches:
-              ignore:
-                - master
-                - dev
-                       
   preview:
     jobs:
       - preview:
