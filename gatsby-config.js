@@ -16,7 +16,7 @@ module.exports = {
     siteUrl: 'https://revenuedata.doi.gov/',
     googleAnalyticsId: GOOGLE_ANALYTICS_ID,
   },
-  pathPrefix: `${BASEURL}/blog`,
+  pathPrefix: `${BASEURL}/`,
   mapping: {
     "MarkdownRemark.frontmatter.authors": `AuthorYaml`,
   },
