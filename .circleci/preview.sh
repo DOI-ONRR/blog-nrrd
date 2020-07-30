@@ -62,8 +62,8 @@ then
             echo "preview $preview no longer has branch remove preview"
             echo "cf delete -f $preview"
                 echo "cf delete-route -f app.cloud.gov --hostname $preview"
-                cf delete -f $preview
-                cf delete-route -f app.cloud.gov --hostname $preview
+#                cf delete -f $preview
+#                cf delete-route -f app.cloud.gov --hostname $preview
         fi
         
         
@@ -87,8 +87,8 @@ then
                 echo "preview $preview no longer has branch remove preview"
                 echo "cf delete -f $preview"
                 echo "cf delete-route -f app.cloud.gov --hostname $preview"
-                cf delete -f $preview
-                cf delete-route -f app.cloud.gov --hostname $preview
+#                cf delete -f $preview
+#                cf delete-route -f app.cloud.gov --hostname $preview
             fi
         fi
     done
@@ -101,15 +101,15 @@ if [ "$count" -gt 9 ]
 then
     echo "cf delete -f $CANDIDATE"
     echo "cf delete-route -f app.cloud.gov --hostname $CANDIDATE"
-    cf delete -f $CANDIDATE
-    cf delete-route -f app.cloud.gov --hostname $CANDIDATE
+#    cf delete -f $CANDIDATE
+#    cf delete-route -f app.cloud.gov --hostname $CANDIDATE
 fi    
 ## Set $CF_USERNAME and $CF_PASSWORD in CircleCI settings.
 ## $CF_ORG, $CF_SPACE, and $APP_NAME can also be set in CircleCI settings or hardcoded here.
 
 
 
-echo "cf push $BRANCH -f ./manifest.staging.yml "
-cf push $BRANCH -f ./manifest.staging.yml   
+echo "cf push stagging-blog -f ./manifest.staging.yml "
+cf push stagging-blog -f ./manifest.staging.yml   
 
 
