@@ -1,58 +1,6 @@
 version: 2.1
 jobs:
-  lighthouse_audit:
-    docker:
-      - image: circleci/node:12.13.0-browsers
-    steps:
-      - checkout
-      - restore_cache:
-          key: v3-node-modules-{{ checksum "package-lock.json" }}
-      - run:
-          name: Install node dependencies
-          command: npm install
-      - save_cache:
-          key: v3-node-modules-{{ checksum "package-lock.json" }}
-          paths:
-            - node_modules
-      - run:
-          name: Build gatsby
-          command: npm run build
-      # - run: 
-      #     name: Javascript Linter
-      #     command: npm run lint --ci --format junit -o reports/junit/js-lint-results.xml
-      - run:
-          name: Run test reports with JUnit
-          command: |
-            mkdir -p test-results/junit
-            echo 'test-results/junit directory succesfully created...'
-            npm run test --ci --runInBand --reporters=default --reporters=jest-junit
-          environment:
-            JEST_JUNIT_OUPUT_DIR: "./test-results/junit"
-      - store_test_results:
-          path: ./test-results/junit
-      - store_artifacts:
-          path: ./test-results/junit
-  
-  quick:
-    docker:
-      # This image has the latest cf-cli as well as zero downtime plugins, if needed.
-      - image: circleci/node:12.13.0
-    steps:
-      - checkout
-      - restore_cache:
-          key: v3-node-modules-{{ checksum "package-lock.json" }}
-      - run:
-          name: Install node dependencies
-          command: npm install
-      - save_cache:
-          key: v3-node-modules-{{ checksum "package-lock.json" }}
-          paths:
-            - node_modules
-      - run:
-          name: Build gatsby
-          command: npm run build
-              
-  preview:
+   preview:
     docker:
       - image: circleci/node:12.13.0
     resource_class: xlarge
@@ -75,7 +23,7 @@ jobs:
       - run:
           name: deploy preview to cloud.gov
           command: |
-            curl -v -L -o cf-cli_amd64.deb 'https://cli.run.pivotal.io/stable?release=debian64&source=github'
+	  curl -v -L -o cf-cli_amd64.deb 'https://cli.run.pivotal.io/stable?release=debian64&source=github'
             sudo dpkg -i cf-cli_amd64.deb
            cf api https://api.fr.cloud.gov
             cf auth "$DEV_CF_USERNAME" "$DEV_CF_PASSWORD"
