@@ -3,7 +3,7 @@
 const BASEURL = process.env.BASEURL || '';
 
 // CircleCI production environment
-const GOOGLE_ANALYTICS_ID = (process.env.CIRCLE_BRANCH === 'master') ? 'UA-48605964-8' : ''
+const GOOGLE_ANALYTICS_ID = (process.env.CIRCLE_BRANCH === 'master') ? 'UA-33523145-1' : ''
 
 module.exports = {
   siteMetadata: {
