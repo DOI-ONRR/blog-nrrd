@@ -1,6 +1,5 @@
 import React from 'react'
-import { Link } from 'gatsby'
-import { rhythm, scale } from '../utils/typography'
+import { rhythm } from '../utils/typography'
 import logo from '../img/DOI-2x.png'
 import twitter from '../img/twitter.png'
 import facebook from '../img/facebook.png'

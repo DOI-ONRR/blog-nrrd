@@ -2,11 +2,8 @@
 // https://github.com/18F/federalist-garden-build#variables-exposed-during-builds
 const BASEURL = process.env.BASEURL || '';
 
-// Federalist provides the google_analytics env variable
-const GOOGLE_ANALYTICS_ID = (process.env.google_analytics) ?
-                (process.env.google_analytics[process.env.BRANCH] || process.env.google_analytics.default)
-                :
-                "UA-48605964-8";
+// CircleCI production environment
+const GOOGLE_ANALYTICS_ID = (process.env.CIRCLE_BRANCH === 'master') ? 'UA-33523145-1' : ''
 
 module.exports = {
   siteMetadata: {
