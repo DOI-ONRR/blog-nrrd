@@ -9,7 +9,7 @@ tags:
 - onrr.gov
 - user experience
 - tools
-date: "2020-08-06"
+date: "2020-08-26"
 ---
 
 Card sorting is a very useful tool when it comes to organizing websites and finding out how your users view the information space. Unfortunately, the tool that has gobbled up all the competitors doesn’t have a government terms of service, and it’s difficult to get approval to use within a federal agency.  We didn’t let that stop us.
