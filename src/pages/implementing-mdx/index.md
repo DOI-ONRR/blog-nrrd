@@ -24,7 +24,7 @@ This article will not delve into the already well documented way of setting up a
  - [Gatsby](https://www.gatsbyjs.com/)
 
 ## Accessing components in Markdown
-When you review the Gatsby documentation about, [how to add components to Markdown using MDX](https://www.gatsbyjs.com/docs/mdx/writing-pages/), the syntax in my mind was not going to be exactly friendly to non-developers. I wanted to use as much pure Markdown syntax as possible with a few added pieces to enable injecting interactive and stylized components. So here is an example for Gatsby on importing components:
+When you review the Gatsby documentation about, [how to add components to Markdown using MDX](https://www.gatsbyjs.com/docs/mdx/writing-pages/), the syntax in my mind was not going to be exactly friendly to non-developers. I wanted to use as much pure Markdown syntax as possible with a few added pieces to enable injecting interactive and stylized components. Here is an example for Gatsby on importing components:
 
 ```
 import { Chart } from "../components/chart"
@@ -39,7 +39,7 @@ The chart is rendered inside our MDX document.
 ```
 Although this markdown is not that bad I didn't like the import statements and wanted to get rid of that "developer syntax", but how? Well I remembered using Gatsby's Pattern Library example project and somehow it was able to show components in markdown without any import statements, so how did that magic occur? The answer was simple, **cache**.
 
-Gatsby's build process was the key and its ability to leverage Graphql to find all the components. From there it was easy to write a simple components file to the cache directory that then allowed MDX to use that file to import all the components magically. So what are the deets?
+Gatsby's build process and its ability to leverage graphql to find all the components was the key. From there it was easy to write a simple components file to the cache directory that then allowed MDX to use that file to import all the components magically. So what are the deets?
 
 #### Step 1: Using Gatsby's Graphql to get your components
 Using the createPages method from the Gatsby API we query our components to get all the information needed to create a components.js file to use for our MDX Provider.
@@ -97,7 +97,7 @@ export const wrapRootElement = ({ element }) => (
   </ErrorBoundary>
 )
 ```
-And now all of our components are now provided to the MDX renderer and we no longer need to specify an import statement. It will also be automatically updated as we add new components. This simplifies the process for developers as well as the content writers. So now instead of writing import statements for our components directly in our markdown files we can just do this:
+And now our components are provided to the MDX renderer and we no longer need to specify an import statement. It will also be automatically updated as we add new components. This simplifies the process for developers as well as the content writers. So now instead of writing import statements for our components directly in our markdown files we can just do this:
 ```
 # Here’s a chart
 
@@ -109,9 +109,9 @@ The chart is rendered inside our MDX document.
 
 
 ## Using Content Partials
-Typically in react applications components contain content, such as descriptions or commentary on a subject. We want to make sure our content managers are able to edit all content without having to edit a reactjs component. Most of this is accomplished by having markdown file for all our pages which can be easily updated by our content managers. The issue that we needed to fix was the content that was repeated on multiple pages or needed to be actually embedded in a react component, for example a layout component.
+In react applications, components typically contain content, such as descriptions or commentary on a subject. We want to make sure our content managers can edit all content without having to edit a reactjs component. Most of this is accomplished by having markdown for all our pages which can be easily updated by our content managers. The issue that we needed to fix was the content that was repeated on multiple pages or needed to be actually embedded in a react component, for example a layout component.
 
-In our case we will use the "Contact Us" as our example. Since this appears on multiple pages throughout our website we didn't want to repeat this content on all our pages, we wanted to make sure we were following the [DRY principle](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself). Our solution was **Content Partials**. These are typical markdown files but are not pages and can be reused just like react components. We placed these files in our components directory so that our automated components.js file could export them and we can then easily use them in our markdown files or in a reactjs components.
+We will use the "Contact Us" as our example. Since this appears on multiple pages throughout our website we didn't want to repeat this content on all our pages, we wanted to make sure we were following the [DRY principle](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself). Our solution was **Content Partials**. These are typical markdown files but are not pages and can be reused just like react components. We placed these files in our components directory so that our automated components.js file could export them and we can then easily use them in our markdown files or in a reactjs components.
 
 #### ContactUs.mdx file
 ```
@@ -152,7 +152,7 @@ The contact us content is rendered inside our MDX document.
 Now we have simple way for developers to use this content in their components and an easy way to add, update and remove content for our content managers.
 
 ## Integrating relative links into our application
-Another issue we wanted to resolve is how do we leverage the [Gatsby Link](https://www.gatsbyjs.com/docs/gatsby-link/) component that provides routing and preloading capabilities with our links in markdown. Again we wanted to make this as seamless as possible so our solution was to leverage [component mappings](https://www.gatsbyjs.com/docs/mdx/customizing-components/). Since we know that the markdown link will be rendered as an HTML anchor tag we could then map that HTML tag to our Link component.
+Another issue we wanted to resolve is how do we leverage the [Gatsby Link](https://www.gatsbyjs.com/docs/gatsby-link/) component that provides routing and preloading capabilities with our links in markdown. Our seamless solution was to leverage [component mappings](https://www.gatsbyjs.com/docs/mdx/customizing-components/). Since we know that the markdown link will be rendered as an HTML anchor tag we could then map that HTML tag to our Link component.
 
 #### Mapping our components
 ```
