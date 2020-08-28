@@ -10,7 +10,7 @@ tags:
 date: "2020-08-30"
 ---
 
-Our site currently relies on markdown to allow non-developers to write/update content on our website, however we also needed a way to easily inject react components in the markdown for complex interactions and layouts. We initially used various libaries including [rehype-remark](https://github.com/rehypejs/rehype-react) to enable us to import components into the markdown. Then we discoverd Gatsby, our static site generator, added support for [MDX](https://mdxjs.com/), which provided us an industry standard and cleaner way of using react components in our markdown.
+Our site currently relies on markdown to allow non-developers to write/update content on our website, however we also needed a way to easily inject react components in the markdown for complex interactions and layouts. We initially used various libraries including [rehype-remark](https://github.com/rehypejs/rehype-react) to enable us to import components into the markdown. Then we discovered Gatsby, our static site generator, added support for [MDX](https://mdxjs.com/), which provided us an industry standard and cleaner way of using react components in our markdown.
 
 This article will not delve into the already well documented way of setting up and using MDX with Gatsby but focus on our unique implementation and features we thought others might find useful. The goals of our implementation were simple:
 
@@ -37,9 +37,9 @@ The chart is rendered inside our MDX document.
 <Chart />
 <FAQ />
 ```
-Although its not that bad I didnt like the import statements and wanted to get rid of that "developer syntax", but how? Well I remembered using Gatsby's Pattern Library example project and somehow it was able to show components in markdown without any import statements, so how did that magic occur? The answer was simple, **cache**.
+Although this markdown is not that bad I didn't like the import statements and wanted to get rid of that "developer syntax", but how? Well I remembered using Gatsby's Pattern Library example project and somehow it was able to show components in markdown without any import statements, so how did that magic occur? The answer was simple, **cache**.
 
-Gatsby's build process was the key and its ability to leverage graphql to find all the components. From there it was easy to write a simple components file to the cache directory that then allowed MDX to use that file to import all the components magically. So what are the deets?
+Gatsby's build process was the key and its ability to leverage Graphql to find all the components. From there it was easy to write a simple components file to the cache directory that then allowed MDX to use that file to import all the components magically. So what are the deets?
 
 #### Step 1: Using Gatsby's Graphql to get your components
 Using the createPages method from the Gatsby API we query our components to get all the information needed to create a components.js file to use for our MDX Provider.
@@ -97,7 +97,7 @@ export const wrapRootElement = ({ element }) => (
   </ErrorBoundary>
 )
 ```
-And now all of our components are now provided to the MDX renderer and we no longer need to specify an import statement. It will also be automatically updated as we add new components. This simplfies the process for developers as well as the content writers. So now instead of writing import statements for our components directly in our markdown files we can just do this:
+And now all of our components are now provided to the MDX renderer and we no longer need to specify an import statement. It will also be automatically updated as we add new components. This simplifies the process for developers as well as the content writers. So now instead of writing import statements for our components directly in our markdown files we can just do this:
 ```
 # Here’s a chart
 
@@ -109,9 +109,9 @@ The chart is rendered inside our MDX document.
 
 
 ## Using Content Partials
-Typically in react applications components contain content, such as decriptions or commentary on a subject. We want to make sure our content managers are able to edit all content without having to edit a reactjs component. Most of this is accomplished by having markdown file for all our pages which can be easily updated by our content managers. The issue that we needed to fix was the content that was repeated on multiple pages or needed to be actually embedded in a react component, for example an layout component.
+Typically in react applications components contain content, such as descriptions or commentary on a subject. We want to make sure our content managers are able to edit all content without having to edit a reactjs component. Most of this is accomplished by having markdown file for all our pages which can be easily updated by our content managers. The issue that we needed to fix was the content that was repeated on multiple pages or needed to be actually embedded in a react component, for example a layout component.
 
-In our case we will use the "Contact Us" as our example. Since this appears on multiple pages throughout our website we didnt want to repeat this content on all our pages, we wanted to make sure we were following the [DRY principle](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself). Our solution was **Content Partials**. These are typical markdown files but are not pages and can be reused just like react components. We placed these files in our components directory so that our automated components.js file could export them and we can then easily use them in our markdown files or in a reactjs components.
+In our case we will use the "Contact Us" as our example. Since this appears on multiple pages throughout our website we didn't want to repeat this content on all our pages, we wanted to make sure we were following the [DRY principle](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself). Our solution was **Content Partials**. These are typical markdown files but are not pages and can be reused just like react components. We placed these files in our components directory so that our automated components.js file could export them and we can then easily use them in our markdown files or in a reactjs components.
 
 #### ContactUs.mdx file
 ```
@@ -152,7 +152,7 @@ The contact us content is rendered inside our MDX document.
 Now we have simple way for developers to use this content in their components and an easy way to add, update and remove content for our content managers.
 
 ## Integrating relative links into our application
-Another issue we wanted to resolve is how do we leverage the [Gatsby Link](https://www.gatsbyjs.com/docs/gatsby-link/) component that provides routing and preloading capabilties with our links in markdown. Again we wanted to make this as seamless as possible so our solution was to leverage [component mappings](https://www.gatsbyjs.com/docs/mdx/customizing-components/). Since we know that the markdown link wil be rendered as an HTML anchor tag we could then map that HTML tag to our Link component.
+Another issue we wanted to resolve is how do we leverage the [Gatsby Link](https://www.gatsbyjs.com/docs/gatsby-link/) component that provides routing and preloading capabilities with our links in markdown. Again we wanted to make this as seamless as possible so our solution was to leverage [component mappings](https://www.gatsbyjs.com/docs/mdx/customizing-components/). Since we know that the markdown link will be rendered as an HTML anchor tag we could then map that HTML tag to our Link component.
 
 #### Mapping our components
 ```
@@ -195,4 +195,4 @@ Download revenue by month:
 ![Download links visualization](./download-links.png)
 
 ## Our goals have been achieved
-We now have a site that can be maintained and updated by non-developers in a relatively easy way. The markdown is a simple format that can be easily learned and we still have the ability to provide advanced styling, interaction and intergration with our application. 
+We now have a site that can be maintained and updated by non-developers in a relatively easy way. The markdown is a simple format that can be easily learned and we still have the ability to provide advanced styling, interaction and integration with our application. 
