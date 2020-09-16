@@ -7,7 +7,7 @@ tags:
 - mdx
 - javascript
 - gatsby
-date: "2020-08-30"
+date: "2020-09-16"
 ---
 
 Our site currently relies on Markdown to allow non-developers to write/update content, however we also needed a way to easily inject React components in the Markdown for complex interactions and layouts. We initially used various libraries including [rehype-remark](https://github.com/rehypejs/rehype-react) to enable us to import components into the Markdown. Then we discovered Gatsby, our static site generator, added support for [MDX](https://mdxjs.com/), which provided us an industry standard and cleaner way of using React components in our Markdown.
@@ -195,4 +195,4 @@ Download revenue by month:
 ![Download links visualization](./download-links.png)
 
 ## Our goals have been achieved
-We now have a site that can be maintained and updated by non-developers in a relatively easy way. The Markdown is a simple format that can be easily learned and we still have the ability to provide advanced styling, interaction and integration with our application. 
+We now have a site that can be maintained and updated by non-developers in a relatively easy way. The Markdown is a simple format that can be easily learned and we still have the ability to provide advanced styling, interaction and integration with our application.
