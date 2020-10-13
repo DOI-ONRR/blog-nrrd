@@ -12,7 +12,7 @@ tags:
 date: "2020-10-22"
 ---
 
-"Explore all facets of user experience research and design at the Department of the Interior's Office of Natural Resources Revenue (ONRR)"",read the description for this Virtual Student Federal Service (VSFS) opportunity as a UX apprentice.   On seeing ONRR’s guarantee of a broad experience in the design discipline, I was eager to apply.  Plus, it was for a government project, and I was curious.  I wondered how a dynamic design process could be worked into what I imagined was a more rigid system. When the offer was extended to me, I—of course—accepted.  Soon I would get a glimpse into the answers to some of my questions.
+"Explore all facets of user experience research and design at the Department of the Interior's Office of Natural Resources Revenue (ONRR)",read the description for this Virtual Student Federal Service (VSFS) opportunity as a UX apprentice.   On seeing ONRR’s guarantee of a broad experience in the design discipline, I was eager to apply.  Plus, it was for a government project, and I was curious.  I wondered how a dynamic design process could be worked into what I imagined was a more rigid system. When the offer was extended to me, I—of course—accepted.  Soon I would get a glimpse into the answers to some of my questions.
 
 Prior to the official UX apprentice kickoff was a week of onboarding where we were given our first look into the inner workings of the team at ONRR.  That week was a whirlwind of emails, endless pinging of messages received (the contents of which were inscrutable to me), and a lively team chat full of colorful and unique emojis, including a cheerfully trotting rainbow-colored corgi.
 
