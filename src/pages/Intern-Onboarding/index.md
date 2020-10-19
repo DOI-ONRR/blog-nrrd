@@ -27,7 +27,7 @@ Finally, one of the most memorable details from that onboarding process was that
 And perhaps even more remarkable was that, rather than it being a cold and aloof efficiency, there was a discernible light-heartedness and levity in the way they worked together.  This was evident in the banter and deadpan humor in their chats and, of course, in their mascot—a cheerfully trotting rainbow-colored corgi.
 
 ## Suggestions
-I found the onboarding process for UX interns to be well thought out and organized.  If we did have any questions, Shannon was available to guide us.  The UX apprenticeship role through the VSFS is only in its  second year at ONRR.  With that comes its growing pains.  So here are some add-ons I’d recommend:
+I found the onboarding process for UX interns to be well thought out and organized.  If we did have any questions, Shannon was available to guide us.  The UX apprenticeship role through the VSFS is only in its second year at ONRR.  With that comes its growing pains.  So here are some add-ons I’d recommend:
 
 •	**Begin building out a UX intern FAQs.**  I imagine the same problems and questions keep cropping for each intern and each round of the apprenticeship.
 
