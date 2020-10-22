@@ -35,7 +35,7 @@ const Footer = () => (
         className='footer-contact'
         style={{
           display: 'block',
-        }}  
+        }}
       />
       <h3 style={{ margin: 0 }}>
         <a
@@ -62,8 +62,9 @@ const Footer = () => (
           style={{
             color: 'white',
           }} 
-          href="mailto:nrrd@onrr.gov">nrrd@onrr.gov</a>
+          href="mailto:nrrd@onrr.gov">nrrd@onrr.gov</a><br />
       </p>
+      <p><a href="https://doi.gov/privacy">Privacy policy</a></p>
       <div className='team'
         style={{
           display: 'block',
@@ -83,13 +84,13 @@ const Footer = () => (
             src={github}
             alt={`GitHub logo`}
           /></a>
-          <a href='https://twitter.com/DOIONRR'> 
+          <a href='https://twitter.com/DOIONRR'>
           <img
             className='social-icon'
             src={twitter}
             alt={`Twitter logo`}
           /></a>
-          <a href='https://www.facebook.com/DOIONRR/'>  
+          <a href='https://www.facebook.com/DOIONRR/'>
           <img
             className='social-icon'
             src={facebook}
