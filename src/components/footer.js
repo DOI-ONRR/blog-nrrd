@@ -99,7 +99,8 @@ const Footer = () => (
 
           </div>
           <p style={{
-            marginTop: '-1',
+            marginTop: '-2',
+            display: 'block'
           }}>
           <a
           style={{
