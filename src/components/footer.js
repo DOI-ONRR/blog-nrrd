@@ -76,14 +76,7 @@ const Footer = () => (
             }}
           >From the team that works on <a style={{color: 'white'}} href='https://revenuedata.doi.gov'>Natural Resources Revenue Data</a></em>
       </div>
-      <p>
-      <a
-      style={{
-        fontSize: '.8rem',
-        color: 'white',
-      }}
-      href="https://doi.gov/privacy">Privacy policy</a>
-      </p>
+
       <div className='social'>
         <a href='https://github.com/ONRR/'>
           <img
@@ -104,6 +97,14 @@ const Footer = () => (
             alt={`Facebook logo`}
           /></a>
       </div>
+      <p>
+      <a
+      style={{
+        fontSize: '.8rem',
+        color: 'white',
+      }}
+      href="https://doi.gov/privacy">Department of the Interior Privacy Policy</a>
+      </p>
     </div>
   </footer>
 )
