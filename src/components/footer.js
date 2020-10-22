@@ -95,7 +95,7 @@ const Footer = () => (
             className='social-icon'
             src={facebook}
             alt={`Facebook logo`}
-          /></a><br />
+          /></a>
           <a
           style={{
             fontSize: '.8rem',
