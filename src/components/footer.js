@@ -76,13 +76,14 @@ const Footer = () => (
             }}
           >From the team that works on <a style={{color: 'white'}} href='https://revenuedata.doi.gov'>Natural Resources Revenue Data</a></em>
       </div>
-      <p
+      <p>
+      <a
       style={{
         fontSize: '.8rem',
         color: 'white',
-        lineHeight: rhythm(-1),
       }}
-      <a href="https://doi.gov/privacy">Privacy policy</a></p>
+      href="https://doi.gov/privacy">Privacy policy</a>
+      </p>
       <div className='social'>
         <a href='https://github.com/ONRR/'>
           <img
