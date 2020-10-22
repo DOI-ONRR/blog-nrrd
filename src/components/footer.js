@@ -61,10 +61,9 @@ const Footer = () => (
         <a
           style={{
             color: 'white',
-          }} 
+          }}
           href="mailto:nrrd@onrr.gov">nrrd@onrr.gov</a><br />
       </p>
-      <p><a href="https://doi.gov/privacy">Privacy policy</a></p>
       <div className='team'
         style={{
           display: 'block',
@@ -77,6 +76,13 @@ const Footer = () => (
             }}
           >From the team that works on <a style={{color: 'white'}} href='https://revenuedata.doi.gov'>Natural Resources Revenue Data</a></em>
       </div>
+      <p
+      style={{
+        fontSize: '.8rem',
+        color: 'white',
+        lineHeight: rhythm(-1),
+      }}
+      <a href="https://doi.gov/privacy">Privacy policy</a></p>
       <div className='social'>
         <a href='https://github.com/ONRR/'>
           <img
