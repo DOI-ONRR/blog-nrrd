@@ -96,20 +96,9 @@ const Footer = () => (
             src={facebook}
             alt={`Facebook logo`}
           /></a>
-
           </div>
-          <p style={{
-            marginTop: '-2',
-            display: 'block'
-          }}>
-          <a
-          style={{
-            fontSize: '.8rem',
-            color: 'white',
-            lineHeight: rhythm(-1),
-          }}
-          href="https://doi.gov/privacy"> Privacy Policy</a>
-          </p>
+          <div className='privacy'>
+          <a href="https://doi.gov/privacy">Privacy Policy</a>
           </div>
   </footer>
 )
