@@ -106,7 +106,6 @@ const Footer = () => (
             fontSize: '.8rem',
             color: 'white',
             lineHeight: rhythm(-1),
-            text-align: center,
           }}
           href="https://doi.gov/privacy"> Privacy Policy</a>
           </p>
