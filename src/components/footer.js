@@ -95,16 +95,14 @@ const Footer = () => (
             className='social-icon'
             src={facebook}
             alt={`Facebook logo`}
-          /></a>
-      </div>
-      <p>
-      <a
-      style={{
-        fontSize: '.8rem',
-        color: 'white',
-      }}
-      href="https://doi.gov/privacy">Department of the Interior Privacy Policy</a>
-      </p>
+          /></a><br />
+          <a
+          style={{
+            fontSize: '.8rem',
+            color: 'white',
+          }}
+          href="https://doi.gov/privacy"> Privacy Policy</a>
+          </div>
     </div>
   </footer>
 )
