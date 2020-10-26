@@ -100,6 +100,7 @@ const Footer = () => (
           <div className='privacy'>
           <a href="https://doi.gov/privacy">Privacy Policy</a>
           </div>
+          </div>
   </footer>
 )
 
