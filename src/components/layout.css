@@ -147,6 +147,13 @@ a:hover {
   text-align: center;
 }
 
+.privacy {
+  text-align: center;
+  fontSize: '.6rem';
+  color: 'white';
+  margin-top: 0;
+}
+
 .social {
   margin-top: .2rem;
   text-align: center;
