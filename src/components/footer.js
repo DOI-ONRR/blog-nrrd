@@ -99,11 +99,12 @@ const Footer = () => (
           </div>
           <div className='privacy'>
           <a
-          href="https://doi.gov/privacy">Privacy Policy
+          href="https://doi.gov/privacy"
           style={{
             fontSize: '.8rem',
             color: 'white',
           }}
+          >Privacy Policy
           </a>
           </div>
           </div>
