@@ -35,7 +35,7 @@ const Footer = () => (
         className='footer-contact'
         style={{
           display: 'block',
-        }}  
+        }}
       />
       <h3 style={{ margin: 0 }}>
         <a
@@ -61,8 +61,8 @@ const Footer = () => (
         <a
           style={{
             color: 'white',
-          }} 
-          href="mailto:nrrd@onrr.gov">nrrd@onrr.gov</a>
+          }}
+          href="mailto:nrrd@onrr.gov">nrrd@onrr.gov</a><br />
       </p>
       <div className='team'
         style={{
@@ -76,6 +76,7 @@ const Footer = () => (
             }}
           >From the team that works on <a style={{color: 'white'}} href='https://revenuedata.doi.gov'>Natural Resources Revenue Data</a></em>
       </div>
+
       <div className='social'>
         <a href='https://github.com/ONRR/'>
           <img
@@ -83,20 +84,30 @@ const Footer = () => (
             src={github}
             alt={`GitHub logo`}
           /></a>
-          <a href='https://twitter.com/DOIONRR'> 
+          <a href='https://twitter.com/DOIONRR'>
           <img
             className='social-icon'
             src={twitter}
             alt={`Twitter logo`}
           /></a>
-          <a href='https://www.facebook.com/DOIONRR/'>  
+          <a href='https://www.facebook.com/DOIONRR/'>
           <img
             className='social-icon'
             src={facebook}
             alt={`Facebook logo`}
           /></a>
-      </div>
-    </div>
+          </div>
+          <div className='privacy'>
+          <a
+          href="https://doi.gov/privacy"
+          style={{
+            fontSize: '.8rem',
+            color: 'white',
+          }}
+          >Privacy Policy
+          </a>
+          </div>
+          </div>
   </footer>
 )
 
