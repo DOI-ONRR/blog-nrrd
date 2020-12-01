@@ -6,8 +6,12 @@ excerpt: "In this post, we discuss how we are evaluating, improving, and documen
 tags:
 - data management
 - quality assurance
+- QA
+- testing
+- tests
+- pull request
 
-date: "2020-12-3"
+date: "2020-12-01"
 ---
 
 Over the last few years, we’ve made a lot of changes to the Natural Resources Revenue Data site. Our goal with all of those changes has been to increase user value and address any problems we’ve seen users experience with our site. Some of our changes have resulted in an even greater need to focus on our quality assurance (QA) process. For example, we’ve gone from updating each of our datasets one time a year to providing monthly and annual data sets. We’ve also added a database behind the site to accommodate more data and improve site performance. We won’t be delivering user value if we aren’t delivering accurate, timely data to our users. So, in addition to the changes we’ve made to our site and the data behind it, we have focused on evaluating, improving, and documenting our QA processes. Our improvements are ongoing, but we have a solid foundation of procedures and technical processes that make us confident we’re minimizing bugs and delivering quality data and content to our users. Those include frequent user testing, documented processes for data and content checks, and automated tests and audits to review changes and identify bugs.
