@@ -1,11 +1,11 @@
 ---
-title: "How we do Quality Assurance"
+title: "How we do quality assurance"
 authors:
 - Lindsay Goldstein
 - Jerome Louis
 - Jennifer Malcolm
 - Mojo Nichols
-excerpt: "In this post, we discuss how we are evaluating, improving, and documenting our Quality Assurance processes."
+excerpt: "In this post, we discuss how we are evaluating, improving, and documenting our quality assurance processes."
 tags:
 - data management
 - quality assurance
