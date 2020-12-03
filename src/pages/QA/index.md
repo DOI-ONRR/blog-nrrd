@@ -14,7 +14,7 @@ tags:
 - tests
 - pull request
 
-date: "2020-12-01"
+date: "2020-12-04"
 ---
 
 Over the last few years, we’ve made a lot of changes to the [Natural Resources Revenue Data site](https://revenuedata.doi.gov). Our goal with all of those changes has been to increase user value and address any problems we’ve seen users experience with our site. Some of our changes have resulted in an even greater need to focus on our quality assurance (QA) process. For example, we’ve gone from updating each of our data sets one time a year to providing monthly and annual data sets. We’ve also added a database behind the site to accommodate more data and improve site performance.
