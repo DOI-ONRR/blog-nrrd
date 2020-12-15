@@ -22,7 +22,7 @@ Our goals were to validate the structure that came out of tree testing, determin
 
 [Version 1 of the clickable prototype](https://wkvlqa.axshare.com/version_1.html)
 
-![Clickable prototype, version 1 with numbered task on the left top side and the main categories on the right side ](./tree-test-version-1.png)
+![Clickable prototype, version 1 with numbered task on the left top side and the main categories on the right side ](./Tree-Test-Version-1.png)
 
 We also decided to show a [wireframe](https://wkvlqa.axshare.com/#g=1&p=homepage) of the homepage using the categories after the tree test tasks, so users could see where we were headed with the site using the categories and get some feedback on the categories in context.
 
@@ -33,19 +33,19 @@ We scheduled 30-minute moderated virtual interview sessions with all 11 particip
 
 We initially tried to record their responses right in our spreadsheet to make it easier to analyze our findings, but in the first interview we found that it was too difficult to work quickly within the spreadsheet and we decided to go back to a word document to take our notes. Despite it being our first time conducting tree testing using this process, we were able to easily communicate the instructions to the participants.
 
-Spreadsheet notes
-![User interview notes in a spreadsheet](./spreadsheet-notes.png "Spreadsheet notes")
-Word notes
+Spreadsheet notes:
+![User interview notes in a spreadsheet](./Spreadsheet-notes.png "Spreadsheet notes")
+Word notes:
 ![User interview notes in a word document](./word-notes.png "Word notes")
 
 ## Analysis
 After [summarizing the findings](https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/06_tree_test/Tree%20Test%20Findings.pptx), we used [Sankey diagrams]( http://sankeymatic.com/build/) to show how users navigated from the task to the subcategory. The visualization really helped to illustrate which tasks were straightforward and which ones proved to be confusing. We had several tasks that made us feel confident that we had the right structure in place, including leading participants to report production, find contacts, file appeals, and make rent payments. The Sankey diagram below illustrates how all participants agreed on where to report production.
 
-![Sankey diagram of user task 3](./task-3.png)
+![Sankey diagram of user task 3](./Task-3.png)
 
 Then we had several tasks where participant responses diverged significantly. These tasks included how to set up a new team member, how to find information on the site, and how to find help with ONRR reporting and paying systems. The Sankey diagram below shows that participants were divided on whether to go to the Getting Started category or Reporting Resources main categories to add a new team member as a contact. The responses further diverged within the subcategories as some participants were looking for a specific form and some thought it would be in Getting Started. Our solution to this and similar issues will be to include the needed resource in more than one category.
 
-![Sankey diagram of user task 7](./task-7.png)
+![Sankey diagram of user task 7](./Task-7.png)
 
 We also found that participants had to think about where to look for the regulation/valuation task and thought that valuation should be a separate category when asked for more detail. Participants unfamiliar with Indian reporting would navigate to the Indian Resources category for anything Indian related so we will cross post Indian pricing, regulations, and codes to the Indian Resources category. Participants were also divided on whether to look for similar information in the Reporting or Reporting Resources category. We determined that it would be better to use only the Reporting category and add the Reporting Resources as a sub-category to each type of reporting Overall, participants wanted more information about how the entire reporting and paying process works, especially those that are newer to their positions or need information on how to report and pay on more complex leases and agreements. People from within our agency who field contacts from industry also expressed this need, so we will be creating a visual showing the process.
 
