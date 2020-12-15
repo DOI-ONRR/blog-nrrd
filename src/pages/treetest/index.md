@@ -37,3 +37,8 @@ Spreadsheet notes
 ![User interview notes in a spreadsheet](./spreadsheet-notes.png)
 Word notes
 ![User interview notes in a word document](./word-notes.png)
+
+## Analysis
+After [summarizing the findings](https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/06_tree_test/Tree%20Test%20Findings.pptx), we used [Sankey diagrams]( http://sankeymatic.com/build/) to show how users navigated from the task to the subcategory. The visualization really helped to illustrate which tasks were straightforward and which ones proved to be confusing. We had several tasks that made us feel confident that we had the right structure in place, including leading participants to report production, find contacts, file appeals, and make rent payments. The Sankey diagram below illustrates how all participants agreed on where to report production.
+
+![Sankey diagram of user task 3](./task-3.png)
