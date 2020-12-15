@@ -12,7 +12,7 @@ tags:
 date: "2020-12-18"
 ---
 
-As we’ve approached the redesign of onrr.gov, we’ve done several rounds of user testing, including open and closed card sorting ). The card sorting helped us determine the categories and subcategories that users would want to see on the home page. We wanted to further confirm that we were placing the subcategories into the correct main categories and that users would be able to find the needed information, so we turned to tree testing. Tree testing was a new type of user research to our program analysts so we read a few [articles] (https://www.optimalworkshop.com/learn/101s/tree-testing/ ) to get up to speed with our UX expert.
+As we’ve approached the redesign of onrr.gov, we’ve done several rounds of user testing, including open and closed card sorting ). The card sorting helped us determine the categories and subcategories that users would want to see on the home page. We wanted to further confirm that we were placing the subcategories into the correct main categories and that users would be able to find the needed information, so we turned to tree testing. Tree testing was a new type of user research to our program analysts so we read a few [articles](https://www.optimalworkshop.com/learn/101s/tree-testing/ ) to get up to speed with our UX expert.
 
 ## Getting started
 Our first step in the process was to figure out how to use our existing or free software to conduct the tree testing. After some investigation, our UX expert determined that a [clickable prototype](https://wkvlqa.axshare.com/) would serve our needs. We used the software that our expert already uses for prototyping so she could quickly create the testing materials. You could use any software that allows clickable interfaces to do the same thing.
