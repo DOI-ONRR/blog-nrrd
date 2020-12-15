@@ -34,9 +34,9 @@ We scheduled 30-minute moderated virtual interview sessions with all 11 particip
 We initially tried to record their responses right in our spreadsheet to make it easier to analyze our findings, but in the first interview we found that it was too difficult to work quickly within the spreadsheet and we decided to go back to a word document to take our notes. Despite it being our first time conducting tree testing using this process, we were able to easily communicate the instructions to the participants.
 
 Spreadsheet notes
-![User interview notes in a spreadsheet](./spreadsheet-notes.png)
+![User interview notes in a spreadsheet](./spreadsheet-notes.png "Spreadsheet notes")
 Word notes
-![User interview notes in a word document](./word-notes.png)
+![User interview notes in a word document](./word-notes.png "Word notes")
 
 ## Analysis
 After [summarizing the findings](https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/06_tree_test/Tree%20Test%20Findings.pptx), we used [Sankey diagrams]( http://sankeymatic.com/build/) to show how users navigated from the task to the subcategory. The visualization really helped to illustrate which tasks were straightforward and which ones proved to be confusing. We had several tasks that made us feel confident that we had the right structure in place, including leading participants to report production, find contacts, file appeals, and make rent payments. The Sankey diagram below illustrates how all participants agreed on where to report production.
