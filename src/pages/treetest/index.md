@@ -52,7 +52,20 @@ We also made some major changes to the categories. We found that participants ha
 Overall, participants wanted more information about how the entire reporting and paying process works, especially those that are newer to their positions or need information on how to report and pay on more complex leases and agreements. People from within our agency who field contacts from industry also expressed this need, so we will be creating a visual showing the process.
 
 To better illustrate the changes to the main and subcategories that we are proposing, the first table below shows the original tested categories and the second table shows the new proposed categories.
+
 ### Tested categories
+|     Getting Started             |     Reporting          |     Reporting Resources          |     Paying                    |     Enforcement & Appeals          |     Indian Resources                   |     About ONRR                            |
+|---------------------------------|------------------------|----------------------------------|-------------------------------|------------------------------------|----------------------------------------|-------------------------------------------|
+|     New Reporter Checklists     |     Production         |     Reference Lists & Codes      |     Rental Payments           |     Compliance Authorities         |     Cooperative Agreements             |     Press Releases                        |
+|     System Access               |     Royalty            |     Reporting Contacts           |     Royalty Payments          |     Appeals                        |     Allottee Assistance                |     Leadership                            |
+|                                 |     Solid Minerals     |     Handbooks                    |     Late Payment Interest     |     Bankruptcies                   |     Federal Indian Minerals Office     |     Office Locations                      |
+|                                 |     Geothermal         |     Forms                        |     Treasury Referrals        |     Civil Penalties                |     Indian Energy Service Center       |     Employment                            |
+|                                 |                        |     Pricing                      |                               |                                    |     Tribal Assistance                  |     Committees                            |
+|                                 |                        |     Unbundling                   |                               |                                    |     Tribal Consultation                |     Testimony                             |
+|                                 |                        |     Reporter Letters             |                               |                                    |                                        |     Freedom of Information Act (FOIA)     |
+|                                 |                        |     Regulations                  |                               |                                    |                                        |     Anti-Harassment Program               |
+|                                 |                        |     Training Videos              |                               |                                    |                                        |     Contact Us                            |
+
 <Table>
   <TableHead>
     <TableRow>
