@@ -56,27 +56,27 @@ To better illustrate the changes to the main and subcategories that we are propo
 <Table>
   <TableHead>
     <TableRow>
-      <TableCell >Getting Started</TableCell>
-      <TableCell> Reporting</TableCell>
+      <TableCell>Getting Started</TableCell>
+      <TableCell>Reporting</TableCell>
     <TableCell>Reporting Resources</TableCell>    
 <TableCell>Paying</TableCell>
-<TableCell>Enforcement & Appeals</TableCell>
+<TableCell>Enforcement <span>&#38;</span> Appeals</TableCell>
 <TableCell>Indian Resources</TableCell>
 <TableCell>About ONRR</TableCell>
   </TableRow>
   </TableHead>
   <TableBody>
       <TableRow>
-      <TableCell >New Reporter Checklists</TableCell>
+      <TableCell>New Reporter Checklists</TableCell>
       <TableCell>Production</TableCell>
-    <TableCell>Reference Lists & Codes</TableCell>    
+    <TableCell>Reference Lists <span>&#38;</span> Codes</TableCell>    
 <TableCell>Rental Payments</TableCell>
 <TableCell>Compliance Authorities</TableCell>
 <TableCell>Cooperative Agreements</TableCell>
 <TableCell>Press Releases</TableCell>
   </TableRow>
       <TableRow>
-      <TableCell >System Access</TableCell>
+      <TableCell>System Access</TableCell>
       <TableCell>Royalty</TableCell>
     <TableCell>Reporting Contacts</TableCell>    
 <TableCell>Royalty Payments</TableCell>
@@ -85,7 +85,7 @@ To better illustrate the changes to the main and subcategories that we are propo
 <TableCell>Leadership</TableCell>
   </TableRow>
     <TableRow>
-      <TableCell > </TableCell>
+      <TableCell></TableCell>
       <TableCell>Solid Minerals</TableCell>
     <TableCell>Handbooks</TableCell>    
 <TableCell>Late Payment Interest</TableCell>
@@ -94,7 +94,7 @@ To better illustrate the changes to the main and subcategories that we are propo
 <TableCell>Office Locations</TableCell>
   </TableRow>
     <TableRow>
-      <TableCell > </TableCell>
+      <TableCell></TableCell>
       <TableCell>Geothermal</TableCell>
     <TableCell>Forms</TableCell>    
 <TableCell>Treasury Referrals</TableCell>
@@ -103,35 +103,35 @@ To better illustrate the changes to the main and subcategories that we are propo
 <TableCell>Employment</TableCell>
   </TableRow>
     <TableRow>
-      <TableCell ></TableCell>
+      <TableCell></TableCell>
       <TableCell></TableCell>
     <TableCell>Pricing</TableCell>    
-<TableCell> </TableCell>
-<TableCell> </TableCell>
+<TableCell></TableCell>
+<TableCell></TableCell>
 <TableCell>Tribal Assistance</TableCell>
 <TableCell>Committees</TableCell>
   </TableRow>
     <TableRow>
-      <TableCell ></TableCell>
-      <TableCell> </TableCell>
+      <TableCell></TableCell>
+      <TableCell></TableCell>
     <TableCell>Unbundling</TableCell>    
-<TableCell> </TableCell>
+<TableCell></TableCell>
 <TableCell></TableCell>
 <TableCell>Tribal Consultation</TableCell>
 <TableCell>Testimony</TableCell>
   </TableRow>
     <TableRow>
-      <TableCell ></TableCell>
+      <TableCell></TableCell>
       <TableCell></TableCell>
     <TableCell>Reporter letters</TableCell>    
-<TableCell> </TableCell>
-<TableCell> </TableCell>
-<TableCell> </TableCell>
+<TableCell></TableCell>
+<TableCell></TableCell>
+<TableCell></TableCell>
 <TableCell>Freedom of Information Act (FOIA)</TableCell>
   </TableRow>
     <TableRow>
-      <TableCell > </TableCell>
-      <TableCell> </TableCell>
+      <TableCell></TableCell>
+      <TableCell></TableCell>
     <TableCell>Regulations</TableCell>    
 <TableCell></TableCell>
 <TableCell></TableCell>
@@ -139,7 +139,7 @@ To better illustrate the changes to the main and subcategories that we are propo
 <TableCell>Anti-Harassment Program</TableCell>
   </TableRow>
     <TableRow>
-      <TableCell ></TableCell>
+      <TableCell></TableCell>
       <TableCell></TableCell>
     <TableCell>Training Videos</TableCell>    
 <TableCell></TableCell>
