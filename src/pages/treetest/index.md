@@ -53,18 +53,102 @@ Overall, participants wanted more information about how the entire reporting and
 
 To better illustrate the changes to the main and subcategories that we are proposing, the first table below shows the original tested categories and the second table shows the new proposed categories.
 ### Tested categories
-
-|     Getting Started             |     Reporting          |     Reporting Resources          |     Paying                    |     Enforcement & Appeals          |     Indian Resources                   |     About ONRR                            |
-|---------------------------------|------------------------|----------------------------------|-------------------------------|------------------------------------|----------------------------------------|-------------------------------------------|
-|     New Reporter Checklists     |     Production         |     Reference Lists & Codes      |     Rental Payments           |     Compliance Authorities         |     Cooperative Agreements             |     Press Releases                        |
-|     System Access               |     Royalty            |     Reporting Contacts           |     Royalty Payments          |     Appeals                        |     Allottee Assistance                |     Leadership                            |
-|                                 |     Solid Minerals     |     Handbooks                    |     Late Payment Interest     |     Bankruptcies                   |     Federal Indian Minerals Office     |     Office Locations                      |
-|                                 |     Geothermal         |     Forms                        |     Treasury Referrals        |     Civil Penalties                |     Indian Energy Service Center       |     Employment                            |
-|                                 |                        |     Pricing                      |                               |                                    |     Tribal Assistance                  |     Committees                            |
-|                                 |                        |     Unbundling                   |                               |                                    |     Tribal Consultation                |     Testimony                             |
-|                                 |                        |     Reporter Letters             |                               |                                    |                                        |     Freedom of Information Act (FOIA)     |
-|                                 |                        |     Regulations                  |                               |                                    |                                        |     Anti-Harassment Program               |
-|                                 |                        |     Training Videos              |                               |                                    |                                        |     Contact Us                            |
+<Table>
+  <TableHead>
+    <TableRow>
+      <TableCell >Getting Started</TableCell>
+      <TableCell> Reporting</TableCell>
+    <TableCell>Reporting Resources</TableCell>    
+<TableCell>Paying</TableCell>
+<TableCell>Enforcement & Appeals</TableCell>
+<TableCell>Indian Resources</TableCell>
+<TableCell>About ONRR</TableCell>
+  </TableRow>
+  </TableHead>
+  <TableBody>
+      <TableRow>
+      <TableCell >New Reporter Checklists</TableCell>
+      <TableCell>Production</TableCell>
+    <TableCell>Reference Lists & Codes</TableCell>    
+<TableCell>Rental Payments</TableCell>
+<TableCell>Compliance Authorities</TableCell>
+<TableCell>Cooperative Agreements</TableCell>
+<TableCell>Press Releases</TableCell>
+  </TableRow>
+      <TableRow>
+      <TableCell >System Access</TableCell>
+      <TableCell>Royalty</TableCell>
+    <TableCell>Reporting Contacts</TableCell>    
+<TableCell>Royalty Payments</TableCell>
+<TableCell>Appeals</TableCell>
+<TableCell>Allottee Assistance</TableCell>
+<TableCell>Leadership</TableCell>
+  </TableRow>
+    <TableRow>
+      <TableCell > </TableCell>
+      <TableCell>Solid Minerals</TableCell>
+    <TableCell>Handbooks</TableCell>    
+<TableCell>Late Payment Interest</TableCell>
+<TableCell>Bankruptcies </TableCell>
+<TableCell>Federal Indian Minerals Office</TableCell>
+<TableCell>Office Locations</TableCell>
+  </TableRow>
+    <TableRow>
+      <TableCell > </TableCell>
+      <TableCell>Geothermal</TableCell>
+    <TableCell>Forms</TableCell>    
+<TableCell>Treasury Referrals</TableCell>
+<TableCell>Civil Penalties</TableCell>
+<TableCell>Indian Energy Service Center</TableCell>
+<TableCell>Employment</TableCell>
+  </TableRow>
+    <TableRow>
+      <TableCell ></TableCell>
+      <TableCell></TableCell>
+    <TableCell>Pricing</TableCell>    
+<TableCell> </TableCell>
+<TableCell> </TableCell>
+<TableCell>Tribal Assistance</TableCell>
+<TableCell>Committees</TableCell>
+  </TableRow>
+    <TableRow>
+      <TableCell ></TableCell>
+      <TableCell> </TableCell>
+    <TableCell>Unbundling</TableCell>    
+<TableCell> </TableCell>
+<TableCell></TableCell>
+<TableCell>Tribal Consultation</TableCell>
+<TableCell>Testimony</TableCell>
+  </TableRow>
+    <TableRow>
+      <TableCell ></TableCell>
+      <TableCell></TableCell>
+    <TableCell>Reporter letters</TableCell>    
+<TableCell> </TableCell>
+<TableCell> </TableCell>
+<TableCell> </TableCell>
+<TableCell>Freedom of Information Act (FOIA)</TableCell>
+  </TableRow>
+    <TableRow>
+      <TableCell > </TableCell>
+      <TableCell> </TableCell>
+    <TableCell>Regulations</TableCell>    
+<TableCell></TableCell>
+<TableCell></TableCell>
+<TableCell></TableCell>
+<TableCell>Anti-Harassment Program</TableCell>
+  </TableRow>
+    <TableRow>
+      <TableCell ></TableCell>
+      <TableCell></TableCell>
+    <TableCell>Training Videos</TableCell>    
+<TableCell></TableCell>
+<TableCell></TableCell>
+<TableCell></TableCell>
+<TableCell>Contact Us</TableCell>
+  </TableRow>
+  </TableBody>
+</Table>
 
 ### Categories after testing
 | Getting Started    | Reporting            | Guidance & References   | Paying                       | Enforcement & Appeals  | Indian Resources             | About ONRR                 |
