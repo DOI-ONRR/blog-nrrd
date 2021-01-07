@@ -1,5 +1,5 @@
 ---
-title: "Joining the Team: My Onboarding Experience at the Office of Natural Resources Revenue"
+title: "Joining the team: my onboarding experience at the Office of Natural Resources Revenue"
 authors:
 - Sarah Aranda
 excerpt: "In this post, our intern discusses her experience with our team's onboarding process and takeaways from her experience."
