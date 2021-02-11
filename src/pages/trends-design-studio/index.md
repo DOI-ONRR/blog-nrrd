@@ -68,7 +68,7 @@ In Session 1, after reviewing background information and research, we came to ag
 After Session 1, we were given the assignment to sketch out solutions.
 
 <!-- sketches.png goes here -->
-[design solution sketches](sketches.png "Design solution sketches")
+[design solution sketches](./sketches.png "Design solution sketches")
 
 This part of the process was done independently which I thought was smart.  Though collaboration is important, time alone to think through ideas gives us the room and space we need to provide meaningful solutions.  We reviewed each of the solutions in Session 2.
 
@@ -77,7 +77,7 @@ This part of the process was done independently which I thought was smart.  Thou
 Interestingly, with all of the tools available out there that help design and development teams conduct surveys, polls, etc. ONRR elected to use a simple platform: a document which listed out the individual features of our solutions.
 
 <!-- feature-voting.png goes here -->
-[feature voting document](feature-voting.png "Feature voting document")   
+[feature voting document](./feature-voting.png "Feature voting document")   
 
 After creating this list, all of us synchronously jumped on the document to put a plus symbol next to the features we thought were important for the solution.  The features with the most plus symbols were kept.
 
@@ -88,7 +88,7 @@ It was a simple and democratic process.
 For hole-poking, we were given a matrix—a simple spreadsheet—which we added our thoughts into.  This was the independent work we were assigned to in Session 2.  We then convened later in Session 3 as a group to review the matrix.
 
 <!-- hole-poking-matrix.png goes here -->
-[hole-poking matrix](hole-poking-matrix.png "Hole-poking matrix")
+[hole-poking matrix](./hole-poking-matrix.png "Hole-poking matrix")
 
 On the Y-axis were the most popular features selected from the previous stage of voting.  On the X-axis were the hole-poking questions which referred to each of those specific features.  For example, for the feature of “Removing Categories from the chart” we could ask the hole-poking question, “What else do we need to learn?”
 
@@ -97,7 +97,7 @@ On the Y-axis were the most popular features selected from the previous stage of
 With the sum of individual and cooperative efforts from the design studios, Shannon was able to create an initial wireframe.  It was then iterated on from the team’s feedback.
 
 <!-- homepage-trends.png goes here -->
-[prototype of homepage trends](homepage-trends.png "Trends wireframe")
+[prototype of homepage trends](./homepage-trends.png "Trends wireframe")
 
 ## Conclusion
 
