@@ -59,7 +59,7 @@ Hole-poking.  Our hole-poking was based off of “Chapter 5: Risks and Rabbit Ho
 
 ### Problem Statement
 
-In Session 1, after reviewing background information and research, Shannon provided us with the problem statement:
+In Session 1, after reviewing background information and research, we came to agreement on the problem statement:
 
 “Domain Learners and Storytellers want to see trends over time. We know that the current trends on the homepage are confusing because they combine both monthly and yearly data.  We also don’t have trends available for production.”
 
