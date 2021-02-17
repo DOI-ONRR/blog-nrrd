@@ -1,5 +1,5 @@
 ---
-title: "UX intern mission accomplished: plan and participate in a design studio "
+title: "UX intern mission accomplished: plan and participate in a design studio"
 authors:
 - Sarah Aranda
 excerpt: "In this post, our intern discusses her experience planning and participating in a design studio."
@@ -10,7 +10,7 @@ tags:
 - design studio
 - UX
 
-date: "2020-02-17"
+date: "2021-02-17"
 ---
 
 ## The design challenge
