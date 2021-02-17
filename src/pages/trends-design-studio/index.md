@@ -10,7 +10,7 @@ tags:
 - design studio
 - UX
 
-date: "2020-02-04"
+date: "2020-02-17"
 ---
 
 ## The design challenge
