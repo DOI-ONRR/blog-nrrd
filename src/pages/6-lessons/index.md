@@ -25,7 +25,7 @@ Our team went through an extensive process of defining our problem, and a vision
 
 You won’t improve processes or experiences without first knowing the problem. Defining what it means to improve is next. This can be difficult in government because we don’t have common private-sector success metrics like transactions, sales, and profit.
 
-We often should consider both business value and customer/user value in our goals. Goals like “increased users” for a digital product can work but doesn’t always make sense. For example, increasing users for a troubleshooting website could mean that trouble is increasing. Instead, it might be a better goal that the site solves users' issues so that they don't have to call the help desk. In that case, a goal for the site might be decreasing help desk calls.
+We often should consider both business value and customer/user value in our goals. Goals like “increased users” for a digital product can work but don’t always make sense. For example, increasing users for a troubleshooting website could mean that trouble is increasing. Instead, it might be a better goal that the site solves users' issues so that they don't have to call the help desk. In that case, a goal for the site might be decreasing help desk calls.
 
 Even if an increase in users makes sense as a goal, as [it did for us](https://github.com/ONRR/nrrd/wiki/Goals-and-metrics), there are other business and user needs to consider. Sometimes there are legal or technical requirements that we should incorporate into our metrics as well.
 
