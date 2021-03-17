@@ -8,7 +8,7 @@ tags:
 - training
 - public service
 - government
-date: "2021-02-25"
+date: "2021-03-19"
 ---
 
 This is my last sprint working as a product manager for the Office of Natural Resources Revenue (ONRR), so I’ve been reflecting on everything I’ve learned. As the [first product manager at ONRR](../becoming-a-product-manager/), I was lucky to have many people to teach and guide me. As I move on, I'll be bringing with me many things I’ve learned from those people and my experience on this team. Here are some of the lessons I’ll carry with me to my new position.
