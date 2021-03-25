@@ -1,5 +1,5 @@
 ---
-title: "Six Lessons from my time as a government product manager"
+title: "Six lessons from my time as a government product manager"
 authors:
 - Jennifer Malcolm
 excerpt: "As she gets ready for a new federal position, our first product manager reflects on all she has learned from her time on this team."
