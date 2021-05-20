@@ -23,13 +23,13 @@ When [we started working on ONRR.gov](https://blog-nrrd.doi.gov/adding-a-product
 
 ### ONRR.gov problem statement
 
-> Companies that produce natural resources on federal and Indian lands need to easily access timely and accurate information that allows them to correctly report production and pay the required royalties or other revenue amount in order to meet the complex regulatory requirements.​
+> Companies pay to produce natural resources on federal lands, Indian lands, and the Outer Continental Shelf. They need to access timely and accurate information to meet complex regulatory requirements. These requirements include reporting production and paying the required royalties and other revenues.  The Office of Natural Resources Revenue collects, verifies, and disburses those revenues.  
 
-> The Office of Natural Resources Revenue's responsibilities include collecting, verifying, and disbursing revenues for resource production on federal and Indian lands. To allow tribes, individual Indian mineral owners, and interested members of the public the ability to understand their revenues and ensure trust responsibilities are met, they need easy access to appropriate resources and clear communication.​
+> Native Americans and the public need to understand their revenues and ensure we meet our trust responsibilities. ONRR should provide access to resources and clear communication to help this understanding.
 
 ### Vision
 
-> We communicate the role of the Office of Natural Resources Revenue and deliver trusted and easy to use information and customer service to enable companies who lease federal and Indian lands to accurately report their production and pay their revenue due.​
+> We communicate the role of the Office of Natural Resources Revenue. We deliver trusted and easy to use information and customer service. This enables companies who lease federal and Indian lands to accurately report production and pay revenue due.​
 
 ### User types
 
@@ -63,7 +63,7 @@ Wireframe using a screenshot of the current site:
 
 As I started to review pages with stakeholders, it became clear that most of the content on the site wasn't designed intentionally. The people I talked with generally didn't know why the site was the way it was before the redesign. That gave me leeway to design based on best practices and what we learned from the early user interviews.
 
-I laid out pages with better chunking and started simplifying the reading level. Some skeptical stakeholders didn't think we could simplify the content without sacrificing meaning. But when they seeing the rewritten content convinced them. It retained the meaning while being easier for users to comprehend.
+I laid out pages with better chunking and started simplifying the reading level. Some skeptical stakeholders didn't think we could simplify the content without sacrificing meaning. But seeing the rewritten content convinced them. It retained the meaning while being easier for users to comprehend.
 
 Wireframe with rewritten content:
 ![Wireframe of the Indian Assistance page with rewritten content.](./Assistance.png)
