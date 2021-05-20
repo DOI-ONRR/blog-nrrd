@@ -25,7 +25,7 @@ When [we started working on ONRR.gov](https://blog-nrrd.doi.gov/adding-a-product
 
 > Companies that produce natural resources on federal and Indian lands need to easily access timely and accurate information that allows them to correctly report production and pay the required royalties or other revenue amount in order to meet the complex regulatory requirements.​
 
-​> The Office of Natural Resources Revenue's responsibilities include collecting, verifying, and disbursing revenues for resource production on federal and Indian lands. To allow tribes, individual Indian mineral owners, and interested members of the public the ability to understand their revenues and ensure trust responsibilities are met, they need easy access to appropriate resources and clear communication.​
+> The Office of Natural Resources Revenue's responsibilities include collecting, verifying, and disbursing revenues for resource production on federal and Indian lands. To allow tribes, individual Indian mineral owners, and interested members of the public the ability to understand their revenues and ensure trust responsibilities are met, they need easy access to appropriate resources and clear communication.​
 
 ### Vision
 
