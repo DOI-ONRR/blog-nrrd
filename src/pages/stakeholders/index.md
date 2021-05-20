@@ -65,6 +65,7 @@ As I started to review pages with stakeholders, it became clear that most of the
 
 I laid out pages with better chunking and started simplifying the reading level. Some skeptical stakeholders didn't think we could simplify the content without sacrificing meaning. But when they seeing the rewritten content convinced them. It retained the meaning while being easier for users to comprehend.
 
+Wireframe with rewritten content:
 ![Wireframe of the Indian Assistance page with rewritten content.](./Assistance.png)
 
 I created process diagrams for many sections to explain concepts to new reporters. These often started with "we have a slide to explain that" conversations. I took what was in the slide and simplified it. Then reviewed it with the team and iterated.  
