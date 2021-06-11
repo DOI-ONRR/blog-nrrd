@@ -77,7 +77,7 @@ class BlogIndex extends React.Component {
         >
           <li style={{ marginBottom: '0' }}>
           {!isFirst && (
-            <Link to={prevPage} rel="prev">
+            <Link to={'/'+prevPage} rel="prev">
               ← Newer
             </Link>
           )}
@@ -104,7 +104,7 @@ class BlogIndex extends React.Component {
           ))}
           <li style={{ marginBottom: '0' }}>
           {!isLast && (
-            <Link to={nextPage} rel="next">
+            <Link to={'/'+nextPage} rel="next">
               Older →
             </Link>
           )}
