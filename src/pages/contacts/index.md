@@ -1,14 +1,16 @@
 ---
-title: "Six lessons from my time as a government product manager"
+title: "Re-architecting Contact Information to Meet User Needs"
 authors:
-- Jennifer Malcolm
-excerpt: "As she gets ready for a new federal position, our first product manager reflects on all she has learned from her time on this team."
+- Brandi Nichols
+excerpt: "One of the biggest user tasks for onrr.gov is finding contact information to answer questions. Industry users need to know who at the Office of Natural Resources Revenue (ONRR) can answer various types of questions."
 tags:
-- product management
+- contact
+- contacts
 - training
+- user experience
 - public service
 - government
-date: "2021-06-24"
+date: "2021-06-28"
 ---
 
 # Re-architecting contact information to meet user needs
@@ -78,7 +80,7 @@ When I presented my updated wireframe in the next meeting, my mentor, Shannon, a
 
 From the feedback, I went back and updated the IA bulleted list for the filters. Then I ran into the problem of how to categorize the main categories, which I brought up at the next intern meeting.
 
-### Revised filter categoreies
+### Revised filter categories
 
 insert bulleted list
 
