@@ -13,8 +13,6 @@ tags:
 date: "2021-06-28"
 ---
 
-# Re-architecting contact information to meet user needs
-
 ## Identifying the problem
 
 One of the biggest user tasks for onrr.gov is finding contact information to answer questions. Industry users need to know who at the Office of Natural Resources Revenue (ONRR) can answer various types of questions. Today, the site includes 9 files with contact information, each organized differently.
@@ -25,7 +23,7 @@ Some are organized by company name or by the first letter of the company name an
 
 User interviews showed that users found it difficult to sift through the current contact documents. Thus, I was tasked to come up with a design concept for contacts. I determined a search function would maximize the user’s ease of access and interactivity with the contact directory. Then I started to think about different ways to organize the contacts and create categories from patterns found. I decided to create a spreadsheet and some form of information architecture.
 
-## Initial contact organization
+### Initial contact organization
 
 First, I created a “stacked-box” information architecture within a document. Within each box I listed the categories that appeared in the original contact directory to see what fields there were. Then I viewed each category's information structure, but I was not familiar with some terminology which made me ask questions. After I clarified those spots in our meeting, I moved onto creating new categories that the contacts could be organized by.
 
@@ -33,7 +31,7 @@ I then entered the categories and some contacts into a spreadsheet to see how th
 
 After I felt confident, I proceeded to create information architecture (IA) for the search function and the filter. The IA for the search bar was to figure out how to display the search results, while the filter IA was to determine what filter options should be present. Then to see if they made sense, I created two user journeys detailing the actions to take in using the two functions, which are in the table below.
 
-## User journeys
+### User journeys
 
 **Steps to find a contact**
 
@@ -43,7 +41,7 @@ I combined the user journeys to create a single user flow of the possibilities t
 
 ![Image of the user flow chart from seeking to accessing contacts](./contacts.user.flow.png)
 
-## Information architecture
+### Information architecture
 
 Below are the categories I decided on based on the user journeys.
 
@@ -76,7 +74,7 @@ I/A Bulleted List for filters
    * ONRR.gov Content Corrections/Comments
    * Freedom of Information Act (FOIA)
 
-## Design iterations
+### Design iterations
 
 After I decided how to organize the information through the IA, I used the old contact directory as a foundation for designing the user interface. I expanded the search bar to span the entire contact directory to prompt the user to interact with the table through the search function. I then created a filter option with chips next to the filter for when the user adds filters to their search. Next, I added the search results under the search bar and the filter, so the user can interact with each one to find out more information about the results.
 
@@ -116,7 +114,7 @@ From the feedback, I went back and updated the IA bulleted list for the filters.
    * Freedom of Information Act (FOIA)
    * State and Local Government Disbursements from ONRR
 
-## Final prototype design and next Steps
+### Final prototype design and next Steps
 
 After the meeting, where Shannon helped me to revise the categories, I updated the wireframe based on the new IA. As a result of my work on redesigning the contact directory, I received positive feedback from ONRR’s leadership on its efficiency for the users. The next step is to pull in the existing contact information and get it into the prototype, so we can get stakeholder and user feedback. So far, the stakeholders who have reviewed it think it is much easier to find the correct contact. We plan on testing the design with users soon.
 
