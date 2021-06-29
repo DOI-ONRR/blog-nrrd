@@ -35,12 +35,17 @@ After I felt confident, I proceeded to create information architecture (IA) for 
 
 **Steps to find a contact**
 
-**Search Bar** | **Filter**
-:-----:|:-----:
-User types in contact name, company assignment, company name, etc. | User applies up to 4 different filters at the same time. Each time they apply a filter a removable chip will appear below the search bar/header area
-Search Results will be presented in a list | Search Results will be presented in a list
-User clicks on a listing to expose a drop-down menu containing more information about that individual contact | User clicks on a listing to expose drop-down menu containing more information about that individual contact
-The user has the option to email or call that contact immediately via hyperlink | The user has the option to email or call that contact immediately via hyperlink
+**Search Bar**
+1. User types in contact name, company assignment, company name, etc.
+2. Search Results will be presented in a list
+3. User clicks on a listing to expose a drop-down menu containing more information about that individual contact
+4. The user has the option to email or call that contact immediately via hyperlink
+
+ **Filter**
+ 1. User applies up to 4 different filters at the same time. Each time they apply a filter a removable chip will appear below the search bar/header area
+2. Search Results will be presented in a list
+3. User clicks on a listing to expose drop-down menu containing more information about that individual contact
+4. The user has the option to email or call that contact immediately via hyperlink
 
 I combined the user journeys to create a single user flow of the possibilities the user could take when using the contact directory.
 
