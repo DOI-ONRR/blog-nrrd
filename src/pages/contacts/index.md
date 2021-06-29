@@ -90,7 +90,31 @@ From the feedback, I went back and updated the IA bulleted list for the filters.
 
 ### Revised filter categories
 
-insert bulleted list
+* Search fields
+  * Contact name
+  * Company Assignment
+  * Company name
+  * ONRR Office Locations
+* Land type
+   * Onshore
+   * Offshore
+   * Indian
+* Reporting & paying
+   * Submitting Reports to ONRR
+   * Production Reporting
+   * Revenue Reporting
+   * Making Payments to ONRR
+   * Valuation Determination and Guidance
+   * Allottee or Individual Indian Mineral Owner Services
+   * Tribal Services
+   * Technical Assistance
+* Requests for information
+   * Press or media Inquiries
+   * Congressional Inquiries
+   * Data Requests
+   * ONRR.gov Content Corrections/Comments
+   * Freedom of Information Act (FOIA)
+   * State and Local Government Disbursements from ONRR
 
 ## Final prototype design and next Steps
 
