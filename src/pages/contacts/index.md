@@ -32,7 +32,9 @@ I then entered the categories and some contacts into a spreadsheet to see how th
 
 ### Information architecture
 
-After I felt confident, I proceeded to create information architecture (IA) for the search function and the filter. Information Architecture is the practice of arranging the parts of something to be understandable. The IA challenge for the search bar was to figure out how to display the search results, while the filter IA challenge was to determine what filter options should be present. To see if they made sense, I created two user journeys detailing the actions to take in using the two functions, which are in the table below.
+After I felt confident, I proceeded to create information architecture (IA) for the search function and the filter. Information Architecture is the practice of arranging the parts of something to be understandable.
+
+The IA challenge for the search bar was to figure out how to display the search results, while the filter IA challenge was to determine what filter options should be present. To see if the current IA made sense, I created two user journeys detailing the actions to take in using the two functions, listed below.
 
 ### User journeys
 
