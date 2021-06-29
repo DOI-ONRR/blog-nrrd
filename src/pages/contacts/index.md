@@ -89,9 +89,9 @@ From the feedback, I went back and updated the IA bulleted list for the filters.
 ### Revised filter categories
 
 * Search fields
-  * Contact name
+  * Contact Name
   * Company Assignment
-  * Company name
+  * Company Name
   * ONRR Office Locations
 * Land type
    * Onshore
@@ -107,7 +107,7 @@ From the feedback, I went back and updated the IA bulleted list for the filters.
    * Tribal Services
    * Technical Assistance
 * Requests for information
-   * Press or media Inquiries
+   * Press or Media Inquiries
    * Congressional Inquiries
    * Data Requests
    * ONRR.gov Content Corrections/Comments
