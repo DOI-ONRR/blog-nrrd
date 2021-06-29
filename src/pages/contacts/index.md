@@ -29,11 +29,16 @@ First, I created a “stacked-box” information architecture within a document.
 
 I then entered the categories and some contacts into a spreadsheet to see how the information could be divided within the directory. Next, I started organizing the entire contact directory onto the spreadsheet. As I was doing this, I realized it would take me longer to complete and was thus inefficient. As a result, I decided to use the first contact listed as an example, then double checked to see if I was missing any areas.
 
-After I felt confident, I proceeded to create information architecture (IA) for the search function and the filter. The IA for the search bar was to figure out how to display the search results, while the filter IA was to determine what filter options should be present. Then to see if they made sense, I created two user journeys detailing the actions to take in using the two functions, which are in the table below.
+
+### Information architecture
+
+After I felt confident, I proceeded to create information architecture (IA) for the search function and the filter. Information Architecture is the practice of arranging the parts of something to be understandable. The IA challenge for the search bar was to figure out how to display the search results, while the filter IA challenge was to determine what filter options should be present. To see if they made sense, I created two user journeys detailing the actions to take in using the two functions, which are in the table below.
 
 ### User journeys
 
 **Steps to find a contact**
+
+There were two information pathways to find contacts.  Users could use either the Search or Filter pathways to identify the person they were looking for.
 
 **Search Bar**
 1. User types in contact name, company assignment, company name, etc.
@@ -47,15 +52,14 @@ After I felt confident, I proceeded to create information architecture (IA) for 
 3. User clicks on a listing to expose drop-down menu containing more information about that individual contact
 4. The user has the option to email or call that contact immediately via hyperlink
 
-I combined the user journeys to create a single user flow of the possibilities the user could take when using the contact directory.
+I combined the two user journeys into a single user flow of the possibilities the user could take when using the contact directory.
 
 ![Image of the user flow chart from seeking to accessing contacts.  ](./contacts.user.flow.png)
 
-### Information architecture
 
-Below are the categories I decided on based on the user journeys.
 
-I/A Bulleted List for filters
+Below are the categories I decided on based on the user journeys.  These categories would become selectable filters for users.
+
 * General
    * Contact Name
    * Company Assignment
@@ -97,6 +101,8 @@ When I presented my updated wireframe in the next meeting, my mentor, Shannon, a
 From the feedback, I went back and updated the IA bulleted list for the filters. Then I ran into the problem of how to categorize the main categories, which I brought up at the next intern meeting.
 
 ### Revised filter categories
+
+At the intern meeting, I received feedback and restructured the filter categories.
 
 * Search fields
   * Contact Name
