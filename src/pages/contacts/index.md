@@ -38,7 +38,7 @@ After I felt confident, I proceeded to create information architecture (IA) for 
 
 **Steps to find a contact**
 
-There were two information pathways to find contacts.  Users could use either the Search or Filter pathways to identify the person they were looking for.
+Users had two information pathways to find contacts.  They could use either the Search or Filter pathways to identify the person they were looking for.
 
 **Search Bar**
 1. User types in contact name, company assignment, company name, etc.
@@ -58,7 +58,7 @@ I combined the two user journeys into a single user flow of the possibilities th
 
 
 
-Below are the categories I decided on based on the user journeys.  These categories would become selectable filters for users.
+Based on user journeys, I decided on the below categories and sub-categories.  These categories would become selectable filters for users.
 
 * General
    * Contact Name
