@@ -48,33 +48,33 @@ I combined the user journeys to create a single user flow of the possibilities t
 Below are the categories I decided on based on the user journeys.
 
 I/A Bulleted List for filters
-*General
-   *Contact Name
-   *Company Assignment
-   *Company Name
-   *ONRR Office Locations
-*Onshore/Offshore
-   *Onshore
-   *Offshore
-   *Submitting Reports to ONRR
-*Production/Revenue
-   *Production
-   *Revenue
-*State and Local Government Disbursements from ONRR
-*Federal/Indian
-   *Federal
-   *Indian
-   *Making Payments for ONRR
-   *Valuation Determination and Guidance
-   *Allotee of Individual Indian Mineral Owner Services
-   *Tribal Services
-*Inquiries/Requests
-   *Press or Media Inquiries
-   *Congressional Inquiries
-   *Data Requests
-   *Technical Assistance
-   *ONRR.gov Content Corrections/Comments
-   *Freedom of Information Act (FOIA)
+* General
+   * Contact Name
+   * Company Assignment
+   * Company Name
+   * ONRR Office Locations
+* Onshore/Offshore
+   * Onshore
+   * Offshore
+   * Submitting Reports to ONRR
+* Production/Revenue
+   * Production
+   * Revenue
+* State and Local Government Disbursements from ONRR
+* Federal/Indian
+   * Federal
+   * Indian
+   * Making Payments for ONRR
+   * Valuation Determination and Guidance
+   * Allotee of Individual Indian Mineral Owner Services
+   * Tribal Services
+* Inquiries/Requests
+   * Press or Media Inquiries
+   * Congressional Inquiries
+   * Data Requests
+   * Technical Assistance
+   * ONRR.gov Content Corrections/Comments
+   * Freedom of Information Act (FOIA)
 
 ## Design iterations
 
