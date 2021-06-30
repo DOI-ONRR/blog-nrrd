@@ -19,7 +19,7 @@ One of the biggest user tasks for onrr.gov is finding contact information to ans
 
 Some are organized by company name or by the first letter of the company name and some by user task. The different organizations make it difficult to find the correct person to answer a given question. Users need an easier way to search and find the correct contact. ONRR’s teams also need an easier way to update contacts. They currently send a new copy of the contact file (either a PDF or spreadsheet) each time a contact changes.
 
-![Prior to the redesign, contacts were listed in a spreadsheet with three columns, Topics, Contact, and Online Resources, respectively.  Users needed to manually sift through the spreadsheet and resources to find what they were looking for.](./current.png)
+![Prior to the redesign, contacts were in several spreadsheets and PDFs listed in a table on the Contact Us page with three columns: Topics, Contact, and Online Resources. Users needed to manually sift through the spreadsheets and documents that were all organized differently to find what they were looking for.](./current.png)
 
 User interviews showed that users found it difficult to sift through the current contact documents. Thus, I was tasked to come up with a design concept for contacts. I determined a search function would maximize the user’s ease of access and interactivity with the contact directory. Then I started to think about different ways to organize the contacts and create categories from patterns found. I decided to create a spreadsheet and some form of information architecture.
 
@@ -56,9 +56,7 @@ Users had two information pathways to find contacts.  They could use either the 
 
 I combined the two user journeys into a single user flow of the possibilities the user could take when using the contact directory.
 
-![User flow chart with pathways to select between Search and Filter.  On the filter option, it is possible to apply a filter and also to remove a filter if it does not show the desired result.  Users can then view search results and click on a listing.  Clicking a listing stays on the same page and opens a drop down menu showing phone and/or email.](./contacts.user.flow.png)
-
-
+![User journey flow chart with pathways to select between Search and Filter.  On the filter option, it is possible to apply a filter and also to remove a filter if it does not show the desired result.  Users can then view search results and click on a listing.  Clicking a listing stays on the same page and opens a drop down menu showing phone and/or email.](./contacts.user.flow.png)
 
 Based on user journeys, I decided on the below categories and sub-categories.  These categories would become selectable filters for users.
 
@@ -136,7 +134,7 @@ At the intern meeting, I received feedback and restructured the filter categorie
 
 After the meeting, where Shannon helped me to revise the categories, I updated the wireframe based on the new IA. As a result of my work on redesigning the contact directory, I received positive feedback from ONRR’s leadership on its efficiency for the users. The next step is to pull in the existing contact information and get it into the prototype, so we can get stakeholder and user feedback. So far, the stakeholders who have reviewed it think it is much easier to find the correct contact. We plan on testing the design with users soon.
 
-![Image of a homepage wireframe prototype with links to contacts throughout the site.  Wireframes allow designers to build a functional version of a page, so people creating things out of code know exactly what to create.](./contact.us.png)
+![Image of the Contact Us wireframe prototype with links to contacts throughout the site.  Wireframes allow designers to build a functional version of a page, so people creating things out of code know exactly what to create.](./contact.us.png)
 
 Working on the ONRR contact directory made me learn more about IA and usability through the IA bulleted list and creating the user journeys. These methods made me think critically about what information is and isn’t essential for the user. This was especially true when it came to the structure and deciding the filter options by identifying common themes.
 
