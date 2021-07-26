@@ -1,5 +1,5 @@
 ---
-title: A user-centered approach: Simplicity and complexity in a homepage graphic
+title: "A user-centered approach: simplicity and complexity in a homepage graphic"
 authors:
 - Brandi Nichols
 - Sarah Aranda
