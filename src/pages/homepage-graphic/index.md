@@ -13,16 +13,16 @@ tags:
 ## Intro
 
 We were given the task to redesign the top of the homepage--particularly the
-content to the left which explains the scope of the data on the site.  This content explains
+content to the left which explains the scope of the data on the site. This content explains
 what happens with the payments companies make to produce energy and minerals on federal and Native American lands, and then where these payments go. The data on the site
 includes revenue, disbursements, and production.
 
 <!-- image of original goes here -->
 Original homepage graphic
-![Alt text goes here](./homepage_original.jpg "Original homepage graphic")
+![Alt text goes here](./homepage_original.jpg)
 
 The paragraph is meant to explain the scope of the site as simply as possible.
-However, there are two issues: (1) It’s not   visual which overlooks more
+However, there are two issues: (1) It’s not  visual which overlooks more
 visually-oriented users. And (2) its simplicity doesn’t accurately explain the scope.
 
 ## Ideations and iteration
@@ -41,12 +41,12 @@ Based on this straightforward organization, Brandi was able to sketch and mock
 up ideas for the homepage graphic.
 
 <!-- image of Brandi's mockup set 01 goes here -->
-[First round of Brandi's mockups](./brandi_iterations_set_01.jpg)
+![First round of Brandi's mockups](./brandi_iterations_set_01.jpg)
 
 The first mockup was a bit complex, which we thought would overwhelm the user
 and Brandi knew it needed some condensing, but wasn’t sure how to accomplish that.
 
-The team agreed with her at the next intern meeting.  Additionally, some icons
+The team agreed with her at the next intern meeting. Additionally, some icons
 needed to be replaced and the process as indicated by the arrows required
 simplification.
 
@@ -54,7 +54,7 @@ From that feedback, two versions of the graphic were created--one going in one
 direction (left to right) and the other one in a circular process.
 
 <!-- image of Brandi's mockup set 02 goes here -->
-[Second round of Brandi's mockups](./brandi_iterations_set_02.jpg)
+![Second round of Brandi's mockups](./brandi_iterations_set_02.jpg)
 
 To help out, Sarah was invited to the project to have more brains to come up
 with a solution.
@@ -75,7 +75,7 @@ to be accomplished for the homepage.
 ## Mini creative brief
 
 ### Summary of the problem statement or purpose of the product:
-Something that visually shows the scope of the site at a glance for people who don't read the paragraph.  
+Something that visually shows the scope of the site at a glance for people who don't read the paragraph.
 
 ### Key users or personas of the solution:
 * Questioners/answerers 3
@@ -85,7 +85,7 @@ Something that visually shows the scope of the site at a glance for people who d
 * General public 1
 
 ### Main scenarios in which the solution will be used:
-Users come from another site to the homepage.  They see the graphic which shows
+Users come from another site to the homepage. They see the graphic which shows
 the scope of the site.
 
 ### Established business goals:
@@ -94,7 +94,7 @@ but not private and state-owned.
 We must have revenue, production, and disbursements.
 
 ### Followed design principles:
-* Make it accessible.  There should be alt text and consider color contrast.
+* Make it accessible. There should be alt text and consider color contrast.
 * Stylistically (and in copy), it should be consistent with how data datasets
 fit the diagram another apprentice made.
 <!-- end: creative brief -->
@@ -110,25 +110,25 @@ Additionally, Sarah voiced that perhaps a card format would better suit
 accessibility standards.
 
 While we preferred to work more collaboratively, scheduling constraints
-prevented that.  Therefore, we decided to work on the task independently and
+prevented that. Therefore, we decided to work on the task independently and
 come together during the intern meetings.
 
 <!-- image of Brandi's mockup set 03 goes here -->
-[Third round of Brandi's mockups](./brandi_iterations_set_03.jpg)
+![Third round of Brandi's mockups](./brandi_iterations_set_03.jpg)
 
 In the last [version](https://xd.adobe.com/view/85be3415-1b1c-4475-b309-5f30b85b007c-d0ed/?fullscreen&hints=off)
 above, Brandi included an interactive description element which would slide up
-to provide more detailed information.  Brandi’s card-based and interactive format
-inspired iterations moving forward.  Additionally, the product manager,
+to provide more detailed information. Brandi’s card-based and interactive format
+inspired iterations moving forward. Additionally, the product manager,
 Maroya, suggested that the entire horizontal space at the top of the homepage
 could be utilized.
 
 <!-- image of Sarah's mockup goes here -->
-[Sarah's mockup](./sarah_iteration_01.jpg)
+![Sarah's mockup](./sarah_iteration_01.jpg)
 
 One [version](https://xd.adobe.com/view/2b3a2522-1130-4dec-b577-4f07022a7af4-7e69/?fullscreen&hints=off)
-that Sarah designed is above.  Again, a card-based format with interactivity was
-included--inspired by Brandi’s iterations.  In Sarah’s design, she included four
+that Sarah designed is above. Again, a card-based format with interactivity was
+included--inspired by Brandi’s iterations. In Sarah’s design, she included four
 ways in which the content would be understood: 1) the headings of the cards provided
 a way to scan the process quickly, 2) icons could accommodate visually-oriented users,
 3) the copy at the bottom of the cards communicated the process simply, and 4)
@@ -138,7 +138,7 @@ description, providing a space to more accurately convey the scope the site.
 ## Writing a usability plan
 
 Additionally, we needed a [usability plan](https://github.com/ONRR/research/blob/master/nrrd-research/38_HomepageGraphic/Homepage%20Graphic%20Plan%20and%20Guide.md) a task which Brandi
-undertook.  Shannon gave her an interview guide which Brandi based her plan on.
+undertook. Shannon gave her an interview guide which Brandi based her plan on.
 
 The introduction was similar, however some content from the guide was adjusted
 to suit our particular task.
@@ -150,34 +150,33 @@ they were to recruit.
 ## Recruiting users
 
 Because the user group we were targeting was the general public, this enabled
-us a wide pool to recruit from.  Brandi and Sarah focused on their social
+us a wide pool to recruit from. Brandi and Sarah focused on their social
 network for quick recruitment including friends, Facebook, and LinkedIn.
 
 ## Conducting the interviews
 
 The interviews were conducted by Sarah, Brandi, and Shannon with internal staff
-who volunteered as notetakers.  We rotated the order in which the designs were
-shown to users to reduce bias.   There were three designs users were presented
+who volunteered as notetakers. We rotated the order in which the designs were
+shown to users to reduce bias. There were three designs users were presented
 with: two re-designs and the existing homepage which Mojo, a developer on our
-team, suggested we include in the interview
+team, suggested we include in the interview.
 
 The interns were presented with a few challenges that required them to think on their
-feet.  At one point, Brandi had to conduct an interview on her own without a
+feet. At one point, Brandi had to conduct an interview on her own without a
 notetaker; this meant she had to be even more attentive to user feedback while
-asking questions simultaneously.  In addition, they had a few no-shows.  The
+asking questions simultaneously. In addition, they had a few no-shows. The
 interns learned that these challenges were a common part of the interview
 process and adapting to them was necessary skill to be learned in UX research.
 
 
-## Research Outcomes
+## Research outcomes
 
 The [findings](https://github.com/ONRR/research/blob/master/nrrd-research/38_HomepageGraphic/Consolidated%20Findings%20for%20GitHub.xlsx?raw=true) revealed that most users responded more positively to the four-card layout with four ways of
-reading or visualizing the process.  Users had also communicated that particular
+reading or visualizing the process. Users had also communicated that particular
 option helped them understand the scope of the NRRD site especially because it
 provided an option to access more information.
 
 ## Lessons learned
-
 
 In going through this process, these are some of the lessons we learned.
 
@@ -191,7 +190,6 @@ lead to a combination of the iterations to find the best solution.”
 (identifying the problem, creating interactions, user interviews, and
 analyzing findings).”
 
-
 ### Sarah:
 
 “Independently designing, iterating and then coming together to share multiple
@@ -199,10 +197,10 @@ ideas is useful. It gives us the opportunity to combine our ideas for a
 possibly more effective prototype.”
 
 “It’s important to have a plan but expect the unexpected. We were sometimes
-required to think on our feet.  For example, if the users were not yielding the
-information  to answer the goals, we had to go off script.”
+required to think on our feet. For example, if the users were not yielding the
+information to answer the goals, we had to go off script.”
 
-“It's best to do interviews with multiple notetakers.  People capture different
+“It's best to do interviews with multiple notetakers. People capture different
 pieces of information that one or two people may miss. Additionally, a detail
 that most of the group notice may mean that it is especially important.”
 
