@@ -89,14 +89,14 @@ Users come from another site to the homepage. They see the graphic which shows
 the scope of the site.
 
 ### Established business goals:
-* It has to be clear that we’re referring to federal governments & Native Americans
+* It has to be clear that we’re referring to federal governments & Native Americans,
 but not private and state-owned.
-We must have revenue, production, and disbursements.
+* We must have revenue, production, and disbursements.
 
 ### Followed design principles:
 * Make it accessible. There should be alt text and consider color contrast.
-* Stylistically (and in copy), it should be consistent with how data datasets
-fit the diagram another apprentice made.
+* Stylistically (and in copy), it should be consistent with the "how data datasets
+fit" diagram another intern made.
 <!-- end: creative brief -->
 
 The creative brief also made us more mindful of the key users, the main scenario
@@ -129,10 +129,11 @@ could be utilized.
 One [version](https://xd.adobe.com/view/2b3a2522-1130-4dec-b577-4f07022a7af4-7e69/?fullscreen&hints=off)
 that Sarah designed is above. Again, a card-based format with interactivity was
 included--inspired by Brandi’s iterations. In Sarah’s design, she included four
-ways in which the content would be understood: 1) the headings of the cards provided
-a way to scan the process quickly, 2) icons could accommodate visually-oriented users,
-3) the copy at the bottom of the cards communicated the process simply, and 4)
-an interactive component when clicked on flipped the card over to a more detailed
+ways in which the content would be understood:
+1. The headings of the cards provide a way to scan the process quickly.
+2. Icons accommodate visually-oriented users.
+3. The copy at the bottom of the cards communicates the process simply.
+4. An interactive component, when clicked on, flipped the card over to a more detailed
 description, providing a space to more accurately convey the scope the site.
 
 ## Writing a usability plan
