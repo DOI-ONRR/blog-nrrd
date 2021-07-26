@@ -60,35 +60,34 @@ When presented, we learned that the process isn’t cyclical so the circular dia
 would not communicate the process accurately.
 
 Shannon also offered feedback on the text to better describe the process.
-Furthermore, she advised us to look at another [intern’s diagram]
-(https://revenuedata.doi.gov/how-revenue-works) for content inspiration.
+Furthermore, she advised us to look at another [intern’s diagram](https://revenuedata.doi.gov/how-revenue-works) for content inspiration.
 
 In addition, we were given a creative brief which helped to remind us of the goals
 to be accomplished for the homepage.
 
 <!-- start: creative brief -->
-##Mini creative brief
+## Mini creative brief
 
-###Summary of the problem statement or purpose of the product:
+### Summary of the problem statement or purpose of the product:
 Something that visually shows the scope of the site at a glance for people who don't read the paragraph.  
 
-###Key users or personas of the solution:
+### Key users or personas of the solution:
 * Questioners/answerers 3
 * Storytellers 1
 * Agenda supporters 2
 * Domain learners 2
 * General public 1
 
-###Main scenarios in which the solution will be used:
+### Main scenarios in which the solution will be used:
 Users come from another site to the homepage.  They see the graphic which shows
 the scope of the site.
 
-###Established business goals:
+### Established business goals:
 * It has to be clear that we’re referring to federal governments & Native Americans
 but not private and state-owned.
 We must have revenue, production, and disbursements.
 
-###Followed design principles:
+### Followed design principles:
 * Make it accessible.  There should be alt text and consider color contrast.
 * Stylistically (and in copy), it should be consistent with how data datasets
 fit the diagram another apprentice made.
@@ -108,8 +107,7 @@ While we preferred to work more collaboratively, scheduling constraints
 prevented that.  Therefore, we decided to work on the task independently and
 come together during the intern meetings.
 
-In the last [version]
-(https://xd.adobe.com/view/85be3415-1b1c-4475-b309-5f30b85b007c-d0ed/?fullscreen&hints=off)
+In the last [version](https://xd.adobe.com/view/85be3415-1b1c-4475-b309-5f30b85b007c-d0ed/?fullscreen&hints=off)
 above, Brandi included an interactive description element which would slide up
 to provide more detailed information.  Brandi’s card-based and interactive format
 inspired iterations moving forward.  Additionally, the product manager,
