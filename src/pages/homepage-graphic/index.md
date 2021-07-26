@@ -47,10 +47,10 @@ The first mockup was a bit complex, which we thought would overwhelm the user
 and Brandi knew it needed some condensing, but wasn’t sure how to accomplish that.
 
 The team agreed with her at the next intern meeting. Additionally, some icons
-needed to be replaced and the process as indicated by the arrows required
+needed to be replaced and the process, as indicated by the arrows, required
 simplification.
 
-From that feedback, two versions of the graphic were created--one going in one
+From that feedback, two versions of the graphic were created - one going in one
 direction (left to right) and the other one in a circular process.
 
 <!-- image of Brandi's mockup set 02 goes here -->
@@ -99,7 +99,7 @@ but not private and state-owned.
 fit" diagram another intern made.
 <!-- end: creative brief -->
 
-The creative brief also made us more mindful of the key users, the main scenario
+The creative brief made us more mindful of the key users, the main scenario
 in which they would encounter the solution, as well as ensuring the design
 met the business goals and followed certain design principles.
 
@@ -138,8 +138,7 @@ description, providing a space to more accurately convey the scope the site.
 
 ## Writing a usability plan
 
-Additionally, we needed a [usability plan](https://github.com/ONRR/research/blob/master/nrrd-research/38_HomepageGraphic/Homepage%20Graphic%20Plan%20and%20Guide.md) a task which Brandi
-undertook. Shannon gave her an interview guide which Brandi based her plan on.
+Additionally, we needed a [usability plan](https://github.com/ONRR/research/blob/master/nrrd-research/38_HomepageGraphic/Homepage%20Graphic%20Plan%20and%20Guide.md). Shannon provided an interview guide which Brandi based her plan on.
 
 The introduction was similar, however some content from the guide was adjusted
 to suit our particular task.
@@ -174,7 +173,7 @@ process and adapting to them was necessary skill to be learned in UX research.
 
 The [findings](https://github.com/ONRR/research/blob/master/nrrd-research/38_HomepageGraphic/Consolidated%20Findings%20for%20GitHub.xlsx?raw=true) revealed that most users responded more positively to the four-card layout with four ways of
 reading or visualizing the process. Users had also communicated that particular
-option helped them understand the scope of the NRRD site especially because it
+option helped them understand the scope of the NRRD site, especially because it
 provided an option to access more information.
 
 ## Lessons learned
@@ -203,7 +202,7 @@ information to answer the goals, we had to go off script.”
 
 “It's best to do interviews with multiple notetakers. People capture different
 pieces of information that one or two people may miss. Additionally, a detail
-that most of the group notice may mean that it is especially important.”
+that most of the group notices may mean that it is especially important.”
 
 # CREDITS
 
