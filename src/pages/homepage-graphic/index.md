@@ -19,7 +19,7 @@ includes revenue, disbursements, and production.
 
 <!-- image of original goes here -->
 Original homepage graphic
-![Alt text goes here](./homepage_original.jpg)
+![A screenshot of the NRRD homepage before updates were made. The screenshot has a paragraph describing the contents of the NRRD website and what is new on the website](./homepage_original.jpg)
 
 The paragraph is meant to explain the scope of the site as simply as possible.
 However, there are two issues: (1) It’s not  visual which overlooks more
@@ -41,7 +41,7 @@ Based on this straightforward organization, Brandi was able to sketch and mock
 up ideas for the homepage graphic.
 
 <!-- image of Brandi's mockup set 01 goes here -->
-![First round of Brandi's mockups](./brandi_iterations_set_01.jpg)
+![Sketches of the new diagram that attempts to explain how money is dispersed.](./brandi_iterations_set_01.jpg)
 
 The first mockup was a bit complex, which we thought would overwhelm the user
 and Brandi knew it needed some condensing, but wasn’t sure how to accomplish that.
@@ -54,7 +54,7 @@ From that feedback, two versions of the graphic were created--one going in one
 direction (left to right) and the other one in a circular process.
 
 <!-- image of Brandi's mockup set 02 goes here -->
-![Second round of Brandi's mockups](./brandi_iterations_set_02.jpg)
+![Two diagrams explaining how the money is dispersed. The first diagram is linear and the second diagram is circular.](./brandi_iterations_set_02.jpg)
 
 To help out, Sarah was invited to the project to have more brains to come up
 with a solution.
@@ -114,7 +114,7 @@ prevented that. Therefore, we decided to work on the task independently and
 come together during the intern meetings.
 
 <!-- image of Brandi's mockup set 03 goes here -->
-![Third round of Brandi's mockups](./brandi_iterations_set_03.jpg)
+![The concept usage of cards for creating a money disbursement diagram](./brandi_iterations_set_03.jpg)
 
 In the last [version](https://xd.adobe.com/view/85be3415-1b1c-4475-b309-5f30b85b007c-d0ed/?fullscreen&hints=off)
 above, Brandi included an interactive description element which would slide up
@@ -124,7 +124,7 @@ Maroya, suggested that the entire horizontal space at the top of the homepage
 could be utilized.
 
 <!-- image of Sarah's mockup goes here -->
-![Sarah's mockup](./sarah_iteration_01.jpg)
+![Four-card process diagram](./sarah_iteration_01.jpg)
 
 One [version](https://xd.adobe.com/view/2b3a2522-1130-4dec-b577-4f07022a7af4-7e69/?fullscreen&hints=off)
 that Sarah designed is above. Again, a card-based format with interactivity was
