@@ -23,7 +23,7 @@ Original homepage graphic
 
 The paragraph is meant to explain the scope of the site as simply as possible.
 However, there are two issues: (1) It’s not  visual which overlooks more
-visually-oriented users. And (2) its simplicity doesn’t accurately explain the scope.
+visually-oriented users, and (2) its simplicity doesn’t accurately explain the scope.
 
 ## Ideations and iteration
 
@@ -32,7 +32,7 @@ When first tackling this problem Brandi started with the paragraph on the homepa
 <!-- start: table -->
 
 | Who | Companies | ONRR |
-|---|:---:|:---:|
+<!-- |---|:---:|:---:| -->
 | What | Pay to produce energy and minerals from federal and Native American land and water, which include bonuses, rents, and royalties. | Collects these company payments and distributes them to federal and local governments and Native Americans. |
 
 <!-- end: table -->
@@ -43,14 +43,13 @@ up ideas for the homepage graphic.
 <!-- image of Brandi's mockup set 01 goes here -->
 ![Sketches of the new diagram that attempts to explain how money is dispersed.](./brandi_iterations_set_01.jpg)
 
-The first mockup was a bit complex, which we thought would overwhelm the user
-and Brandi knew it needed some condensing, but wasn’t sure how to accomplish that.
+The first mockup was a bit complex, which we thought would overwhelm the user. Brandi knew it needed some condensing, but wasn’t sure how to accomplish that.
 
 The team agreed with her at the next intern meeting. Additionally, some icons
 needed to be replaced and the process, as indicated by the arrows, required
 simplification.
 
-From that feedback, two versions of the graphic were created - one going in one
+From that feedback, two versions of the graphic were created: one going in one
 direction (left to right) and the other one in a circular process.
 
 <!-- image of Brandi's mockup set 02 goes here -->
