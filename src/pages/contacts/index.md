@@ -44,15 +44,15 @@ Users had two information pathways to find contacts.  They could use either the 
 
 **Search Bar**
 1. User types in contact name, company assignment, company name, etc.
-2. Search Results will be presented in a list
-3. User clicks on a listing to expose a drop-down menu containing more information about that individual contact
-4. The user has the option to email or call that contact immediately via hyperlink
+2. Search Results will be presented in a list.
+3. User clicks on a listing to expose a drop-down menu containing more information about that individual contact.
+4. The user has the option to email or call that contact immediately via hyperlink.
 
  **Filter**
- 1. User applies up to 4 different filters at the same time. Each time they apply a filter a removable chip will appear below the search bar/header area
-2. Search Results will be presented in a list
-3. User clicks on a listing to expose drop-down menu containing more information about that individual contact
-4. The user has the option to email or call that contact immediately via hyperlink
+ 1. User applies up to 4 different filters at the same time. Each time they apply a filter a removable chip will appear below the search bar/header area.
+2. Search Results will be presented in a list.
+3. User clicks on a listing to expose drop-down menu containing more information about that individual contact.
+4. The user has the option to email or call that contact immediately via hyperlink.
 
 I combined the two user journeys into a single user flow of the possibilities the user could take when using the contact directory.
 
@@ -96,7 +96,7 @@ After I decided how to organize the information through the IA, I used the old c
 
 After meeting with the team, I knew that I needed to differentiate between the categories and test out the design with a sample company. I decided I could start mocking up my sketches and presented them to everyone during our next meeting. The team suggested that I remove the legend because the filter options would save room and make the directory less cluttered.
 
-When I presented my updated wireframe in the next meeting, my mentor, Shannon, and others were confused about whether the user had to use the search function first or not. From this feedback, I decided to make the prototype more dynamic and less linear to make the functionality clearer to the user. Additional feedback I received was regarding the drop-down filters,: to  group everything by category and create a filter for each with its own drop-down menu.
+When I presented my updated wireframe in the next meeting, my mentor, Shannon, and others were confused about whether the user had to use the search function first or not. From this feedback, I decided to make the prototype more dynamic and less linear to make the functionality clearer to the user. Additional feedback I received was regarding the drop-down filters, to  group everything by category and create a filter for each with its own drop-down menu.
 
 From the feedback, I went back and updated the IA bulleted list for the filters. Then I ran into the problem of how to categorize the main categories, which I brought up at the next intern meeting.
 
