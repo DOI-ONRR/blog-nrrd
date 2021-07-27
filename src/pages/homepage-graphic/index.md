@@ -154,7 +154,7 @@ network for quick recruitment including friends, Facebook, and LinkedIn.
 
 ## Conducting the interviews
 
-The interviews were conducted by Sarah, Brandi, and Shannon with internal staff
+The interviews were conducted by Sarah, Brandi, and Shannon, with internal staff
 who volunteered as notetakers. We rotated the order in which the designs were
 shown to users to reduce bias. There were three designs users were presented
 with: two re-designs and the existing homepage which Mojo, a developer on our
