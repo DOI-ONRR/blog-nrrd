@@ -31,9 +31,9 @@ When first tackling this problem Brandi started with the paragraph on the homepa
 
 <!-- start: table -->
 
-| Who | Companies | ONRR |
-<!-- |---|:---:|:---:| -->
-| What | Pay to produce energy and minerals from federal and Native American land and water, which include bonuses, rents, and royalties. | Collects these company payments and distributes them to federal and local governments and Native Americans. |
+Who|Companies|ONRR
+:-----:|:-----:|:-----:
+What|Pay to produce energy and minerals from federal and Native American land and water, which include bonuses, rents, and royalties.|Collects these company payments and distributes them to federal and local governments and Native Americans.
 
 <!-- end: table -->
 
