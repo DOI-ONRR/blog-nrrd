@@ -53,7 +53,9 @@ From that feedback, two versions of the graphic were created: one going in one
 direction (left to right) and the other one in a circular process.
 
 <!-- image of Brandi's mockup set 02 goes here -->
-![Two diagrams explaining how the money is dispersed. The first diagram is linear and the second diagram is circular.](./brandi_iterations_set_02.jpg)
+![Linear diagram explaining how the money is dispersed.](./brandi-2a.png)
+![Circular diagram explaining how the money is dispersed.](./brandi-2b.png)
+
 
 To help out, Sarah was invited to the project to have more brains to come up
 with a solution.
