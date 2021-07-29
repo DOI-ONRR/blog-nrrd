@@ -77,11 +77,11 @@ to be accomplished for the homepage.
 Something that visually shows the scope of the site at a glance for people who don't read the paragraph.
 
 ### Key users or personas of the solution:
-* Questioners/answerers 3
-* Storytellers 1
-* Agenda supporters 2
-* Domain learners 2
-* General public 1
+* Questioners/answerers
+* Storytellers
+* Agenda supporters
+* Domain learners
+* General public
 
 ### Main scenarios in which the solution will be used:
 Users come from another site to the homepage. They see the graphic which shows
