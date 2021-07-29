@@ -182,7 +182,9 @@ process and adapting to them was necessary skill to be learned in UX research.
 The [findings](https://github.com/ONRR/research/blob/master/nrrd-research/38_HomepageGraphic/Consolidated%20Findings%20for%20GitHub.xlsx?raw=true) revealed that most users responded more positively to the four-card layout with four ways of
 reading or visualizing the process. Users had also communicated that particular
 option helped them understand the scope of the NRRD site, especially because it
-provided an option to access more information.
+provided an option to access more information. Participants liked how the interactivity worked in the two card version.
+
+We landed on a [hybrid of the two options](https://xd.adobe.com/view/6b7d6581-992f-46a5-8d72-035d26beb875-3e2e/) with three cards and similar interactivity to the two card version.
 
 ## Lessons learned
 
