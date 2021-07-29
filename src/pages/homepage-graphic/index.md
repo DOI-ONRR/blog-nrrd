@@ -18,7 +18,7 @@ what happens with the payments companies make to produce energy and minerals on 
 includes revenue, disbursements, and production.
 
 <!-- image of original goes here -->
-Original homepage graphic
+**Original homepage before redesign**
 ![A screenshot of the NRRD homepage before updates were made. The screenshot has a paragraph describing the contents of the NRRD website and what is new on the website](./homepage_original.jpg)
 
 The paragraph is meant to explain the scope of the site as simply as possible.
@@ -41,7 +41,8 @@ Based on this straightforward organization, Brandi was able to sketch and mock
 up ideas for the homepage graphic.
 
 <!-- image of Brandi's mockup set 01 goes here -->
-![Sketches of the new diagram that attempts to explain how money is dispersed.](./brandi_iterations_set_01.jpg)
+![Hand drawn of the new diagram that attempts to explain how money is dispersed.](./brandi-1a.png)
+![Digital sketch of the new diagram that attempts to explain how money is dispersed.](./brandi-1b.png)
 
 The first mockup was a bit complex, which we thought would overwhelm the user. Brandi knew it needed some condensing, but wasn’t sure how to accomplish that.
 
@@ -53,8 +54,9 @@ From that feedback, two versions of the graphic were created: one going in one
 direction (left to right) and the other one in a circular process.
 
 <!-- image of Brandi's mockup set 02 goes here -->
-![Linear diagram explaining how the money is dispersed.](./brandi-2a.png)
-![Circular diagram explaining how the money is dispersed.](./brandi-2b.png)
+![Linear diagram explaining how the money is dispersed.](./brandi-2b.png)
+![Circular diagram explaining how the money is dispersed.](./brandi-2a.png)
+
 
 
 To help out, Sarah was invited to the project to have more brains to come up
@@ -115,7 +117,12 @@ prevented that. Therefore, we decided to work on the task independently and
 come together during the intern meetings.
 
 <!-- image of Brandi's mockup set 03 goes here -->
-![The concept usage of cards for creating a money disbursement diagram](./brandi_iterations_set_03.jpg)
+**Card design concepts**
+![Sketch of final card design.](./brandi-3a.png)
+![Early mockup with two cards for company pays and ONRR distributes.](./brandi-3b.png)
+![Concept showing a different treatment of two cards for company pays and ONRR distributes.](./brandi-3c.png)
+![A different concept with an interactive card that changes to the two steps for company pays and ONRR distributes.](./brandi-3d.png)
+![Concept showing different icons on the two cards for company pays and ONRR distributes.](./brandi-3e.png)
 
 In the last [version](https://xd.adobe.com/view/85be3415-1b1c-4475-b309-5f30b85b007c-d0ed/?fullscreen&hints=off)
 above, Brandi included an interactive description element which would slide up
