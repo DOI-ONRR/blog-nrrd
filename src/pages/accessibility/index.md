@@ -88,42 +88,42 @@ Naturally, RRM has picked up some tips and tricks.
 
 1. Remember that 508 compliance isn't just for visual impairment but also for cognition abilities when making a document compliant.
 
-    For example, Dyslexia is considered a reading, spelling, and writing disability.
+      For example, Dyslexia is considered a reading, spelling, and writing disability.
 
-1. Don't assume a Microsoft Office or an Adobe PDF document is 508 compliant because the accessibility checker passes everything.
+2. Don't assume a Microsoft Office or an Adobe PDF document is 508 compliant because the accessibility checker passes everything.
 
-  The document should be:
+    The document should be:
 
-  * Properly structured (Style settings, tables, etc.)
-  * Needs review for reading order, and
-  * Color contrast
+    * Properly structured (Style settings, tables, etc.)
+    * Needs review for reading order, and
+    * Color contrast
 
-1. Recommend that the source content be appropriately structured and made compliant before saving it as an Adobe PDF.
+3. Recommend that the source content be appropriately structured and made compliant before saving it as an Adobe PDF.
 
-  For example: Don't use tables in a Microsoft Word document if the overall goal is design and appearance. Tables in Adobe will require additional work and possibly need to be removed or restructured in the PDF.
+    For example: Don't use tables in a Microsoft Word document if the overall goal is design and appearance. Tables in Adobe will require additional work and possibly need to be removed or restructured in the PDF.
 
-1. The user must have a current Pro version of Adobe Acrobat (i.e., Adobe Acrobat Pro DC) to ensure PDF compliance.
+4. The user must have a current Pro version of Adobe Acrobat (i.e., Adobe Acrobat Pro DC) to ensure PDF compliance.
 
-  NOTE: There are no additional licensing requirements for Microsoft Office products to perform an accessibility review.
+    NOTE: There are no additional licensing requirements for Microsoft Office products to perform an accessibility review.
 
-1. When working with a scanned document saved as a PDF, it is often necessary to first use the Scan & OCR tool to Recognize Text.
+5. When working with a scanned document saved as a PDF, it is often necessary to first use the Scan & OCR tool to Recognize Text.
 
-1. When working with large PDF files, it's often easier to "Extract" the problem page, save the page as a separate file, fix the 508 errors, and lastly, add the page back to the original PDF file.
+6. When working with large PDF files, it's often easier to "Extract" the problem page, save the page as a separate file, fix the 508 errors, and lastly, add the page back to the original PDF file.
 
-1. Sometimes weblinks can have two or more "links" embedded on top of each other in a PDF file; remove all but one of the links to clear the error (in most cases).
+7. Sometimes weblinks can have two or more "links" embedded on top of each other in a PDF file; remove all but one of the links to clear the error (in most cases).
 
-1. In Adobe, be on the lookout for blank/empty tags to be deleted.
+8. In Adobe, be on the lookout for blank/empty tags to be deleted.
 
-1. Accessible Audio and Video Media
+9. Ensure audio and video media are accessible.
 
-  Pre-recorded:
-  * Audio-only content must include transcripts.
-  * Video-only content must include an audio description.
-  * Videos with audio must include captions and may require an audio description.
+    Pre-recorded:
+    * Audio-only content must include transcripts.
+    * Video-only content must include an audio description.
+    * Videos with audio must include captions and may require an audio description.
 
-  Live:
-  * Audio-only content must include live captions or transcripts.
-  * Videos with audio must include captions.
+    Live:
+    * Audio-only content must include live captions or transcripts.
+    * Videos with audio must include captions.
 
 ### Guidance and resources
 
