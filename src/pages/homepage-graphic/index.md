@@ -4,7 +4,7 @@ authors:
 - Brandi Nichols
 - Sarah Aranda
 excerpt: UX interns go through the redesign and testing process of a homepage graphic to communicate the scope the site.
-date: "2021-07-22"
+date: "2021-08-13"
 tags:
 - homepage graphic
 - ux
