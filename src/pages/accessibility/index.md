@@ -139,7 +139,7 @@ Naturally, RRM has picked up some tips and tricks.
 * [Video-Recordings of Webinars](https://www.doi.gov/ocio/section508/references), plus additional training resources
 * [U.S. Access Board](https://www.access-board.gov/)
 * The DOI 2020 Digital Week video [Microsoft Accessibility for the Blind](https://doimspp.sharepoint.com/sites/doi-it-enterprise-solutions/SitePages/2020%20DOI%20Digital%20Week%20-%20Videos%20and%20FAQs.aspx)
-* ONRR Data Display team [wiki page for creating accessible electronic documents] (ttps://github.com/ONRR/onrr.gov-site/wiki/Accessibility)
+* ONRR Data Display team [wiki page for creating accessible electronic documents] (https://github.com/ONRR/onrr.gov-site/wiki/Accessibility)
 * DOI recommended software add-on, [NVDA (Nonvisual Desktop Access)](https://www.microsoft.com/en-us/p/nvda-nonvisual-desktop-access/9nvl6z0tm57d?activetab=pivot:overviewtab)
 
 ## Conclusion
