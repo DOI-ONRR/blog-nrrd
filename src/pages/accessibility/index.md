@@ -114,12 +114,12 @@ Naturally, RRM has picked up some tips and tricks.
 * Ensure audio and video media are accessible.
 
   * Pre-recorded:
-    * Audio-only content must include transcripts.
-    * Video-only content must include an audio description.
-    * Videos with audio must include captions and may require an audio description.
+    1. Audio-only content must include transcripts.
+    2. Video-only content must include an audio description.
+    3. Videos with audio must include captions and may require an audio description.
   * Live:
-    * Audio-only content must include live captions or transcripts.
-    * Videos with audio must include captions.
+    1. Audio-only content must include live captions or transcripts.
+    2. Videos with audio must include captions.
 
 ### Guidance and resources
 
