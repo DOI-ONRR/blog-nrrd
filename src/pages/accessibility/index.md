@@ -56,23 +56,23 @@ Breaking it down a little further, the Department of the Interior (DOI) follows 
 
 * Electronic Content that is not public-facing but is official business and is communicated through one or more of the nine categories below is an agency official communication and must be accessible.
 
-1. Emergency notifications
+  1. Emergency notifications
 
-2. An initial/final decision adjudicating an administrative claim/proceeding
+  2. An initial/final decision adjudicating an administrative claim/proceeding
 
-3. Internal or external program or policy announcements
+  3. Internal or external program or policy announcements
 
-4. A notice of benefits, program eligibility, employment opportunity, or personnel action
+  4. A notice of benefits, program eligibility, employment opportunity, or personnel action
 
-5. A formal acknowledgement of receipt
+  5. A formal acknowledgement of receipt
 
-6. Survey questionnaires
+  6. Survey questionnaires
 
-7. Templates or forms
+  7. Templates or forms
 
-8. Educational or training materials
+  8. Educational or training materials
 
-9. Intranet content designed as a Web page
+  9. Intranet content designed as a Web page
 
 …now, let’s talk about that picture, recipe, retirement announcement, or team newsletter. We can see that these types of content don’t fall under the minimum requirements for non-public facing content.
 
