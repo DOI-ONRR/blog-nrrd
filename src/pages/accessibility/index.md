@@ -20,9 +20,12 @@ When the Director of the Office of Natural Resources Revenue (ONRR) decided to e
 
 To start making sense of the pile of documents, we looked at our site's analytics to rank the documents by usage. We knew we should fix the most used documents first. We also found more documents that weren't in the content inventory. We put together a project plan that broke down the project into three phases and we emphasized that documents should be corrected by the owner since they are the subject matter experts of their own documents, and accessibility is everyone’s responsibility. We were happy to learn that 70% of downloads over the course of a year were of the top 100 documents. We split those first 100 documents off as phase 1.
 
+<<<<<<< HEAD
 At the beginning of phase 1, we ran accessibility reports on each document and assigned each document an owner. We sent each owner a list of the documents assigned to them for the phase along with the accessibility report. We also provided a link to our [wiki](https://github.com/ONRR/onrr.gov-site/wiki/Accessibility) with resources to make documents accessible. We also gave the owners a deadline of about eight weeks from the start date. One program area had the bulk of the documents, so we gave them a longer deadline of 20 weeks.
+=======
+At the beginning of phase 1, we ran accessibility reports on each document and assigned each document an owner. We sent each owner a list of the documents assigned to them for the phase, along with the accessibility report. We also provided a link to our [wiki](https://github.com/ONRR/onrr.gov-site/wiki/Accessibility) with resources to make documents accessible. We also gave the owners a deadline about 8 weeks from the start date. One program area had the bulk of the documents, so we gave them a longer deadline of 20 weeks.
+>>>>>>> d4c1784f7709d4201b3eae90d860637fbfc0568e
 
-We defined phase 2 as the next 100 most downloaded documents, which got us to 84% of downloaded documents. We sent each document owner their list of documents and accessibility reports. We gave document owners another 8 weeks to complete, phase 2, but it went faster than phase 1 because the document owners were now familiar with the making documents accessible.
 
 Then we had the long tail of phase 3. This phase included over 3,000 documents downloaded fewer than 100 times each in a year. To break up phase 3, I categorized the remaining documents.
 
