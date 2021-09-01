@@ -11,7 +11,7 @@ tags:
 - user experience
 - public service
 - government
-date: "2021-08-11"
+date: "2021-09-03"
 ---
 
 When the Director of the Office of Natural Resources Revenue (ONRR) decided to ensure all documents on onrr.gov are Section 508 compliant, we thought it would be a reasonable project. We needed to come up with a plan to correct all the documents currently on the website and a plan for any new documents requested to be uploaded on the website. We started compiling [resources](https://github.com/ONRR/onrr.gov-site/wiki/Accessibility) to share with our colleagues to help them correct documents. With our Director’s support, we sent an agency-wide notification that we are no longer uploading any new documents on the website unless they pass the accessibility checks. Then we started going through the content inventory that [one of last year's interns](https://blog-nrrd.doi.gov/intern-experience/) had put together and found out there were over 3,000 documents currently on the site. That made the project seem daunting. We weren't sure we'd be able to get through all the documents in less than several years.
