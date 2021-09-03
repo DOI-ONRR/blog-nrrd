@@ -147,4 +147,4 @@ Naturally, RRM has picked up some tips and tricks.
 
 We’re steadily making progress towards getting all of our documents 508 compliant. It seemed like an insurmountable challenge, but with a little bit of prioritization and coordination, we’re chipping away at the incompliant debt we had accumulated.
 
-We'd also like to thank our DOI colleagues, Sid Sharma and Regina Wendling from the department 508 compliance team for all their help.
+We'd also like to thank our DOI colleagues, Sid Sharma and Regina Wendling, from the department 508 compliance team for all their help.
