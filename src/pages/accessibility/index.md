@@ -136,6 +136,7 @@ Naturally, RRM has picked up some tips and tricks.
   * [Creating Section 508 Compliant Electronic Documents](https://doitalent.ibc.doi.gov/mod/facetoface/view.php?id=9104)
   * [Creating Section 508 Compliant MS Excel Spreadsheets](https://doitalent.ibc.doi.gov/course/view.php?id=12967)
 * [DOI Section 508 Web Site](https://www.doi.gov/ocio/section508)
+* [GSA Government-wide IT Accessibility Program](https://www.section508.gov/training)
 * [Video-Recordings of Webinars](https://www.doi.gov/ocio/section508/references), plus additional training resources
 * [U.S. Access Board](https://www.access-board.gov/)
 * The DOI 2020 Digital Week video [Microsoft Accessibility for the Blind](https://doimspp.sharepoint.com/sites/doi-it-enterprise-solutions/SitePages/2020%20DOI%20Digital%20Week%20-%20Videos%20and%20FAQs.aspx)
@@ -145,3 +146,5 @@ Naturally, RRM has picked up some tips and tricks.
 ## Conclusion
 
 We’re steadily making progress towards getting all of our documents 508 compliant. It seemed like an insurmountable challenge, but with a little bit of prioritization and coordination, we’re chipping away at the incompliant debt we had accumulated.
+
+We'd also like to thank our DOI colleagues, Sid Sharma and Regina Wendling, from the department 508 compliance team for all their help.
