@@ -58,12 +58,10 @@
   bio: user experience intern at the Office of Natural Resources Revenue
   pic: ../img/brandi-pic.png
 
-<<<<<<< HEAD
-- id: Meshan White
-  bio: systems accountant at the Office of Natural Resources Revenue
-  pic: ../img/meshan-pic.jpg
-=======
 - id: Shannon Hahn
   bio: Minerals Revenue Specialist at the Office of Natural Resources Revenue
   pic: ../img/shannonH-pic.jpg
->>>>>>> dev
+
+- id: Meshan White
+  bio: systems accountant at the Office of Natural Resources Revenue
+  pic: ../img/meshan-pic.jpg
