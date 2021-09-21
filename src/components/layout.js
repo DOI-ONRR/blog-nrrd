@@ -12,11 +12,11 @@ class Template extends React.Component {
   render() {
     const { location, children } = this.props
     const rootPath = `${__PATH_PREFIX__}/`
-    const mastText = "Open data design at the U.S. Department of the Interior"
+    const mastText = "Open data, design, & development at the U.S. Department of the Interior"
 
     let header
 
-    if (location.pathname === rootPath) {  
+    if (location.pathname === rootPath) {
       header = (
         <h1 className="masthead">
           <Link
@@ -38,7 +38,7 @@ class Template extends React.Component {
               height: rhythm(3.56),
               display: 'block',
             }}
-        />  
+        />
           </Link>
         </h1>
       )
@@ -70,7 +70,7 @@ class Template extends React.Component {
     }
     return (
     <div>
-      <Banner /> 
+      <Banner />
       <main className="angle"
         style={{
           marginLeft: 'auto',
@@ -83,7 +83,7 @@ class Template extends React.Component {
         {children}
       </main>
      <Footer />
-    </div> 
+    </div>
     )
   }
 }
