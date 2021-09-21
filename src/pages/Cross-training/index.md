@@ -1,8 +1,8 @@
 ---
-title: "Cross Training Experience with ONRR’s Open Data, Design & Development (ODDD) Team"
+title: "Cross Training Experience with ONRR’s Open Data, Design, & Development (ODDD) Team"
 authors:
 - Meshan White
-excerpt: "Wrapping up my first cross training experience with the Office of Natural Resources Revenue's (ONRR) Open Data, Design & Development (ODDD) Team."
+excerpt: "Wrapping up my first cross training experience with the Office of Natural Resources Revenue's (ONRR) Open Data, Design, & Development (ODDD) Team."
 tags:
 - training
 - agile
@@ -11,7 +11,7 @@ tags:
 - government
 date: "2021-08-12"
 ---
-As I wrap up my first cross-training experience ever with the Office of Natural Resources Revenue’s (ONRR) Open Data, Design & Development (ODDD) team, I reflect on my time with the team and share key takeaways from this experience. I am currently a Systems Accountant with the ONRR Financial Systems team under Infrastructure and Digital Services (IDS). I serve as a technical resource for ONRR’s financial system where I primarily support the Accounts Receivable/Billing Team and ONRR’s IT Services support contractor.
+As I wrap up my first cross-training experience ever with the Office of Natural Resources Revenue’s (ONRR) Open Data, Design, & Development (ODDD) team, I reflect on my time with the team and share key takeaways from this experience. I am currently a Systems Accountant with the ONRR Financial Systems team under Infrastructure and Digital Services (IDS). I serve as a technical resource for ONRR’s financial system where I primarily support the Accounts Receivable/Billing Team and ONRR’s IT Services support contractor.
 ## Interest and hearsay
 My initial interest in the ODDD team began when it formed a few years ago. I always wondered what exactly they did. As time went on, I began to hear little chatter of what others thought they did like “They work with GSA” “They publish/display data to NRRD (the [Natural Resources Revenue Data website](https://revenuedata.doi.gov/)), hence their name, Duh! – ODDD team.” Hearing things like that made me more interested since I had a feeling there was much more to the team than most thought.
 
