@@ -1,8 +1,8 @@
 ---
-title: "Cross Training Experience with ONRR’s Open Data, Design, & Development (ODDD) Team"
+title: "Cross training experience with ONRR’s Open Data, Design, & Development (ODDD) team"
 authors:
 - Meshan White
-excerpt: "Wrapping up my first cross training experience with the Office of Natural Resources Revenue's (ONRR) Open Data, Design, & Development (ODDD) Team."
+excerpt: "Wrapping up my first cross training experience with the Office of Natural Resources Revenue's (ONRR) Open Data, Design, & Development (ODDD) team."
 tags:
 - training
 - agile
