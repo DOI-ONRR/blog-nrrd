@@ -7,7 +7,7 @@ tags:
 - product management
 - project management
 - Agile
-date: "2020-09-28"
+date: "2021-09-28"
 ---
 
 This year I had the opportunity to complete a four-month job rotation with the Office of Natural Resource Revenue’s (ONRR) Open Data, Design, and Development Team.  I remained in my current position and 50 percent of my time was spent completing my normal work assignments while the other 50 percent was spent in my rotational position.  I learned a lot.  I grew a lot.  And I sincerely enjoyed every minute of it.
