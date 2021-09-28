@@ -26,19 +26,19 @@ How do they do this?  Agile Project Management.  Agile Project Management is a f
 
 ### Meeting Structure
 
-When I first joined the team, the influx of meeting invitations I got was overwhelming.  Across the time period of our 2 week Sprints our meeting cadence consisted of the following:..
+When I first joined the team, the influx of meeting invitations I got was overwhelming.  Across the time period of our 2 week Sprints our meeting cadence consisted of the following:
 
- - Sprint Planning- One meeting at the beginning of the sprint to discuss goals and what we would be working on for the next two weeks
+ - Sprint Planning - One meeting at the beginning of the sprint to discuss goals and what we would be working on for the next two weeks
 
- - Stand Ups- Daily meetings where each person gives a brief explanation of what they have been working on
+ - Stand Ups - Daily meetings where each person gives a brief explanation of what they have been working on
 
- - Synch Ups- One meeting a week to show the rest of the team anything you would like and to get detailed input
+ - Synch Ups - One meeting a week to show the rest of the team anything you would like and to get detailed input
 
- - Demo- One meeting towards the end of the sprint that is open for others to join to see a demonstration of what the team has been working on.
+ - Demo - One meeting towards the end of the sprint that is open for others to join to see a demonstration of what the team has been working on.
 
- - Sprint Review- One meeting towards the end of the sprint to address any issues that are still open
+ - Sprint Review - One meeting towards the end of the sprint to address any issues that are still open
 
- - Retro- One meeting towards the end of the sprint to discuss how the last sprint went and to bring up things that are working well or not working effectively
+ - Retro - One meeting towards the end of the sprint to discuss how the last sprint went and to bring up things that are working well or not working effectively
 
 
 
@@ -48,11 +48,11 @@ When I first joined the team, the influx of meeting invitations I got was overwh
 
 Additionally, the team has long-term planning meetings:
 
- - Roadmapping- One meeting every 6 weeks to discuss the upcoming goals
+ - Roadmapping - One meeting every 6 weeks to discuss the upcoming goals
 
- - Backlog Grooming- One meeting a month to review any remaining issues, determine how they should be prioritized, figure estimates (a number that represents complexity and time), and assign them to team members
+ - Backlog Grooming - One meeting a month to review any remaining issues, determine how they should be prioritized, figure estimates (a number that represents complexity and time), and assign them to team members
 
- - Ad-hoc- One to two day meetings to discuss and plan the aspects of large upcoming initiatives
+ - Ad-hoc - One to two day meetings to discuss and plan the aspects of large upcoming initiatives
 
 
 ![Longer term planning](./longertermplanning.png)
