@@ -42,7 +42,7 @@ When I first joined the team, the influx of meeting invitations I got was overwh
 
 
 
-![Two Week Sprints](/twoweeksprints.png)
+![Two Week Sprints](./twoweeksprints.png)
 
 
 
@@ -55,7 +55,7 @@ Additionally, the team has long-term planning meetings:
  - Ad-hoc- One to two day meetings to discuss and plan the aspects of large upcoming initiatives
 
 
-![Longer term planning](/longertermplanning.png)
+![Longer term planning](./longertermplanning.png)
 
 
 I quickly began to look forward to our daily Stand Ups and to all of the various activities that happened during the sprint.  I found that since we were meeting daily, the meetings were efficient- we all shared what we had been working on the day before, what we were working on today, what our plan for tomorrow was, and any blockers.  Often, our meetings were less than 30 minutes.  I felt like the whole team was keeping each other “in the know”.  Through our daily discussion we were able to regularly address, and usually resolve, road blocks as well as figure out when it would be beneficial to collaborate directly with another team member.  These daily meetings also allowed us to get to know each other better. In fact, the team supported me through the death of my step-dad.  Their support during that time was invaluable.
