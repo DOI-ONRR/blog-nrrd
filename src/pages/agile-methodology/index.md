@@ -2,7 +2,7 @@
 title: "I came for the data and stayed for the agility: reflections on my rotation with the Open Data, Design, and Development Team"
 authors:
 - Christa McCurdy
-excerpt: ""
+excerpt: "An ONRR employee shares her experience cross-training with the Open Data, Design, and Development Team"
 tags:
 - product management
 - project management
@@ -63,7 +63,7 @@ I quickly began to look forward to our daily Stand Ups and to all of the various
 Another key to the team’s success was a tool they used to track their work.  GitHub is where they track workload in the form of individual issues (side note, this is also where they maintain the NRRD portal).  And ZenHub is the project management platform they use to facilitate workflow tracking and execute their agile methodology.
 
 Learning about and actively engaging in an Agile Project Management style has made a huge impact on me.  During my rotation I discussed ideas with the team about how I could implement Agile Project Management in my own job.  They were enthusiastic about offering suggestions on how this methodology could help me personally and my program area.  I feel better able to manage my own workload and the workload of the efforts I lead.  My goal (or dare I say dream) is to bring what I have learned to RRM and implement it, starting with my own workload….who knows where it will go from there?
-< br>
+
 
 ### More Information
 
