@@ -14,7 +14,7 @@ This year I had the opportunity to complete a four-month job rotation with the O
 
 I applied for the rotation expecting to learn more about ONRR data, how it is used, and how it is communicated to the public.  Since college, I have enjoyed working with data.  My draw to this aspect of the team was rooted in my previous experience at ONRR:  I have worked in the Workforce Development Office, State and Indian Outreach, Data Mining, and currently I am in Reference and Reporting Management (RRM).  My positions have always centered around data: tracking data, verifying data, analyzing data, sharing data, explaining data, and so on.  In my current position, one of the roles I have as our internal control coordinator is to review the data that our analysts enter in our systems to ensure it is correct.  So, it seemed a no-brainer for me to experience how another team was interacting with our data.
 
-###What do they do?
+### What do they do?
 
 I quickly learned that the Data Display Team does much more than just display the data we have (which is actually one reason I got to work with the team to come up with a new team name....stay tuned for the final team name to be announced).  On the daily, they maintain the NRRD Data Portal and ONRR.gov.  I learned how to review and validate data that was being posted to the NRRD portal and how to make changes to ONRR.gov.   
 
@@ -24,7 +24,7 @@ The team also manages ONRR’s 508 compliance project, focuses on how to make th
 
 How do they do this?  Agile Project Management.  Agile Project Management is a framework for working towards a common goal in a manner that focuses on what can be accomplished in a short time period, called Sprints (for the team a Sprint is 2 weeks long) and adjusting and making changes as necessary (an iterative approach).  The key to the agile methodology is constant communication.  If you want to learn more about Agile Project Management, I found this [website](https://www.atlassian.com/agile/project-management) helpful.
 
-###Meeting Structure
+### Meeting Structure
 
 When I first joined the team, the influx of meeting invitations I got was overwhelming.  Across the time period of our 2 week Sprints our meeting cadence consisted of the following:..
 
@@ -60,14 +60,14 @@ Additionally, the team has long-term planning meetings:
 
 I quickly began to look forward to our daily Stand Ups and to all of the various activities that happened during the sprint.  I found that since we were meeting daily, the meetings were efficient- we all shared what we had been working on the day before, what we were working on today, what our plan for tomorrow was, and any blockers.  Often, our meetings were less than 30 minutes.  I felt like the whole team was keeping each other “in the know”.  Through our daily discussion we were able to regularly address, and usually resolve, road blocks as well as figure out when it would be beneficial to collaborate directly with another team member.  These daily meetings also allowed us to get to know each other better. In fact, the team supported me through the death of my step-dad.  Their support during that time was invaluable.
 
-###Workflow Tracking Tools
+### Workflow Tracking Tools
 
 Another key to the team’s success was a tool they used to track their work.  GitHub is where they track workload in the form of individual issues (side note, this is also where they maintain the NRRD portal).  And ZenHub is the project management platform they use to facilitate workflow tracking and execute their agile methodology.
 
 Learning about and actively engaging in an Agile Project Management style has made a huge impact on me.  During my rotation I discussed ideas with the team about how I could implement Agile Project Management in my own job.  They were enthusiastic about offering suggestions on how this methodology could help me personally and my program area.  I feel better able to manage my own workload and the workload of the efforts I lead.  My goal (or dare I say dream) is to bring what I have learned to RRM and implement it, starting with my own workload….who knows where it will go from there?
 < br>
 
-###More Information
+### More Information
 
 Did you know that the Data Display Team has a Wiki page, where you can learn more about the team?   
 
