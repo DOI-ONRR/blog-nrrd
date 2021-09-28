@@ -2,7 +2,7 @@
 title: "I came for the data and stayed for the agility: reflections on my rotation with the Open Data, Design, and Development Team"
 authors:
 - Christa McCurdy
-excerpt: " Agile Project Management is a framework for working towards a common goal in a manner that focuses on what can be accomplished in a short time period...the key to the agile methodology is constant communication."
+excerpt: ""
 tags:
 - product management
 - project management
@@ -41,9 +41,7 @@ When I first joined the team, the influx of meeting invitations I got was overwh
  - Retro - One meeting towards the end of the sprint to discuss how the last sprint went and to bring up things that are working well or not working effectively
 
 
-
 ![Two Week Sprints](./twoweeksprints.png)
-
 
 
 Additionally, the team has long-term planning meetings:
