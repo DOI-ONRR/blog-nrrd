@@ -2,7 +2,7 @@
 title: "I came for the data and stayed for the agility: reflections on my rotation with the Open Data, Design, and Development Team"
 authors:
 - Christa McCurdy
-excerpt: "An ONRR employee shares her experience cross-training with the Open Data, Design, and Development Team"
+excerpt: "An ONRR employee shares her experience as a cross-trainer with the Open Data, Design, and Development Team"
 tags:
 - product management
 - project management
