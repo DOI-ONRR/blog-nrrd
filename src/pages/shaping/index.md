@@ -1,5 +1,5 @@
 ---
-title: "Re-evaluating how we work: Bringing the whole team along"
+title: "Re-evaluating how we work: bringing the whole team along"
 authors:
 - Jennifer Malcolm
 - Shannon McHarg
