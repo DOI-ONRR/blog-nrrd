@@ -69,7 +69,7 @@ Learning about and actively engaging in an Agile Project Management style has ma
 
 ### More information
 
-Did you know that the ODDD team has a wiki page, where you can learn more about the team?   
+Did you know that the ODDD team has a [wiki page](https://github.com/ONRR/nrrd/wiki) where you can learn more about the team?   
 
  - To read about the team’s best practices for working as an efficient and high-performing remote team read the following:  [Working as a distributed team](https://github.com/ONRR/nrrd/wiki/Basics-for-making-distributed-work-work)
 
