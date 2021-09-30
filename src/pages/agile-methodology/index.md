@@ -42,6 +42,8 @@ When I first joined the team, the influx of meeting invitations I got was overwh
 
  - Retro - One meeting towards the end of the sprint to discuss how the last sprint went and to bring up things that are working well or not working effectively
 
+Week one of the two-week sprint contains sprint planning, one synch up and four stand ups.  Week two contains a synch up, a sprint review that can include a retro, and four stand ups.
+
 ### Two week sprints
 ![Two week sprints](./twoweeksprints.png)
 
@@ -54,6 +56,8 @@ Additionally, the team has long-term planning meetings:
 
  - Ad-hoc design studios - One to two day meetings to discuss and plan the aspects of large upcoming initiatives
 
+Longer term planning includes three two-week sprints per six-week roadmap, as well as backlog grooming every four weeks.
+
 ### Longer term planning
 ![Longer term planning](./longertermplanning.png)
 
@@ -64,7 +68,7 @@ I quickly began to look forward to our daily stand ups and to all of the various
 
 Another key to the team’s success was a tool they used to track their work.  [GitHub](https://github.com/ONRR/) is where they track workload in the form of individual issues (side note, this is also where they maintain the NRRD portal).  And ZenHub is the project management platform they use to facilitate workflow tracking and execute their agile methodology.
 
-Learning about and actively engaging in an Agile Project Management style has made a huge impact on me.  During my rotation I discussed ideas with the team about how I could implement agile project management in my own job.  They were enthusiastic about offering suggestions on how this methodology could help me personally and my program area.  I feel better able to manage my own workload and the workload of the efforts I lead.  My goal (or dare I say dream) is to bring what I have learned to RRM and implement it, starting with my own workload….who knows where it will go from there?
+Learning about and actively engaging in an agile project management style has made a huge impact on me.  During my rotation I discussed ideas with the team about how I could implement agile project management in my own job.  They were enthusiastic about offering suggestions on how this methodology could help me personally and my program area.  I feel better able to manage my own workload and the workload of the efforts I lead.  My goal (or dare I say dream) is to bring what I have learned to RRM and implement it, starting with my own workload….who knows where it will go from there?
 
 
 ### More information
@@ -73,4 +77,4 @@ Did you know that the ODDD team has a [wiki page](https://github.com/ONRR/nrrd/w
 
  - To read about the team’s best practices for working as an efficient and high-performing remote team read the following:  [Working as a distributed team](https://github.com/ONRR/nrrd/wiki/Basics-for-making-distributed-work-work)
 
- - To read about the team’s Agile Project Management meeting cadence look towards the bottom of this page:  [Joining the team](https://github.com/ONRR/nrrd/wiki/Joining-the-Natural-Resources-Revenue-Data-project-team)
+ - To read about the team’s agile project management meeting cadence look towards the bottom of this page:  [Joining the team](https://github.com/ONRR/nrrd/wiki/Joining-the-Natural-Resources-Revenue-Data-project-team)
