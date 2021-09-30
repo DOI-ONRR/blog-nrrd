@@ -18,7 +18,7 @@ I applied for the rotation expecting to learn more about ONRR data, how it is us
 
 ### What do they do?
 
-I quickly learned that the Open Data, Design, & Development team (formerly the Data Display team) does much more than just display the data we have (which is actually one reason I got to work with the team to come up with a new team name!).  On the daily, they maintain the Natural Resources Revenue Data (NRRD) Portal and ONRR.gov.  I learned how to review and validate data that was being posted to the [NRRD portal](https://revenuedata.doi.gov) and how to make changes to [ONRR.gov](https://www.onrr.gov).   
+I quickly learned that the Open Data, Design, & Development team (formerly the Data Display team) does much more than just display the data we have (which is actually one reason I got to work with the team to come up with a new team name!).  On the daily, they maintain the Natural Resources Revenue Data (NRRD) portal and ONRR.gov.  I learned how to review and validate data that was being posted to the [NRRD portal](https://revenuedata.doi.gov) and how to make changes to [ONRR.gov](https://www.onrr.gov).   
 
 The team also manages [ONRR’s 508 compliance project](https://blog-nrrd.doi.gov/accessibility/), focuses on how to make the NRRD portal easier for our customers to understand (through user-centered design), and they are working to [redesign ONRR.gov](https://blog-nrrd.doi.gov/stakeholders/) and overhaul the process for creating and maintaining the website.  My explanation of the team’s charge does not do justice to the amount of work and coordination they perform.
 
@@ -28,7 +28,7 @@ How do they do this?  Agile project management.  Agile project management is a f
 
 ### Meeting structure
 
-When I first joined the team, the influx of meeting invitations I got was overwhelming.  Across the time period of our 2 week Sprints our meeting cadence consisted of the following:
+When I first joined the team, the influx of meeting invitations I got was overwhelming.  Across the time period of our 2 week sprints our meeting cadence consisted of the following:
 
  - Sprint planning - One meeting at the beginning of the sprint to discuss goals and what we would be working on for the next two weeks
 
