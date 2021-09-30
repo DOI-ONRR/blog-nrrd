@@ -44,7 +44,7 @@ When I first joined the team, the influx of meeting invitations I got was overwh
 
 Week one of the two-week sprint contains sprint planning, one synch up and four stand ups.  Week two contains a synch up, a sprint review that can include a retro, and four stand ups.
 
-**Two week sprints**
+Two week sprints
 ![Two week sprints](./twoweeksprints.png)
 
 
@@ -58,7 +58,7 @@ Additionally, the team has long-term planning meetings:
 
 Longer term planning includes three two-week sprints per six-week roadmap, as well as backlog grooming every four weeks.
 
-**Longer term planning**
+Longer term planning
 ![Longer term planning](./longertermplanning.png)
 
 
