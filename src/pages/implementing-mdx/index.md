@@ -1,5 +1,5 @@
 ---
-title: "MDX, Not Your Parent's Markdown"
+title: "MDX, not your parents' Markdown"
 authors:
 - Jeff Keene
 excerpt: "We have decided to implement React components in our Markdown by using the new MDX format (Markdown for the component era). "
