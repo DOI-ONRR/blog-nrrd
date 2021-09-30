@@ -1,5 +1,5 @@
 ---
-title: "Virtual Student Federal Service: My UX Apprenticeship Journey"
+title: "Virtual Student Federal Service: my UX apprenticeship journey"
 authors:
 - Annie Persson
 excerpt: "Our second UX intern has made numerous contributions to ONRR.gov and the Natural Resources Revenue Data website during her time with us. In this post, she discusses the projects she has been working on and takeaways from her experience."
