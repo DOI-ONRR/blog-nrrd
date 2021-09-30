@@ -1,5 +1,5 @@
 ---
-title: "Teaching digital skills: Progress on usability testing by peer training"
+title: "Teaching digital skills: progress on usability testing by peer training"
 authors:
 - Maroya Faied
 - Lindsay Goldstein

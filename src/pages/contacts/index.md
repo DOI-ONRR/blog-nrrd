@@ -1,5 +1,5 @@
 ---
-title: "Re-architecting Contact Information to Meet User Needs"
+title: "Re-architecting contact information to meet user needs"
 authors:
 - Brandi Nichols
 excerpt: "One of the biggest user tasks for onrr.gov is finding contact information to answer questions. Industry users need to know who at the Office of Natural Resources Revenue (ONRR) can answer various types of questions."
