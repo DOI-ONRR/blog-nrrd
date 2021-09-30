@@ -18,7 +18,7 @@ I applied for the rotation expecting to learn more about ONRR data, how it is us
 
 ### What do they do?
 
-I quickly learned that the Open Data, Design, & Development team (formerly the Data Display team) does much more than just display the data we have (which is actually one reason I got to work with the team to come up with a new team name!).  On the daily, they maintain the Natural Resources Revenue Data (NRRD) Portal and ONRR.gov.  I learned how to review and validate data that was being posted to the [NRRD portal](https://www.revenuedata.doi.gov) and how to make changes to [ONRR.gov](https://www.onrr.gov).   
+I quickly learned that the Open Data, Design, & Development team (formerly the Data Display team) does much more than just display the data we have (which is actually one reason I got to work with the team to come up with a new team name!).  On the daily, they maintain the Natural Resources Revenue Data (NRRD) Portal and ONRR.gov.  I learned how to review and validate data that was being posted to the [NRRD portal](https://revenuedata.doi.gov) and how to make changes to [ONRR.gov](https://www.onrr.gov).   
 
 The team also manages [ONRR’s 508 compliance project](https://blog-nrrd.doi.gov/accessibility/), focuses on how to make the NRRD portal easier for our customers to understand (through user-centered design), and they are working to [redesign ONRR.gov](https://blog-nrrd.doi.gov/stakeholders/) and overhaul the process for creating and maintaining the website.  My explanation of the team’s charge does not do justice to the amount of work and coordination they perform.
 
