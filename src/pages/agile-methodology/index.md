@@ -1,8 +1,8 @@
 ---
-title: "I came for the data and stayed for the agility: reflections on my rotation with the Open Data, Design, and Development team"
+title: "I came for the data and stayed for the agility: reflections on my rotation with the Open Data, Design, & Development team"
 authors:
 - Christa McCurdy
-excerpt: "An ONRR employee shares her experience as a cross-trainer with the Open Data, Design, and Development team"
+excerpt: "An ONRR employee shares her experience as a cross-trainer with the Open Data, Design, & Development team"
 tags:
 - product management
 - project management
@@ -12,13 +12,13 @@ tags:
 date: "2021-09-28"
 ---
 
-This year I had the opportunity to complete a four-month job rotation with the Office of Natural Resource Revenue’s (ONRR) Open Data, Design, and Development (ODDD) team.  I remained in my current position and 50 percent of my time was spent completing my normal work assignments while the other 50 percent was spent in my rotational position.  I learned a lot.  I grew a lot.  And I sincerely enjoyed every minute of it.
+This year I had the opportunity to complete a four-month job rotation with the Office of Natural Resource Revenue’s (ONRR) Open Data, Design, & Development (ODDD) team.  I remained in my current position and 50 percent of my time was spent completing my normal work assignments while the other 50 percent was spent in my rotational position.  I learned a lot.  I grew a lot.  And I sincerely enjoyed every minute of it.
 
 I applied for the rotation expecting to learn more about ONRR data, how it is used, and how it is communicated to the public.  Since college, I have enjoyed working with data.  My draw to this aspect of the team was rooted in my previous experience at ONRR:  I have worked in the Workforce Development Office, State and Indian Outreach, Data Mining, and currently I am in Reference and Reporting Management (RRM).  My positions have always centered around data: tracking data, verifying data, analyzing data, sharing data, explaining data, and so on.  In my current position, one of the roles I have as our internal control coordinator is to review the data that our analysts enter in our systems to ensure it is correct.  So, it seemed a no-brainer for me to experience how another team was interacting with our data.
 
 ### What do they do?
 
-I quickly learned that the Open Data, Design, and Development team (formerly the Data Display team) does much more than just display the data we have (which is actually one reason I got to work with the team to come up with a new team name!).  On the daily, they maintain the Natural Resources Revenue Data (NRRD) Portal and ONRR.gov.  I learned how to review and validate data that was being posted to the [NRRD portal](https://www.revenuedata.doi.gov) and how to make changes to [ONRR.gov](https://www.onrr.gov).   
+I quickly learned that the Open Data, Design, & Development team (formerly the Data Display team) does much more than just display the data we have (which is actually one reason I got to work with the team to come up with a new team name!).  On the daily, they maintain the Natural Resources Revenue Data (NRRD) Portal and ONRR.gov.  I learned how to review and validate data that was being posted to the [NRRD portal](https://www.revenuedata.doi.gov) and how to make changes to [ONRR.gov](https://www.onrr.gov).   
 
 The team also manages [ONRR’s 508 compliance project](https://blog-nrrd.doi.gov/accessibility/), focuses on how to make the NRRD portal easier for our customers to understand (through user-centered design), and they are working to [redesign ONRR.gov](https://blog-nrrd.doi.gov/stakeholders/) and overhaul the process for creating and maintaining the website.  My explanation of the team’s charge does not do justice to the amount of work and coordination they perform.
 
@@ -42,8 +42,8 @@ When I first joined the team, the influx of meeting invitations I got was overwh
 
  - Retro - One meeting towards the end of the sprint to discuss how the last sprint went and to bring up things that are working well or not working effectively
 
-
-![A Sprint is two work weeks, during which a set of tasks are completed](./twoweeksprints.png)
+### Two week sprints
+![Two week sprints](./twoweeksprints.png)
 
 
 Additionally, the team has long-term planning meetings:
@@ -54,8 +54,8 @@ Additionally, the team has long-term planning meetings:
 
  - Ad-hoc design studios - One to two day meetings to discuss and plan the aspects of large upcoming initiatives
 
-
-![Longer term planning breaks down large goals into manageable pieces.  Two week Sprints fit into six week Roadmaps, with backlog grooming monthly.](./longertermplanning.png)
+### Longer term planning
+![Longer term planning](./longertermplanning.png)
 
 
 I quickly began to look forward to our daily stand ups and to all of the various activities that happened during the sprint.  I found that since we were meeting daily, the meetings were efficient- we all shared what we had been working on the day before, what we were working on today, what our plan for tomorrow was, and any blockers.  Often, our meetings were less than 30 minutes.  I felt like the whole team was keeping each other “in the know”.  Through our daily discussion we were able to regularly address, and usually resolve, road blocks as well as figure out when it would be beneficial to collaborate directly with another team member.  These daily meetings also allowed us to get to know each other better. In fact, the team supported me through the death of my step-dad.  Their support during that time was invaluable.
