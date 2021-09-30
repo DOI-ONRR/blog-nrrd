@@ -54,7 +54,7 @@ Additionally, the team has long-term planning meetings:
 
  - Backlog grooming - One meeting a month to review any remaining issues, determine how they should be prioritized, figure estimates (a number that represents complexity and time), and assign them to team members
 
- - Ad-hoc design studios - One to two day meetings to discuss and plan the aspects of large upcoming initiatives
+ - Ad-hoc design studios - One to two day meetings to discuss and [plan the aspects of large upcoming initiatives](https://blog-nrrd.doi.gov/remote-design-studio/)
 
 Longer term planning includes three two-week sprints per six-week roadmap, as well as backlog grooming every four weeks.
 
