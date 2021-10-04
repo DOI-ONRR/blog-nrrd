@@ -10,7 +10,7 @@ const GOOGLE_ANALYTICS_ID = (process.env.google_analytics) ?
 
 module.exports = {
   siteMetadata: {
-    title: 'Open data design at the Department of the Interior',
+    title: 'Open data, design, & development at the Department of the Interior',
     author: 'Ryan Johnson',
     description: 'Our blog about data, design, and innovation at the Department of the Interior',
     siteUrl: 'https://revenuedata.doi.gov/',

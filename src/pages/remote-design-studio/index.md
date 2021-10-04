@@ -1,5 +1,5 @@
 ---
-title: "Remote work: What about design studios? "
+title: "Remote work: what about design studios? "
 authors:
 - Shannon McHarg
 excerpt: "Design studios can be effectively conducted by remote teams."

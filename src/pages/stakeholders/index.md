@@ -13,7 +13,7 @@ date: "2021-05-19"
 
 For the [Natural Resources Revenue Data (NRRD) website](https://revenuedata.doi.gov/), we often start a project with a [design studio]( https://blog-nrrd.doi.gov/remote-design-studio/). We start here to solve a problem we’ve identified through user research.  
 
-We took a different approach to redesign the Office of Natural Resources Revenue’s (ONRR) primary website, [ONRR.gov]( https://www.onrr.gov/). ONRR.gov's primary goal is to communicate about the agency and reporting requirements. To reach this goal, we needed to partner with internal stakeholders from all areas of ONRR. This enabled us to learn about the domain before we could begin to better explain things to users. Our approach was to iteratively review [wireframes](https://qmcq5k.axshare.com/) with each team at ONRR.  
+We took a different approach to redesign the Office of Natural Resources Revenue’s (ONRR) primary website, [ONRR.gov]( https://www.onrr.gov/). ONRR.gov's primary goal is to communicate about the agency and reporting requirements. To reach this goal, we needed to partner with internal stakeholders from all areas of ONRR. This enabled us to learn about the domain before we could begin to better explain things to users. Our approach was to iteratively review [wireframes](https://gyxrzs.axshare.com) with each team at ONRR.  
 
 Learning how all the pieces fit together was not an easy task because nobody had documented it. For example, when I first started at ONRR, I missed the first half day of new employee training because of flight delays. When I walked in, each team presented about what they do, but I felt like I was missing something. When we got to a break, I asked if I missed a slide showing how all the groups fit together. The response was that there wasn't one.
 
@@ -73,7 +73,7 @@ I created process diagrams for many sections to explain concepts to new reporter
 Process wireframe:
 ![Wireframe of a screen showing the compliance process with some visual design applied to the header and footer.](./Compliance.png)
 
-Having an artifact, like a [wireframe](https://qmcq5k.axshare.com/), helped to start these discussions. I made them sketchy to start the conversations and keep people from getting hung up on look and feel. Wireframes make it easy for people to point to something and ask about it. They also prompt them to tell you about problems they have with the current state. They give a visual aide for the conversation and give people something to react to. I also invited feedback. I showed the stakeholders how to put comments in our prototyping tool. This allowed them to comment more offline after they had a chance to let the changes sink in.
+Having an artifact, like a [wireframe](https://gyxrzs.axshare.com), helped to start these discussions. I made them sketchy to start the conversations and keep people from getting hung up on look and feel. Wireframes make it easy for people to point to something and ask about it. They also prompt them to tell you about problems they have with the current state. They give a visual aide for the conversation and give people something to react to. I also invited feedback. I showed the stakeholders how to put comments in our prototyping tool. This allowed them to comment more offline after they had a chance to let the changes sink in.
 
 Stakeholder comment:
 ![Wireframe of compliance process screen with a stakeholder comment.](./Comment.png)

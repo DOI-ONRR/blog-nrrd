@@ -1,5 +1,5 @@
 ---
-title: "On being tool agnostic: Picking a design toolkit based on goals, constraints, and access"
+title: "On being tool agnostic: picking a design toolkit based on goals, constraints, and access"
 authors:
 - Shannon McHarg
 excerpt: "Sometimes you don't get to use the tools you want to use. Don't let that stop you from creating effective designs."
