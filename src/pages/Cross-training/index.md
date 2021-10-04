@@ -9,7 +9,7 @@ tags:
 - user experience
 - public service
 - government
-date: "2021-10-01"
+date: "2021-10-04"
 ---
 As I wrap up my first cross-training experience ever with the Office of Natural Resources Revenue’s (ONRR) Open Data, Design, & Development (ODDD) team, I reflect on my time with the team and share key takeaways from this experience. I am currently a Systems Accountant with the ONRR Financial Systems team under Infrastructure and Digital Services (IDS). I serve as a technical resource for ONRR’s financial system where I primarily support the Accounts Receivable/Billing Team and ONRR’s IT Services support contractor.
 ## Interest and hearsay
