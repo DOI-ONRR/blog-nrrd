@@ -1,5 +1,4 @@
 ---
-=======
 title: "MDX, not your parents' markdown"
 authors:
 - Jeff Keene
