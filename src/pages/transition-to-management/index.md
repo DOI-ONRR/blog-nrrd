@@ -27,11 +27,11 @@ I have always been taught to put myself in others’ shoes to be able to underst
 
 As a Program Analyst, I stayed within my comfort zone. I stuck to my duties and helped when I could with other duties. As a manager, I wanted to earn my team’s respect and I knew I had to force myself out of my comfort zone.  
 
-uring my first few weeks, I spoke with each team member individually. I asked them what challenges they are facing, what would they like to see happen differently, and how I could be supportive. I gained a lot of perspective from these discussions, and I quickly realized that I had to turn these discussions into actionable goals.
+During my first few weeks, I spoke with each team member individually. I asked them what challenges they are facing, what would they like to see happen differently, and how I could be supportive. I gained a lot of perspective from these discussions, and I quickly realized that I had to turn these discussions into actionable goals.
 
 To do so, I started a document with fiscal year goals. I then asked my team to prioritize the goals based on how much value they bring and how complex the goal would be to implement. After setting a priority level for each goal, I assigned goals to each quarter in the fiscal year and planned to evaluate our progress towards these goals during our road mapping meetings (every 6 weeks). I believe that as the goals we set together started being achieved, it helped me gain the trust of my team.
 
-Although one of the main duties as a manager is to delegate assignments across team members, the team was very short staffed for a long period of time. I had to pick up the slack along with my manager duties. For several months, the User Experience (UX) Designer and I took over tasks normally covered by 2 program analysts and a content strategist.
+Although one of the main duties as a manager is to delegate assignments across team members, the team was very short staffed for a long period of time. I had to pick up analyst assignments along with my manager duties. For several months, the User Experience (UX) Designer and I took over tasks normally covered by 2 program analysts and a content strategist.
 
 I will be forever grateful to our UX Designer (Shannon McHarg) for her support during that time. It was quite the struggle since it felt like I was in so many different roles   along with managing. However, filling in for these roles helped me better understand all the different duties across the team. I believe this also helped gain my team’s trust.
 
@@ -44,7 +44,7 @@ I faced a lot of challenges during my first year as a manager. The team was very
 
 As I wrapped up my first year as supervisor, I sent a survey to my team asking them for honest feedback. To ensure the feedback was candid, I gave them the option to remain anonymous when submitting the survey. The survey asked whether the team felt supported, whether there’s something I should be doing differently and what I’m doing that’s working. I sent that survey to give my team a platform to be heard and receiving their feedback helps me grow as a manager.
 
-Reflecting on my first year as a manager and reviewing answers from the survey, it seems that I have successfully stepped out of my comfort zone. Great managers are those who identify areas for improvement and are aware of their team’s challenges. I aspire to keep improving and to come up with creative solutions to tackle my team’s challenges. Below is advice that I would give to a new manager or anyone considering transitioning to a management role. 
+Reflecting on my first year as a manager and reviewing answers from the survey, it seems that I have successfully stepped out of my comfort zone. Great managers are those who identify areas for improvement and are aware of their team’s challenges. I aspire to keep improving and to come up with creative solutions to tackle my team’s challenges. Below is advice that I would give to a new manager or anyone considering transitioning to a management role.
 
 
 ## My advice to a new manager
@@ -62,4 +62,5 @@ Reflecting on my first year as a manager and reviewing answers from the survey, 
 ## Continuing my management journey
 
 I am so glad I didn’t let self-doubt drive my decisions and took on the challenge of becoming a manager. I'm happy that I was able to turn my focus from my life timing and looked at the fact that it was the perfect team and opportunity for growth.  As I continue my journey, my goal is to maximize my team’s potential and productivity while creating an environment that nurtures growth.
+
 I plan to continue to grow as well.  To better serve my team, I aim to purse a leadership coaching or mentoring opportunity. I believe this type of partnership will be provide me support and help me thrive in this role. I will continue to encourage feedback, celebrate successes, be supportive and always seek improvement.
