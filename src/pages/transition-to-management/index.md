@@ -23,13 +23,13 @@ After a lot of thought and discussions with my family, I decided to go for it. I
 
 ## Building trust and transitioning to management
 
-I have always been taught to put myself in others’ shoes to be able to understand their perspective and viewpoints. When I started the role as a Product Manager, I put myself in my team’s shoes. I thought to myself “it must be awkward to have someone who was your peer suddenly be your new manager.” I knew it must have felt awkward for my team members since it felt awkward for me as well. I had already built trust with my teammates, but as a fellow analyst , not as their manager.
+I have always been taught to put myself in others’ shoes to be able to understand their perspective and viewpoints. When I started the role as a Product Manager, I put myself in my team’s shoes. I thought to myself “it must be awkward to have someone who was your peer suddenly be your new manager.” I knew it must have felt awkward for my team members since it felt awkward for me as well. I had already built trust with my teammates, but as a fellow analyst, not as their manager.
 
 As a Program Analyst, I stayed within my comfort zone. I stuck to my duties and helped when I could with other duties. As a manager, I wanted to earn my team’s respect and I knew I had to force myself out of my comfort zone.  
 
 During my first few weeks, I spoke with each team member individually. I asked them what challenges they are facing, what would they like to see happen differently, and how I could be supportive. I gained a lot of perspective from these discussions, and I quickly realized that I had to turn these discussions into actionable goals.
 
-To do so, I started a document with fiscal year goals. I then asked my team to prioritize the goals based on how much value they bring and how complex the goal would be to implement. After setting a priority level for each goal, I assigned goals to each quarter in the fiscal year and planned to evaluate our progress towards these goals during our road mapping meetings (every 6 weeks). I believe that as the goals we set together started being achieved, it helped me gain the trust of my team.
+To do so, I started a document with fiscal year goals. I then asked my team to prioritize the goals based on how much value they bring and how complex the goal would be to implement. After setting a priority level for each goal, I assigned goals to each quarter in the fiscal year and planned to evaluate our progress towards these goals during our road mapping meetings (every 6 weeks). I believe that as the team started achieving the goals we set together, it helped me gain the trust of my team.
 
 Although one of the main duties as a manager is to delegate assignments across team members, the team was very short staffed for a long period of time. I had to pick up analyst assignments along with my manager duties. For several months, the User Experience (UX) Designer and I took over tasks normally covered by 2 program analysts and a content strategist.
 
