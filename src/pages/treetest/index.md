@@ -3,7 +3,7 @@ title: "Tree testing using a clickable prototype"
 authors:
 - Lindsay Goldstein
 - Shannon McHarg
-excerpt: "We used GitHub a clickable prototype to conduct tree testing and thought we should share what we learned."
+excerpt: "We used a clickable prototype to conduct tree testing and thought we should share what we learned."
 tags:
 - user experience
 - onrr.gov
