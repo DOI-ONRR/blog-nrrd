@@ -3,14 +3,14 @@ title: "Stepping out of my comfort zone - into management"
 authors:
 - Maroya Faied
 
-excerpt: "This post shares a personal story about tranisitoning to management and shares advice to a new manager."
+excerpt: "This post shares a personal story about transitioning to management and shares advice to a new manager."
 tags:
 - product management
 - new manager
 date: "2021-11-18"
 ---
 
-I have survived one year as the Product Manager for the Open Data, Design, and Development (ODDD) team! My transition from a Program Analyst     to a Manager role has been an amazing learning experience. It started off with self-doubt and hesitation to transitioning into a confident manager with my team’s support. I will share my story along with advice I would give to a new manager or to someone considering a similar role.
+I have survived one year as the Product Manager for the Open Data, Design, and Development (ODDD) team! My transition from a Program Analyst to a Manager role has been an amazing learning experience. It started off with self-doubt and hesitation to transitioning into a confident manager with my team’s support. I will share my story along with advice I would give to a new manager or to someone considering a similar role.
 
 ## Deciding to step out of my comfort zone
 
@@ -27,7 +27,7 @@ I have always been taught to put myself in others’ shoes to be able to underst
 
 As a Program Analyst, I stayed within my comfort zone. I stuck to my duties and helped when I could with other duties. As a manager, I wanted to earn my team’s respect and I knew I had to force myself out of my comfort zone.  
 
-During my first few weeks, I spoke with each team member individually. I asked them what challenges they are facing, what would they like to see happen differently, and how I could be supportive. I gained a lot of perspective from these discussions, and I quickly realized that I had to turn these discussions into actionable goals.
+During my first few weeks, I spoke with each team member individually. I asked them what challenges they were facing, what would they like to see happen differently, and how I could be supportive. I gained a lot of perspective from these discussions, and I quickly realized that I had to turn these discussions into actionable goals.
 
 To do so, I started a document with fiscal year goals. I then asked my team to prioritize the goals based on how much value they bring and how complex the goal would be to implement. After setting a priority level for each goal, I assigned goals to each quarter in the fiscal year and planned to evaluate our progress towards these goals during our road mapping meetings (every 6 weeks). I believe that as the team started achieving the goals we set together, it helped me gain the trust of my team.
 
@@ -63,4 +63,4 @@ Reflecting on my first year as a manager and reviewing answers from the survey, 
 
 I am so glad I didn’t let self-doubt drive my decisions and took on the challenge of becoming a manager. I'm happy that I was able to turn my focus from my life timing and looked at the fact that it was the perfect team and opportunity for growth.  As I continue my journey, my goal is to maximize my team’s potential and productivity while creating an environment that nurtures growth.
 
-I plan to continue to grow as well.  To better serve my team, I aim to purse a leadership coaching or mentoring opportunity. I believe this type of partnership will be provide me support and help me thrive in this role. I will continue to encourage feedback, celebrate successes, be supportive and always seek improvement.
+I plan to continue to grow as well.  To better serve my team, I aim to pursue a leadership coaching or mentoring opportunity. I believe this type of partnership will be provide me support and help me thrive in this role. I will continue to encourage feedback, celebrate successes, be supportive and always seek improvement.
