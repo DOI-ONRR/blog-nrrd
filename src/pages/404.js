@@ -1,5 +1,6 @@
 import React from 'react'
 
+// Not found page
 const NotFoundPage = () => (
   <div style={{ textAlign: "center" }}>
     <h1>NOT FOUND</h1>
