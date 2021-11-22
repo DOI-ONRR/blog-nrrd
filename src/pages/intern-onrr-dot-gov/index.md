@@ -60,7 +60,7 @@ Sketch iterations: Working from complex to simple interactive design components 
 
 
 ### Prototype
-To build on concepts iteratively, we conducted a series of usability test sessions with [lo-fidelity wireframes]( https://projects.invisionapp.com/share/GNWBLFZC3FS#/screens/408441718) featuring 4 containers grouped by commonly accessed sections of ONRR.gov. Our strategy was to introduce a redesign with less information to learn what participants may be missing and if the existing information and its arrangement was meeting their expectations.
+To build on concepts iteratively, we conducted a series of usability test sessions with lo-fidelity wireframes featuring 4 containers grouped by commonly accessed sections of ONRR.gov. Our strategy was to introduce a redesign with less information to learn what participants may be missing and if the existing information and its arrangement was meeting their expectations.
 
 ![Lo- Fidelity Wireframes: Phase I conceptual lo-fidelity designs. From left to right: (a) Homepage with 4 containers grouping common sections; (b) Getting Started page with enclosed accordions using dynamic progressive disclosure for Reporter setup.](./Wires.png)
 Lo- Fidelity Wireframes: Phase I conceptual lo-fidelity designs. From left to right: (a) Homepage with 4 containers grouping common sections; (b) Getting Started page with enclosed accordions using dynamic progressive disclosure for Reporter setup.
