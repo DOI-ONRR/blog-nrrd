@@ -77,17 +77,17 @@ So maybe I won't give you all my daily takeaways but here are a few of them....
 
 ### Day 24 – 508 document project
 * Notes: Uploaded the last accessible document for Phase 2 of the [508 accessibility project](https://blog-nrrd.doi.gov/accessibility/) using one of the ODDD’s checklists:
-1.	Recheck document for accessibility
-2.	Upload document in dev (development) site
-3.	Review document in dev site
-4.	Publish to the live site
-5.	Update Accessibility tracking sheet
-6.	Check the live site
+    1.	Recheck document for accessibility
+    2.	Upload document in dev (development) site
+    3.	Review document in dev site
+    4.	Publish to the live site
+    5.	Update Accessibility tracking sheet
+    6.	Check the live site
 * Takeaways: Felt honored to play a small part in this important, massive project that involved **many** employees helping to determine if documents on [onrr.gov](https://onrr.gov/) still needed to be on the website and then making those needed documents accessible. Thankful for Christine patiently teaching me so that I was able to follow the checklist and update documents on [onrr.gov](https://onrr.gov/), with an important peer review check at the end.
 
 ### Day 36 – Check-in with Maroya, Product Manager and Supervisor
 * Notes: Team members have a weekly or bi-weekly check-in, one-on-one, with Maroya. As a cross trainer, I was able to experience these check-ins. The check-in meeting is informal, and you can talk about any issues that you may have questions on or talk in general about workload.
-* Takeaway: Great check-in with Maroya—gained her perspectives and experience transitioning to leadership, which was helpful to plan my career goals. Recommend reading Maroya’s blog post [Stepping out of my comfort zone - into management](blog-nrrd.app.cloud.gov/transition-to-management/), and getting other’s perspectives.
+* Takeaway: Great check-in with Maroya—gained her perspectives and experience transitioning to leadership, which was helpful to plan my career goals. Recommend reading Maroya’s blog post [Stepping out of my comfort zone - into management](https://blog-nrrd.doi.gov/transition-to-management/), and getting other’s perspectives.
 
 ### Day 47 – Sprint Demo
 * Notes: The ODDD team has an end of sprint demo every other Thursday. This is a good time to see everything the team worked on in the sprint and has attendees from outside the team. Redirects was one of the issues I worked on that took several weeks of effort. The goal of this issue was to add new Uniform Resource Locator (URL) internal or external redirect links for the 2,525 documents that the team removed as part of the [508 accessibility project](https://blog-nrrd.doi.gov/accessibility/). Presented the status of adding all the redirects and the next steps to add redirects for the new, in development, [onrr.gov](https://onrr.gov/) site.
