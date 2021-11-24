@@ -38,7 +38,7 @@ The ODDD team is incredibly organized and runs their team with an [agile methodo
 
 >"It forces you to be accountable" Lindsay Goldstein
 
-They have a structured [meeting schedule](https://github.com/ONRR/nrrd/wiki/Joining-the-Natural-Resources-Revenue-Data-project-team) with daily standups and organize their work in two week sprints, and for larger goals have roadmapping every 6 weeks. They have documented [basics for making distributed work work](https://github.com/ONRR/nrrd/wiki/Basics-for-making-distributed-work-work) that everyone should read because it is relevant to our current remote working.
+They have a structured [meeting schedule](https://github.com/ONRR/nrrd/wiki/Joining-the-Natural-Resources-Revenue-Data-project-team) with daily standups and organize their work in two week sprints, and for larger goals have roadmapping every six weeks. They have documented [basics for making distributed work work](https://github.com/ONRR/nrrd/wiki/Basics-for-making-distributed-work-work) that everyone should read because it is relevant to our current remote working.
 
 >"Default to video for most meetings (especially daily standups, collaboration, and coworking). Things move faster because you can rely on nonverbal feedback and cues to keep the conversation moving. They also help build team empathy and avoid alienation." Corey Mahoney
 
@@ -126,4 +126,4 @@ If you want to read about other cross training experiences with the ODDD team an
 * [I came for the data and stayed for the agility: reflections on my rotation with the Open Data, Design, & Development team](https://blog-nrrd.doi.gov/agile-methodology/)
 
 ###For ONRR employees
-[ONRResource](https://onrresource/Job-Rotation/) has cross training and job rotation opportunities. If you have any questions about my cross training experience feel free to connect with me.
+[ONRResource](https://onrresource/Job-Rotation/) has cross training and job rotation opportunities (connect to VPN to access). If you have any questions about my cross training experience feel free to connect with me.
