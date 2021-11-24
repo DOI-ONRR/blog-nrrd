@@ -32,7 +32,7 @@ Here are some of the requirements of 21<sup>st</sup> Century IDEA:
 
 ### Section 508 compliance (accessibility)
 
-Our content strategist is well versed in accessibility compliance and works with our team to make sure our content is accessible. He documented simple procedures in the [accessibility section](https://github.com/ONRR/doi-extractives-data/wiki/Content-guide#accessibility) of our [content guide](https://github.com/ONRR/doi-extractives-data/wiki/Content-guide) to help team members create content on their own. Our content strategist then performs quarterly accessibility audits, and we set out to fix the errors. In addition to the work we are doing on our own website, our content strategist is creating a workshop to share how to comply with accessibility requirements with other groups within ONRR.
+Our content strategist is well versed in accessibility compliance and works with our team to make sure our content is accessible. He documented simple procedures in the [accessibility section](https://github.com/ONRR/nrrd/wiki/Content-style-guide#accessibility) of our [content guide](https://github.com/ONRR/nrrd/wiki/Content-style-guide) to help team members create content on their own. Our content strategist then performs quarterly accessibility audits, and we set out to fix the errors. In addition to the work we are doing on our own website, our content strategist is creating a workshop to share how to comply with accessibility requirements with other groups within ONRR.
 
 ### Avoid duplication
 
