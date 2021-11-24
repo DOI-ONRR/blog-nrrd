@@ -36,7 +36,7 @@ Our content strategist is well versed in accessibility compliance and works with
 
 ### Avoid duplication
 
-This provision states that a website “does not overlap with or duplicate any legacy websites, and, if applicable, ensures legacy websites are reviewed, eliminated, and consolidated.” [Natural Resources Revenue Data](revenuedata.doi.gov) has fully replaced both the EITI website and a public statistics website by combining the data from both websites in one location.
+This provision states that a website “does not overlap with or duplicate any legacy websites, and, if applicable, ensures legacy websites are reviewed, eliminated, and consolidated.” [Natural Resources Revenue Data](https://www.revenuedata.doi.gov) has fully replaced both the EITI website and a public statistics website by combining the data from both websites in one location.
 
 ### Searchable
 
