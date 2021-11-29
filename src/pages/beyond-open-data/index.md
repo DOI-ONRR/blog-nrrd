@@ -44,7 +44,7 @@ This provision states that a website “does not overlap with or duplicate any l
 
 ### User-driven design
 
-This provision states that the website must be “designed around user needs with data-driven analysis influencing management and development decisions, using qualitative and quantitative data to determine user goals, needs, and behaviors” and that we should “continually test the website...to ensure that user needs are addressed.” We follow a user-centered development practice to design our site led by our user experience expert. As such, our user experience designer guides our [user-centered design and development cycle](https://github.com/ONRR/doi-extractives-data/wiki/User-Centered-Design-Process).
+This provision states that the website must be “designed around user needs with data-driven analysis influencing management and development decisions, using qualitative and quantitative data to determine user goals, needs, and behaviors” and that we should “continually test the website...to ensure that user needs are addressed.” We follow a user-centered development practice to design our site led by our user experience expert. As such, our user experience designer guides our [user-centered design and development cycle](https://github.com/ONRR/nrrd/wiki/User-Centered-Design-Process).
 
 ### Mobile Devices
 
@@ -58,7 +58,7 @@ Here are some of the requirements of the OPEN Government Data Act:
 
 ### Open data
 
-Our website is built and maintained by [open source code](https://github.com/ONRR/doi-extractives-data/) for the purpose of providing [open data](https://revenuedata.doi.gov/downloads/). We publish as much natural resources revenue data as possible, without revealing proprietary company information or personally identifiable information.
+Our website is built and maintained by [open source code](https://github.com/ONRR/nrrd/) for the purpose of providing [open data](https://revenuedata.doi.gov/downloads/). We publish as much natural resources revenue data as possible, without revealing proprietary company information or personally identifiable information.
 
 ### Machine-readable
 
@@ -70,15 +70,15 @@ Agencies must facilitate collaboration with non-Government entities (including b
 
 ### User-centered design/outreach
 
-Agencies must engage the public in using public data assets of the agency and encourage collaboration. In addition to being able to collaborate via [GitHub](https://github.com/ONRR/doi-extractives-data/issues), we also maintain an email address and social media accounts as avenues for public interaction. We conduct extensive user testing as we iterate our product and include this feedback in our final product. We also participate in outreach via public forums such as conferences and workshops.
+Agencies must engage the public in using public data assets of the agency and encourage collaboration. In addition to being able to collaborate via [GitHub](https://github.com/ONRR/nrrd/issues), we also maintain an email address and social media accounts as avenues for public interaction. We conduct extensive user testing as we iterate our product and include this feedback in our final product. We also participate in outreach via public forums such as conferences and workshops.
 
 ### Analytics
 
-Agencies must identify and implement methods for collecting and analyzing digital information on data asset usage by users within and outside of the agency, including designating a point of contact within the agency to assist the public and to respond to quality issues, usability issues, recommendations for improvements, and complaints about adherence to open data requirements within a reasonable period of time. While we won’t lead the agency initiative on this directive, we already maintain monthly [analytics](https://github.com/ONRR/doi-extractives-data/wiki/Analytics) to help us identify and cater to our audience. Our users can also always reach us via [GitHub](https://github.com/ONRR), social media, or our email address: [nrrd@onrr.gov](mailto:nrrd@onrr.gov).
+Agencies must identify and implement methods for collecting and analyzing digital information on data asset usage by users within and outside of the agency, including designating a point of contact within the agency to assist the public and to respond to quality issues, usability issues, recommendations for improvements, and complaints about adherence to open data requirements within a reasonable period of time. While we won’t lead the agency initiative on this directive, we already maintain monthly [analytics](https://github.com/ONRR/nrrd/wiki/Analytics) to help us identify and cater to our audience. Our users can also always reach us via [GitHub](https://github.com/ONRR), social media, or our email address: [nrrd@onrr.gov](mailto:nrrd@onrr.gov).
 
 ### Metrics
 
-Agencies must develop and implement a process to evaluate and improve the timeliness, completeness, consistency, accuracy, usefulness, and availability of open Government data assets. We have instituted [metrics](https://github.com/ONRR/doi-extractives-data/wiki/Goals-and-metrics) that address the above requirements and track them on a regular basis.  
+Agencies must develop and implement a process to evaluate and improve the timeliness, completeness, consistency, accuracy, usefulness, and availability of open Government data assets. We have instituted [metrics](https://github.com/ONRR/nrrd/wiki/Goals-and-metrics) that address the above requirements and track them on a regular basis.  
 
 ### Conclusion
 

@@ -144,7 +144,7 @@ One of the tasks we put off until after the soft launch was working on the searc
 
 ## Final deliverable
 
-We released the <a href="https://beta-nrrd.app.cloud.gov/">soft launch</a> a couple of weeks ago and are diligently working through all the things we need to do to be ready for the hard launch.
+We released the soft launch a couple of weeks ago and are diligently working through all the things we need to do to be ready for the hard launch.
 
 ## Lessons learned
 
