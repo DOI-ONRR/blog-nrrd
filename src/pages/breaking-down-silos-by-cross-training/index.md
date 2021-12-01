@@ -7,7 +7,7 @@ tags:
 - cross training
 - government
 - public service
-date: "2021-12-16"
+date: "2021-12-2"
 ---
 
 Are you tired of the doing the same job, the same way, with the same people—even if you love them—every day? If you answered yes to any of these, then it's time to find some inspiration for change and try cross training!
