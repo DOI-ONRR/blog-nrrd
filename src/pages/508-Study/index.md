@@ -22,7 +22,7 @@ During   the last few months of the onrr.gov document compliance project, we dec
 
 For our stakeholder research, we interviewed employees across all levels and areas of ONRR. In total, we interviewed 31 ONRR employees for this study. Their roles covered multiple groups and both supervisory and non-supervisory roles. We further categorized our stakeholders based on their association with the onrr.gov document compliance project: those unfamiliar, managers and leaders, those who use/need compliant material, and those who actively worked to remediate documents. The pie graph below shows how many users fell into each stakeholder type (some participants fall into more than one stakeholder type).
 
-![Pie chart showing stakeholder types. Stakeholders included 15 document updaters, 9 managers and leaders, 8 unfamiliar with 508 compliance, and 6 compliant material users.](./piegraph.jpg)
+![Pie chart showing stakeholder types. Stakeholders included 15 document updaters, 9 managers and leaders, 8 unfamiliar with 508 compliance, and 6 compliant material users.](./piegraph.png)
 
 ## Familiarity with 508 compliance
 
