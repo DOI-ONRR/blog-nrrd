@@ -22,15 +22,15 @@ During   the last few months of the onrr.gov document compliance project, we dec
 
 For our stakeholder research, we interviewed employees across all levels and areas of ONRR. In total, we interviewed 31 ONRR employees for this study. Their roles covered multiple groups and both supervisory and non-supervisory roles. We further categorized our stakeholders based on their association with the onrr.gov document compliance project: those unfamiliar, managers and leaders, those who use/need compliant material, and those who actively worked to remediate documents. The pie graph below shows how many users fell into each stakeholder type (some participants fall into more than one stakeholder type).
 
-![Pie chart showing stakeholder types.  Stakeholders included 15 document updaters, 9 managers and leaders, 8 unfamiliar with 508 compliance, and 6 compliant material users.](/piegraph.jpg)
+![Pie chart showing stakeholder types.  Stakeholders included 15 document updaters, 9 managers and leaders, 8 unfamiliar with 508 compliance, and 6 compliant material users.](./piegraph.jpg)
 
 ## Familiarity with 508 compliance
 
 The first question we asked interview participants was to describe their familiarity with ONRR’s 508 compliance project and 508 compliance in general. Those who described themselves as very familiar had largely participated in remediating documents or require compliant documents. Those only somewhat familiar tended to be managers who delegated remediation tasks or employees who were aware of efforts, but not tasked with remediating documents. Those not familiar were employees who had not participated in remediation tasks and were not aware of the efforts to make documents compliant.
 
-As explained in our previous 508 compliance ![blog post](https://blog-nrrd.doi.gov/accessibility/), each group within ONRR is responsible for remediating all the documents they own. This means all their existing documents on onrr.gov and all documents they produce in the future. So, there are many people within ONRR that are familiar with the document remediation process.
+As explained in our previous 508 compliance [blog post](https://blog-nrrd.doi.gov/accessibility/), each group within ONRR is responsible for remediating all the documents they own. This means all their existing documents on onrr.gov and all documents they produce in the future. So, there are many people within ONRR that are familiar with the document remediation process.
 
-![Circles indicate that the participant doesn't need accessible materials. Triangles indicate that the participant does need accessible materials. Axis for participants to indicate how familiar they are with 508 compliance. Line with "not familiar with 508" on the left and "very familiar with 508 on the right."](familiarity.jpg)
+![Circles indicate that the participant doesn't need accessible materials. Triangles indicate that the participant does need accessible materials. Axis for participants to indicate how familiar they are with 508 compliance. Line with "not familiar with 508" on the left and "very familiar with 508 on the right."](./familiarity.jpg)
 
 ## Remediation
 
