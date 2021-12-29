@@ -42,7 +42,7 @@ To address these shortcomings, participants expressed that they would like to se
 
 ##Training Resources
 
-To make existing documents 508 compliant, most document remediators “learned by doing”. Remediators who were tasked with updating many documents attended training specific to the source material software as well as Adobe-specific training. They also utilized the Department of the Interior (DOI) level compliance officer for troubleshooting help. As several people within ONRR became well-versed in document remediation, they then helped new remediators learn the process.
+To make existing documents 508 compliant, most document remediators “learned by doing.” Remediators who were tasked with updating many documents attended training specific to the source material software as well as Adobe-specific training. They also utilized the Department of the Interior (DOI) level compliance officer for troubleshooting help. As several people within ONRR became well-versed in document remediation, they then helped new remediators learn the process.
 
 Remediators noted that there was a lack of current resources within ONRR and DOI. Going forward, they noted the need for more advanced training resources, and clarity and consistency of best practices for remediating documents.
 
