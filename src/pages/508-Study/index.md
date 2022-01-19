@@ -11,7 +11,7 @@ tags:
 - user experience
 - public service
 - government
-date: "2022-01-07"
+date: "2022-01-20"
 ---
 
 Accessibility is the foundation for inclusion, diversity, and equity within the federal government. The main way the government establishes accessibility requirements for information and communication technology is through [Section 508 of the Rehabilitation Act](https://www.access-board.gov/law/ra.html). Our team recently [documented](https://blog-nrrd.doi.gov/accessibility/) the steps we took to ensure all documents on onrr.gov are Section 508 compliant. This daunting task is now complete!
