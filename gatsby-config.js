@@ -14,7 +14,10 @@ module.exports = {
       "trackingId": "UA-33523145-1"
     }
   }, "gatsby-plugin-image", "gatsby-plugin-react-helmet", "gatsby-plugin-sitemap", {
-    resolve: 'gatsby-plugin-manifest'
+    resolve: 'gatsby-plugin-manifest',
+    options: {
+      "icon": "src/img/DI-2x.png"
+    }
   }, 
   "gatsby-plugin-mdx",
   "gatsby-plugin-sharp",
