@@ -1,5 +1,5 @@
 ---
-title: "I came for the data and stayed for the agility: reflections on my rotation with the Open Data, Design, & Development team"
+title: "Implementing Agile tools"
 authors:
 - Christa McCurdy
 excerpt: "An ONRR employee shares her experience implementing Agile tools after cross-training with the Open Data, Design, & Development team"
