@@ -12,7 +12,7 @@ tags:
 date: "2021-10-22"
 ---
 
-Last summer I completed a job rotation with ONRR’s Open Data, Design, and Development (ODDD) team.  I wrote a blog post for them and I’d like to encourage you to read it to get my initial reflections on my experience and my excitement around Agile Management.  It can be found here: [Open Data, Design, & Development team](https://blog-nrrd.doi.gov/breaking-down-silos-by-cross-training/)
+Last summer I completed a job rotation with ONRR’s Open Data, Design, and Development (ODDD) team.  I wrote a blog post for them and I’d like to encourage you to read it to get my initial reflections on my experience and my excitement around Agile Management.  It can be found here: [Open Data, Design, & Development team](https://blog-nrrd.doi.gov/cross-training/)
 
 Today, I’d like to share with you how I have incorporated some of the things I learned during my rotation.  First, I made some changes to how I manage my workload.                                                                                                 
 
