@@ -20,7 +20,7 @@ Today, I’d like to share with you how I have incorporated some of the things I
 
 For the past two years I’ve been trying to become better at tracking tasks and prioritizing them.  I began using sticky notes to represent tasks on a Kanban Board on my wall.  The ODDD team tracks every item of work as an issue in a platform called [GitHub](https://github.com/ONRR/nrrd/issues).  During their sprint review they discuss the status of each remaining open issue on [ZenHub](https://www.zenhub.com), using a Kanban layout.  After my rotation, I created a digital Kanban board using [Service Now’s Visual Task Board](https://docs.servicenow.com/bundle/rome-servicenow-platform/page/use/visual-task-boards/concept/c_VisualTaskBoards.html).
 ![Visual Task Board](./taskboard.jpg)
-A digital and shareable board has many benefits.  One can share a board with colleagues, assign contributors to individual tasks, add due dates, and create checklists.  There are a variety of alternative digital task board options on the web, including [Microsoft Planner](https://www.tasks.office.com), [Asana](https://www.asana.com), [Trello](https://www.trello.com), and others (while we find these tools useful, ONRR does not endorse any specific product).
+A digital and shareable board has many benefits.  One can share a board with colleagues, assign contributors to individual tasks, add due dates, and create checklists.  There are a variety of alternative digital task board options on the web, including [Microsoft Planner](https://tasks.office.com), [Asana](https://www.asana.com), [Trello](https://www.trello.com), and others (while we find these tools useful, ONRR does not endorse any specific product).
 
 ## Communication
 
