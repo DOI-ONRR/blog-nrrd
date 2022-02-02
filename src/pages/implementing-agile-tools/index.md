@@ -24,7 +24,7 @@ A digital and shareable board has many benefits.  One can share a board with col
 
 ## Communication
 
-Another take-away for me was how to be more effective in my communication as a remote worker.  The ODDD team has a list of best practices on their Wiki called [Basics for making distributed work work](https://github.com/ONRR/onrr.gov-site/wiki/Basics-for-making-distributed-work-work).  Some things that have resonated with me are defaulting to video for meetings (there are times I think this is not ideal- such as ONRR All Hands meetings); setting aside time for meeting prep (and time after for finishing notes or entering to-do items into my Visual Task Board); and treating everyone as remote- I think this last piece will be critical once we have folks transition back into the office.
+Another take-away for me was how to be more effective in my communication as a remote worker.  The ODDD team has a list of best practices on their Wiki called [Basics for making distributed work work](https://github.com/ONRR/onrr.gov-site/wiki/Basics-for-making-distributed-work-work).  Some things that have resonated with me are defaulting to video for meetings (there are times this is not ideal- such as ONRR All Hands meetings); setting aside time for meeting prep (and time after for finishing notes or entering to-do items into my Visual Task Board); and treating everyone as remote- this last piece will be critical once we have folks transition back into the office.
 
 Beyond these two areas where I’ve already begun to make personal changes in how I operate every day, I’ve taken my observations from the Open Data, Design, and Development team and thought about how Reference and Reporting Management (RRM) could use some of their methodologies to improve internal communication and knowledge sharing.
 
@@ -34,6 +34,6 @@ I gained a lot of knowledge, experience, and perspective during my job rotation.
 
 This is my way of trying to break down silos at ONRR. It certainly helps that ONRR's leadership and management teams are supportive of cross training opportunities.  The personal growth, networking, and learning opportunities are a win-win-win for employees, teams, and the organization as a whole.
 
-I would highly encourage every ONRR employee to [participate in a job rotation](https://onrresource/Cross-Training/) (connect to VPN to access).  I think these opportunities provide a great way for getting familiar with the work that other parts of our organization perform, having context for how they use our services and products, creating relationships across the organization and breaking down silos, and seeing how different teams are run.
+I highly encourage every ONRR employee to [participate in a job rotation](https://onrresource/Cross-Training/) (connect to VPN to access).  These opportunities provide a great way for getting familiar with the work that other parts of our organization perform, context for how they use our services and products, relationships across the organization, and knowledge of how different teams are run.
 
 Expanding your knowledge and skill set is always beneficial.  If you'd like more information, email [JobRotation-CrossT@onrr.gov](mailto:JobRotation-CrossT@onrr.gov).
