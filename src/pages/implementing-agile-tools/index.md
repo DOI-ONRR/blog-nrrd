@@ -12,7 +12,7 @@ tags:
 date: "2022-02-04"
 ---
 
-Last summer I completed a job rotation with the Open Data, Design, and Development (ODDD) team within the Office of Natural Resources Revenue (ONRR).  I wrote a blog post for them and I’d like to encourage you to read it to get my initial reflections on my experience and my excitement around Agile Management: [I came for the data and stayed for the agility: reflections on my rotation with the Open Data, Design, & Development team](https://blog-nrrd.doi.gov/agile-methodology/)
+Last summer I completed a job rotation with the Open Data, Design, and Development (ODDD) team within the Office of Natural Resources Revenue (ONRR).  I wrote a blog post for them and I’d like to encourage you to read it to get [my initial reflections on my experience and my excitement around Agile Management](https://blog-nrrd.doi.gov/agile-methodology/).
 
 Today, I’d like to share with you how I have incorporated some of the things I learned during my rotation.  First, I made some changes to how I manage my workload.                                                                                                 
 
