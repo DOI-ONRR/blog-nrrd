@@ -34,6 +34,6 @@ I gained a lot of knowledge, experience, and perspective during my job rotation.
 
 This is my way of trying to break down silos at ONRR. It certainly helps that ONRR's leadership and management teams are supportive of cross training opportunities.  The personal growth, networking, and learning opportunities are a win-win-win for employees, teams, and the organization as a whole.
 
-I highly encourage every ONRR employee to [participate in a job rotation](https://onrresource/Cross-Training/) (connect to VPN to access).  These opportunities provide a great way for getting familiar with the work that other parts of our organization perform, context for how they use our services and products, relationships across the organization, and knowledge of how different teams are run.
+I highly encourage every ONRR employee to [participate in a job rotation](https://onrresource/Cross-Training/) (connect to VPN to access).  These opportunities provide a great way to get familiar with the work that other parts of our organization perform, context for how they use our services and products, relationships across the organization, and knowledge of how different teams are run.
 
 Expanding your knowledge and skill set is always beneficial.  If you'd like more information, email [JobRotation-CrossT@onrr.gov](mailto:JobRotation-CrossT@onrr.gov).
