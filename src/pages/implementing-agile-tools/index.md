@@ -24,7 +24,7 @@ A digital and shareable board has many benefits.  One can share a board with col
 
 ## Communication
 
-Another take-away for me was how to be more effective in my communication as a remote worker.  The ODDD team has a list of best practices on their wiki called [Basics for making distributed work work](https://github.com/ONRR/onrr.gov-site/wiki/Basics-for-making-distributed-work-work).  Some things that have resonated with me are defaulting to video for meetings (there are times this is not ideal- such as ONRR All Hands meetings); setting aside time for meeting prep (and time after for finishing notes or entering to-do items into my Visual Task Board); and treating everyone as remote- this last piece will be critical once we have folks transition back into the office.
+Another take-away for me was how to be more effective in my communication as a remote worker.  The ODDD team has a list of [best practices](https://github.com/ONRR/onrr.gov-site/wiki/Basics-for-making-distributed-work-work) on their wiki.  Some things that have resonated with me are defaulting to video for meetings (there are times this is not ideal- such as ONRR All Hands meetings); setting aside time for meeting prep (and time after for finishing notes or entering to-do items into my Visual Task Board); and treating everyone as remote- this last piece will be critical once we have folks transition back into the office.
 
 Beyond these two areas where I’ve already begun to make personal changes in how I operate every day, I’ve taken my observations from the Open Data, Design, and Development team and thought about how Reference and Reporting Management (RRM) could use some of their methodologies to improve internal communication and knowledge sharing.
 
