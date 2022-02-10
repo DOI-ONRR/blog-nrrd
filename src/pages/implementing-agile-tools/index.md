@@ -9,7 +9,7 @@ tags:
 - agile
 - government
 - public Service
-date: "2022-02-04"
+date: "2022-02-10"
 ---
 
 Last summer I completed a job rotation with the Open Data, Design, and Development (ODDD) team within the Office of Natural Resources Revenue (ONRR).  I wrote a [blog post](https://blog-nrrd.doi.gov/agile-methodology/) for them and I’d like to encourage you to read it to get my initial reflections on my experience and my excitement around Agile Management.
