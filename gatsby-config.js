@@ -16,7 +16,7 @@ module.exports = {
   }, "gatsby-plugin-image", "gatsby-plugin-react-helmet", "gatsby-plugin-sitemap", {
     resolve: 'gatsby-plugin-manifest',
     options: {
-      "icon": "src/img/DI-2x.png"
+      "icon": "src/img/icon.png"
     }
   }, 
   "gatsby-plugin-mdx",
