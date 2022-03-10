@@ -1,79 +1,49 @@
 ---
-title: "Ensuring accessible content beyond the auto checks: making a diagram screen reader friendly"
+title: "How we do quality assurance"
 authors:
-- Shannon McHarg
-- Christina Mathers
-- Sid Sharma
-excerpt: "We discuss how we made a diagram accessible beyond auto check funcitonality by making it better for screen reader users."
+- Lindsay Goldstein
+- Jennifer Malcolm
+- Mojo Nichols
+excerpt: "In this post, we discuss how we are evaluating, improving, and documenting our quality assurance processes."
 tags:
-- accessibility
-- user experiences
-- documents
+- data management
+- quality assurance
+- QA
+- testing
+- tests
+- pull request
 
-date: "2022-03-11"
+date: "2020-12-04"
 ---
 
-While doing some work on onrr.gov I, Shannon, noticed that the organization chart was over a year old and still included people who had retired. I reached out to the document owner, Christina, to get an updated version.
-Christina updated the chart source document with the new names and then converted it to a PDF. When she checked the PDF for accessibility errors, there were over 300 nested alternative text errors. They were corrected in the PDF on the old version, but not in the source document. This is why it's important to correct errors in the source document.
-Christina decided to fix the source document to ensure accessibility going forward. She added alt text, removed extra line spaces, and better formatted the phone numbers. She found that adding the alt text in the source document didn’t correct all the errors that resulted after converting it to a pdf. The process of converting generates new errors that must be remediated in the pdf, making pdfs more work to make accessible than source documents.
-Image: Visio org chart with alt text
-![Screenshot of Visio file highlighting a text box with this text: "Revenue, Reporting & Compliance Management, Ruth Welch, 303 231 3175." Also shows alt text, which says: "Revenue, Reporting & Compliance Management, Ruth Welch, 3 0 3 2 3 1 3 1 7 5."](./Visio_Org_Chart.png)
+Over the last few years, we’ve made a lot of changes to the [Natural Resources Revenue Data site](https://revenuedata.doi.gov). Our goal with all of those changes has been to increase user value and address any problems we’ve seen users experience with our site. Some of our changes have resulted in an even greater need to focus on our quality assurance (QA) process. For example, we’ve gone from updating each of our data sets one time a year to providing monthly and annual data sets. We’ve also added a database behind the site to accommodate more data and improve site performance.
 
+We won’t be delivering user value if we aren’t delivering accurate, timely data to our users. So, in addition to the changes we’ve made to our site and the data behind it, we have focused on evaluating, improving, and documenting our QA processes. Our improvements are ongoing, but we have a solid foundation of procedures and technical processes that make us confident we’re minimizing bugs and delivering quality data and content to our users. Those include frequent user testing, documented processes for data and content checks, and automated tests and audits to review changes and identify bugs.
 
-Image: Errors in pdf conversion despite alt text in the source document
-![Screenshot of PDF file showing the organization chart and the accessibility errors generated. Shows 3 document issues, 2 alternate text issues, and an uncounted number of alternate text issues (10 are visible in the screenshot).](./PDF_Errors.png)
+## User testing
+Our site was built using a user-centered design process. We've integrated user testing into our work since the beginning. We design our site based on user research, best practices, and stakeholders/business needs. As we move through the design process, we continually run user studies to check in with our users to make sure that we are meeting their needs. During this process, we show them prototypes, have them complete tasks, and observe if they encounter any bugs or problems completing those tasks.
 
+Once we launch a new feature, we usually run another round of testing in which we have users complete user-led tasks to make sure the feature looks and functions as the users require. This testing helps us find hidden bugs, and we may find, for example, that many users don’t notice a certain menu item appearing on the page or are confused about terminology. User testing is the core of our quality assurance because we observe the quality actually experienced by the end user.
 
-She reached out to me to discuss. We talked about the recommendation from the [accessibility stakeholder interviews](https://blog-nrrd.doi.gov/508-Study/) to use locked source docs instead of PDFs. We made this recommendation to avoid the extra errors that appear after converting to PDF. Since the source document was Visio, we decided to convert it to PowerPoint because few people have Visio installed on their machines.
+## Data reviews
+Our data update process has changed as we incorporated more data into the website and built a database. While we have streamlined our process somewhat, we still have some challenges. Two different internal teams are responsible for providing us the source data, and the files do not always have consistent formatting. While we’re working toward more automation, we still receive flat files. Our data reviews include manual checks of the flat files for data anomalies and formatting issues.
 
-I converted the chart to PowerPoint, did some research on alt text for the lines connecting boxes, and what the proper format for phone numbers is. As a result, I marked all the lines as decorative and added a “reports to” line to the alt text for each box to describe the hierarchy. I also formatted the phone numbers with spaces between each digit in the alt text. Then I sent this [first version of the PowerPoint org chart](./OrgChart_v1.pptx) to Sid, the Department of the Interior’s Section 508 Coordinator, to review and test with his screen reader.
-Image: PowerPoint org chart with alt text on the boxes
-![Screenshot of PowerPoint file highlighting a text box with this text: "Revenue, Reporting & Compliance Management, Ruth Welch, Phone: 303-231-3175." Also show alt text, which says: "Revenue, Reporting & Compliance Management Senior Executive, Ruth Welch, Phone: 3 0 3 2 3 1 3 1 7 5, Reports to Director"](./OrgChart_V1_AltText.png)
+We then load our data into our database. The process that loads the database provides a limited number of checks to ensure data will load. In addition, any gross issues with data will cause this process to fail, indicating there is an issue. Finally, we can synthesize the spreadsheets used to load the database for comparison with the originals. In the future, we will write automated tests to verify data from the database matches the original data. Once we’ve updated the database, we create a pull request for another review.
 
-Sid called me up and shared his screen to show what the screen reader reads. It ignored all the alt text I wrote and was reading what was on the boxes, including reading the titles of all the lines I had marked as decorative. And the phone numbers with the dashes read fine.
-Sid gave me two options for making the organization chart accessible. The first option was to keep the chart in PowerPoint and put in some alt text at the beginning of the document telling screen reader users to find the alt text in the notes field. The second option would be to export to PDF and describe the entire diagram as a single image. We opted for the first option.
-To create the [final version of the org chart](./ONRR_External_Org_Chart.pptx) using the first option, I added alt text to the logo that appears at the top of the page indicating that screen reader users should jump to the notes field. Then I described the structure of the diagram in detail within the notes field.
+## Reviewing pull requests
+### Manual tests
+We have documented procedures for [creating and reviewing pull requests](https://github.com/ONRR/nrrd/wiki/How-to-prepare-and-review-pull-requests) that we follow once we have a change we want to merge to dev.
+We also have a [list](https://github.com/ONRR/nrrd/wiki/Releasing-changes-to-production#appendix-things-to-check-while-reviewing-changes) of items to check. This includes a list of our data sets and which data-driven components of the site to review when updating a specific data set. This ensures that the site is pulling in the correct data and the map, charts, and tables are rendering properly.
 
-Image: PowerPoint org chart with alt text indicating to jump to the notes field for detailed alt text
-![Screenshot of final PowerPoint file. ONRR logo is highlighted and shows alt text that says: "Office of Natural Resources Revenue Logo, For screen reader users, see the Notes field for a description of this diagram." Also shows the notes field at the bottom of the screen. See article copy for the full text of the notes field.](./OrgChart_Final.png)
+### Automated tests
+For our front-end testing, our plan starts off with analytics data about what devices and browsers users are using to access our site. This helps provide a better picture into what type of unit testing is necessary and ultimately provides a better user interface (UI) experience for the end user.
 
-Here is the language I used for the alt text at the top of the page:
-“For screen reader users, see the Notes field for a description of this diagram.”
-Here is the alt text I put into the notes field:
-“U.S. Department of the Interior Office of Natural Resources Revenue Organization Chart
-*	Director, Kimbra Davis, Phone: 303-231-3429
-* Information Management and Technology Modernization Senior Executive, Timothy Wight, Phone: 303-231-3130, Reports to Director
-* Internal Review, Oversight and Compliance Senior Executive, Sharilyn Keeton, Phone: 303-231-3332, Reports to Director
-* Deputy Director, Howard Cantor, Phone: 303-231-3429, Reports to Director
-  * Information & Data Management Program Manager, Nathan Brannberg, Phone: 303-231-3776, Reports to Deputy Director
-  * Strategic Resource Management Program Manager, Deborah Lloyd, Phone: 303-231-3927, Reports to Deputy Director
-  * Information & Digital Services Program Manager, Joseph Manke, Phone: 303-231-3956, Reports to Deputy Director
-  * Chief of Staff, Joseph Coleman, Phone: 303-231-3956, Reports to Deputy Director
-*	Audit Management Senior Executive, Jeff Carlson, Phone: 303-231-3701, Reports to Director
-  * Tribal and State Audit Services Program Manager, Yvette Smith, Phone: 303-231-3485, Reports to Audit Management Senior Executive
-  * Southern Audit Management Program Manager, Cheryl Johnson, Phone: 281-987-6801, Reports to Audit Management Senior Executive
-  * Western Audit Management Program Manager, Dane Templin, Phone: 303-231-3149, Reports to Audit Management Senior Executive
-  * Central Audit Management Program Manager, Shawna Schimke, Phone: 405-879-6006, Reports to Audit Management Senior Executive
-*	Revenue, Reporting & Compliance Management Senior Executive, Ruth Welch, Phone: 303-231-3175, Reports to Director
-  * Financial Management Program Manager, Robert Winter, Phone: 303-231-3131, Reports to Revenue, Reporting & Compliance Management Senior Executive
-  * Reference & Reporting Management Program Manager, April Lockler, Phone: 303-231-3105, Reports to Revenue, Reporting & Compliance Management Senior Executive
-  * Compliance Management Program Manager, Jennifer Goldblatt, Phone: 303-231-3925, Reports to Revenue, Reporting & Compliance Management Senior Executive
-*	Coordination, Enforcement, Valuation, and Appeals Senior Executive, Bonnie Robson, Phone: 303-231-3080, Reports to Director
-  * Indian Trust, Outreach  & Coordination Program Manager, Heidi Badaracco, Phone: 303-231-3434, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive
-  * Analytics & Risk Management Program Manager, Karl Wunderlich, Phone: 303-231-3663, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive
-  * Royalty Valuation Program Manager, Amy Lunt, Phone: 303-231-3746, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive
-  * Appeals & Regulations Program Manager, Matthew Collins, Phone: 303-231-3602, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive
-  * Enforcement Program Manager, Michael Marchetti, Phone: 303-231-3125, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive”
+We cover most of our front-end code QA testing with the utilities testing library. The testing library is an open source suite of packages designed to help test our UI in a more user-centric way. This library contains DOM, Jest-DOM, React, React-Hooks and user event packages which we currently utilize for unit testing on our Gatsby components. We also use Puppeteer and Jest to help out with end-to-end, performance, and regression testing.
 
-## Why this works
-Creating alt text for the organization chart and providing a detailed text description of the chart in the notes pane is a great strategy for ensuring the content is accessible to screen reader users. As the chart becomes more complicated, alt text for individual portions of the graphic may no longer provide useful information. In most situations, one alt text for the entire graphic may be the best solution.
-Creators should think about how they would explain the chart over the phone to someone and then include that in the text description. Either summarize the relationships in the alt text or explain where the reader can find the full text description.
-It's very easy to update the organization chart once you follow the process above. Just add alt text to the graphic and change the text in the description.
+In addition to these tests, we are automating Lighthouse audits for performance, progressive web app, best practices, accessibility, and search engine optimization testing. All tests are performed with each commit to our repository in our continuous integration process.
+Prior to releasing to production, we do one more end-to-end automated test of the site. This test points out the differences in the site prior to the release of the code.
 
-## Lessons learned
-While we’ve made progress by resolving the automatic errors in all the documents on our external website, we still have a long way to go. As we update the documents on our site, we’re working towards doing more manual checks and improving the accessibility of all documents.
-We have learned that document readers do not always pick up alternate text. We also learned that alt text doesn’t always work for individual pieces of a diagram and users benefit more from a more holistic and contextual explanation of what the diagram conveys.
-In addition to making the document screen reader friendly, we met the applicable Section 508 requirements. We conducted manual checks to ensure we are using sufficient contrast, reviewed reading order, and ensured we’re using more than just color to convey meaning.
-We’ll use the external org chart as a template for remediating our more detailed internal org charts and for other complex diagrams in presentations.  
+Looking into the future, we also hope to add automated BrowserStack testing into our unit tests. This will allow us to test against a wider range of mobile and browser environments.
 
-*Note : Reference in this blog to any specific commercial product, process, or service, is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the Department of the Interior.*
+## Final Review
+Once the site passes our manual and automated tests in dev, we go live with our changes. We again move through our [list](https://github.com/ONRR/nrrd/wiki/Releasing-changes-to-production#appendix-things-to-check-while-reviewing-changes) of items to check once we are live to make sure that everything has loaded properly. Then we start all over again with a round of user interviews!
