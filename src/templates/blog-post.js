@@ -51,7 +51,7 @@ class BlogPostTemplate extends React.Component {
             marginBottom: rhythm(1),
           }}
         />
-<p><i>Note : Reference in this blog to any specific commercial product, process, or service, is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the Department of the Interior.</i></p>
+
       {
         (post.frontmatter.authors).map((author, index) => (
           <div key={index} className="author-bio">
@@ -70,6 +70,7 @@ class BlogPostTemplate extends React.Component {
             </p>
           </div>
         ))
+        <p><i>Note : Reference in this blog to any specific commercial product, process, or service, is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the Department of the Interior.</i></p>
       }
 
         <ul className='other-posts'
