@@ -70,8 +70,8 @@ class BlogPostTemplate extends React.Component {
             </p>
           </div>
         ))
-        <p><i>Note : Reference in this blog to any specific commercial product, process, or service, is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the Department of the Interior.</i></p>
       }
+      <p><i>Note : Reference in this blog to any specific commercial product, process, or service, is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the Department of the Interior.</i></p>
 
         <ul className='other-posts'
           style={{
