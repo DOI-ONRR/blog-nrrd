@@ -66,7 +66,7 @@ class BlogPostTemplate extends React.Component {
               style={{
                 marginRight: rhythm(1 / 2),
               }}
-            ><strong>{author.id}</strong>{author.bio}.
+            ><strong>{author.id}:</strong>{author.bio}.
             </p>
           </div>
         ))
