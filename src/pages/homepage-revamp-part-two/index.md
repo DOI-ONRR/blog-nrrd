@@ -234,5 +234,3 @@ module.exports = {
 ## The work continues
 
 We'll continue to share our experience migrating Natural Resources Revenue Data to Gatsby. [Email us](mailto:nrrd@onrr.gov) or [track us down on GitHub](https://github.com/ONRR/doi-extractives-data) if you have questions or comments about our homepage or our transition to Gatsby.
-
-*Note : Reference in this blog to any specific commercial product, process, or service, is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the Department of the Interior.*
