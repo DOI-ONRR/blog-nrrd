@@ -14,7 +14,9 @@ date: "2022-03-11"
 ---
 
 While doing some work on onrr.gov I, Shannon, noticed that the organization chart was over a year old and still included people who had retired. I reached out to the document owner, Christina, to get an updated version.
+
 Christina updated the chart source document with the new names and then converted it to a PDF. When she checked the PDF for accessibility errors, there were over 300 nested alternative text errors. They were corrected in the PDF on the old version, but not in the source document. This is why it's important to correct errors in the source document.
+
 Christina decided to fix the source document to ensure accessibility going forward. She added alt text, removed extra line spaces, and better formatted the phone numbers. She found that adding the alt text in the source document didn’t correct all the errors that resulted after converting it to a pdf. The process of converting generates new errors that must be remediated in the pdf, making pdfs more work to make accessible than source documents.
 
 **Image: Visio org chart with alt text**
@@ -34,7 +36,9 @@ I converted the chart to PowerPoint, did some research on alt text for the lines
 ![Screenshot of PowerPoint file highlighting a text box with this text: "Revenue, Reporting & Compliance Management, Ruth Welch, Phone: 303-231-3175." Also show alt text, which says: "Revenue, Reporting & Compliance Management Senior Executive, Ruth Welch, Phone: 3 0 3 2 3 1 3 1 7 5, Reports to Director"](./OrgChart_V1_AltText.png)
 
 Sid called me up and shared his screen to show what the screen reader reads. It ignored all the alt text I wrote and was reading what was on the boxes, including reading the titles of all the lines I had marked as decorative. And the phone numbers with the dashes read fine.
+
 Sid gave me two options for making the organization chart accessible. The first option was to keep the chart in PowerPoint and put in some alt text at the beginning of the document telling screen reader users to find the alt text in the notes field. The second option would be to export to PDF and describe the entire diagram as a single image. We opted for the first option.
+
 To create the [final version of the org chart](./ONRR_External_Org_Chart.pptx) using the first option, I added alt text to the logo that appears at the top of the page indicating that screen reader users should jump to the notes field. Then I described the structure of the diagram in detail within the notes field.
 
 **Image: PowerPoint org chart with alt text indicating to jump to the notes field for detailed alt text.**
@@ -80,11 +84,16 @@ Here is the alt text I put into the notes field:
 
 ## Why this works
 Creating alt text for the organization chart and providing a detailed text description of the chart in the notes pane is a great strategy for ensuring the content is accessible to screen reader users. As the chart becomes more complicated, alt text for individual portions of the graphic may no longer provide useful information. In most situations, one alt text for the entire graphic may be the best solution.
+
 Creators should think about how they would explain the chart over the phone to someone and then include that in the text description. Either summarize the relationships in the alt text or explain where the reader can find the full text description.
+
 It's very easy to update the organization chart once you follow the process above. Just add alt text to the graphic and change the text in the description.
 
 ## Lessons learned
 While we’ve made progress by resolving the automatic errors in all the documents on our external website, we still have a long way to go. As we update the documents on our site, we’re working towards doing more manual checks and improving the accessibility of all documents.
+
 We have learned that document readers do not always pick up alternate text. We also learned that alt text doesn’t always work for individual pieces of a diagram and users benefit more from a more holistic and contextual explanation of what the diagram conveys.
+
 In addition to making the document screen reader friendly, we met the applicable Section 508 requirements. We conducted manual checks to ensure we are using sufficient contrast, reviewed reading order, and ensured we’re using more than just color to convey meaning.
+
 We’ll use the external org chart as a template for remediating our more detailed internal org charts and for other complex diagrams in presentations.  
