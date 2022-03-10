@@ -45,20 +45,27 @@ Here is the alt text I put into the notes field:
 * Information Management and Technology Modernization Senior Executive, Timothy Wight, Phone: 303-231-3130, Reports to Director
 * Internal Review, Oversight and Compliance Senior Executive, Sharilyn Keeton, Phone: 303-231-3332, Reports to Director
 * Deputy Director, Howard Cantor, Phone: 303-231-3429, Reports to Director
+
   * Information & Data Management Program Manager, Nathan Brannberg, Phone: 303-231-3776, Reports to Deputy Director
   * Strategic Resource Management Program Manager, Deborah Lloyd, Phone: 303-231-3927, Reports to Deputy Director
   * Information & Digital Services Program Manager, Joseph Manke, Phone: 303-231-3956, Reports to Deputy Director
   * Chief of Staff, Joseph Coleman, Phone: 303-231-3956, Reports to Deputy Director
-*	Audit Management Senior Executive, Jeff Carlson, Phone: 303-231-3701, Reports to Director
+
+* Audit Management Senior Executive, Jeff Carlson, Phone: 303-231-3701, Reports to Director
+
   * Tribal and State Audit Services Program Manager, Yvette Smith, Phone: 303-231-3485, Reports to Audit Management Senior Executive
   * Southern Audit Management Program Manager, Cheryl Johnson, Phone: 281-987-6801, Reports to Audit Management Senior Executive
   * Western Audit Management Program Manager, Dane Templin, Phone: 303-231-3149, Reports to Audit Management Senior Executive
   * Central Audit Management Program Manager, Shawna Schimke, Phone: 405-879-6006, Reports to Audit Management Senior Executive
-*	Revenue, Reporting & Compliance Management Senior Executive, Ruth Welch, Phone: 303-231-3175, Reports to Director
+
+* Revenue, Reporting & Compliance Management Senior Executive, Ruth Welch, Phone: 303-231-3175, Reports to Director
+
   * Financial Management Program Manager, Robert Winter, Phone: 303-231-3131, Reports to Revenue, Reporting & Compliance Management Senior Executive
   * Reference & Reporting Management Program Manager, April Lockler, Phone: 303-231-3105, Reports to Revenue, Reporting & Compliance Management Senior Executive
   * Compliance Management Program Manager, Jennifer Goldblatt, Phone: 303-231-3925, Reports to Revenue, Reporting & Compliance Management Senior Executive
-*	Coordination, Enforcement, Valuation, and Appeals Senior Executive, Bonnie Robson, Phone: 303-231-3080, Reports to Director
+  
+* Coordination, Enforcement, Valuation, and Appeals Senior Executive, Bonnie Robson, Phone: 303-231-3080, Reports to Director
+
   * Indian Trust, Outreach  & Coordination Program Manager, Heidi Badaracco, Phone: 303-231-3434, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive
   * Analytics & Risk Management Program Manager, Karl Wunderlich, Phone: 303-231-3663, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive
   * Royalty Valuation Program Manager, Amy Lunt, Phone: 303-231-3746, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive
