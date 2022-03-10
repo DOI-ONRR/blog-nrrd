@@ -71,6 +71,8 @@ class BlogPostTemplate extends React.Component {
           </div>
         ))
       }
+      <p>*Note : Reference in this blog to any specific commercial product, process, or service, is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the Department of the Interior.*</p>
+
         <ul className='other-posts'
           style={{
             marginTop: '2rem',
