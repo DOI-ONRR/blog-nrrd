@@ -38,6 +38,7 @@ To create the [final version of the org chart](./ONRR_External_Org_Chart.pptx) u
 
 <br>
 **Image: PowerPoint org chart with alt text indicating to jump to the notes field for detailed alt text.**
+
 ![Screenshot of final PowerPoint file. ONRR logo is highlighted and shows alt text that says: "Office of Natural Resources Revenue Logo, For screen reader users, see the Notes field for a description of this diagram." Also shows the notes field at the bottom of the screen. See article copy for the full text of the notes field.](./OrgChart_Final.png)
 
 Here is the language I used for the alt text at the top of the page:
