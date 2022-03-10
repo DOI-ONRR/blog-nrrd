@@ -22,7 +22,7 @@ class BlogPostTemplate extends React.Component {
           meta={[{ name: 'description', content: siteDescription }]}
           title={`${post.frontmatter.title} | ${siteTitle}`}
           link={[{ rel: 'shortcut icon', type: 'image/png', href: `${favicon}` }]}
-          
+
         >
           {/* Digital Analytics Program roll-up, see the data at https://analytics.usa.gov */}
           <script src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js" id="_fed_an_ua_tag"></script>
@@ -51,7 +51,7 @@ class BlogPostTemplate extends React.Component {
             marginBottom: rhythm(1),
           }}
         />
-        
+
       {
         (post.frontmatter.authors).map((author, index) => (
           <div key={index} className="author-bio">
@@ -61,12 +61,12 @@ class BlogPostTemplate extends React.Component {
                     alt={author.id + ` profile image`}
                     className="author-image"
               />
-            </div>  
+            </div>
             <p
               style={{
                 marginRight: rhythm(1 / 2),
               }}
-            ><strong>{author.id}</strong> is a {author.bio}.
+            ><strong>{author.id}</strong>{author.bio}.
             </p>
           </div>
         ))

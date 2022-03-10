@@ -1,8 +1,8 @@
 ---
 title: "Ensuring accessible content beyond the auto checks: making a diagram screen reader friendly"
 authors:
-- Shannon McHarg
 - Christina Mathers
+- Shannon McHarg
 - Sid Sharma
 excerpt: "We discuss how we made a diagram accessible beyond auto check funcitonality by making it better for screen reader users."
 tags:
@@ -16,25 +16,28 @@ date: "2022-03-11"
 While doing some work on onrr.gov I, Shannon, noticed that the organization chart was over a year old and still included people who had retired. I reached out to the document owner, Christina, to get an updated version.
 Christina updated the chart source document with the new names and then converted it to a PDF. When she checked the PDF for accessibility errors, there were over 300 nested alternative text errors. They were corrected in the PDF on the old version, but not in the source document. This is why it's important to correct errors in the source document.
 Christina decided to fix the source document to ensure accessibility going forward. She added alt text, removed extra line spaces, and better formatted the phone numbers. She found that adding the alt text in the source document didn’t correct all the errors that resulted after converting it to a pdf. The process of converting generates new errors that must be remediated in the pdf, making pdfs more work to make accessible than source documents.
-Image: Visio org chart with alt text
+<br>
+**Image: Visio org chart with alt text**
 ![Screenshot of Visio file highlighting a text box with this text: "Revenue, Reporting & Compliance Management, Ruth Welch, 303 231 3175." Also shows alt text, which says: "Revenue, Reporting & Compliance Management, Ruth Welch, 3 0 3 2 3 1 3 1 7 5."](./Visio_Org_Chart.png)
 
-
-Image: Errors in pdf conversion despite alt text in the source document
+<br>
+**Image: Errors in pdf conversion despite alt text in the source document.**
 ![Screenshot of PDF file showing the organization chart and the accessibility errors generated. Shows 3 document issues, 2 alternate text issues, and an uncounted number of alternate text issues (10 are visible in the screenshot).](./PDF_Errors.png)
 
 
 She reached out to me to discuss. We talked about the recommendation from the [accessibility stakeholder interviews](https://blog-nrrd.doi.gov/508-Study/) to use locked source docs instead of PDFs. We made this recommendation to avoid the extra errors that appear after converting to PDF. Since the source document was Visio, we decided to convert it to PowerPoint because few people have Visio installed on their machines.
 
 I converted the chart to PowerPoint, did some research on alt text for the lines connecting boxes, and what the proper format for phone numbers is. As a result, I marked all the lines as decorative and added a “reports to” line to the alt text for each box to describe the hierarchy. I also formatted the phone numbers with spaces between each digit in the alt text. Then I sent this [first version of the PowerPoint org chart](./OrgChart_v1.pptx) to Sid, the Department of the Interior’s Section 508 Coordinator, to review and test with his screen reader.
-Image: PowerPoint org chart with alt text on the boxes
+<br>
+**Image: PowerPoint org chart with alt text on the boxes**
 ![Screenshot of PowerPoint file highlighting a text box with this text: "Revenue, Reporting & Compliance Management, Ruth Welch, Phone: 303-231-3175." Also show alt text, which says: "Revenue, Reporting & Compliance Management Senior Executive, Ruth Welch, Phone: 3 0 3 2 3 1 3 1 7 5, Reports to Director"](./OrgChart_V1_AltText.png)
 
 Sid called me up and shared his screen to show what the screen reader reads. It ignored all the alt text I wrote and was reading what was on the boxes, including reading the titles of all the lines I had marked as decorative. And the phone numbers with the dashes read fine.
 Sid gave me two options for making the organization chart accessible. The first option was to keep the chart in PowerPoint and put in some alt text at the beginning of the document telling screen reader users to find the alt text in the notes field. The second option would be to export to PDF and describe the entire diagram as a single image. We opted for the first option.
 To create the [final version of the org chart](./ONRR_External_Org_Chart.pptx) using the first option, I added alt text to the logo that appears at the top of the page indicating that screen reader users should jump to the notes field. Then I described the structure of the diagram in detail within the notes field.
 
-Image: PowerPoint org chart with alt text indicating to jump to the notes field for detailed alt text
+<br>
+**Image: PowerPoint org chart with alt text indicating to jump to the notes field for detailed alt text.**
 ![Screenshot of final PowerPoint file. ONRR logo is highlighted and shows alt text that says: "Office of Natural Resources Revenue Logo, For screen reader users, see the Notes field for a description of this diagram." Also shows the notes field at the bottom of the screen. See article copy for the full text of the notes field.](./OrgChart_Final.png)
 
 Here is the language I used for the alt text at the top of the page:
@@ -63,7 +66,7 @@ Here is the alt text I put into the notes field:
   * Financial Management Program Manager, Robert Winter, Phone: 303-231-3131, Reports to Revenue, Reporting & Compliance Management Senior Executive
   * Reference & Reporting Management Program Manager, April Lockler, Phone: 303-231-3105, Reports to Revenue, Reporting & Compliance Management Senior Executive
   * Compliance Management Program Manager, Jennifer Goldblatt, Phone: 303-231-3925, Reports to Revenue, Reporting & Compliance Management Senior Executive
-  
+
 * Coordination, Enforcement, Valuation, and Appeals Senior Executive, Bonnie Robson, Phone: 303-231-3080, Reports to Director
 
   * Indian Trust, Outreach  & Coordination Program Manager, Heidi Badaracco, Phone: 303-231-3434, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive
