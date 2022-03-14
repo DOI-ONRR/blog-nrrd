@@ -74,7 +74,7 @@ const Footer = () => (
               fontWeight: '300',
               color: 'white',
             }}
-          >From the team that works on <a style={{color: 'white'}} href='https://revenuedata.doi.gov'>Natural Resources Revenue Data</a></em>
+          >From the team that works on <a style={{color: 'white'}} href='https://revenuedata.doi.gov'>Natural Resources Revenue Data</a> and <a style={{color: 'white'}} href='https://www.onrr.gov/'>ONRR.gov</a></em>
       </div>
 
       <div className='social'>

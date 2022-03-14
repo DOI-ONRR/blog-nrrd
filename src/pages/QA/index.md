@@ -2,7 +2,6 @@
 title: "How we do quality assurance"
 authors:
 - Lindsay Goldstein
-- Jerome Louis
 - Jennifer Malcolm
 - Mojo Nichols
 excerpt: "In this post, we discuss how we are evaluating, improving, and documenting our quality assurance processes."
