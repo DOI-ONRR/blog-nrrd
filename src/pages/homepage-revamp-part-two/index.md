@@ -56,11 +56,11 @@ The homepage presented an exciting opportunity, as the redesign would feature mo
 
 ## Rebuilding in Gatsby
 
-Thankfully, Gatsby is open source. Had it not been, we wouldn't have considered it. Our team [works in the open, with open data, and open source tools](https://github.com/ONRR/doi-extractives-data). We think that model is a good fit for government. 
+Thankfully, Gatsby is open source. Had it not been, we wouldn't have considered it. Our team [works in the open, with open data, and open source tools](https://github.com/ONRR/doi-extractives-data). We think that model is a good fit for government.
 
 In addition to being open source, there are five main reasons we used Gatsby to refactor the site:
 
-1. Gatsby is a cross-platform ecosystem out of the box. 
+1. Gatsby is a cross-platform ecosystem out of the box.
 
 1. [GraphQL](https://graphql.org/) allows us to query the data from a canonical source, instead of regenerating the data into multiple files to fit a particular context.
 
@@ -69,7 +69,7 @@ In addition to being open source, there are five main reasons we used Gatsby to 
 1. Gatsby is a modern, web-component framework that allows us to design the site in a more modular way, leading to better code reuse.
 
 1. We're better aligned with industry best practices, which supports long-term site maintenance.
- 
+
 
 We'll look at each of these in the context of our homepage redesign.
 
@@ -81,7 +81,7 @@ Gatsby combines multiple front-end tools into one, and the packages are managed 
 
 ### GraphQL
 
-GraphQL has been a game changer for us. Our open data is largely comprised of flat Excel files, but we also access some data via API. Much of our content is formatted in Markdown. GraphQL can query it all in a schema whereby we get exactly the data and content we need for a particular context. 
+GraphQL has been a game changer for us. Our open data is largely comprised of flat Excel files, but we also access some data via API. Much of our content is formatted in Markdown. GraphQL can query it all in a schema whereby we get exactly the data and content we need for a particular context.
 
 Where before our data-update scripts would generate multiple `.yml` files – structured for the specific context in which the data would appear – we can now query the data with GraphQL and reference it in whatever context we need. Importantly, we maintain just one canonical data file and structure our query to fetch what we need.
 
@@ -125,7 +125,7 @@ For example, the homepage's `KeyStatsSection` component references the `StackedB
 ```jsx
 		return (
 			<div is="chart">
-				<StackedBarChartLayout 
+				<StackedBarChartLayout
 
 					dataSet= {this.state[dataSetId]}
 
@@ -189,7 +189,7 @@ Related to redundancy, providing a seamless user experience between the Gatsby a
 3. Federalist preview URL
 
 #### Page URL issue
-When Gatsby builds the site, it creates a `public` directory for all required site assets. We copied this directory to a `gatsby-public` folder for the Jekyll build to use. However, we didn't want our URLs to include `gatsby-public`, so we needed to add a permalink attribute to our pages' front matter to override the default path. 
+When Gatsby builds the site, it creates a `public` directory for all required site assets. We copied this directory to a `gatsby-public` folder for the Jekyll build to use. However, we didn't want our URLs to include `gatsby-public`, so we needed to add a permalink attribute to our pages' front matter to override the default path.
 
 Fortunately, Gatsby provides a hook into the entire lifecycle of its build process, including an [`onPostBuild` API](https://www.gatsbyjs.org/docs/node-apis/#onPostBuild). We use this hook to add the front matter to our pages and copy the `public` directory to the `gatsby-public` directory.
 
@@ -214,7 +214,7 @@ exports.onClientEntry = () => {
 #### Federalist preview URL
 As mentioned above, we use [Federalist](https://federalist.18f.gov/) to build and deploy the site. Federalist builds out every branch in our GitHub repository, so we can preview the changes before we merge them.
 
-We encountered an issue with the Federalist preview URLs and relative links and assets. Gastby solves this by using a `pathPrefix` variable in `gastby-config.js` and a custom component named `Link`. 
+We encountered an issue with the Federalist preview URLs and relative links and assets. Gastby solves this by using a `pathPrefix` variable in `gastby-config.js` and a custom component named `Link`.
 
 We set a `BASEURL` environment variable in `gatsby-config.js` that resolves the Federalist preview URL at build time.
 
