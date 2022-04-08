@@ -64,26 +64,26 @@ As you can see, many of the ideas centered on having help with common issues. Th
 We got responses from [20 people in RRM]( https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/10_contacts_survey/10_contacts_survey_1_survey_results.xlsx?raw=true) and [27 in FM]( https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/10_contacts_survey/10_contacts_survey_2_survey_results%20.xlsx?raw=true).
 
 We surveyed people from a wide range of specialties.
-**Team**|**Specialty**|**Participants**
-:-----:|:-----:|:-----:
-Financial Management|Federal AR and Billing|14
-Financial Management|Indian AR and Billing|6
-Financial Management|Debt Collection|4
-Financial Management|Staff Accountant|2
-Financial Management|Solids AR and Billing|1
-Revenue and Reporting Management|Reference|8
-Revenue and Reporting Management|Production|6
-Revenue and Reporting Management|Royalty|4
-Revenue and Reporting Management|Solids|2
+|**Team**|**Specialty**|**Participants**|
+|:-----:|:-----:|:-----:|
+|Financial Management|Federal AR and Billing|14|
+|Financial Management|Indian AR and Billing|6|
+|Financial Management|Debt Collection|4|
+|Financial Management|Staff Accountant|2|
+|Financial Management|Solids AR and Billing|1|
+|Revenue and Reporting Management|Reference|8|
+|Revenue and Reporting Management|Production|6|
+|Revenue and Reporting Management|Royalty|4|
+|Revenue and Reporting Management|Solids|2|
 
 Participants redirect contacts frequently.
-**Frequency**|**Participants**|**Percentage**
-:-----:|:-----:|:-----:
-Never|1|2%
-Daily|13|28%
-Weekly|18|38%
-Monthly|11|23%
-Seasonal|4|9%
+|**Frequency**|**Participants**|**Percentage**|
+|:-----:|:-----:|:-----:|
+|Never|1|2%|
+|Daily|13|28%|
+|Weekly|18|38%|
+|Monthly|11|23%|
+|Seasonal|4|9%|
 
 91% of respondents said having a troubleshooting guide was a good idea.
 
@@ -143,4 +143,4 @@ I learned that we need to rethink our user types for onrr.gov. We had organized 
 
 We also learned that the troubleshooting guide will be used as often, if not more so, by internal folks than by industry. It is useful  to help with redirecting contacts.
 
-**Cody:** I learned a lot about the [User Centered Design Process](https://github.com/ONRR/nrrd/wiki/User-Centered-Design-Process) and how to properly conduct user interviews. I also became more familiar with some of the needs of my colleagues which will help me assist them more efficiently in the future. This was a highlight of my rotation with the Open Data, Design, & Development team. It was a lot of fun to collaborate with Shannon and the rest of the team. I strongly believe in [ONRR’s Mission](https://onrr.gov/about/index.htm) and this project will enhance our ability to serve the public. 
+**Cody:** I learned a lot about the [User Centered Design Process](https://github.com/ONRR/nrrd/wiki/User-Centered-Design-Process) and how to properly conduct user interviews. I also became more familiar with some of the needs of my colleagues which will help me assist them more efficiently in the future. This was a highlight of my rotation with the Open Data, Design, & Development team. It was a lot of fun to collaborate with Shannon and the rest of the team. I strongly believe in [ONRR’s Mission](https://onrr.gov/about/index.htm) and this project will enhance our ability to serve the public.
