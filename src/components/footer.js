@@ -97,6 +97,18 @@ const Footer = () => (
             alt={`Facebook logo`}
           /></a>
           </div>
+          <div className='feedback'
+            style={{
+              display: 'block',
+            }}
+            >
+              <em
+                style={{
+                  fontWeight: '300',
+                  color: 'white',
+                }}
+              >Have feedback on a blog post idea? <a style={{color: 'white'}} href='mailto:nrrd@onrr.gov'>Drop us a line</a>.</em>
+          </div>
           <div className='privacy'>
           <a
           href="https://doi.gov/privacy"
