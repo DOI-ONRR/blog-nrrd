@@ -4,7 +4,7 @@ authors:
 - Christina Mathers
 - Shannon McHarg
 - Sid Sharma
-excerpt: "We discuss how we made a diagram accessible beyond auto check funcitonality by making it better for screen reader users."
+excerpt: "We discuss how we made a diagram accessible beyond auto check functionality by making it better for screen reader users."
 tags:
 - accessibility
 - user experiences
