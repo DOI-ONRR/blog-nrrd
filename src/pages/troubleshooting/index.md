@@ -64,6 +64,7 @@ As you can see, many of the ideas centered on having help with common issues. Th
 We got responses from [20 people in RRM]( https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/10_contacts_survey/10_contacts_survey_1_survey_results.xlsx?raw=true) and [27 in FM]( https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/10_contacts_survey/10_contacts_survey_2_survey_results%20.xlsx?raw=true).
 
 We surveyed people from a wide range of specialties.
+
 |**Team**|**Specialty**|**Participants**|
 |:-----:|:-----:|:-----:|
 |Financial Management|Federal AR and Billing|14|
@@ -77,6 +78,7 @@ We surveyed people from a wide range of specialties.
 |Revenue and Reporting Management|Solids|2|
 
 Participants redirect contacts frequently.
+
 |**Frequency**|**Participants**|**Percentage**|
 |:-----:|:-----:|:-----:|
 |Never|1|2%|
