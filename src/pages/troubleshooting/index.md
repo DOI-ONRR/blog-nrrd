@@ -14,7 +14,7 @@ tags:
 date: "2022-04-15"
 ---
 
-**Cody:** During my rotation with the Open Data, Design, & Development team, I participated in a study on improvements to the [Contacts page](https://www.onrr.gov/about/contact.htm) on the onrr.gov site. I use this page many times a week so I had strong opinions about how it should look. I also recommended an addition of a troubleshooting guide.
+**Cody:** During my rotation with the Open Data, Design, and Development team, I participated in a study on improvements to the [Contacts page](https://www.onrr.gov/about/contact.htm) on the onrr.gov site. I use this page many times a week so I had strong opinions about how it should look. I also recommended an addition of a troubleshooting guide.
 
 ## How did this come about?
 **Shannon:** When people in industry (people who represent companies with oil, gas, or mineral leases on federal or Native American lands) need to ask somebody at ONRR a question, they often resort to calling the last person they contacted. ONRR representatives are very specialized, and the last person you talked to often isn’t the right person for your new issue. The last person you contacted may not even know who the right person to contact is.
@@ -35,7 +35,7 @@ Image: First pass contact page design.
 ![Screenshot of the redesigned Contact Us page. Shows a company name search box, category and subcategory filter drop-downs, and a paginated list of contacts in accordions. Each accordion shows the topic, primary contact name, primary contact email, and primary contact phone with closed sections for additional contacts and supervisor.](./DesignFirstPass.png)
 
 ## What did the larger group of stakeholders have to say?
-**Cody:** I work in the Reference and Reporting Management (RRM) team. We are on the frontlines—many times a day we interact with internal and external customers looking for help with leases and agreements. Usually, we can answer the customer’s question on the spot. However, there are times when the question should be directed to a different group or person. For example, I am not confident answering an operator’s question about royalty rates on geothermal leases. Additionally, many of my colleagues may not be comfortable answering questions about injection fees on gas storage agreements—but I am happy to answer those questions.
+**Cody:** I work on the Reference and Reporting Management (RRM) team. We are on the frontlines—many times a day we interact with internal and external customers looking for help with leases and agreements. Usually, we can answer the customer’s question on the spot. However, there are times when the question should be directed to a different group or person. For example, I am not confident answering an operator’s question about royalty rates on geothermal leases. Additionally, many of my colleagues may not be comfortable answering questions about injection fees on gas storage agreements—but I am happy to answer those questions.
 
 The revamp of the Contacts page will provide internal and external customers a quick way to find the expert they need. We’ve decided to take it a step further with the Troubleshooting Guide. After surveying RRM and Accounts Receivable (another group that interacts with customers daily), we produced a list of common issues that can be easily remedied. If the customer can find the answer to their question online, we can save them (and ourselves) valuable time.
 
@@ -61,7 +61,7 @@ As you can see, many of the ideas centered on having help with common issues. Th
 
 ## How did you decide what to add to the troubleshooting guide?
 **Shannon:** We then conducted a survey of ONRR employees in both the Reference and Reporting Management (RRM) and Financial Management (FM) teams who are contacted by industry. We wanted to find out what questions they reroute the most. We took the results from that, categorized the questions, and turned them into lists of questions and answers.
-We got responses from [20 people in RRM]( https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/10_contacts_survey/10_contacts_survey_1_survey_results.xlsx?raw=true) and [27 in FM]( https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/10_contacts_survey/10_contacts_survey_2_survey_results%20.xlsx?raw=true).
+We got responses from [20 people from RRM]( https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/10_contacts_survey/10_contacts_survey_1_survey_results.xlsx?raw=true) and [27 from FM]( https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/10_contacts_survey/10_contacts_survey_2_survey_results%20.xlsx?raw=true).
 
 We surveyed people from a wide range of specialties.
 
@@ -101,7 +101,7 @@ The most redirected questions that we learned about in the survey were in 10 cat
 * Payments & debt collection
 * Updating contact info (Form 4444)
 
-We grouped all the questions into categories and ordered them by frequency. Here’s a sample of the detailed questions/topics in the leases, agreements, & contracts category.
+We grouped all the questions into categories and ordered them by frequency. Here’s a sample of the detailed questions/topics in the leases, agreements, and contracts category.
 
 Leases, agreements, & contracts
 * Cross-referenced lease and agreement numbers
@@ -145,4 +145,4 @@ I learned that we need to rethink our user types for onrr.gov. We had organized 
 
 We also learned that the troubleshooting guide will be used as often, if not more so, by internal folks than by industry. It is useful  to help with redirecting contacts.
 
-**Cody:** I learned a lot about the [User Centered Design Process](https://github.com/ONRR/nrrd/wiki/User-Centered-Design-Process) and how to properly conduct user interviews. I also became more familiar with some of the needs of my colleagues which will help me assist them more efficiently in the future. This was a highlight of my rotation with the Open Data, Design, & Development team. It was a lot of fun to collaborate with Shannon and the rest of the team. I strongly believe in [ONRR’s Mission](https://onrr.gov/about/index.htm) and this project will enhance our ability to serve the public.
+**Cody:** I learned a lot about the [User Centered Design Process](https://github.com/ONRR/nrrd/wiki/User-Centered-Design-Process) and how to properly conduct user interviews. I also became more familiar with some of the needs of my colleagues which will help me assist them more efficiently in the future. This was a highlight of my rotation with the Open Data, Design, and Development team. It was a lot of fun to collaborate with Shannon and the rest of the team. I strongly believe in [ONRR’s Mission](https://onrr.gov/about/index.htm) and this project will enhance our ability to serve the public.
