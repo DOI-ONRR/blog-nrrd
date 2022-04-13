@@ -60,7 +60,7 @@ As you can see, many of the ideas centered on having help with common issues. Th
 **Cody:** The design studio was awesome. I was able to illustrate (albeit poorly) how I wanted the troubleshooting page to look and flow. When everyone showed their illustrations, we incorporated the best parts and it got us moving in the right direction.
 
 ## How did you decide what to add to the troubleshooting guide?
-**Shannon:** We then conducted a survey of ONRR employees in both the Reference and Reporting Management (RRM) and Financial Management (FM) teams who are contacted by industry. We wanted to find out what questions they reroute the most. We took the results from that, categorized the questions, and turned them into lists of questions and answers.
+**Shannon:** We then conducted a survey of ONRR employees on both the Reference and Reporting Management (RRM) and Financial Management (FM) teams who are contacted by industry. We wanted to find out what questions they reroute the most. We took the results from that, categorized the questions, and turned them into lists of questions and answers.
 We got responses from [20 people from RRM]( https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/10_contacts_survey/10_contacts_survey_1_survey_results.xlsx?raw=true) and [27 from FM]( https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/10_contacts_survey/10_contacts_survey_2_survey_results%20.xlsx?raw=true).
 
 We surveyed people from a wide range of specialties.
