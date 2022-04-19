@@ -11,7 +11,7 @@ tags:
 - user experience
 - public service
 - government
-date: "2022-04-15"
+date: "2022-04-20"
 ---
 
 **Cody:** During my rotation with the Open Data, Design, and Development team, I participated in a study on improvements to the [Contacts page](https://www.onrr.gov/about/contact.htm) on the onrr.gov site. I use this page many times a week so I had strong opinions about how it should look. I also recommended an addition of a troubleshooting guide.
