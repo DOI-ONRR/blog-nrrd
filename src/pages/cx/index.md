@@ -68,7 +68,7 @@ We  have been fully redesigning our second website, [onrr.gov](https://www.onrr.
 
 ## Conclusion
 
-Customer experience may be a new buzzword in the federal government but it’s not a new concept within our organization. We've made it part of our vision for the future.
+Customer Experience may be a new buzzword in the federal government but it’s not a new concept within our organization. We've made it part of our vision for the future.
 
 Office of Natural Resources Revenue’s vision statement:
 > "To deliver **excellence in public service** as the nation's most trusted steward of natural resources revenue."
