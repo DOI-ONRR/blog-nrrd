@@ -12,7 +12,7 @@ tags:
 date: "2022-07-08"
 ---
 
-Agile at the Office of Natural Resources Revenue (ONRR) started with [18F](https://18f.gsa.gov/). Our Natural Resources Revenue Data website was created as part of the U.S. [Extractive Industries Transparency Initiative](https://eiti.org/) (USEITI) by a Presidential Innovation Fellow , Michelle Hertzfeld. That fellow went on to become a founder of 18F, so USEITI became one of 18F’s first projects. The team working on USEITI started using a scrum-based agile with 18F. We’ve adapted our agile practices over time to meet our needs.
+Agile at the Office of Natural Resources Revenue (ONRR) started with [18F](https://18f.gsa.gov/). Our Natural Resources Revenue Data website was created as part of the U.S. [Extractive Industries Transparency Initiative](https://eiti.org/) (USEITI) by a Presidential Innovation Fellow, Michelle Hertzfeld. That fellow went on to become a founder of 18F, so USEITI became one of 18F’s first projects. The team working on USEITI started using a scrum-based agile with 18F. We’ve adapted our agile practices over time to meet our needs.
 
 >“The Agile Manifesto is realized at 18F in the combined practices of iterative software development, product management, user-centered design, and DevOps.” From [18F’s Agile Principles and 18F Practices](https://agile.18f.gov/18f-agile-approach/)
 
@@ -24,7 +24,7 @@ We are a small, agile team that works on ONRR’s public-facing websites. The fi
 ## Product management
 >“We start with a product vision and strategy, informed by users and the overall mission of 18F or one of our partner agencies. We do this so that the work always stays connected to an overarching goal that everyone understands and is excited about.” From [18F’s Agile Principles and 18F Practices](https://agile.18f.gov/18f-agile-approach/)
 
-At ONRR, we’ve spent quite a bit of time working on product strategy. We’ve held workshops to define the problem statement and vision for both of our public websites. We continue to revise them over time as we learn more about the websites’ users. From 18F, we learned the importance of having a product strategy to ensure we know where we’re going. Agile is a way of doing work, you still need to know what you're doing before you start.
+At ONRR, we’ve spent quite a bit of time working on product strategy. We’ve held workshops to define the problem statement and vision for both of our public websites. We continue to revise them over time as we learn more about the websites’ users. From 18F, we learned the importance of having a product strategy to ensure we know where we’re going. Agile is JUST a way of doing work, you still need to know what you're doing before you start.
 
 ### Natural Resources Revenue Data website
 #### Problem statement
@@ -63,7 +63,7 @@ As part of the user-centered design process described above, we iterate the solu
 
 
 ### Two-week sprints
-We work in two-week sprints. Each sprint includes daily standups, sprint planning, weekly synch up, sprint demo, and sprint review/retro. We decide what individuals are working on at the beginning of each sprint. We define sprint goals based on previous velocity estimates. Everything goes into the two-weeks sprints. This includes user research, design, content strategy, development, analysis, and quality reviews.
+We work in two-week sprints. Each sprint includes daily standups, sprint planning, weekly synch up, sprint demo, and sprint review/retro. We decide what individuals are working on at the beginning of each sprint. We define sprint goals based on previous velocity estimates. Everything goes into the two-week sprints. This includes user research, design, content strategy, development, analysis, and quality reviews.
 
 ![Diagram demonstrating our two-week sprints. Week 1: Monday: Sprint planning, Tuesday: Standup & synch up, Wednesday: Standup, Thursday: Standup, Friday: Standup. Week 2: Monday: Standup, Tuesday: Standup & synch up, Wednesday: Standup, Thursday: Demo, sprint review & retro, Friday: Standup.](./Sprints.png)
 
