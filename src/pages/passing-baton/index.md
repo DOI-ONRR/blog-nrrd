@@ -2,7 +2,7 @@
 title: "Passing the baton: what I’ve learned in my first 4 years of federal service"
 authors:
 - Shannon McHarg
-excerpt: "Customer Experience (CX) has become a buzzword in the federal government. Let’s take a look at what it is."
+excerpt: "Retrospective of the past four years working on the Open Data, Design, and Developement team."
 tags:
 - customer experience
 - cx
