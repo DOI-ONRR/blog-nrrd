@@ -9,7 +9,7 @@ tags:
 - product strategy
 - product management
 
-date: "2022-07-08"
+date: "2022-07-13"
 ---
 
 Agile at the Office of Natural Resources Revenue (ONRR) started with [18F](https://18f.gsa.gov/). Our Natural Resources Revenue Data website was created as part of the U.S. [Extractive Industries Transparency Initiative](https://eiti.org/) (USEITI) by a Presidential Innovation Fellow, Michelle Hertzfeld. That fellow went on to become a founder of 18F, so USEITI became one of 18F’s first projects. The team working on USEITI started using a scrum-based agile with 18F. We’ve adapted our agile practices over time to meet our needs.
