@@ -19,7 +19,7 @@ Common to every content strategy I've developed is an unavoidable reality: we mu
 
 In practice, here's what that meant for the site's content strategy:
 
-- The [EITI standard](https://eiti.org/about/how-we-work#implementing-the-standard-nationally) mandates the formation of a multi-stakeholder group to define how EITI will work in the respective country. For the U.S., that meant, in part, that the multi-stakeholder group performed the content governance role for the site.
+- The [EITI standard](https://eiti.org/collections/eiti-standard) mandates the formation of a multi-stakeholder group to define how EITI will work in the respective country. For the U.S., that meant, in part, that the multi-stakeholder group performed the content governance role for the site.
 - The standard requires that each member country supply an independent administrator, a non-governmental entity to help coordinate the implementation of the standard. In our case, it was an outside contractor, the staff for which also developed much of the site's content.
 - The scope of data and content under EITI went beyond the federal government's management and regulatory authority over extractive industries and included data and content related to the economic impact of the extractives sector on local economies and Gross Domestic Product.
 
@@ -27,7 +27,7 @@ Basically, The EITI standard provided the scope, vision, and governance for the 
 
 ## A new reality
 
-In late 2017, the [U.S. withdrew from EITI](https://revenuedata.doi.gov/about/#history). The site would live on, but the content strategy would need to change. 
+In late 2017, the [U.S. withdrew from EITI](https://revenuedata.doi.gov/about/#history). The site would live on, but the content strategy would need to change.
 
 ![United States Extractive Industries Transparency Initiative with the United States fading away to white](./useiti-fade.gif)
 
@@ -61,7 +61,7 @@ I'm certain there are people out there for whom auditing content is a dream come
 
 ![Spreadsheet showing content audit with columns for URL, Title, File type, Description, Word count, Reading grade level, Notes, Tags, Maintenance requirements](./screen-content-audit.png)
 
-The content audit isn't just an inventory of existing content; it endeavors to capture characteristics of the content that impact our decision making. That is, we're not only evaluating content according to alignment with our revised product vision, but also trying to understand the previous and current governance of the content, its relative maintenance requirements, its complexity, its structure, its value to users, and so on. 
+The content audit isn't just an inventory of existing content; it endeavors to capture characteristics of the content that impact our decision making. That is, we're not only evaluating content according to alignment with our revised product vision, but also trying to understand the previous and current governance of the content, its relative maintenance requirements, its complexity, its structure, its value to users, and so on.
 
 A content audit will often reveal the limits of user-centered content design: your team has to be capable of delivering on the user needs you've identified. So that's where we head next...
 
@@ -117,6 +117,6 @@ There's no question that a user-centered approach to product design is the way t
 
 Your ability to deliver user value is always constrained by, well, _your ability to deliver user value_. There are always trade-offs and edge cases. And as the composition of your team changes or your users' needs evolve, you have to be ready to adapt.
 
-In the end, making these tough content choices _is_ user-centered. Having no content for a certain subject is often better for the user than having outdated, misleading, or erroneous content. 
+In the end, making these tough content choices _is_ user-centered. Having no content for a certain subject is often better for the user than having outdated, misleading, or erroneous content.
 
 So find a formula that works for your organization, one that allows you to deliver the highest quality content for your users within your constraints.
