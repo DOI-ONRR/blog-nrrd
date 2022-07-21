@@ -2,14 +2,14 @@
 title: "Passing the baton: what I’ve learned in my first 4 years of federal service"
 authors:
 - Shannon McHarg
-excerpt: "Retrospective of the past four years working on the Open Data, Design, and Developement team."
+excerpt: "Retrospective of the past four years working on the Open Data, Design, and Development team."
 tags:
 - customer experience
 - cx
 - user experience
 - transition
 
-date: "2022-07-15"
+date: "2022-07-22"
 ---
 
 In April of 2018, I didn’t know what I was getting into. I had applied to a job with [18F](https://18f.gsa.gov/). From that application, they contacted me about an Innovation Specialist position with the Office of Natural Resources Revenue (ONRR), an agency that 18F was working with. I knew that I would be [continuing the UX work that 18F had started](https://18f.gsa.gov/2018/05/01/lessons-from-an-18f-product-transition/), but not much beyond that.
