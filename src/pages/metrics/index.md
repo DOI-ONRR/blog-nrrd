@@ -39,9 +39,12 @@ We’ve used this Act to [justify the existence](https://blog-nrrd.doi.gov/beyon
 
 ### President’s Management Agenda (PMA) Vision
 Each administration produces a [President's Management Agenda (PMA)](https://www.performance.gov/pma/). The past few administrations have had agendas supporting customer experience. We cite the current administration’s agenda when it supports our work. The current administration’s [Priority 2: Delivering Excellent, Equitable, and Secure Federal Services and Customer Experience](https://www.performance.gov/pma/cx/) supports customer experience.
+
 “Every interaction between the Government and the public is an opportunity to deliver the value and competency Americans expect and deserve.  
+
 People are at the center of everything the Government does. In their daily lives as well as in critical moments of need, people rely on Federal services to help support them through disasters, advance their businesses, provide opportunities for their families, safeguard their rights, and aid them in rebuilding their communities.  That is why the Federal Government must center its services around those who use them–delivering simple, secure, effective, equitable, and responsive solutions for all who the Government serves.
 When individuals and organizations interact with any part of the Federal Government, they want that interaction to work seamlessly.”
+
 “This focus on customer experience will not only improve the delivery, efficiency, security, and effectiveness of our Government programs, it will advance equity and enhance everyday interactions with public services and uplift the lives of those who need it the most.”
 
 ### Executive Order 14058: Customer Experience
@@ -77,7 +80,7 @@ We use the blog analytics to see what content is popular and help guide our blog
 ### User research
 User research helps understand why problems are occurring. You can take high-volume areas identified in analytics and understand qualitative details through user research. Any time you can site a problem you’ve seen by observing users, it comes off as a powerful story. And if you can attach a number of times you’ve seen it happen, even better.
 
-##Saving time for employees
+## Saving time for employees
 Saving time for employees equates to dollars and improves employee satisfaction. Below are some ways we help ONRR employees save time.
 
 ### Decreasing the number of Freedom of Information Act (FOIA) requests and other data requests
@@ -88,7 +91,7 @@ Reducing contact volume is an effective way to show that improving the experienc
 
 ### Reducing time to update the website
 All of our data uploads used to be a manual process that involved several analysts manually creating our downloaded spreadsheets from raw data and repeatedly manually checking our data throughout the publication process.
-We’ve [created a database](https://blog-nrrd.doi.gov/moving-to-database/) that  automatically formats and generates the download files from the raw files..  we still thoroughly spend time checking the automated generated files for data accuracy against the raw files but reduced time spent to manually create download files by around 75%. What used to take a full day and lots of back and forth between analysts now only takes a few hours.
+We’ve [created a database](https://blog-nrrd.doi.gov/moving-to-database/) that  automatically formats and generates the download files from the raw files. We still thoroughly spend time checking the automated generated files for data accuracy against the raw files but reduced time spent to manually create download files by around 75%. What used to take a full day and lots of back and forth between analysts now only takes a few hours.
 
 ## Executive champions
 If you’re lucky, you’ll have executive support for some initiatives. Here are some examples where we’ve had support.
