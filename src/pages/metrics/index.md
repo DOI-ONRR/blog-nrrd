@@ -30,7 +30,7 @@ The [21st Century IDEA](https://digital.gov/resources/21st-century-integrated-di
 We’ve used this Act to [justify our work](https://blog-nrrd.doi.gov/beyond-open-data/). We've primarily used the requirements related to modernizing websites, accessibility, and customer experience. We also participated on a Department of the Interior (DOI) task force to define how the Act will be implemented throughout the department. Here is the [DOI IDEA Implementation Guidance](https://www.doi.gov/sites/doi.gov/files/21st-century-idea-implementation-guidance-final-09242021.pdf).
 
 ### Open, Public, Electronic, and Necessary (OPEN) Government Data Act
-Then [OPEN Government Data Act][https://www.cio.gov/handbook/it-laws/ogda/?clickEvt] requires data to:
+Then [OPEN Government Data Act](https://www.cio.gov/handbook/it-laws/ogda/?clickEvt) requires data to:
 - Be published in machine-readable format
 - Use open formats under open licenses
 -	Be user-centered and tracked using analytics and metrics
