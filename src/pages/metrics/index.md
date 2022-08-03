@@ -101,7 +101,7 @@ If you’re lucky, you’ll have executive support for some initiatives. Here ar
 ONRR’s Director took a course about Section 508 compliance and mandated compliance for [all documents on onrr.gov](https://blog-nrrd.doi.gov/accessibility/). This mandate got all document owners on board with getting trained to make documents accessible. Our team still had to come up with a plan for tackling the 5,000 documents, but it definitely helped to have support coming from the top of the agency.
 
 ### Continuing the spirit of the EITI
-After we withdrew from the EITI we had the support of ONRR's Director and Program Manager at that period of time (https://blog-nrrd.doi.gov/product-champion/). They allowed us to continue the Natural Resources Revenue Data website because they believed in continuing in the spirit of EITI. They were passionate about continuing to make the data public and designing the site to meet user needs.
+After we withdrew from the EITI we had the [support](https://blog-nrrd.doi.gov/product-champion/) of ONRR's Director and Program Manager at that period of time. They allowed us to continue the Natural Resources Revenue Data website because they believed in continuing in the spirit of EITI. They were passionate about continuing to make the data public and designing the site to meet user needs.
 
 ### Query tool
 We also had executive support for another project in a more roundabout way. We’d heard from a number of internal stakeholders that they wanted the NRRD site to just do what an old “stats” site did. That site allowed users to filter and download the data. We also heard from users that they wanted to slice and dice the data. We had it on our roadmap, but didn’t have resources to get to making that change.
