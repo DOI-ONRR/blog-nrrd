@@ -35,7 +35,7 @@ Then [OPEN Government Data Act](https://www.cio.gov/handbook/it-laws/ogda/?click
 - Use open formats under open licenses
 -	Be user-centered and tracked using analytics and metrics
 
-We’ve used this Act to [justify the existence](https://blog-nrrd.doi.gov/beyond-open-data/) of the [Natural Resources Revenue Data (NRRD) website](https://www.revenuedata.doi.gov). That site provides open data to the public. On both of our websites, we work in the open and use open-source software whenever possible. We also practice user-centered design and track our work using analytics and metrics.
+We’ve used this Act to [justify the existence](https://blog-nrrd.doi.gov/beyond-open-data/) of the [Natural Resources Revenue Data (NRRD) website](https://revenuedata.doi.gov). That site provides open data to the public. On both of our websites, we work in the open and use open-source software whenever possible. We also practice user-centered design and track our work using analytics and metrics.
 
 ### President’s Management Agenda (PMA) Vision
 Each administration produces a [President's Management Agenda (PMA)](https://www.performance.gov/pma/). The past few administrations have had agendas supporting customer experience. We cite the current administration’s agenda when it supports our work. The current administration’s [Priority 2: Delivering Excellent, Equitable, and Secure Federal Services and Customer Experience](https://www.performance.gov/pma/cx/) supports customer experience.
