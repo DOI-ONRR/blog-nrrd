@@ -27,7 +27,7 @@ During my check-ins with Shannon, she gave me advice about professional developm
 
 I worked on the new contacts design for the updated onrr.gov. It was such a big project, with how many contacts there are and learning how to use a wireframing software that was completely new to me. Although it was a little overwhelming at first, diving right into the project was a great learning experience in figuring out how to use a new interface – especially for design. It was really rewarding to learn something new by myself (with some tips and tricks from Shannon) and put it into practice to create a design that will adapt with onrr.gov.
 
-[![Screenshot first contact wireframe and current design](./contacts screenshot.PNG)]
+![Screenshot first contact wireframe and current design](./contacts screenshot.PNG)
 
 
 ## Were there any big surprises?
