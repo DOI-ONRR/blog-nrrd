@@ -3,7 +3,7 @@ title: "From ONRR to NASA - an interview with our UX Intern"
 authors:
 - Lindsay Goldstein
 - Kaitlyn Tran
-excerpt: "An interview with our UX intern about her intern experience at ONRR and what she's doing next "
+excerpt: "An interview with our UX Intern about her intern experience at ONRR and what she's doing next "
 tags:
 - intern
 - virtual student federal service
