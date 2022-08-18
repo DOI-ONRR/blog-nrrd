@@ -12,7 +12,7 @@ tags:
 date: "2022-09-01"
 ---
 
-Kaitlyn Tran was one of our UX interns for the 2022-2023 school year. She just finished up her sophomore year at UC Santa Cruz and is working on a degree in Cognitive Science. Our former UX designer, Shannon McHarg, was her mentor for the year. We decided to do a conversation style blog post because I wanted to learn more about her and her experience. I had a few leading questions and then we chatted. We worked together afterwards to summarize her responses. We hope you enjoy reading this!
+Kaitlyn Tran was one of our UX interns for the 2022-2023 school year. She just finished up her second year at UC Santa Cruz and is working on a degree in Cognitive Science. Our former UX designer, Shannon McHarg, was her mentor for the year. We decided to do a conversation style blog post because I wanted to learn more about her and her experience. I had a few leading questions and then we chatted. We worked together afterwards to summarize her responses. We hope you enjoy reading this!
 
 ## What was your favorite thing about working with our team?
 
