@@ -9,7 +9,7 @@ tags:
 - virtual student federal service
 - user experience
 -
-date: "2022-09-19"
+date: "2022-09-22"
 ---
 
 Kaitlyn Tran was one of our UX interns for the 2021-2022 school year. She just finished up her second year at UC Santa Cruz and is working on a degree in Cognitive Science. Our former UX designer, Shannon McHarg, was her mentor for the year. We decided to do a conversation style blog post because I wanted to learn more about her and her experience. I had a few leading questions and then we chatted. We worked together afterwards to summarize her responses. We hope you enjoy reading this!
