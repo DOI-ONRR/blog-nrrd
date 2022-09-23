@@ -1,54 +1,94 @@
 ---
-title: "Teaching digital skills: learning usability testing by peer training"
+title: "Accessibility testing for onrr.gov"
 authors:
-- Shannon McHarg
-- Maroya Faied
-- Lindsay Goldstein
-excerpt: "Our user experience designer has been running the usability testing process from recruiting participants to building prototypes – by herself. We decided it would be helpful to peer-train two of our program analysts to conduct usability testing. In this post, we share the training process and what we learned."
+- Christine Thomas
+excerpt: "How do you make sure a website is accessible? This blog post outlines the four steps we took to ensure accessibility. This is our version of four-point hybrid testing. We hope that other agencies can apply what we learned here to their own websites."
 tags:
-- user research
-- user experience
-- design
-- training
-date: "2019-02-07"
+- accessibility
+- 508 compliance
+- screen reader
+date: "2022-10-07"
 ---
 
-We have a small team: a product manager, one developer, one designer, one content strategist, and 3 program analysts. Our analysts are subject matter experts who know the site’s data, but they split their time between working on our website and managing a committee. To stretch our team further and make all of us better, we’re always looking for cross training opportunities.
+Before launching the newly redesigned [onrr.gov](https://onrr.gov), we wanted to make sure this website was as accessible as possible for all users. We previously chronicled our efforts to make all documents on onrr.gov [accessible](https://blog-nrrd.doi.gov/accessibility/), and developed [next steps](https://blog-nrrd.doi.gov/508-Study/) for [508 compliance]( https://www.section508.gov/manage/laws-and-policies/) within ONRR. Part of these next steps was to extend accessibility beyond linked documents to the entire website.
 
-Our user experience designer has been running the usability testing process – from recruiting participants to building prototypes – by herself. As the website grows in scope, it takes up an increasing amount of her time. As such, we decided it would be helpful to peer-train two of our program analysts to conduct usability testing. Prior to the training, both analysts had participated in usability testing by taking notes throughout user interviews and helping to summarize the interview sessions. Since [logistics](https://github.com/ONRR/doi-extractives-data/wiki/Research-norms-and-processes#make-a-consistent-usable-record-of-the-session) prohibit us from recording user interviews, our team takes notes and debriefs right after the sessions to make sure we didn’t miss anything important.
+So how do you make sure a website is accessible? This blog post outlines the four steps we took to ensure accessibility. This is our version of [four-point hybrid testing]( https://www.boia.org/blog/a-look-at-our-four-point-hybrid-testing). We hope that other agencies can apply what we learned here to their own websites.
 
-## Process
+## Step 1: automated Lighthouse accessibility reports
 
-Prior to our training, our UX designer documented her [usability testing process](https://github.com/ONRR/doi-extractives-data/wiki/Usability-Testing-Process), and the program analysts read [A Practical Guide to Usability Testing](https://redish.net/books/usability-testing/) by Joseph S. Dumas and Janice (Ginny) Redish to learn the nitty-gritty skills involved in conducting user research. The analysts were already familiar with some pieces of the process, but our UX designer shared all the details about how she goes through the process, including how she recruits participants, prepares for the interviews, and pulls together the findings following the study. After going through the process and reading up, we decided that the best way for the analysts to learn would be to conduct a mock study themselves.
+The first step we took was to run Lighthouse accessibility reports on every webpage on [onrr.gov](onrr.gov). You can access Lighthouse in Google Chrome by navigating to the “customize and control Google Chrome” drop-down on the right side of your window (the 3 vertical dots below the close window button). Within this option list, navigate to “more tools” then click on “developer tools”. Within the developer tools window, you can select “Lighthouse” in the headings.
 
-![Diagram of the usability testing process that includes these steps: plan study, recruit participants, create study guide, consolidate findings, and update ongoing findings](./training-chart.png)
+![Screen capture of the developer tools window, showing the Lighthouse checker. Accessibility is checked in the categories section.](./fpht_1.png)
 
-## Planning
+Within Lighthouse, we generated the report for accessibility. We generated reports for every webpage within [onrr.gov](https://onrr.gov). The reports highlighted areas where accessibility can be improved.
 
-Using the outlined process, the analysts each put together a [study plan](https://github.com/ONRR/doi-extractives-data/blob/research/research/training-study/training_study_plan_and_guide.md) to test a [prototype for a new design](https://4cawh1.axshare.com/yearly.html) we hadn’t yet tested with users. They both presented their plans for feedback from the UX designer and then combined the best parts of both to create the version they used for the mock interviews.
+When we first generated the Lighthouse reports, we learned that some of the alt text we had for images and icons were not detected. We observed this issue across all webpages, and made it our priority to fix.
 
-After they had completed their plan, the analysts created a [study guide](https://github.com/ONRR/doi-extractives-data/blob/research/research/training-study/training_study_plan_and_guide.md) for the user interviews and first practiced interviewing each other. Our UX designer then recruited colleagues to serve as our users. We asked some of them to give us their own opinions and some to role play people who fit into our typical user types to give the analysts experience dealing with different users.
+We discovered a better method for adding in alt text within our new content management system (CMS), and that resolved the majority of the alt text issues.
 
-## Conducting the study
+We learned that for the [material icons](https://mui.com/material-ui/material-icons/) we use, alt text and labeling needed to be embedded within the code. This task is on our developer’s to-do list.
 
-Our team is mainly remote, so we conducted the interviews over Google Hangouts. One analyst conducted each session and the other one took notes, so both were there for all of the sessions. The analysts conducted a debrief following each interview to make sure everything was captured and practiced placing each participant on our [user type dimensions](https://github.com/ONRR/doi-extractives-data/blob/research/research/00_UserTypes/00_UserTypes.md). The UX designer was also there for all the sessions and provided feedback on facilitation during the debriefs.
+There were also a few other outstanding issues discovered by the Lighthouse reports that need developer attention. We only have one developer working on both [onrr.gov](https://onrr.gov) and our [Natural Resources Revenue Data (NRRD)](https://revenuedata.doi.gov/) website. We had to prioritize tasks, so we created issues within [GitHub](https://github.com/ONRR/onrr.gov-site/labels/accessibility) for all the Lighthouse findings. Our developer will work on those issues now that the more demanding tasks involving launching the website are complete. We then moved onward with the next steps of accessibility testing.
 
-## Analysis
+## Step 2: manual screen reader testing
 
-After completing the interviews, the analysts consolidated findings using a template we use for all of our studies. They pulled out the highest frequency findings related to specific questions in the study guide and created a [findings summary](https://github.com/ONRR/doi-extractives-data/blob/research/research/training-study/training_study_results.md) to share with the team. As a result of our findings, we made a few tweaks to the design to fix issues that real users would likely encounter, before planning a study of the same design with real users.
+While the automated Lighthouse reports give you an idea of potential accessibility issues, we wanted to test our website manually with a screen reader. We were interested in understanding which issues truly impacted screen readers. Our goal was to elevate those issues as high priority. These high priority issues needed to be resolved before the website launched.
 
-## Outcomes
+We downloaded the [NVDA](https://www.nvaccess.org/) screen reader, which is free and open source. I have never used a screen reader before, so I needed some time to learn how to use it. I found this consolidated list of [keyboard shortcut commands](https://dequeuniversity.com/screenreaders/nvda-keyboard-shortcuts) and NVDA’s [online user guide](https://www.nvaccess.org/files/nvda/documentation/userGuide.html) very helpful for my initial learning phase.
 
-> Learning usability testing was both fascinating and eye-opening. The experience of conducting an interview and analyzing the results stimulated my interest to approach future projects by observing problems and finding solutions by considering different perspectives. - Maroya Faied, Program Analyst
+Once we were able to correctly operate the screen reader, we tested every webpage with it. The issues we identified occurred across all webpages. The issues we discovered were:
 
-We have limited access to our real user population, so we didn’t want to waste any of our participant pool for a training exercise. We asked our own teammates and a few people from internal teams we work with (shout out to our awesome Data Retrieval team!) to pretend to be different types of users for the mock interviews. When our teammates were playing the roles of users, they were forced to look at the prototype from a different perspective (and in more detail) than they had previously. This allowed our teammates to test the functionality of the design from a user’s perspective and to give constructive feedback based on how people might actually use it. It ended up functioning somewhat like a [cognitive walkthrough](https://www.usabilitybok.org/cognitive-walkthrough) of the design, which we didn’t intend to happen but was a nice surprise. It’s difficult to give feedback on a design when viewing it out of the context of use. Having team members pretend to be users helped them build empathy for those users and look at the design with a more detailed lens than they would in a standard design review.
+1. The screen reader was not reading the content within the drop-down menus on the top menu bar.
 
-Our usability testing process is now well documented, such that it will be easier for other team members to pick up it in the future. The program analysts now understand the complexity of the process and realize the amount of planning and background work that is done before the interviews are conducted. They now have completed all of the steps in the process at least once. They have also enjoyed gaining a new skill and getting a peek behind the curtain.
+![Screen capture of the onrr.gov homepage. The drop-down menu within the top menu bar is highlighted in red.](./fpht_2.png)
 
-The analysts are already thinking about ways to apply design thinking to our other work processes and future projects. The prescribed work process with an emphasis on planning and documentation helps us stay focused on the task at hand. The planning time helps the work run smoothly and the documentation at each stage makes it easier to spot ways the process and the project could be improved. The attention to documentation makes it easier to share results. It also provides a method to incorporate many viewpoints without creating conflict amongst team members or work groups.
+2. The screen reader was not identifying or reading the left-hand navigation menu.
 
-Now that the program analysts are becoming more familiar with the user research process, they have also provided good ideas for improving the process. For example, we will be exploring the use of a spreadsheet instead of documents to take notes, in order to cut out some of the work of copying and pasting from multiple docs into a consolidated spreadsheet when doing analysis. That will also allow us to start coding the findings into like issues as we go.
+![Screen capture of the Reporter Letters webpage. The left-side navigation menu is highlighted in red.](./fpht_3.png)
 
-The next step is for the analysts to plan and conduct a study with real users. Increasing our capacity for user research will help us build bridges with other teams in our agency who are working on products that could benefit from user feedback. We hope to help introduce user-centered design practices to those teams.
+3. The screen reader was not identifying headings, even though content was specifically formatted as headings within our CMS.
 
-*__Correction:__ This blog post originally stated that the [Paperwork Reduction Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/PRAPrimer_04072010.pdf) prohibited us from recording user research sessions, but we have since learned that the Act doesn't actually prohibit us from doing that. (Yay! Something we can look into doing in the future.)*
+![Screen capture of the Late Payment Interest webpage. The headings on this page are highlighted in red.](./fpht_4.png)
+
+We learned that checking the elements list (the NVDA keyboard shortcut is “Insert+F7”) was a great addition to listening to the screen reader. We saw that all our links, form fields, buttons, and landmarks were detected, and that only the headings were missing.
+
+![Screen capture of the NVDA elements list, showing that the headings are not detected within NVDA.](./fpht_5.png)
+
+We suspected that those three issues were major flaws that needed to be addressed immediately for the new website to meet accessibility requirements. Before elevating as high priority and creating GitHub issues for our developer, we wanted to verify our testing results with someone who uses assistive technology daily.
+
+## Step 3: assistive technology user reviews the website
+
+We are lucky to have an assistive technology user who is also a subject matter expert within ONRR, Samuel Herbert. We asked Sam if he had time to review the site with us. We let him know about all the errors we discovered. We asked him to confirm if the issues we identified were indeed serious accessibility errors, and asked him to let us know if he found any additional errors that we missed.
+
+We had a meeting where Sam demonstrated how he used the screen reader. It was very enlightening for us! Sam confirmed that the three issues we found with the screen reader needed to be fixed before we could say our new site was accessible. Without these fixes, he could not navigate the website easily. Once these errors were fixed, our site could accurately be classified as accessible.
+
+We elevated these three issues as high priority, and our developer did an amazing job at fixing these errors within the back-end coding.
+
+We did a second round of testing and confirmed that:
+1. you could now use “Alt+Down Arrow” to access the drop-down menus,
+2. the screen reader was accurately identifying and reading the left-hand navigation menu, and
+3. the screen reader was identifying the headings and you can use the “H” key to navigate through the headings.
+
+After this second round of testing, we let Sam know these issues were fixed. We set up another meeting with him to confirm. Sam tested the site again and was happy with its usability. He said we could consider the site accessible, since he was able to navigate the website easily using the screen reader.
+
+![Screen capture showing the NVDA elements list. After the developer fix, the headings are now indicated and listed.](./fpht_6.png)
+
+There are still minor issues indicated by Lighthouse that we need to fix, but the major navigation and alt text issues are resolved. We know that we are not done! Now that the site is live, our developer will have time to tackle the minor issues in our [product backlog]( https://github.com/ONRR/onrr.gov-site/labels/accessibility). Accessibility is an ongoing process for us.
+
+>"I am so thankful for the Open Data, Design, and Development team’s dedication to meeting the legal requirements of 508 compliance. I appreciate the improvements being incorporated prior to a full launch." – Sam Herbert
+
+## Step 4: iterative fixes with our developer
+
+Clear communication and iteration with our developer was essential in this project. In every step outlined above, we included our developer. We presented our findings to him and outlined our concerns. He helped us prioritize which issues should be fixed before launch by detailing the level of difficulty each fix was for him.
+
+When we believed an issue was high priority and need resolving before launch, we demonstrated the issue on the screen reader for him. Our developer even took it upon himself to download a screen reader. He did his own testing before releasing the changes to us.
+
+Making sure everyone understood the accessibility errors helped ensure that the appropriate errors got resolved before launch. Also, promoting a culture where every employee values accessibility helps projects like this get completed in a timely manner.
+
+## Next steps
+
+Everyone on our team would have loved for all accessibility issues to be resolved before launch. That was our goal. Because we are short-staffed with only one developer, we had to refocus and reprioritize our goals.
+
+While the site is considered accessible in its current state, we are not done with accessibility! In addition to resolving the minor accessibility errors in our [product backlog]( https://github.com/ONRR/onrr.gov-site/labels/accessibility), we plan to regularly check our site for accessibility issues.
+
+Ensuring that our websites are accessible is an ongoing and iterative process. We are proud of the steps we take to integrate accessibility into our work culture, and we are continuously learning how to improve.
