@@ -16,7 +16,7 @@ So how do you make sure a website is accessible? This blog post outlines the fou
 
 ## Step 1: automated Lighthouse accessibility reports
 
-The first step we took was to run Lighthouse accessibility reports on every webpage on [onrr.gov](onrr.gov). You can access Lighthouse in Google Chrome by navigating to the “customize and control Google Chrome” drop-down on the right side of your window (the 3 vertical dots below the close window button). Within this option list, navigate to “more tools” then click on “developer tools”. Within the developer tools window, you can select “Lighthouse” in the headings.
+The first step we took was to run Lighthouse accessibility reports on every webpage on [onrr.gov](https://onrr.gov). You can access Lighthouse in Google Chrome by navigating to the “customize and control Google Chrome” drop-down on the right side of your window (the 3 vertical dots below the close window button). Within this option list, navigate to “more tools” then click on “developer tools”. Within the developer tools window, you can select “Lighthouse” in the headings.
 
 ![Screen capture of the developer tools window, showing the Lighthouse checker. Accessibility is checked in the categories section.](./fpht_1.png)
 
@@ -73,7 +73,7 @@ After this second round of testing, we let Sam know these issues were fixed. We 
 
 ![Screen capture showing the NVDA elements list. After the developer fix, the headings are now indicated and listed.](./fpht_6.png)
 
-There are still minor issues indicated by Lighthouse that we need to fix, but the major navigation and alt text issues are resolved. We know that we are not done! Now that the site is live, our developer will have time to tackle the minor issues in our [product backlog]( https://github.com/ONRR/onrr.gov-site/labels/accessibility). Accessibility is an ongoing process for us.
+There are still minor issues indicated by Lighthouse that we need to fix, but the major navigation and alt text issues are resolved. We know that we are not done! Now that the site is live, our developer will have time to tackle the minor issues in our [product backlog](https://github.com/ONRR/onrr.gov-site/labels/accessibility). Accessibility is an ongoing process for us.
 
 >"I am so thankful for the Open Data, Design, and Development team’s dedication to meeting the legal requirements of 508 compliance. I appreciate the improvements being incorporated prior to a full launch." – Sam Herbert
 
@@ -89,6 +89,6 @@ Making sure everyone understood the accessibility errors helped ensure that the 
 
 Everyone on our team would have loved for all accessibility issues to be resolved before launch. That was our goal. Because we are short-staffed with only one developer, we had to refocus and reprioritize our goals.
 
-While the site is considered accessible in its current state, we are not done with accessibility! In addition to resolving the minor accessibility errors in our [product backlog]( https://github.com/ONRR/onrr.gov-site/labels/accessibility), we plan to regularly check our site for accessibility issues.
+While the site is considered accessible in its current state, we are not done with accessibility! In addition to resolving the minor accessibility errors in our [product backlog](https://github.com/ONRR/onrr.gov-site/labels/accessibility), we plan to regularly check our site for accessibility issues.
 
 Ensuring that our websites are accessible is an ongoing and iterative process. We are proud of the steps we take to integrate accessibility into our work culture, and we are continuously learning how to improve.
