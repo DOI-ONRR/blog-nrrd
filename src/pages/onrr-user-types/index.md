@@ -9,6 +9,8 @@ excerpt: "We’ve conducted several studies where we’ve noticed gaps in our on
 tags:
 - user research
 - user types
+- design studio
+- personas
 date: "2022-11-18"
 ---
 
