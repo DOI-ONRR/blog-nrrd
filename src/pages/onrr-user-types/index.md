@@ -20,40 +20,40 @@ We organized industry users by what they report, had one internal user type, one
 
 ### New reporter
 
-•	A new reporter comes to the site for the first time looking for how to get set up to start filing reports. They find a checklist of steps to take and the forms they need to fill out to gain system access. They also find a training class to sign up for and some videos to watch to get started.
+-	A new reporter comes to the site for the first time looking for how to get set up to start filing reports. They find a checklist of steps to take and the forms they need to fill out to gain system access. They also find a training class to sign up for and some videos to watch to get started.
 
 ### Production reporter
 
-•	The reporter has a OGOR report that is due next Friday and needs to file, so they go to onrr.gov to file the report. They have a question about the report, so they look for the contact information of the production representative at ONRR to call them.
-•	The reporter needs to enter inventory adjustments to a past OGOR. They log onto the ONRR eCommerce portal to make these changes. The reporter refers to the production handbook to review how to report correctly.
-•	The reporter receives a data request or an order to report and looks for procedures to respond to the letter and look at handbooks, well assignment lists, and their reports in Data Warehouse to determine whether they reported correctly.
+-	The reporter has a OGOR report that is due next Friday and needs to file, so they go to onrr.gov to file the report. They have a question about the report, so they look for the contact information of the production representative at ONRR to call them.
+-	The reporter needs to enter inventory adjustments to a past OGOR. They log onto the ONRR eCommerce portal to make these changes. The reporter refers to the production handbook to review how to report correctly.
+-	The reporter receives a data request or an order to report and looks for procedures to respond to the letter and look at handbooks, well assignment lists, and their reports in Data Warehouse to determine whether they reported correctly.
 
 ### Royalty reporter/payor
 
-•	The reporter has a 2014 report that is due next Friday and needs to file, so they go to onrr.gov to file the report. They have a question about the report, so they look for the contact information of the royalty representative at ONRR to call them.
-•	The reporter needs to enter adjustments to a past 2014 for a different sales volume and sales value. They log onto the ONRR ecommerce portal to make these changes. The reporter refers to the reporting handbook and valuation guidance to review what the value should be and how to report correctly.
-•	A royalty reporter is looking for an Indian Major Portion Oil Price for last month, so they go to onrr.gov to find a table. They need the most up-to-date price to calculate the royalty owed for the month.
+-	The reporter has a 2014 report that is due next Friday and needs to file, so they go to onrr.gov to file the report. They have a question about the report, so they look for the contact information of the royalty representative at ONRR to call them.
+-	The reporter needs to enter adjustments to a past 2014 for a different sales volume and sales value. They log onto the ONRR ecommerce portal to make these changes. The reporter refers to the reporting handbook and valuation guidance to review what the value should be and how to report correctly.
+-	A royalty reporter is looking for an Indian Major Portion Oil Price for last month, so they go to onrr.gov to find a table. They need the most up-to-date price to calculate the royalty owed for the month.
 
 ### Solids reporter/payor
 
-•	The reporter has a P&R report that is due next Friday and needs to file, so they go to onrr.gov to file the report. They have a question about the report, so they look for the contact information of the royalty representative at ONRR to call them.
-•	The reporter needs to enter adjustments to a past P&R. They log onto the ONRR ecommerce portal to make these changes. The reporter refers to the reporting handbook to review how to report correctly.
+-	The reporter has a P&R report that is due next Friday and needs to file, so they go to onrr.gov to file the report. They have a question about the report, so they look for the contact information of the royalty representative at ONRR to call them.
+-	The reporter needs to enter adjustments to a past P&R. They log onto the ONRR ecommerce portal to make these changes. The reporter refers to the reporting handbook to review how to report correctly.
 
 ### ONRR customer service rep
 
-•	An internal employee from the Reference and Reporting Management (RRM) Production Team would like to prepare and conduct training for first time reporters. They use onrr.gov as a resource to guide reporters with instruction and other information.
-•	A royalty team member gets a question from an industry reporter about how to report. The royalty team member goes to onrr.gov to find the answer and sends the reporter a link to the information.
-•	A compliance representative notices an issue when conducting a review and notifies the reporter. Reporter contacts the rep and asks questions. Rep points the reporter to onrr.gov to information to answer the question.
+-	An internal employee from the Reference and Reporting Management (RRM) Production Team would like to prepare and conduct training for first time reporters. They use onrr.gov as a resource to guide reporters with instruction and other information.
+-	A royalty team member gets a question from an industry reporter about how to report. The royalty team member goes to onrr.gov to find the answer and sends the reporter a link to the information.
+-	A compliance representative notices an issue when conducting a review and notifies the reporter. Reporter contacts the rep and asks questions. Rep points the reporter to onrr.gov to information to answer the question.
 
 ### Inquisitor
 
-•	Potential employee goes to onrr.gov to learn about the agency.
-•	Journalist goes to onrr.gov to find out who is the contact for public relations to get a quote for an article.
+-	Potential employee goes to onrr.gov to learn about the agency.
+-	Journalist goes to onrr.gov to find out who is the contact for public relations to get a quote for an article.
 
 ### Resource owner (tribe, IIMO)
 
-•	An allottee wants to attend an event or learn about what ONRR does for them.
-•	A tribal leader wants to find out who to call with a problem they're having with one of their lessees.
+-	An allottee wants to attend an event or learn about what ONRR does for them.
+-	A tribal leader wants to find out who to call with a problem they're having with one of their lessees.
 
 ## Thinking in terms of behavior
 
@@ -63,25 +63,25 @@ To consolidate all the knowledge we had about users, we went back through all of
 
 ### Primary tasks for industry users
 
-•	File reports (for own company or a third party)
-•	Access previous reports (for own company or a third party)
-•	Make a payment (for own company or a third party)
-•	Understand how to get started
-•	Learn about ONRR
+-	File reports (for own company or a third party)
+-	Access previous reports (for own company or a third party)
+-	Make a payment (for own company or a third party)
+-	Understand how to get started
+-	Learn about ONRR
 
 ### Secondary tasks for industry users
 
-●	Get system access (EMARF, 4444, login issues)
-●	Get help filing reports (handbooks, training, regs, reference lists & codes, valuation, contact someone)
-●	Troubleshoot errors or compliance/enforcement actions after filing
-●	Understand how much to pay (access other systems like LAB)
+-	Get system access (EMARF, 4444, login issues)
+-	Get help filing reports (handbooks, training, regs, reference lists & codes, valuation, contact someone)
+-	Troubleshoot errors or compliance/enforcement actions after filing
+-	Understand how much to pay (access other systems like LAB)
 
 ### Tasks for people who help industry users
 
-●	Help industry get answers to questions
-●	Send a link to onrr.gov
-●	Call the customer
-●	Email the customer
+-	Help industry get answers to questions
+-	Send a link to onrr.gov
+-	Call the customer
+-	Email the customer
 
 ## Design studio
 
