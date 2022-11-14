@@ -2,17 +2,21 @@
 title: "Accessibility testing for onrr.gov"
 authors:
 - Christine Thomas
-excerpt: "How do you make sure a website is accessible? This blog post outlines the four steps we took to ensure accessibility. This is our version of four-point hybrid testing. We hope that other agencies can apply what we learned here to their own websites."
+excerpt: "How do you make sure a website is accessible? This blog post outlines the four steps we took to verify accessibility."
 tags:
 - accessibility
 - 508 compliance
 - screen reader
-date: "2022-10-07"
+date: "2022-12-01"
 ---
 
-Before launching the newly redesigned [onrr.gov](https://onrr.gov), we wanted to make sure this website was as accessible as possible for all users. We previously chronicled our efforts to make all documents on onrr.gov [accessible](https://blog-nrrd.doi.gov/accessibility/), and developed [next steps](https://blog-nrrd.doi.gov/508-Study/) for [508 compliance]( https://www.section508.gov/manage/laws-and-policies/) within ONRR. Part of these next steps was to extend accessibility beyond linked documents to the entire website.
+Before launching the newly redesigned [onrr.gov](https://onrr.gov), we wanted to make sure this website was as accessible as possible for all users. We previously chronicled our efforts to make all documents on onrr.gov [accessible](https://blog-nrrd.doi.gov/accessibility/), and developed [next steps](https://blog-nrrd.doi.gov/508-Study/) for [508 compliance](https://www.section508.gov/manage/laws-and-policies/) within ONRR. Part of these next steps was to extend accessibility beyond linked documents to the entire website.
 
-So how do you make sure a website is accessible? This blog post outlines the four steps we took to ensure accessibility. This is our version of [four-point hybrid testing]( https://www.boia.org/blog/a-look-at-our-four-point-hybrid-testing). We hope that other agencies can apply what we learned here to their own websites.
+During the prototyping and design process, we made sure that the new redesign was meeting [WCAG requirements](https://www.w3.org/WAI/WCAG21/quickref/) and was in compliance with [Section 508](https://www.section508.gov/manage/laws-and-policies/). We incorporated these accessibility fundamentals from the very beginning of this redesign.
+
+Even though accessibility was incorporated “from the ground up”, we still needed to make sure that all the accessible functionality within our prototypes and wireframes translated into our final product – the public-facing [onrr.gov](https://onrr.gov).
+
+So how do you make sure a website is accessible? This blog post outlines the four steps we took to verify accessibility. This is our version of [four-point hybrid testing]( https://www.boia.org/blog/a-look-at-our-four-point-hybrid-testing). We hope that other agencies can apply what we learned here to their own websites.
 
 ## Step 1: automated Lighthouse accessibility reports
 
@@ -58,7 +62,7 @@ We suspected that those three issues were major flaws that needed to be addresse
 
 ## Step 3: assistive technology user reviews the website
 
-We are lucky to have an assistive technology user who is also a subject matter expert within ONRR, Samuel Herbert. We asked Sam if he had time to review the site with us. We let him know about all the errors we discovered. We asked him to confirm if the issues we identified were indeed serious accessibility errors, and asked him to let us know if he found any additional errors that we missed.
+In the initial prototyping and wireframing process, we incorporated several assistive technology users to test functionality such as: color contrast, text size, alt text, readability, and navigability. For this test of our final product, we wanted to specifically focus on screen reader functionality. We are lucky to have a screen reader user who is also a subject matter expert within ONRR, Samuel Herbert. We asked Sam if he had time to review the site with us. We let him know about all the errors we discovered. We asked him to confirm if the issues we identified were indeed serious accessibility errors, and asked him to let us know if he found any additional errors that we missed.
 
 We had a meeting where Sam demonstrated how he used the screen reader. It was very enlightening for us! Sam confirmed that the three issues we found with the screen reader needed to be fixed before we could say our new site was accessible. Without these fixes, he could not navigate the website easily. Once these errors were fixed, our site could accurately be classified as accessible.
 
@@ -69,7 +73,7 @@ We did a second round of testing and confirmed that:
 2. the screen reader was accurately identifying and reading the left-hand navigation menu, and
 3. the screen reader was identifying the headings and you can use the “H” key to navigate through the headings.
 
-After this second round of testing, we let Sam know these issues were fixed. We set up another meeting with him to confirm. Sam tested the site again and was happy with its usability. He said we could consider the site accessible, since he was able to navigate the website easily using the screen reader.
+After this second round of testing, we let Sam know these issues were fixed. We set up another meeting with him to confirm. Sam tested the site again and was happy with its usability.
 
 ![Screen capture showing the NVDA elements list. After the developer fix, the headings are now indicated and listed.](./fpht_6.png)
 
