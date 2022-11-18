@@ -113,6 +113,8 @@ workflows:
   deploy:
     jobs:
       - deploy:
+          context:
+            - DEV
           filters:
             branches:
               only: master
