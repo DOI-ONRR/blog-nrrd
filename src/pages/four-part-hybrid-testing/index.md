@@ -7,7 +7,7 @@ tags:
 - accessibility
 - 508 compliance
 - screen reader
-date: "2022-12-01"
+date: "2022-11-18"
 ---
 
 Before launching the newly redesigned [onrr.gov](https://onrr.gov), we wanted to make sure this website was as accessible as possible for all users. We previously chronicled our efforts to make all documents on onrr.gov [accessible](https://blog-nrrd.doi.gov/accessibility/), and developed [next steps](https://blog-nrrd.doi.gov/508-Study/) for [508 compliance](https://www.section508.gov/manage/laws-and-policies/) within ONRR. Part of these next steps was to extend accessibility beyond linked documents to the entire website.
