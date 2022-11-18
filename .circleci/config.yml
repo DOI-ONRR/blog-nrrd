@@ -29,7 +29,6 @@ jobs:
             cf auth "$CF_USERNAME" "$CF_PASSWORD"
             cf target -o "$CF_ORG" -s "$CF_SPACE"
             cf push dev-blog-nrrd -f ./manifest.yml
-
    
   dev:
     docker:
@@ -69,7 +68,6 @@ jobs:
           command: |
             which cf
             bash ./.circleci/cleanup.sh
-
   deploy:
     docker:
       # This image has the latest cf-cli as well as zero downtime plugins, if needed.
@@ -100,8 +98,6 @@ jobs:
             cf auth "$PROD_CF_USERNAME" "$PROD_CF_PASSWORD"
             cf target -o "$PROD_CF_ORG" -s "$PROD_CF_SPACE"
             cf push blog-nrrd -f ./manifest.yml
-
-
 workflows:
   preview:
     jobs:
@@ -129,5 +125,3 @@ workflows:
           filters:
             branches:
               only: dev
-
-              
