@@ -5,7 +5,7 @@ jobs:
       - image: circleci/node:12.13.0
     resource_class: xlarge
     environment:
-      TEST_REPORTS: /tmp/test-reports
+      TEST_REPORTS: /tmp/test-reports   
     steps:
       - checkout
       - restore_cache:
@@ -26,10 +26,11 @@ jobs:
             curl -v -L -o cf-cli_amd64.deb 'https://cli.run.pivotal.io/stable?release=debian64&source=github'
             sudo dpkg -i cf-cli_amd64.deb
             cf api https://api.fr.cloud.gov
-            cf login -u "$CF_USERNAME" -p "$CF_PASSWORD" -a api.fr.cloud.gov -o doi-onrr -s dev -v
+            cf auth "$CF_USERNAME" "$CF_PASSWORD"
+            cf target -o "$CF_ORG" -s "$CF_SPACE"
             cf push dev-blog-nrrd -f ./manifest.yml
 
-
+   
   dev:
     docker:
       # This image has the latest cf-cli as well as zero downtime plugins, if needed.
@@ -58,12 +59,10 @@ jobs:
           command: |
             pwd && ls -l
             curl -v -L -o cf-cli_amd64.deb 'https://cli.run.pivotal.io/stable?release=debian64&source=github'
-            sudo dpkg -i cf-cli_amd64.deb
-            # Set $CF_USERNAME and $CF_PASSWORD in CircleCI settings.
-            # $CF_ORG, $CF_SPACE, and $APP_NAME can also be set in CircleCI settings or hardcoded here.
+            sudo dpkg -i cf-cli_amd64.deb 
             cf api https://api.fr.cloud.gov
-            cf auth "$DEV_CF_USERNAME" "$DEV_CF_PASSWORD"
-            cf target -o "$DEV_CF_ORG" -s "$DEV_CF_SPACE"
+            cf auth "$CF_USERNAME" "$CF_PASSWORD"
+            cf target -o "$CF_ORG" -s "$CF_SPACE"
             cf push dev-blog-nrrd -f ./manifest.yml
       - run:
           name: clean up
@@ -94,7 +93,7 @@ jobs:
           command: |
             pwd && ls -l
             curl -v -L -o cf-cli_amd64.deb 'https://cli.run.pivotal.io/stable?release=debian64&source=github'
-            sudo dpkg -i cf-cli_amd64.deb
+            sudo dpkg -i cf-cli_amd64.deb  
             # Set $CF_USERNAME and $CF_PASSWORD in CircleCI settings.
             # $CF_ORG, $CF_SPACE, and $APP_NAME can also be set in CircleCI settings or hardcoded here.
             cf api https://api.fr.cloud.gov
@@ -107,12 +106,14 @@ workflows:
   preview:
     jobs:
       - preview:
+          context:
+            - DEV
           filters:
             branches:
               ignore:
                 - master
                 - dev
-
+  
   deploy:
     jobs:
       - deploy:
@@ -123,6 +124,10 @@ workflows:
   dev:
     jobs:
       - dev:
+          context:
+            - DEV
           filters:
             branches:
               only: dev
+
+              
