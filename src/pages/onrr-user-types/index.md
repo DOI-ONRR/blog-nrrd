@@ -11,7 +11,7 @@ tags:
 - user types
 - design studio
 - personas
-date: "2022-01-25"
+date: "2023-01-25"
 ---
 
 We’ve been through a few iterations of our personas for onrr.gov. We started with a [rough cut](https://blog-nrrd.doi.gov/intern-onrr-dot-gov/) based on the initial interviews we conducted with users. Then after a few rounds, we adjusted. Now that we’ve conducted several studies where we’ve noticed gaps in our personas, we decided to revisit them.
