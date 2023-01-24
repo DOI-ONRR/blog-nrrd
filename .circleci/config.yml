@@ -107,6 +107,7 @@ workflows:
     jobs:
       - preview:
           context:
+            - org-global
             - DEV
           filters:
             branches:
@@ -118,6 +119,7 @@ workflows:
     jobs:
       - deploy:
           context:
+            - org-global
             - PROD
           filters:
             branches:
@@ -127,6 +129,7 @@ workflows:
     jobs:
       - dev:
           context:
+            - org-global
             - DEV
           filters:
             branches:
