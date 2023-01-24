@@ -26,19 +26,19 @@ We organized industry users by what they report, had one internal user type, one
 
 ### Production reporter
 
--	The reporter has a OGOR report that is due next Friday and needs to file, so they go to onrr.gov to file the report. They have a question about the report, so they look for the contact information of the production representative at ONRR to call them.
+-	The reporter has an Oil & Gas Operations Report (OGOR) that is due next Friday and needs to file, so they go to onrr.gov to file the report. They have a question about the report, so they look for the contact information of the production representative at ONRR to call them.
 -	The reporter needs to enter inventory adjustments to a past OGOR. They log onto the ONRR eCommerce portal to make these changes. The reporter refers to the production handbook to review how to report correctly.
 -	The reporter receives a data request or an order to report and looks for procedures to respond to the letter and look at handbooks, well assignment lists, and their reports in Data Warehouse to determine whether they reported correctly.
 
 ### Royalty reporter/payor
 
--	The reporter has a 2014 report that is due next Friday and needs to file, so they go to onrr.gov to file the report. They have a question about the report, so they look for the contact information of the royalty representative at ONRR to call them.
--	The reporter needs to enter adjustments to a past 2014 for a different sales volume and sales value. They log onto the ONRR ecommerce portal to make these changes. The reporter refers to the reporting handbook and valuation guidance to review what the value should be and how to report correctly.
+-	The reporter has a Report of Sales and Royalty Remittance report (Form ONRR-2014) that is due next Friday and needs to file, so they go to onrr.gov to file the report. They have a question about the report, so they look for the contact information of the royalty representative at ONRR to call them.
+-	The reporter needs to enter adjustments to a past Form ONRR-2014 for a different sales volume and sales value. They log onto the ONRR ecommerce portal to make these changes. The reporter refers to the reporting handbook and valuation guidance to review what the value should be and how to report correctly.
 -	A royalty reporter is looking for an Indian Major Portion Oil Price for last month, so they go to onrr.gov to find a table. They need the most up-to-date price to calculate the royalty owed for the month.
 
 ### Solids reporter/payor
 
--	The reporter has a P&R report that is due next Friday and needs to file, so they go to onrr.gov to file the report. They have a question about the report, so they look for the contact information of the royalty representative at ONRR to call them.
+-	The reporter has a Production and Royalty (P&R) report that is due next Friday and needs to file, so they go to onrr.gov to file the report. They have a question about the report, so they look for the contact information of the royalty representative at ONRR to call them.
 -	The reporter needs to enter adjustments to a past P&R. They log onto the ONRR ecommerce portal to make these changes. The reporter refers to the reporting handbook to review how to report correctly.
 
 ### ONRR customer service rep
@@ -73,10 +73,10 @@ To consolidate all the knowledge we had about users, we went back through all of
 
 ### Secondary tasks for industry users
 
--	Get system access (EMARF, 4444, login issues)
+-	Get system access (login issues)
 -	Get help filing reports (handbooks, training, regs, reference lists & codes, valuation, contact someone)
 -	Troubleshoot errors or compliance/enforcement actions after filing
--	Understand how much to pay (access other systems like LAB)
+-	Understand how much to pay (access other systems)
 
 ### Tasks for people who help industry users
 
@@ -103,7 +103,7 @@ This first concept incorporated the user types previously established and utiliz
 
 ![Visual of Concept A, with the triangle diagram.](./ut_1.png)
 
-We then applied the same user types to an example from H&R Block. This concept allowed us to be more detailed in describing how people use onrr.gov by listing multiple user tasks instead of three general ones like in the triangle above. This concept was more useful because it allowed us to broaden our ideas on how to organize and categorize user tasks. We made progress with this concept, but ultimately saw similar clustering of user types. We decided that this concept was an improvement, but still felt like we could develop something more effective.
+We then applied the same user types to an example using linear dimensions. This concept allowed us to be more detailed in describing how people use onrr.gov by listing multiple user tasks instead of three general ones like in the triangle above. This concept was more useful because it allowed us to broaden our ideas on how to organize and categorize user tasks. We made progress with this concept, but ultimately saw similar clustering of user types. We decided that this concept was an improvement, but still felt like we could develop something more effective.
 
 ![Visual of Concept A, with persona dimensions.](./ut_2.png)
 
