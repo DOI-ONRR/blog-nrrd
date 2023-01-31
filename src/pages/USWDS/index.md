@@ -12,11 +12,11 @@ tags:
 date: "2023-02-25"
 ---
 
-The [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/) is a design system that makes it easier for federal government website to create an accessible and mobile-friendly user experience. USWDS was created in 2015 by [18F](https://18f.gsa.gov/) and the [U.S. Digital Service](https://www.usds.gov/). 18F is the same group that initiated the work that our Open Data, Design and Development (ODDD) team at the Office of Natural Resources Revenue (ONRR) continues to do.
+The [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/) is a design system that makes it easier for federal government websites to create an accessible and mobile-friendly user experience. USWDS was created in 2015 by [18F](https://18f.gsa.gov/) and the [U.S. Digital Service](https://www.usds.gov/). 18F is the same group that initiated the work that our Open Data, Design and Development (ODDD) team at the Office of Natural Resources Revenue (ONRR) continues to do.
 
 USWDS includes design principles, components, patterns, design tokens, utilities and templates that utilize human-centered design. Following the five USWDS design principles is required by the [21st Century Integrated Digital Experience Act (IDEA)](https://digital.gov/resources/21st-century-integrated-digital-experience-act/). We also find the key considerations and practical actions useful in determining which improvements to focus on in our agile environment.
 
-Here are the ways we adhere to each of the five design principles. Not only are these principles used in our website design and development, but they are fundamentally woven into the way our team works.
+This blog post looks at the ways we adhere to each of the five design principles. Not only are these principles used in our website design and development, but they are fundamentally woven into the way our team works.
 
 ## Start with real user needs
 **USWDS Definition:**
@@ -28,7 +28,7 @@ For [onrr.gov](https://onrr.gov/) we developed a vision for our website that all
 
 We’ve identified [user types and scenarios](https://github.com/ONRR/onrr.gov-site/wiki/Product-framing#key-scenarios), which have already gone through one round of updating. In addition to user research, we use journey mapping to help us understand the user experience from start to finish.
 
-We test with real people regularly. Our team is small but includes dedicated UX design specialists. All team members participate in UX research design, and we have access to prototyping software. Leading up to the redesign and launch of [onrr.gov](https://onrr.gov/), the team ran user research studies applying a variety of methods: discovery, concepts, open and closed card sort, tree testing, content process, and moderated usability studies. The site is now live, and once we have addressed some of our known issues, we will continue conducting user research studies to make iterative improvements. Our findings are stored in a shared folder, and the findings and reports are made publicly available on [GitHub](https://github.com/DOI-ONRR/research/tree/master/onnr-dot-gov-research).
+We test with real people regularly. Our team is small but includes dedicated UX design specialists. All team members participate in UX research design, and we have access to prototyping software. Leading up to the redesign and launch of [onrr.gov](https://onrr.gov/), the team ran user research studies applying a variety of methods: discovery, concepts, open and closed card sorts, tree testing, content process, and moderated usability studies. The site is now live, and once we have addressed some of our known issues, we will continue conducting user research studies to make iterative improvements. Our findings are stored in a shared folder, and the findings and reports are made publicly available on [GitHub](https://github.com/DOI-ONRR/research/tree/master/onnr-dot-gov-research).
 
 ## Earn trust
 **USWDS Definition:**
@@ -36,17 +36,17 @@ We test with real people regularly. Our team is small but includes dedicated UX 
 
 The most significant aspects of earning users' trust are making services consistently available, easy to understand, working transparently, and ensuring users' privacy.
 
-The ODDD team was formed to manage the [NRRD website](https://revenuedata.doi.gov/), which was created as part of U.S. [Extractive Industries Transparency Initiative ](https://eiti.org/ )(USEITI). This means transparency and openness has been baked into the work of our team from the start. We use open-source tools whenever we can, publishing our code and data on [GitHub](https://github.com/ONRR/). We also use the [GitHub wiki](https://github.com/ONRR/onrr.gov-site/wiki) and the [ODDD blog](https://blog-nrrd.doi.gov/) to share our processes.
+The ODDD team was formed to manage the [NRRD website](https://revenuedata.doi.gov/), which was created as part of the U.S. [Extractive Industries Transparency Initiative ](https://eiti.org/ )(USEITI). This means transparency and openness has been baked into the work of our team from the start. We use open-source tools whenever we can, publishing our code and data on [GitHub](https://github.com/ONRR/). We also use the [GitHub wiki](https://github.com/ONRR/onrr.gov-site/wiki) and the [ODDD blog](https://blog-nrrd.doi.gov/) to share our processes.
 
-In order to increase availability and resiliency while minimizing server failures or traffic spikes, we have created multiple instances for our frontend web application and the backend content management system (CMS) application. We use [CircleCi](https://app.circleci.com/pipelines/github/ONRR), which provides continuous integration, runs tests, builds frontend application, and then deploys to [cloud.gov](https://cloud.gov/). We check that our site works as intended on a daily basis. Our service agreement with [cloud.gov](https://cloud.gov/) provides us with support for resolving any issues related to the platform as well as support for resolving issues for any specific applications. For automated testing, we use:
+In order to increase availability and resiliency while minimizing server failures or traffic spikes, we have created multiple instances for our frontend web application and the backend content management system (CMS) application. We use [CircleCi](https://app.circleci.com/pipelines/github/ONRR), which provides continuous integration, runs tests, builds frontend application, and then deploys to [cloud.gov](https://cloud.gov/). We check that our site works as intended on a daily basis. Our service agreement with [cloud.gov](https://cloud.gov/) provides us with support for resolving any issues related to the platform, as well as support for resolving issues for any specific applications. For automated testing, we use:
 -	[ESLint](https://eslint.org/) - Code syntax and formatting
 -	[Vue Testing Library](https://testing-library.com/docs/vue-testing-library/intro/) -  Vue testing library
--	[puppeteer](https://github.com/puppeteer/puppeteer) - End to End testing
--	[lighthouse](https://github.com/GoogleChrome/lighthouse) - Performance and Accessibility testing
+-	[puppeteer](https://github.com/puppeteer/puppeteer) - End to end testing
+-	[lighthouse](https://github.com/GoogleChrome/lighthouse) - Performance and accessibility testing
 
 For vulnerability issues submitted through [Bugcrowd](https://bugcrowd.com/onrr-vdp), we respond within 3 business days to give a status and let the reporter know if this is an issue that we will work on fixing or if it is not relevant.
 
-We don’t collect PII, personal data, or use any forms on our website. No aspect of our site asks for data entry of any kind, so we don’t need to worry about undoing actions.
+We don’t collect personally identifiable information (PII), personal data, or use any forms on our website. No aspect of our site asks for data entry of any kind, so we don’t need to worry about undoing actions.
 
 We use a banner component identifying our site as a government site. We know our user’s expectations for the site, and we use those to make sure our content and design fulfills those expectations. When an issue is reported, we work as a team to respond as quickly as possible. We also perform annual content audits, which include manual and automated checking for link rot.  
 
@@ -58,7 +58,7 @@ We aim for 10th-grade reading level. This isn’t always possible due to the spe
 
 Embracing accessibility is not just about working towards [Section 508](https://www.section508.gov/manage/laws-and-policies/) compliance, but involves building culture, practices, and inclusive design that considers accessibility at every step of the process. Our group has driven the efforts of our agency to move towards Section 508 compliance. You can read more about that in [a previous blog post](https://blog-nrrd.doi.gov/accessibility/). At ODDD, we work to both meet 508 compliance and incorporate accessibility best practices that go beyond legal requirements.
 
-In addition to using lighthouse as an automated accessibility checker in CircleCI, we also use lighthouse and WAVE to manually check individual pages. We use NVDA, which is free to use and the most commonly used screen reading software, to check pages and documents. With these tools, we’ve been able to ensure that our site is keyboard navigable. In addition to working towards a 10th-grade reading level, we make sure alt-text for the images and tables on our site is contextual and easy to understand.
+In addition to using lighthouse as an automated accessibility checker in CircleCI, we also use lighthouse and WAVE to manually check individual pages. We use NVDA, which is free and the most commonly used screen reading software, to check pages and documents. With these tools, we’ve been able to ensure that our site is keyboard navigable. In addition to working towards a 10th-grade reading level, we make sure alt-text for the images and tables on our site is contextual and easy to understand.
 
 We test our site with a broad range of users as identified by our [user types](https://github.com/ONRR/onrr.gov-site/wiki/Product-framing#key-scenarios), including users in our agency, private industry users who are required to use the site to report or pay royalties, and federal users outside our agency. We also work with our [section 508 coordinator](https://www.doi.gov/ocio/section508-contacts) who has been able to answer questions, provide us with resources, and help with testing.
 
@@ -93,4 +93,4 @@ Our [DevOps use Agile](https://blog-nrrd.doi.gov/agile/), which means our cycle 
 In addition to making improvements to our own websites, our developers provide feedback for the services and tools that make up the [technical architecture of our sites](https://github.com/ONRR/onrr.gov-site/wiki/Technical-overview). We are in constant communication with the cloud.gov support team and provide them with suggestions. We also have contributed to GitHub issues for the open-source software we use.
 
 ## Conclusion
-Overall, we certainly are meeting the USWDS Design Principles. However, in going through the key considerations and practical actions, we found some areas we could improve upon. This was able to help us create some actionable goals for user research design and site improvements, such as: updating our style guidelines, improving our mobile experience, conducting post-launch user research, exploring automated link checkers, scheduling content audits, and incorporating search data analysis into our analyses.
+Overall, we certainly are meeting the USWDS Design Principles. However, in going through the key considerations and practical actions, we found some areas we could improve upon. This was able to help us create some actionable goals for user research design and site improvements, such as: updating our style guidelines, improving our mobile experience, conducting post-launch user research, exploring automated link checkers, scheduling content audits, and incorporating search data into our analyses.
