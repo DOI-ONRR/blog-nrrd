@@ -1,5 +1,5 @@
 ---
-title: "Revisiting who uses ONRR.gov: refining personas"
+title: "Revisiting who uses onrr.gov: refining personas"
 authors:
 - Maroya Faied
 - Lindsay Goldstein
