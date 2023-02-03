@@ -38,15 +38,8 @@ The most significant aspects of earning users' trust are making services consist
 
 The ODDD team was formed to manage the [NRRD website](https://revenuedata.doi.gov/), which was created as part of the U.S. [Extractive Industries Transparency Initiative ](https://eiti.org/ )(USEITI). This means transparency and openness has been baked into the work of our team from the start. We use open-source tools whenever we can, publishing our code and data on [GitHub](https://github.com/ONRR/). We also use the [GitHub wiki](https://github.com/ONRR/onrr.gov-site/wiki) and the [ODDD blog](https://blog-nrrd.doi.gov/) to share our processes.
 
-<<<<<<< HEAD
+
 In order to increase availability and resiliency while minimizing server failures or traffic spikes, we have created multiple instances for our frontend web application and the backend content management system (CMS) application. We use [CircleCi](https://app.circleci.com/pipelines/github/ONRR), which provides continuous integration, runs tests, builds frontend application, and then deploys to [cloud.gov](https://cloud.gov/). We check that our site works as intended on a daily basis. Our service agreement with [cloud.gov](https://cloud.gov/) provides us with support for resolving any issues related to the platform as well as support for resolving issues for any specific applications.
-=======
-In order to increase availability and resiliency while minimizing server failures or traffic spikes, we have created multiple instances for our frontend web application and the backend content management system (CMS) application. We use [CircleCi](https://app.circleci.com/pipelines/github/ONRR), which provides continuous integration, runs tests, builds frontend application, and then deploys to [cloud.gov](https://cloud.gov/). We check that our site works as intended on a daily basis. Our service agreement with [cloud.gov](https://cloud.gov/) provides us with support for resolving any issues related to the platform, as well as support for resolving issues for any specific applications. For automated testing, we use:
--	[ESLint](https://eslint.org/) - Code syntax and formatting
--	[Vue Testing Library](https://testing-library.com/docs/vue-testing-library/intro/) -  Vue testing library
--	[puppeteer](https://github.com/puppeteer/puppeteer) - End to end testing
--	[lighthouse](https://github.com/GoogleChrome/lighthouse) - Performance and accessibility testing
->>>>>>> 642153791c7a3084fa4a0ed1faed1f912bde4187
 
 We are committed to ensuring the security of the American public by protecting their information, our recently published [Vulnerability Disclosure Policy](https://onrr.gov/vulnerability-disclosure-policy) is intended to give security researchers clear guidelines  on how to report discovered vulnerabilities in our systems.  Vulnerability reports can be submitted through [Bugcrowd](https://bugcrowd.com/onrr-vdp). Reports may be submitted anonymously. If you share contact information, we will acknowledge receipt of report within 3 business days.
 
