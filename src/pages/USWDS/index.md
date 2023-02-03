@@ -38,13 +38,9 @@ The most significant aspects of earning users' trust are making services consist
 
 The ODDD team was formed to manage the [NRRD website](https://revenuedata.doi.gov/), which was created as part of U.S. [Extractive Industries Transparency Initiative ](https://eiti.org/ )(USEITI). This means transparency and openness has been baked into the work of our team from the start. We use open-source tools whenever we can, publishing our code and data on [GitHub](https://github.com/ONRR/). We also use the [GitHub wiki](https://github.com/ONRR/onrr.gov-site/wiki) and the [ODDD blog](https://blog-nrrd.doi.gov/) to share our processes.
 
-In order to increase availability and resiliency while minimizing server failures or traffic spikes, we have created multiple instances for our frontend web application and the backend content management system (CMS) application. We use [CircleCi](https://app.circleci.com/pipelines/github/ONRR), which provides continuous integration, runs tests, builds frontend application, and then deploys to [cloud.gov](https://cloud.gov/). We check that our site works as intended on a daily basis. Our service agreement with [cloud.gov](https://cloud.gov/) provides us with support for resolving any issues related to the platform as well as support for resolving issues for any specific applications. For automated testing, we use:
--	[ESLint](https://eslint.org/) - Code syntax and formatting
--	[Vue Testing Library](https://testing-library.com/docs/vue-testing-library/intro/) -  Vue testing library
--	[puppeteer](https://github.com/puppeteer/puppeteer) - End to End testing
--	[lighthouse](https://github.com/GoogleChrome/lighthouse) - Performance and Accessibility testing
+In order to increase availability and resiliency while minimizing server failures or traffic spikes, we have created multiple instances for our frontend web application and the backend content management system (CMS) application. We use [CircleCi](https://app.circleci.com/pipelines/github/ONRR), which provides continuous integration, runs tests, builds frontend application, and then deploys to [cloud.gov](https://cloud.gov/). We check that our site works as intended on a daily basis. Our service agreement with [cloud.gov](https://cloud.gov/) provides us with support for resolving any issues related to the platform as well as support for resolving issues for any specific applications.
 
-For vulnerability issues submitted through [Bugcrowd](https://bugcrowd.com/onrr-vdp), we respond within 3 business days to give a status and let the reporter know if this is an issue that we will work on fixing or if it is not relevant.
+We are committed to ensuring the security of the American public by protecting their information, our recently published [Vulnerability Disclosure Policy](https://onrr.gov/vulnerability-disclosure-policy) is intended to give security researchers clear guidelines  on how to report discovered vulnerabilities in our systems.  Vulnerability reports can be submitted through [Bugcrowd](https://bugcrowd.com/onrr-vdp). Reports may be submitted anonymously. If you share contact information, we will acknowledge receipt of report within 3 business days.
 
 We don’t collect PII, personal data, or use any forms on our website. No aspect of our site asks for data entry of any kind, so we don’t need to worry about undoing actions.
 
@@ -86,7 +82,7 @@ Our [goals and metrics](https://github.com/ONRR/onrr.gov-site/wiki/Goals-and-met
 
 We provide multiple ways for users/customers to communicate with us regarding any types of improvements they’d like to see, or report any difficulties with using the website. We’re flexible in how issues are reported to us and are willing to meet the users at their preferred communication methods. We respond to users immediately, enter the problems as issues in Github, and we prioritize any bugs that prevent users from getting what they need from the website. On a quarterly basis, we track the number of unsatisfied emails as part of our metrics with the goal of decreasing the total number of unsatisfied customer inquiries.
 
-We constantly gather feedback via email, and we recently launched a [Bugcrowd](https://bugcrowd.com/onrr-vdp) account for users to report bugs and vulnerability issues. We welcome contributions on our Github and Bugcrowd submissions.
+We constantly gather feedback via email, and we recently launched a [Bugcrowd](https://bugcrowd.com/onrr-vdp) account for security researchers to report vulnerability issues. We welcome contributions on our Github repositories and Bugcrowd submissions.
 
 Our [DevOps use Agile](https://blog-nrrd.doi.gov/agile/), which means our cycle of assessing the user experience and developing action plans never ends. During our roadmapping sessions for each 6-week epic, we assess known issues and plan goals for making improvements.
 
