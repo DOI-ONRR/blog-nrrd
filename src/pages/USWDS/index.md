@@ -9,7 +9,7 @@ tags:
 - development
 - design
 - USWDS
-date: "2023-02-25"
+date: "2023-02-22"
 ---
 
 The [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/) is a design system that makes it easier for federal government websites to create an accessible and mobile-friendly user experience. USWDS was created in 2015 by [18F](https://18f.gsa.gov/) and the [U.S. Digital Service](https://www.usds.gov/). 18F is the same group that initiated the work that our Open Data, Design and Development (ODDD) team at the Office of Natural Resources Revenue (ONRR) continues to do.
