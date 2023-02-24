@@ -46,6 +46,78 @@ On the [late payment interest page](https://onrr.gov/paying/interest), the text 
 
 ![Screen captures of the old Late Payment Interest content. On the left, the  Hemingway analysis shows a grade 14 reading level. On the right, the old webpage.](./latepayment_1.png)
 
+The revised text on our live site now has a grade 9 reading level, even though the required regulatory information is still present. We broke up the two complex paragraphs into smaller paragraphs. We also incorporated headings to make the contents easier to navigate. We eliminated the passive voice and created shorter, less complicated sentences. The additional information is now organized into separate tabs to reduce scrolling and remove confusing pop-up buttons.
 
+![Screen captures of the revised Late Payment Interest content. On the left, the  Hemingway analysis shows a grade 9 reading level. On the right, the current live webpage.](./latepayment_2.png)
 
+### Hemingway example: dear reporter letters
 
+The [dear reporter letters](https://onrr.gov/references/reporter-letters) is one of our most frequently used webpages. On the old site, the introductory text to this page was at a grade 14 reading level. Almost every sentence was complicated to read and contained difficult vocabulary. The focus of the page is a table containing the downloadable documents. The table had no way to sort or filter information. There was also no pagination, so the user had to scroll through a very long table.
+
+![Screen captures of the old Dear Reporter Letters content. On the left, the  Hemingway analysis shows a grade 14 reading level. On the right, the old webpage.](./dearreporter_1.png)
+
+On the new site, we simplified the introductory text to a grade 10 reading level. We made most sentences shorter with simpler vocabulary, while still incorporating the necessary technical information. The table includes search and filter functions. A new topics column helps the user better understand what each letter is about, and these topics are also incorporated into the filter function. The table now also has pagination, so the amount of scrolling decreased. 
+
+![Screen captures of the new Dear Reporter Letters content. On the left, the  Hemingway analysis shows a grade 10 reading level. On the right, the current live webpage.](./dearreporter_2.png)
+
+## Final Design
+
+After the iterative writing process with the SMEs was complete, they gave their approval on the finalized prototype of the website. We then developed the site using this finalized design and content. After we built the development site, our team requested an additional round of review by the SMEs. We made sure we had SME approval before finalizing a webpage, and we used a content tracking spreadsheet (pictured below, with the SME approval status column highlighted by a red box) to keep these approvals organized.
+
+![Screen capture of our content tracking spreadsheet. The status column is highlighted by a red box. This indicates where we tracked SME approval.](./contentsheet.png)
+
+The main challenge we encountered during this final design process was making sure the SMEs were communicating with each other. For most webpages, there was usually more than one SME reviewing and approving the content. We had to facilitate communication and coordination to make sure all SMEs involved in the process agreed with a decision.
+
+### An example of good coordination
+
+We had one team who assigned one SME to be the point of contact/liaison with us. This SME would coordinate with everyone on their team and present all their asks to us as one unified voice. The SME would only contact us if there was a group question or when they had made a decision. This decreased the amount of time we needed to spend coordinating with the team and gave us more time to improve and innovate on their webpages.
+
+### What we learned from poor coordination
+
+We thought another team had done something like this good example described above. Multiple SMEs from a team were invited to all the coordination meetings, but only one SME would attend, communicate with us, and recommend edits. At the final design stage, other SMEs decided they wanted more changes. As a result, major revisions took place at this final stage. This challenge lengthened the amount of time it took to finalize the language on the respective webpages. We assumed that since one SME took over, the other SMEs were in agreement. We learned that we should clearly ask each team if there are any other SMEs that should be contributing, and to not make any assumptions!
+
+## Before and after
+
+Redesigning onrr.gov and making sure its content was accessible and written in plain language was a huge task! We are excited to share some of our favorite “before-and-after’s” from this process.
+
+### Homepage
+
+The old homepage required a significant amount of scrolling. It was extremely unclear what was important. The announcements took up the entire screen and scrolling was required to find other content.
+
+On the new homepage, content is sorted into cards. The cards are also sorted by the level of use and importance. Using this card format breaks up the information into readable sections and reduces the amount of scrolling needed. Within the cards, content is organized using bulleted lists. Heading levels are also used to help with screen readers. The announcements are now on the right side of the page, so they don’t take up the entire screen.
+
+![Screen captures showing before-and-after of the homepage. Left image shows the old homepage. Right images shows the current, live homepage.](./homepage.png)
+
+### Contacts 
+
+On the old site, there was no single location to find all contacts. The user had to look through individual PDF, Word, and Excel documents that were all housed on different webpages. While we made sure that these contact documents were 508-compliant, finding them was still complicated.
+
+![Screen capture of the old contacts webpage. Left image shows the main contact us page. Right image shows an example of a PDF document containing contacts.](./contacts_old.png)
+
+For the redesign, we created a database to house all contact information. Incorporating all contacts into one location allowed us to redesign the [contact us webpage](https://onrr.gov/about/contact) into a functional, searchable database. Within the main contacts webpage, the user can search all contacts within our agency. This main page is also organized by topic using the same card format seen throughout the site. Users can click the hyperlink within a topic card to navigate to an individual topic page. The individual topic pages have their own constrained search feature, where searches will only yield results relevant to that topic. The contact cards are organized with headings, which helps break down individual contact information.
+
+![Screen capture of the current, live contact us webpage. Left image is the main page. Right image is an example of a topic page.](./contacts_new.png)
+
+### Indian Energy Service Center
+
+Indian resources are also frequently visited webpages. The [Indian Energy Service Center]( https://onrr.gov/indian/assistance?tabs=indian-energy-service-center,about) is one of these resource pages and is a very important page for stakeholders. On the old site, the text has a post-graduate reading level; the text was complicated with lot of acronyms. The right side of the webpage was confusing with several types of information jumbled together. The old page also required scrolling to find information.
+
+On the new site, this page is organized within a tab series that includes all options for assistance. Within the Indian Energy Service Center tab, the text is now at a grade 11 reading level. The amount and frequency of agency names required in the text kept this reading level higher than we would like. To offset this, we organized the text with headings and bulleted lists, and incorporated simpler vocabulary whenever possible. We also divided information into tabs, with a separate tab for referral information. The right side is organized into more readable card styles with appropriate headings.
+
+![Screen captures showing before-and-after of the Indian Energy Service Center webpage. Left image shows the old webpage. Right images shows the current, live webpage.](./iesc.png)
+
+### How leasing works
+
+We also added new webpages to the site that were not on our old site. Most of the new content focuses on educating the user to help them find what they need, understand what they find, and use what they find to meet their needs. A good example of this is the new [how leasing works webpage](https://onrr.gov/getting-started/how-leasing-works). This page walks a new user through the leasing process. The text is written at a grade 10 reading level. We incorporated images, headings, and tabs to organize information. We kept the text entries to short sentences and paragraphs.
+
+![Screen capture of the how leasing works webpage.](./howleasingworks.png)
+
+## Conclusion
+
+Incorporating plain language guidelines within a website can be a difficult task, especially if you are not the content owner. Do not ask the content owner to make the first rewrite attempt. Instead, do that initial rewrite yourself and provide them with a draft to review. Using unbiased websites like Hemingway Editor is a great way to help SMEs understand how and why their text needs revision. This writing process can become iterative. Clear communication and coordination are needed to make it successful. Making sure there is buy-in at the beginning of a project will help this process.
+
+When rewriting, we focused on lowering reading levels. Most of the old text was between grade 13 and postgraduate reading levels. Even though our site is not for the general public, the overall reading level was too high. Incorporating plain language guidelines helped us bring the reading levels down to grade 10 on most webpages. 
+
+Plain language encompasses not just the text within a webpage, but also the overall design. Including headings, tabs, bulleted lists, tables, and images are great ways to incorporate plain language concepts when it is necessary to keep technical text. Whenever we could not get reading levels down to grade 10, we made sure to incorporate other design concepts to ensure the webpage was easy to understand and navigate.
+
+Our future content audits will include analysis of reading level and incorporation of plain language guidelines. We will continue to improve and strive to keep onrr.gov up to date with accessibility requirements.
