@@ -60,7 +60,7 @@ On the new site, we simplified the introductory text to a grade 10 reading level
 
 ![Screen captures of the new Dear Reporter Letters content. On the left, the  Hemingway analysis shows a grade 10 reading level. On the right, the current live webpage.](./dearreporter_2.png)
 
-## Final Design
+## Final design
 
 After the iterative writing process with the SMEs was complete, they gave their approval on the finalized prototype of the website. We then developed the site using this finalized design and content. After we built the development site, our team requested an additional round of review by the SMEs. We made sure we had SME approval before finalizing a webpage, and we used a content tracking spreadsheet (pictured below, with the SME approval status column highlighted by a red box) to keep these approvals organized.
 
