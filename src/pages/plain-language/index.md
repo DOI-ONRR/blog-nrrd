@@ -11,7 +11,7 @@ tags:
 date: "2023-03-09"
 ---
 
-If you are a regular reader of our blog, you might already know that we recently completed a redesign of [onrr.gov](https://onrr.gov/){target="_blank"}. This redesign included an update of the user interface. In addition, we focused on writing [accessible](https://blog-nrrd.doi.gov/four-part-hybrid-testing/) content in accordance to the [Plain Writing Act of 2010](https://www.plainlanguage.gov/law/). This blog post outlines the efforts we took to rewrite [onrr.gov](https://onrr.gov/) in plain language, as well as how we coordinated with content owners. We hope that other agencies can apply our strategies and lessons learned to their own websites.
+If you are a regular reader of our blog, you might already know that we recently completed a redesign of <a href="https://onrr.gov/" target="_blank">onrr.gov</a>. This redesign included an update of the user interface. In addition, we focused on writing [accessible](https://blog-nrrd.doi.gov/four-part-hybrid-testing/) content in accordance to the [Plain Writing Act of 2010](https://www.plainlanguage.gov/law/). This blog post outlines the efforts we took to rewrite [onrr.gov](https://onrr.gov/) in plain language, as well as how we coordinated with content owners. We hope that other agencies can apply our strategies and lessons learned to their own websites.
 
 ## Recieving a new product
 
