@@ -23,7 +23,7 @@ Our stakeholders already had experience working with us through our <a href="htt
 
 ## Prototype
 
-Our ODDD team does not own, or is not responsible for, the content on the website. During the initial prototype process, we worked with the content owners, or subject matter experts (SMEs), to reduce reading levels on their respective webpages. Instead of asking the SMEs to rewrite content themselves, our team did all the initial rewrites for every webpage. It was much easier to get SME participation by asking them to review and revise rather than asking them to start from scratch!
+Our ODDD team does not own, and is not responsible for, the content on the website. During the initial prototype process, we worked with the content owners, or subject matter experts (SMEs), to reduce reading levels on their respective webpages. Instead of asking the SMEs to rewrite content themselves, our team did all the initial rewrites for every webpage. It was much easier to get SME participation by asking them to review and revise rather than asking them to start from scratch!
 
 We proposed rewritten content that had lowered reading levels, with our goal being <a href="https://github.com/DOI-ONRR/nrrd/wiki/Content-style-guide#plain-language" target="_blank">grade 10</a>. Within this rewritten content, we incorporated <a href="https://www.plainlanguage.gov/guidelines/" target="_blank">plain language guidelines</a> like: 
 
@@ -78,7 +78,7 @@ We thought another team had done something like this good example described abov
 
 ## Before and after
 
-Redesigning onrr.gov and making sure its content was accessible and written in plain language was a huge task! We are excited to share some of our favorite “before-and-after’s” from this process.
+Redesigning onrr.gov and making sure its content was accessible and written in plain language was a huge task! We are excited to share some of our favorite “before-and-afters” from this process.
 
 ### Homepage
 
