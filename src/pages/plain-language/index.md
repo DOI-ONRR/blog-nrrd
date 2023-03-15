@@ -8,14 +8,14 @@ tags:
 - design
 - onrr.gov
 - plain language
-date: "2023-03-09"
+date: "2023-03-16"
 ---
 
 If you are a regular reader of our blog, you might already know that we recently completed a redesign of <a href="https://onrr.gov/" target="_blank">onrr.gov</a>. This redesign included an update of the user interface. In addition, we focused on writing <a href="https://blog-nrrd.doi.gov/four-part-hybrid-testing/" target="_blank">accessible</a> content in accordance to the <a href="https://www.plainlanguage.gov/law/" target="_blank">Plain Writing Act of 2010</a>. This blog post outlines the efforts we took to rewrite <a href="https://onrr.gov/" target="_blank">onrr.gov</a> in plain language, as well as how we coordinated with content owners. We hope that other agencies can apply our strategies and lessons learned to their own websites.
 
 ## Recieving a new product
 
-In 2020, our Open Data, Design, and Development (ODDD) team started with managing and redesigning <a href="https://onrr.gov/" target="_blank">onrr.gov</a>. We are a <a href="https://github.com/ONRR/nrrd/wiki/Joining-the-Open-Data,-Design,-and-Development-(ODDD)-project-team#project-team" target="_blank">small team</a>, and taking on a new website in addition to maintaining and innovating on our Natural Resources Revenue Data (NRRD) <a href="https://revenuedata.doi.gov/" target="_blank">site</a> was a daunting task. We wrote about how we adjusted to adding a product to our portfolio in a <a href="https://blog-nrrd.doi.gov/adding-a-product/" target="_blank">previous blog post</a>. Early user research and user-centered design techniques like <a href="https://blog-nrrd.doi.gov/card-sort/" target="_blank">card sorting</a> and <a href="https://blog-nrrd.doi.gov/treetest/" target="_blank">tree testing</a> helped us get <a href="https://blog-nrrd.doi.gov/stakeholders/" target="_blank">stakeholder buy-in</a>. This initial work allowed us to dive into rewriting content in plain language. 
+In 2020, our Open Data, Design, and Development (ODDD) team started with managing and redesigning <a href="https://onrr.gov/" target="_blank">onrr.gov</a>. We are a <a href="https://github.com/ONRR/nrrd/wiki/Joining-the-Open-Data,-Design,-and-Development-(ODDD)-project-team#project-team" target="_blank">small team</a>, and taking on a new website in addition to maintaining and innovating on our Natural Resources Revenue Data (NRRD) <a href="https://revenuedata.doi.gov/" target="_blank">site</a> was a daunting task. We wrote about how we adjusted to adding a product to our portfolio in a <a href="https://blog-nrrd.doi.gov/adding-a-product/" target="_blank">previous blog post</a>. Early user research and user-centered design techniques like <a href="https://blog-nrrd.doi.gov/card-sort/" target="_blank">card sorting</a> and <a href="https://blog-nrrd.doi.gov/treetest/" target="_blank">tree testing</a> helped us get <a href="https://blog-nrrd.doi.gov/stakeholders/" target="_blank">stakeholder buy-in</a>. This initial work allowed us to dive into rewriting content in plain language.
 
 ### A note on getting buy-in
 
@@ -25,7 +25,7 @@ Our stakeholders already had experience working with us through our <a href="htt
 
 Our ODDD team does not own, and is not responsible for, the content on the website. During the initial prototype process, we worked with the content owners, or subject matter experts (SMEs), to reduce reading levels on their respective webpages. Instead of asking the SMEs to rewrite content themselves, our team did all the initial rewrites for every webpage. It was much easier to get SME participation by asking them to review and revise rather than asking them to start from scratch!
 
-We proposed rewritten content that had lowered reading levels, with our goal being <a href="https://github.com/DOI-ONRR/nrrd/wiki/Content-style-guide#plain-language" target="_blank">grade 10</a>. Within this rewritten content, we incorporated <a href="https://www.plainlanguage.gov/guidelines/" target="_blank">plain language guidelines</a> like: 
+We proposed rewritten content that had lowered reading levels, with our goal being <a href="https://github.com/DOI-ONRR/nrrd/wiki/Content-style-guide#plain-language" target="_blank">grade 10</a>. Within this rewritten content, we incorporated <a href="https://www.plainlanguage.gov/guidelines/" target="_blank">plain language guidelines</a> like:
 
 - Add useful headings
 - Incorporate lists
@@ -35,8 +35,8 @@ We proposed rewritten content that had lowered reading levels, with our goal bei
 - Write in active voice and present tense
 - Avoid jargon and abbreviations
 
-After we sent the SMEs our proposed rewrites, they would review and revise. This became an iterative process, because the SME revisions would usually be over a grade 10 reading level and incorporate difficult language or jargon that we would need to edit again. 
-In order to help the SMEs understand why we were rewriting in plain language, we used the free online version of <a href="https://hemingwayapp.com/" target="_blank">Hemingway Editor</a>. At the time of this project, our agency’s Microsoft products did not include the <a href="https://support.microsoft.com/en-us/office/microsoft-editor-checks-grammar-and-more-in-documents-mail-and-the-web-91ecbe1b-d021-4e9e-a82e-abc4cd7163d7" target="_blank">Editor function</a>. We recently got access and plan on also using this function in future work. Regardless of which function you have access to, using an unbiased software to evaluate the text helped us illustrate the readability issues that we wanted to resolve. Once the SMEs saw the Hemingway results, they were more willing to negotiate with us and work with our proposed changes. 
+After we sent the SMEs our proposed rewrites, they would review and revise. This became an iterative process, because the SME revisions would usually be over a grade 10 reading level and incorporate difficult language or jargon that we would need to edit again.
+In order to help the SMEs understand why we were rewriting in plain language, we used the free online version of <a href="https://hemingwayapp.com/" target="_blank">Hemingway Editor</a>. At the time of this project, our agency’s Microsoft products did not include the <a href="https://support.microsoft.com/en-us/office/microsoft-editor-checks-grammar-and-more-in-documents-mail-and-the-web-91ecbe1b-d021-4e9e-a82e-abc4cd7163d7" target="_blank">Editor function</a>. We recently got access and plan on also using this function in future work. Regardless of which function you have access to, using an unbiased software to evaluate the text helped us illustrate the readability issues that we wanted to resolve. Once the SMEs saw the Hemingway results, they were more willing to negotiate with us and work with our proposed changes.
 
 Through this iterative process, we were able to reduce reading levels on all webpages compared to the old site. Because some of the content on the website is technical and not meant for the general public, not all pages got down to grade 10, but were still reduced. When we couldn’t get the reading levels down to grade 10, we made sure the page contained other plain language concepts listed above.
 
@@ -56,7 +56,7 @@ The <a href="https://onrr.gov/references/reporter-letters" target="_blank">dear 
 
 ![Screen captures of the old Dear Reporter Letters content. On the left, the  Hemingway analysis shows a grade 14 reading level. On the right, the old webpage.](./dearreporter_1.png)
 
-On the new site, we simplified the introductory text to a grade 10 reading level. We made most sentences shorter with simpler vocabulary, while still incorporating the necessary technical information. The table includes search and filter functions. A new topics column helps the user better understand what each letter is about, and these topics are also incorporated into the filter function. The table now also has pagination, so the amount of scrolling decreased. 
+On the new site, we simplified the introductory text to a grade 10 reading level. We made most sentences shorter with simpler vocabulary, while still incorporating the necessary technical information. The table includes search and filter functions. A new topics column helps the user better understand what each letter is about, and these topics are also incorporated into the filter function. The table now also has pagination, so the amount of scrolling decreased.
 
 ![Screen captures of the new Dear Reporter Letters content. On the left, the  Hemingway analysis shows a grade 10 reading level. On the right, the current live webpage.](./dearreporter_2.png)
 
@@ -88,7 +88,7 @@ On the new homepage, content is sorted into cards. The cards are also sorted by 
 
 ![Screen captures showing before-and-after of the homepage. Left image shows the old homepage. Right images shows the current, live homepage.](./homepage.png)
 
-### Contacts 
+### Contacts
 
 On the old site, there was no single location to find all contacts. The user had to look through individual PDF, Word, and Excel documents that were all housed on different webpages. While we made sure that these contact documents were 508-compliant, finding them was still complicated.
 
@@ -116,7 +116,7 @@ We also added new webpages to the site that were not on our old site. Most of th
 
 Incorporating plain language guidelines within a website can be a difficult task, especially if you are not the content owner. Do not ask the content owner to make the first rewrite attempt. Instead, do that initial rewrite yourself and provide them with a draft to review. Using unbiased websites like Hemingway Editor is a great way to help SMEs understand how and why their text needs revision. This writing process can become iterative. Clear communication and coordination are needed to make it successful. Making sure there is buy-in at the beginning of a project will help this process.
 
-When rewriting, we focused on lowering reading levels. Most of the old text was between grade 13 and postgraduate reading levels. Even though our site is not for the general public, the overall reading level was too high. Incorporating plain language guidelines helped us bring the reading levels down to grade 10 on most webpages. 
+When rewriting, we focused on lowering reading levels. Most of the old text was between grade 13 and postgraduate reading levels. Even though our site is not for the general public, the overall reading level was too high. Incorporating plain language guidelines helped us bring the reading levels down to grade 10 on most webpages.
 
 Plain language encompasses not just the text within a webpage, but also the overall design. Including headings, tabs, bulleted lists, tables, and images are great ways to incorporate plain language concepts when it is necessary to keep technical text. Whenever we could not get reading levels down to grade 10, we made sure to incorporate other design concepts to ensure the webpage was easy to understand and navigate.
 
