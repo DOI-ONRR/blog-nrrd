@@ -100,6 +100,8 @@ For the redesign, we created a database to house all contact information. Incorp
 
 ### Indian Energy Service Center
 
+<p><i>Note : On onrr.gov, we use the term "Indian" instead of "Native American" to be consistent with the usage by the Bureau of Indian Affairs.</i></p>
+
 Indian resources are also frequently visited webpages. The <a href="https://onrr.gov/indian/assistance?tabs=indian-energy-service-center,about" target="_blank">Indian Energy Service Center</a> is one of these resource pages and is a very important page for stakeholders. On the old site, the text has a post-graduate reading level; the text was complicated with lot of acronyms. The right side of the webpage was confusing with several types of information jumbled together. The old page also required scrolling to find information.
 
 On the new site, this page is organized within a tab series that includes all options for assistance. Within the Indian Energy Service Center tab, the text is now at a grade 11 reading level. The amount and frequency of agency names required in the text kept this reading level higher than we would like. To offset this, we organized the text with headings and bulleted lists, and incorporated simpler vocabulary whenever possible. We also divided information into tabs, with a separate tab for referral information. The right side is organized into more readable card styles with appropriate headings.
