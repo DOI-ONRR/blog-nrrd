@@ -1,6 +1,8 @@
 ---
 title: "Modernizing a federal government website with user-centered design"
 authors:
+- Maroya Faied
+- Lindsay Goldstein
 - Christine Thomas
 excerpt: "In this blog post, we break down our process for redesigning a federal government website (onrr.gov) into six detailed sections. This blog serves as a helpful guide for other agencies looking to do a major website redesign."
 tags:
