@@ -83,7 +83,7 @@ The main challenge we encountered was making sure the SMEs were communicating wi
 
 It took us about five months to create all the webpages in the CMS and to get final SME approval. Once our development site had all approvals we required, we wanted to do one [last round of user testing](https://github.com/DOI-ONRR/research/tree/main/onnr-dot-gov-research/12_DevSite) before going live. The goal of this final-stage testing was to learn about any usability issues that might have arisen in the built site. Based on findings from this study, we made several minor navigation updates that did not require approval from SMEs. 
 
-This study closed out our pre-launch user research. With all pre-launch studies mentioned above combined, we conducted approximately 150   interviews. Now that the redesign is live, we are starting a new phase of research to optimize our existing designs. User research is an iterative process, and we are continuously finding areas where we can improve.
+This study closed out our pre-launch user research. With all pre-launch studies mentioned above combined, we conducted approximately 150 interviews. Now that the redesign is live, we are starting a new phase of research to optimize our existing designs. User research is an iterative process, and we are continuously finding areas where we can improve.
 
 ## 5. Launch beta site
 
