@@ -17,7 +17,7 @@ Now that our Open Data, Design, and Development (ODDD) team’s redesign of [onr
 ## 1. Understand current state  
 
 When the Office of Natural Resources Revenue’s (ONRR) leaders transferred the management of [onrr.gov](https://onrr.gov/) to our team, our first goal was to understand the website’s current state. We found that the website was built using a closed source software called Dreamweaver. To maintain the website at its current state, it required manually editing html files and using Dreamweaver to edit global components. This suggested to us that we needed to redesign the website with user-friendly open-source tools and better conform with newer regulations and digital best practices. 
-We dug further into the site’s needs by performing a [formative study](https://blog-nrrd.doi.gov/intern-onrr-dot-gov/), preforming a [content audit  ](https://blog-nrrd.doi.gov/intern-experience/), reviewing [previous survey results](https://github.com/DOI-ONRR/research/tree/main/onnr-dot-gov-research), and reviewing [analytics data](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Analytics). Understanding the current state helped us with [framing a vision and a problem statement](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Product-framing) for the site  .
+We dug further into the site’s needs by performing a [formative study](https://blog-nrrd.doi.gov/intern-onrr-dot-gov/), conducting a [content audit  ](https://blog-nrrd.doi.gov/intern-experience/), reviewing [previous survey results](https://github.com/DOI-ONRR/research/tree/main/onnr-dot-gov-research), and reviewing [analytics data](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Analytics). Understanding the current state helped us with [framing a vision and a problem statement](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Product-framing) for the site  .
 
 ## 2. Discover user needs 
 
@@ -47,14 +47,14 @@ Our UX designer at the time, Shannon McHarg, applied the results of the discover
 
 We used this initial prototype in our [wireframe study](https://github.com/DOI-ONRR/research/tree/main/onnr-dot-gov-research/08_WireframeStudy). Our goal for this study was to gauge whether this new design was effective at allowing users to complete their tasks. 
 
-The results of this study were overall positive, but we found areas we could improve upon. We conducted a study just on contacts and held a [contacts design studio](https://blog-nrrd.doi.gov/contacts/). Revisions to the [contact pages](https://github.com/DOI-ONRR/research/tree/main/onnr-dot-gov-research/10_contacts_survey) and the addition of [troubleshooting pages](https://blog-nrrd.doi.gov/troubleshooting/) were a result of this user research.
+The overall results of this study were positive, but we found areas we could improve upon. We conducted a study just on contacts and held a [contacts design studio](https://blog-nrrd.doi.gov/contacts/). Revisions to the [contact pages](https://github.com/DOI-ONRR/research/tree/main/onnr-dot-gov-research/10_contacts_survey) and the addition of [troubleshooting pages](https://blog-nrrd.doi.gov/troubleshooting/) were a result of this user research.
 
 ### Finalized design
 We used the results of our wireframe research, as well as the discovery research, to determine the final design. We used the data we collected to justify when and why we changed the site in a specific way. We let the research results make the decisions for us, and we worked through the redesign in the most unbiased way possible. During the research, if we noticed multiple users struggling with something, we would make design changes to resolve that issue and seek feedback on the changes.
 
 Since Shannon was our only designer at the time and her background is focused on information architecture and interaction design, we needed help with the visual design aspect of the website redesign. We posted a project on [Open Opportunities](https://openopps.usajobs.gov/) seeking a candidate with visual design skills, and selected Alex Budz. We provided Alex with the wireframes, agency logo, and other information to help us give the redesigned website visual appeal. Alex presented her ideas and iteratively developed a style tile template. We also worked with [Virtual Student Federal Service](https://careers.state.gov/interns-fellows/virtual-student-federal-service/) interns for several of the other redesign projects mentioned throughout this blog post. 
 
-Once Shannon applied all the user research-based changes to the wireframes, she applied the visual design to the prototypes be more reflective of what the live site will look like. The SMEs had another round of reviewing and approving this revised prototype design
+Once Shannon applied all the user research-based changes to the wireframes, she applied the visual design to the prototypes be more reflective of what the live site will look like. The SMEs had another round of reviewing and approving this revised prototype design.
 
 ![Screencapture of the revised prototype design](./Prototype2.png)
 
@@ -64,17 +64,17 @@ Before pursing the decision to redesign the website, our previous web developer,
 
 Once we got SME approval of the finalized design, we started building the webpages within our new CMS. We developed a thorough content tracking sheet, using our original content audit as its base, to make sure all content was correctly incorporated into our CMS. 
 
-![Screencapture of the content tracking spreadsheet](./Trackingspreadsheet.png)
+![Screencapture of the content tracking spreadsheet](./contenttracker.png)
 
 Within our content tracking sheet, we detailed who on our team was responsible for building each webpage. Our team had never used a CMS before, so we had a learning curve when starting this task. As CMS functionality was added by our developer, we would detail how to use it in our [CMS user guide wiki](https://github.com/DOI-ONRR/onrr.gov-site/wiki/CMS-user-guide). Developing a user guide helped newcomers to our team quickly onboard and contribute. 
 
-Once we completed a webpage, another person from our team would review. This internal review was important because we were all still getting used to our CMS, and it made sure all team members learned how to utilize all the tools within it. We wanted to make sure all functionality and content within a webpage was included before sharing it outside of our team.
+Once we completed a webpage, another person from our team would review. This internal review was important because we were still learning our CMS, and it made sure all team members knew how to use all the tools within it. We wanted to make sure all functionality and content within a webpage was included before sharing it outside of our team.
 
 ### Stakeholders final review of development website
 
 After a webpage was finalized and approved by our team, we would then send it to the SMEs for their final approval. We made sure we had SME approval before marking a webpage as complete within our content tracking sheet.
 
-These SME reviews were an iterative process. There was a significant amount of coordination we had to do with our [SMEs](https://blog-nrrd.doi.gov/stakeholders/)    to make this process run smoothly. This coordination and communication process was detailed in a previous blog post about the [implementation of plain language](https://blog-nrrd.doi.gov/plain-language/) during this redesign. 
+These SME reviews were an iterative process. There was a significant amount of coordination we had to do with our [SMEs](https://blog-nrrd.doi.gov/stakeholders/) to make this process run smoothly. This coordination and communication process was detailed in a previous blog post about the [implementation of plain language](https://blog-nrrd.doi.gov/plain-language/) during this redesign. 
 
 The main challenge we encountered was making sure the SMEs were communicating with each other. For most webpages, there was usually more than one SME reviewing and approving the content. We had to facilitate communication between all SMEs to make sure everyone involved in the process agreed with a decision. There were times when a specific webpage would go through several rounds of review and edits before it was finally approved.
 
@@ -93,6 +93,7 @@ After we had every webpage finalized on our development site, we proceeded with 
 To inform our stakeholders that the new redesign was coming soon, we posted a banner at the top of the former site homepage. The banner let everyone know that the new redesign was launching soon and included a link to the beta site for preview. We also included our email in case any users had feedback for us. We posted this banner about three months ahead of the hard launch. This gave our users time to prepare for the change and to get used to the new design.
 
 ![Screencapture of the website banner announcing the new onrr.gov website](./banner.png)
+
 In addition to this banner, we emailed every person who participated in our user research pool. It was important to us to make sure that those who helped create this new design got to see the final product.
 
 ## 6. Launch live site
