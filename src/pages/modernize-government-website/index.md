@@ -65,7 +65,7 @@ Before pursing the decision to redesign the website, our previous web developer,
 
 Once we got SME approval of the finalized design, we started building the webpages within our new CMS. We developed a thorough content tracking sheet, using our original content audit as its base, to make sure all content was correctly incorporated into our CMS. 
 
-![Screencapture of the content tracking spreadsheet](./contenttracker.png)
+![Screencapture of the content tracking spreadsheet](./content_tracker.png)
 
 Within our content tracking sheet, we detailed who on our team was responsible for building each webpage. Our team had never used a CMS before, so we had a learning curve when starting this task. As CMS functionality was added by our developer, we would detail how to use it in our [CMS user guide wiki](https://github.com/DOI-ONRR/onrr.gov-site/wiki/CMS-user-guide). Developing a user guide helped newcomers to our team quickly onboard and contribute. 
 
