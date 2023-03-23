@@ -18,7 +18,7 @@ Now that our Open Data, Design, and Development (ODDD) team’s redesign of [onr
 
 When the Office of Natural Resources Revenue’s (ONRR) leaders transferred the management of [onrr.gov](https://onrr.gov/) to our team, our first goal was to understand the website’s current state. We found that the website was built using a closed source software called Dreamweaver. To maintain the website at its current state, it required manually editing html files and using Dreamweaver to edit global components. This suggested to us that we needed to redesign the website with user-friendly open-source tools and better conform with newer regulations and digital best practices. 
 
-We dug further into the site’s needs by performing a [formative study](https://blog-nrrd.doi.gov/intern-onrr-dot-gov/), conducting a [content audit  ](https://blog-nrrd.doi.gov/intern-experience/), reviewing [previous survey results](https://github.com/DOI-ONRR/research/tree/main/onnr-dot-gov-research), and reviewing [analytics data](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Analytics). Understanding the current state helped us with [framing a vision and a problem statement](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Product-framing) for the site.
+We dug further into the site’s needs by performing a [formative study](https://blog-nrrd.doi.gov/intern-onrr-dot-gov/), conducting a [content audit](https://blog-nrrd.doi.gov/intern-experience/), reviewing [previous survey results](https://github.com/DOI-ONRR/research/tree/main/onnr-dot-gov-research), and reviewing [analytics data](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Analytics). Understanding the current state helped us with [framing a vision and a problem statement](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Product-framing) for the site.
 
 ## 2. Discover user needs 
 
@@ -44,7 +44,7 @@ Our ODDD team does not own, and   is not responsible for, the content on the web
 ### Wireframe study
 Our UX designer at the time, Shannon McHarg, applied the results of the discovery user research into her initial wireframe prototypes. These prototypes were kept in a “sketchy” visual style to make sure our SMEs knew that these were a draft and major modifications could be made. 
 
-![Screencapture of the initial wireframe prototpe in a sketchy visual style.](./Prototype.png)
+![Screencapture of the initial wireframe prototpe in a sketchy visual style.](./sketchywireframe.png)
 
 We used this initial prototype in our [wireframe study](https://github.com/DOI-ONRR/research/tree/main/onnr-dot-gov-research/08_WireframeStudy). Our goal for this study was to gauge whether this new design was effective at allowing users to complete their tasks. 
 
@@ -57,7 +57,7 @@ Since Shannon was our only designer at the time and her background is focused on
 
 Once Shannon applied all the user research-based changes to the wireframes, she applied the visual design to the prototypes be more reflective of what the live site will look like. The SMEs had another round of reviewing and approving this revised prototype design.
 
-![Screencapture of the revised prototype design](./Prototype2.png)
+![Screencapture of the revised prototype design](./website.png)
 
 ## 4. Build webpages in Content Management System (CMS)
 
