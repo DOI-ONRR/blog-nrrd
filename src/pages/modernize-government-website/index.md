@@ -44,7 +44,7 @@ Our ODDD team does not own, and   is not responsible for, the content on the web
 ### Wireframe study
 Our UX designer at the time, Shannon McHarg, applied the results of the discovery user research into her initial wireframe prototypes. These prototypes were kept in a “sketchy” visual style to make sure our SMEs knew that these were a draft and major modifications could be made. 
 
-![Screencapture of the initial wireframe prototpe in a sketchy visual style.](./prototype.png)
+![Screencapture of the intitial wireframe prototype in a sketchy visual style](./prototype.png)
 
 We used this initial prototype in our [wireframe study](https://github.com/DOI-ONRR/research/tree/main/onnr-dot-gov-research/08_WireframeStudy). Our goal for this study was to gauge whether this new design was effective at allowing users to complete their tasks. 
 
@@ -57,7 +57,7 @@ Since Shannon was our only designer at the time and her background is focused on
 
 Once Shannon applied all the user research-based changes to the wireframes, she applied the visual design to the prototypes be more reflective of what the live site will look like. The SMEs had another round of reviewing and approving this revised prototype design.
 
-![Screencapture of the revised prototype design](./prototype_2.png)
+![Screencapture of the revised prototype design](./prototype_2.PNG)
 
 ## 4. Build webpages in Content Management System (CMS)
 
