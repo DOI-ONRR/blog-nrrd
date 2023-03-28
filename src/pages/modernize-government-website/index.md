@@ -9,7 +9,7 @@ tags:
 - design
 - onrr.gov
 - user research
-date: "2023-03-27"
+date: "2023-03-30"
 ---
 
 Now that our Open Data, Design, and Development (ODDD) team’s redesign of [onrr.gov](https://onrr.gov/) is live, we wanted to outline our process for updating this website. In this blog post, we break up our process into six sections: 1) understand current state, 2) user research, 3) design and prototype, 4) build webpages, 5) launch the beta site, and 6) launch the live site. Because we broke down our work into a multi-step process, we did not get overwhelmed with this redesign task. We utilized our version of [agile](https://blog-nrrd.doi.gov/agile/) to subdivide tasks into attainable goals. This blog post serves as a helpful guide for other agencies looking to do a major website redesign. 
