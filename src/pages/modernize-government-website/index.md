@@ -18,7 +18,7 @@ Now that our Open Data, Design, and Development (ODDD) team’s redesign of [onr
 
 When the Office of Natural Resources Revenue’s (ONRR) leaders transferred the management of [onrr.gov](https://onrr.gov/) to our team, our first goal was to understand the website’s current state. We found that the website was built using a closed source software called Dreamweaver. To maintain the website at its current state, it required manually editing html files and using Dreamweaver to edit global components. This suggested to us that we needed to redesign the website with user-friendly open-source tools and better conform with newer regulations and digital best practices.
 
-We dug further into the site’s needs by performing a [formative study](https://blog-nrrd.doi.gov/intern-onrr-dot-gov/), conducting a [content audit](https://blog-nrrd.doi.gov/intern-experience/), reviewing [previous survey results](https://github.com/DOI-ONRR/research/tree/main/onnr-dot-gov-research), and reviewing [analytics data](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Analytics). Understanding the current state helped us with [framing a vision and a problem statement](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Product-framing) for the site.
+We dug further into the site’s needs by performing a [formative study](https://blog-nrrd.doi.gov/intern-onrr-dot-gov/), conducting a [content audit](https://blog-nrrd.doi.gov/intern-experience/), examining previous survey results, and reviewing [analytics data](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Analytics). Understanding the current state helped us with [framing a vision and a problem statement](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Product-framing) for the site.
 
 ## 2. Discover user needs
 
@@ -55,7 +55,7 @@ We used the results of our wireframe research, as well as the discovery research
 
 Since Shannon was our only designer at the time and her background is focused on information architecture and interaction design, we needed help with the visual design aspect of the website redesign. We posted a project on [Open Opportunities](https://openopps.usajobs.gov/) seeking a candidate with visual design skills, and selected Alex Budz. We provided Alex with the wireframes, agency logo, and other information to help us give the redesigned website visual appeal. Alex presented her ideas and iteratively developed a style tile template. We also worked with [Virtual Student Federal Service](https://careers.state.gov/interns-fellows/virtual-student-federal-service/) interns for several of the other redesign projects mentioned throughout this blog post.
 
-Once Shannon applied all the user research-based changes to the wireframes, she applied the visual design to the prototypes be more reflective of what the live site will look like. The SMEs had another round of reviewing and approving this revised prototype design.
+Once Shannon applied all the user research-based changes to the wireframes, she applied the visual design to the prototypes to be more reflective of what the live site would look like. The SMEs had another round of reviewing and approving this revised prototype design.
 
 ![Screencapture of the revised prototype design](./prototype_2.PNG)
 
