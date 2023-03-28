@@ -55,7 +55,7 @@ We used the results of our wireframe research, as well as the discovery research
 
 Since Shannon was our only designer at the time and her background is focused on information architecture and interaction design, we needed help with the visual design aspect of the website redesign. We posted a project on [Open Opportunities](https://openopps.usajobs.gov/) seeking a candidate with visual design skills, and selected Alex Budz. We provided Alex with the wireframes, agency logo, and other information to help us give the redesigned website visual appeal. Alex presented her ideas and iteratively developed a style tile template. We also worked with [Virtual Student Federal Service](https://careers.state.gov/interns-fellows/virtual-student-federal-service/) interns for several of the other redesign projects mentioned throughout this blog post. 
 
-Once Shannon applied all the user research-based changes to the wireframes, she applied the visual design to the prototypes to be more reflective of what the live site will look like. The SMEs had another round of reviewing and approving this revised prototype design.
+Once Shannon applied all the user research-based changes to the wireframes, she applied the visual design to the prototypes to be more reflective of what the live site would look like. The SMEs had another round of reviewing and approving this revised prototype design.
 
 ![Screencapture of the revised prototype design](./prototype_2.PNG)
 
