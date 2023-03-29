@@ -16,7 +16,7 @@ Now that our Open Data, Design, and Development (ODDD) team’s redesign of [onr
 
 ## 1. Understand current state  
 
-When the Office of Natural Resources Revenue’s (ONRR) leaders transferred the management of [onrr.gov](https://onrr.gov/) to our team, our first goal was to understand the website’s current state. We found that the website was built using a closed source software called Dreamweaver. To maintain the website at its current state, it required manually editing html files and using Dreamweaver to edit global components. This suggested to us that we needed to redesign the website with user-friendly open-source tools and better conform with newer regulations and digital best practices.
+When the Office of Natural Resources Revenue’s (ONRR) leaders transferred the management of [onrr.gov](https://onrr.gov/) to our team, our first goal was to understand the website’s current state. We found that the website was built using a closed source web developing software called Dreamweaver. In addition, there was no content management system (CMS) associated with the old site. To maintain the website at its current state, it required manually editing html files and using Dreamweaver to edit global components. This suggested to us that we needed to redesign the website with user-friendly open-source tools and better conform with newer regulations and digital best practices.
 
 We dug further into the site’s needs by performing a [formative study](https://blog-nrrd.doi.gov/intern-onrr-dot-gov/), conducting a [content audit](https://blog-nrrd.doi.gov/intern-experience/), examining previous survey results, and reviewing [analytics data](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Analytics). Understanding the current state helped us with [framing a vision and a problem statement](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Product-framing) for the site.
 
@@ -61,7 +61,7 @@ Once Shannon applied all the user research-based changes to the wireframes, she 
 
 ## 4. Build webpages in Content Management System (CMS)
 
-Before pursing the decision to redesign the website, our previous web developer, Jerome Louis, did extensive research on which CMS would meet the needs for the website. We also did user interviews to better understand the requirements for the CMS. The team chose Directus as our CMS because we value free, open-source products. Directus is a headless CMS which gives us the ability to manage content in one place while allowing our applications to be built upon that data.
+Before pursuing the decision to redesign the website, our previous web developer, Jerome Louis, did extensive research on which CMS would meet the needs for the website. We also did user interviews to better understand the requirements for the CMS. The team chose Directus as our CMS because we value free, open-source products. Directus is a headless CMS which gives us the ability to manage content in one place while allowing our applications to be built upon that data.
 
 Once we got SME approval of the finalized design, we started building the webpages within our new CMS. We developed a thorough content tracking sheet, using our original content audit as its base, to make sure all content was correctly incorporated into our CMS.
 
