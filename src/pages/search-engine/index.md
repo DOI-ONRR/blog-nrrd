@@ -36,7 +36,7 @@ About six months prior to the launch of the redesigned website, we initiated an 
 
 We followed Search.gov’s advice and used an excel sheet to document where all the old URL links should be redirected to in the new website. Our developer at the time used this spreadsheet to upload it to our Content Management System (CMS) which integrates with our database.
 
-Sitemaps help inform search engines of changes to your URLs and architecture. While many CMS’ create an xml sitemap by default, ours does not. This is a function we plan to explore in the future. Prior to the launch, we manually created an xml sitemap of the development website, and we tested uploading it in GitHub.
+Sitemaps help inform search engines of changes to your URLs and architecture. While many CMS’ create an XML sitemap by default, ours does not. This is a function we plan to explore in the future. Prior to the launch, we manually created an XML sitemap of the development website, and we tested uploading it in GitHub.
 
 To create the SEO elements, we created an excel sheet with all the new URLs and added meta descriptions for each URL as well as identified the page IDs that the CMS assigns to each URL. Our developer then created an SEO component by associating the CMS page IDs with the new URLs in the database.
 
