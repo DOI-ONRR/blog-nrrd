@@ -47,9 +47,9 @@ To test out if the search engine was functioning, we worked with Search.gov to a
 Search.gov instructed us to notify them when we launch the new website so they can replace the beta site domain with the new live site domain. Once Search.gov activated the new website’s domain, the search engine was functioning. 
 
 ###XML sitemap submissions to Bing and Google
-As mentioned earlier in the blog, we tested uploading the XML sitemap to GitHub in our development environment. Google and Bing require that sitemaps live directly within the root URL. We added the xml sitemap to our production environment and submitted the [sitemap URL]( https://onrr.gov/sitemap.xml) to Google and Bing.
+As mentioned earlier in the blog, we tested uploading the XML sitemap to GitHub in our development environment. Google and Bing require that sitemaps live directly within the root URL. We added the XML sitemap to our production environment and submitted the [sitemap URL]( https://onrr.gov/sitemap.xml) to Google and Bing.
 
-We initially thought that by adding as many of our URLs to the XML sitemap as possible, we would have a robust and complete sitemap that would make for an accurate search experience. However, we found that [Bing Webmaster Tools](https://www.bing.com/webmasters/about) and [Google Search Console](https://search.google.com/search-console/about) wouldn’t accept our first iteration of the sitemap. Using a free, online xml sitemap verifying tool, we refined the sitemap a few times. Changes we made for it to verify include taking out “www” from the URLs and deleting URLs that contain a question mark from xml file.
+We initially thought that by adding as many of our URLs to the XML sitemap as possible, we would have a robust and complete sitemap that would make for an accurate search experience. However, we found that [Bing Webmaster Tools](https://www.bing.com/webmasters/about) and [Google Search Console](https://search.google.com/search-console/about) wouldn’t accept our first iteration of the sitemap. Using a free, online XML sitemap verifying tool, we refined the sitemap a few times. Changes we made for it to verify include taking out “www” from the URLs and deleting URLs that contain a question mark from XML file.
 
 ###Robots and redirects 
 
