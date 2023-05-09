@@ -25,9 +25,9 @@ In this blog, we walk you through our planning and implementation process for Se
 
 The ODDD team chose to utilize [Search.gov](https://search.gov/) as the search engine for the redesigned onrr.gov. Search.gov is a product of the U.S General Services Administration’s Technology Transformation Services. We choose Search.gov for our search engine for the following reasons:
 
-•	The product is free for all federal agencies.
-•	It is a modern and a highly configurable search engine.
-•	The product includes excellent hands-on customer service.
+* The product is free for all federal agencies.
+* It is a modern and a highly configurable search engine.
+* The product includes excellent hands-on customer service.
 
 ##Planning for search engine before launch 
 About six months prior to the launch of the redesigned website, we initiated an email to the Search.gov team inquiring about the use of their search engine. At this time, we had our redesigned development website fully functioning. The Search.gov team was very responsive and set up a zoom meeting with us. At this initial meeting, we learned two important things we need to do before launching the new website:
@@ -66,10 +66,10 @@ A few months after the launch of the newly redesigned onrr.gov site, the team wa
  
 We used UX blogs and articles, such as the [Agolia Web content accessibility guidelines (WCAG): how to make site search work for people with disabilities](https://www.algolia.com/blog/ux/web-content-accessibility-guidelines-wcag-how-to-make-site-search-work-for-people-with-disabilities/), to compile a list of different search engine accessibility elements and matched each element with a WCAG 2.1 guideline. These elements were then used to assess the onrr.gov search function accessibility. Four of these elements are exemplified in the bulleted points below, but if readers would like to read a more complete list, they can use the [linked table]( https://github.com/DOI-ONRR/research/blob/main/onnr-dot-gov-research/ONRR.gov-Search-Engine-Accessibility-Elements.docx). 
 
-•	Search bar should be positioned where people would expect to find it, which is typically in the upper right corner of the screen. This aligns with the WCAG guidance of [3.2.4 Consistent Identification](https://www.w3.org/WAI/WCAG22/Understanding/consistent-identification).
-•	All filters and facets should be accessible and operable from the keyboard with aria-label descriptions. This aligns with the WCAG guidance of [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG22/Understanding/non-text-content).
-•	When presented with the search results, users should be able to bypass blocks of content that are repeated on multiple Web pages. This aligns with the WCAG guidance of [2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG22/Understanding/bypass-blocks).
-•	Search bar should have a visible label of “search”; in the code, you can see the aria-label description “Search through the site content”. This aligns with the WCAG guidance of [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG22/Understanding/non-text-content). 
+* Search bar should be positioned where people would expect to find it, which is typically in the upper right corner of the screen. This aligns with the WCAG guidance of [3.2.4 Consistent Identification](https://www.w3.org/WAI/WCAG22/Understanding/consistent-identification).
+* All filters and facets should be accessible and operable from the keyboard with aria-label descriptions. This aligns with the WCAG guidance of [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG22/Understanding/non-text-content).
+* When presented with the search results, users should be able to bypass blocks of content that are repeated on multiple Web pages. This aligns with the WCAG guidance of [2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG22/Understanding/bypass-blocks).
+* Search bar should have a visible label of “search”; in the code, you can see the aria-label description “Search through the site content”. This aligns with the WCAG guidance of [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG22/Understanding/non-text-content). 
 
 Using the table, the team identified specific elements that could be improved and created issues that have been or will be addressed on the onrr.gov website. For example, the team found that the search bar and text did not have the minimum color contrast for visually impaired users, so a [GitHub issue](https://github.com/DOI-ONRR/onrr.gov-site/issues/2463) was created to increase the color contrast between the text and the background.
 
@@ -79,7 +79,7 @@ However, some of these elements lead to more questions and the team decided to m
 
 Our team outlined several questions for the Search.gov team, which focused on three categories: Search.gov’s standards for accessibility, aligning the needs of onrr.gov with Search.gov’s product, and updates from Search.gov. Here’s what we learned:
 
-###Standards for accessibility: Search.gov
+###Search.gov's Standards for accessibility
 
 Search.gov uses the [U.S. Web Design System (USWDS) standards]( https://designsystem.digital.gov/documentation/accessibility/#:~:text=Section%20508%20incorporates%20by%20reference,to%20perceive%20the%20information%20presented.) for 508 compliance. USWDS and Search.gov work together to ensure that their products follow their accessibility and 508 standards, which go beyond the typical 508 standards.
 
@@ -109,9 +109,9 @@ We’re now in the process of adding meta descriptions to all our pages with tab
 
 Collaborating with the Search.gov team has been a great learning experience for our entire team.  Below is a list of what we learned in the process of implementing a search engine that we hope can help other agencies.
 
-•	Plan ahead for redirecting old URL links to the new URL links.
-•	Plan for Search Engine Optimization (SEO) elements.
-•	Build and validate your XML sitemap before launch.
-•	Develop a Robots.txt file.
-•	Keep accessibility elements in mind.
-•	Use Search.gov’s [checklist for website redesign](https://search.gov/indexing/redesign.html).
+* Plan ahead for redirecting old URL links to the new URL links.
+* Plan for Search Engine Optimization (SEO) elements.
+* Build and validate your XML sitemap before launch.
+* Develop a Robots.txt file.
+* Keep accessibility elements in mind.
+* Use Search.gov’s [checklist for website redesign](https://search.gov/indexing/redesign.html).
