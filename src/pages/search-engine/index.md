@@ -10,7 +10,7 @@ tags:
 - search engine
 - Search.gov
 - sitemap
-date: "2023-05-12"
+date: "2023-05-25"
 ---
 
 The Open Data, Design, and Development (ODDD) team [redesigned onrr.gov based on user needs](https://blog-nrrd.doi.gov/modernize-government-website/) and implemented a search engine as part of the redesign. The decision to include a site search function in the redesign was informed by user research. Users expect the search results to include the most updated information and documents. [Onrr.gov](https://www.onrr.gov/) hosts thousands of documents, and users indicated that a robust search function makes them easier to find.
@@ -104,7 +104,7 @@ When we had the meeting, Search.gov was currently in the process of rebuilding a
 
 Since we’re unable to use metadata tags to fine-tune our indexing, we looked for another solution to the missing pages from results. To define the scope of the problem, we ran test queries for narrow terms that we expected to produce results for specific pages, such as “Crude Oil Market Centers,” and “Initial Reporting for Processed Gas in Non-Index Zone (Major Portion) Areas.” Through this testing, we found that the labels for tabs were not being indexed. Our website has a lot of tabbed pages (including some of the most heavily visited pages on the site), so it's important that a search for these terms gets users to the content they need. The team at Search.gov helped us determine these labels weren’t indexing due to the way they’re tagged in the code.  
 
-After our previous conversations with Search.gov, we’d been thinking about how we could produce better metadata for our pages. The combined limits of what our CMS offers for customizing metadata output and the schemas and fields that Search.gov crawls didn’t leave us with many options. However, we knew that description is a field Search.gov will index. We happened to have a meta description field in our CMS and weren’t using it. We wrote a meta description for the most used page on the website, making sure to include the tab labels in the text. We then waited patiently until it was time for our monthly indexing by Search.gov… it worked! A search for the tab labels returned the expected results now that the labels were in the meta description. 
+After our previous conversations with Search.gov, we’d been thinking about how we could produce better metadata for our pages. The combined limits of what our CMS offers for customizing metadata output and the schemas and fields that Search.gov crawls didn’t leave us with many options. However, we knew that description is a field Search.gov will index. We happened to have a meta description field in our CMS and weren’t using it. We wrote a meta description for the most used page on the website, making sure to include the tab labels in the text. We then waited patiently for the page to be reindexed… it worked! A search for the tab labels returned the expected results now that the labels were in the meta description. 
 
 We’re now in the process of adding meta descriptions to all our pages with tabs.
 
