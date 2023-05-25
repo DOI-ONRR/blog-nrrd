@@ -23,7 +23,7 @@ In this blog, we walk you through our planning and implementation process for Se
 
 ##Choosing a search engine: Search.gov
 
-The ODDD team chose to utilize [Search.gov](https://search.gov/) as the search engine for the redesigned onrr.gov. Search.gov is a product of the U.S. General Services Administration’s Technology Transformation Services. We choose Search.gov for our search engine for the following reasons:
+The ODDD team chose to utilize [Search.gov](https://search.gov/) as the search engine for the redesigned onrr.gov. Search.gov is a product of the U.S. General Services Administration’s Technology Transformation Services. We chose Search.gov for our search engine for the following reasons:
 
 * The product is free for all federal agencies.
 * It is a modern and highly configurable search engine.
@@ -82,7 +82,7 @@ Some of these elements led to more questions, and the team decided to meet with 
 
 Our questions for the Search.gov team fell into three categories: Search.gov’s standards for accessibility, aligning the needs of onrr.gov with Search.gov’s product, and updates from Search.gov. Here’s what we learned:
 
-###Search.gov's Standards for accessibility
+###Search.gov's standards for accessibility
 
 Search.gov uses the [U.S. Web Design System (USWDS) standards]( https://designsystem.digital.gov/documentation/accessibility/#:~:text=Section%20508%20incorporates%20by%20reference,to%20perceive%20the%20information%20presented.) for 508 compliance. USWDS and Search.gov work together to ensure that their products follow their accessibility and 508 standards, which go beyond the typical 508 standards.
 
@@ -108,7 +108,7 @@ After our previous conversations with Search.gov, we’d been thinking about how
 
 We’re now in the process of adding meta descriptions to all our pages with tabs.
 
-## Lessons Learned
+## Lessons learned
 
 Collaborating with the Search.gov team has been a great learning experience for our entire team.  Below is a list of what we learned in the process of implementing a search engine that we hope can help other agencies.
 
