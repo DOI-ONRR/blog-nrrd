@@ -10,7 +10,7 @@ tags:
 - search engine
 - Search.gov
 - sitemap
-date: "2023-05-25"
+date: "2023-05-26"
 ---
 
 The Open Data, Design, and Development (ODDD) team [redesigned onrr.gov based on user needs](https://blog-nrrd.doi.gov/modernize-government-website/) and implemented a search engine as part of the redesign. The decision to include a site search function in the redesign was informed by user research. Users expect the search results to include the most updated information and documents. [Onrr.gov](https://www.onrr.gov/) hosts thousands of documents, and users indicated that a robust search function makes them easier to find.
