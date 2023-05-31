@@ -99,7 +99,7 @@ You can make prototypes via pencil sketches or on prototyping software. For this
 **Low-fidelity prototype/sketch by Isabel**
 ![Simple mockup drawing of the pricing table with a clear filter button and icon.](rough-sketch-isabel.png)
 
-**high-fidelity prototype**
+**High-fidelity prototype**
 ![Screenshot of one hi-fidelity prototype with a Reset All Filters button and options for clearing Index Zone and Year filters individually.](prototype-pricing-tables.png)
 
 ##Conclusion
