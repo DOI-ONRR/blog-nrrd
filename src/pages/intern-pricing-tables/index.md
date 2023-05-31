@@ -1,5 +1,5 @@
 ---
-title: "A UX Study on Pricing Filters with UX Intern Reflections"
+title: "A UX study on pricing filters with UX intern reflections"
 authors:
 - Isabel Hernandez
 - Erin Elzi
