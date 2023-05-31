@@ -29,13 +29,13 @@ This user research study was a first in multiple ways. It was the first study we
 
 The first step was meeting with the rest of ODDD to gather details on the problems reported by Pricing page users, as well as any pain points our team experienced in using the page. From the notes gathered in this meeting, Isabel was tasked with drafting the research plan. She was also provided with our [guide to planning user research](https://github.com/DOI-ONRR/nrrd/wiki/Research-norms-and-processes#plan-your-research), ONRR’s UX Strategy document that details the steps of problem identification through final solution building, example plans from [previous ODDD user studies](https://github.com/DOI-ONRR/research/tree/main/onnr-dot-gov-research), and online resources on writing and conducting user interviews.
 
-Once Isabel had drafted the plan and interview, we went back and forth with suggestions for improvement. After doing this a few times, we rewrote the plan and interview guide, keeping as much of Isabel’s content as possible. This was really effective for two reasons: 1) Lindsay and Erin would be the ones leading the interviews; 2) Isabel found this to be a good learning experience - seeing how her plan compared to the rewritten one. 
+Once Isabel had drafted the study plan and interview guide, we went back and forth with suggestions for improvement. After doing this a few times, we rewrote the plan and interview guide, keeping as much of Isabel’s content as possible. This was really effective for two reasons: 1) Lindsay and Erin would be the ones leading the interviews; 2) Isabel found this to be a good learning experience - seeing how her plan compared to the rewritten one. 
 
 As the person with the most experience conducting user research at ONRR, Lindsay took the lead on recruitment and scheduling. She has the most knowledge on our user types and how to best communicate with both internal and external users. 
 
 Isabel acted as a notetaker in the actual interviews, but we wanted her to get experience with conducting them. We also needed to practice our interview questions. Practice interviews ensure our questions are clear, we’re getting the data we need, and we have an appropriate time estimate to give participants. Isabel conducted the practice interview so that she could gain experience with interviewing and with the process of revising the script based on the practice session.
 
-**Isabel:** To prepare, I reviewed various ODDD wikis but starting with the [User Centered Design Process](https://github.com/DOI-ONRR/nrrd/wiki/User-Centered-Design-Process) helped give me an overview on what to expect. I’m fond of diagrams that capture processes or diagrams that summarize essential steps that can help me complete tasks on time. The interview template under the [Usability Testing Process wiki](https://github.com/DOI-ONRR/nrrd/wiki/Usability-Testing-Process) helped me craft the first draft. However, I noticed this study was missing a “Context” section. Reviewing past plans helped gain insight into details included in a typical background information. It can be easy to get distracted with findings or data that is not the primary objective of a study. I found it helpful to review the scope and objectives.  
+**Isabel:** To prepare, I reviewed various ODDD wikis but starting with the [User Centered Design Process](https://github.com/DOI-ONRR/nrrd/wiki/User-Centered-Design-Process) helped give me an overview on what to expect. I’m fond of diagrams that capture processes or diagrams that summarize essential steps that can help me complete tasks on time. The interview template under the [Usability Testing Process wiki](https://github.com/DOI-ONRR/nrrd/wiki/Usability-Testing-Process) helped me craft the first draft. However, I noticed this study was missing a “Context” section. Reviewing past plans helped me gain insight into details included in a typical background information. It can be easy to get distracted with findings or data that are not the primary objective of a study. I found it helpful to review the scope and objectives.  
 
 I learned that interviewers have the guide open during a user interview. A clear writing style and orderly sections make the guide easy to reference during interviews. Keeping this in mind helps ensure that the interviewer can easily reference information such as URLs or follow-up questions.
 
@@ -55,7 +55,7 @@ I learned that asking users to “think out loud” is a great style to gather i
 
 Prepare to go off script for unexpected moments. Sometimes, modifying the original question’s wording or asking new follow-up questions can help in unscripted moments. 
 
-I learned that communication is crucial in an Agile environment for capturing accurate information and to meet deadlines. I found post-interview debrief meetings with the team really helps to capture any information that noteakers may have missed.
+I learned that communication is crucial in an Agile environment for capturing accurate information and to meet deadlines. I found post-interview debrief meetings with the team really help capture any information that notetakers may have missed.
 
 ##Analysis and recommendations 
 
@@ -87,7 +87,7 @@ We emailed the hi-fi prototypes to five users, four of which had participated in
 
 This was the first time I led a professional meeting. I learned that providing a brief summary at the beginning of meetings is a great habit to carry in the workplace. Not all team members may have been involved in every step of the project. Providing context at the beginning of your meeting can help answer questions or remind everyone of the meeting’s purpose.
 
-During this meeting, I was introduced to the U.S Website Design System (USWDS) and Material UI (MUI) component library. These tools are used by designers and developers to help ensure website components are consistent and accessible.
+During this meeting, I was introduced to the [U.S Website Design System (USWDS)](https://designsystem.digital.gov/) and [Material UI (MUI)](https://mui.com/) component library. These tools are used by designers and developers to help ensure website components are consistent and accessible.
 
 You can make prototypes via pencil sketches or on prototyping software. For this study, I created pencil sketches, which I found to be quick and easy to make. In previous projects with ODDD, I was exposed to prototyping software and how to use existing component libraries.
 
