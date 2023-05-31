@@ -35,7 +35,7 @@ As the person with the most experience conducting user research at ONRR, Lindsay
 
 Isabel acted as a notetaker in the actual interviews, but we wanted her to get experience with conducting them. We also needed to practice our interview questions. Practice interviews ensure our questions are clear, we’re getting the data we need, and we have an appropriate time estimate to give participants. Isabel conducted the practice interview so that she could gain experience with interviewing and with the process of revising the script based on the practice session.
 
-**Isabel:** To prepare, I reviewed various ODDD wikis but starting with the [User Centered Design Process](https://github.com/DOI-ONRR/nrrd/wiki/User-Centered-Design-Process) helped give me an overview on what to expect. I’m fond of diagrams that capture processes or diagrams that summarize essential steps that can help me complete tasks on time. The interview template under the Usability Testing Process wiki helped me craft the first draft. However, I noticed this study was missing a “Context” section. Reviewing past plans helped gain insight into details included in a typical background information. It can be easy to get distracted with findings or data that is not the primary objective of a study. I found it helpful to review the scope and objectives.  
+**Isabel:** To prepare, I reviewed various ODDD wikis but starting with the [User Centered Design Process](https://github.com/DOI-ONRR/nrrd/wiki/User-Centered-Design-Process) helped give me an overview on what to expect. I’m fond of diagrams that capture processes or diagrams that summarize essential steps that can help me complete tasks on time. The interview template under the [Usability Testing Process wiki](https://github.com/DOI-ONRR/nrrd/wiki/Usability-Testing-Process) helped me craft the first draft. However, I noticed this study was missing a “Context” section. Reviewing past plans helped gain insight into details included in a typical background information. It can be easy to get distracted with findings or data that is not the primary objective of a study. I found it helpful to review the scope and objectives.  
 
 I learned that interviewers have the guide open during a user interview. A clear writing style and orderly sections make the guide easy to reference during interviews. Keeping this in mind helps ensure that the interviewer can easily reference information such as URLs or follow-up questions.
 
@@ -43,7 +43,7 @@ For this study, we had both external users that might be experts and internal in
 
 To prepare for my practice interview, I went over a few videos sent by Erin on user testing facilitation techniques and reviewed resources in the [Research norms and processes wiki](https://github.com/DOI-ONRR/nrrd/wiki/Research-norms-and-processes#debrief-after-each-session).
 
- ##Conducting the Study
+ ##Conducting the study
 
 On ODDD, all team members are trained to conduct user interviews. This allows us to share interview duties, making it easier to be flexible and meet the scheduling needs of participants. For each of these interviews, we had at least three team members present: the interviewer, one to two notetakers, and any additional team members were there to observe. Notetakers are given space during the interview to ask follow-up or clarifying questions, but otherwise the interview is conducted by the interviewer.
 
@@ -57,7 +57,7 @@ Prepare to go off script for unexpected moments. Sometimes, modifying the origin
 
 I learned that communication is crucial in an Agile environment for capturing accurate information and to meet deadlines. I found post-interview debrief meetings with the team really helps to capture any information that noteakers may have missed.
 
-##Analysis and Recommendations 
+##Analysis and recommendations 
 
 Isabel and Erin consolidated the notetaking documents into a single spreadsheet. They coded the notes as facts (what the participant said or did) or observations (what the notetaker interpreted based on those facts). Erin coded the facts as positive experiences, pain points, surprises, or suggested improvements. The color-coded facts were moved to an online board where Lindsay and Erin used [affinity mapping](https://methods.18f.gov/decide/affinity-mapping/) techniques to create groupings. The resulting groupings, along with the observations from earlier in the analysis process, were then used to create recommendations and opportunities.
 
@@ -91,15 +91,15 @@ During this meeting, I was introduced to the U.S Website Design System (USWDS) a
 
 You can make prototypes via pencil sketches or on prototyping software. For this study, I created pencil sketches, which I found to be quick and easy to make. In previous projects with ODDD, I was exposed to prototyping software and how to use existing component libraries.
 
-###Examples of Prototypes - Low to High
+###Examples of prototypes - low to high
 
-**Low-Fidelity Prototype/Sketch by Erin**
+**Low-fidelity prototype/sketch by Erin**
 ![Simple mockup drawing of the pricing table with a clear all link and option to clear each filter individually.](rough-sketch-erin.png)
 
-**Low-Fidelity Prototype/Sketch by Isabel**
+**Low-fidelity prototype/sketch by Isabel**
 ![Simple mockup drawing of the pricing table with a clear filter button and icon.](rough-sketch-isabel.png)
 
-**High-Fidelity Prototype**
+**high-fidelity prototype**
 ![Screenshot of one hi-fidelity prototype with a Reset All Filters button and options for clearing Index Zone and Year filters individually.](prototype-pricing-tables.png)
 
 ##Conclusion
