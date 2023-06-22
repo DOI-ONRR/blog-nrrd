@@ -10,7 +10,7 @@ tags:
 - user research
 - UX design
 - onr.gov
-date: "2023-06-25"
+date: "2023-06-23"
 ---
 
 To inform the redesign of [onrr.gov](https://onrr.gov/), the Open Data, Design, and Development team (ODDD) conducted [12 user research studies](https://github.com/DOI-ONRR/research/tree/main/onnr-dot-gov-research) that built upon each other. These studies shaped the design and organization of the new site. Since we work in an [iterative and user-centered design cycle](https://blog-nrrd.doi.gov/modernize-government-website/), we were ready to continue our user research with our new website!
