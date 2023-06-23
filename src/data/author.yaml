@@ -19,7 +19,7 @@
   pic: ../img/jeff-pic.jpg
 
 - id: Lindsay Goldstein
-  bio: Program Analyst at the Office of Natural Resources Revenue
+  bio: Digital Services Specialist at the Office of Natural Resources Revenue
   pic: ../img/lindsay-pic.jpg
 
 - id: Maroya Faied
@@ -97,3 +97,7 @@
 - id: Alexandra McNally
   bio: Digital Services Specialist at the Office of Natural Resources Revenue
   pic: ../img/alex-pic.jpg
+
+- id: Isabel Hernandez
+  bio: User Experience Intern at the Office of Natural Resources Revenue
+  pic: ../img/isabel-pic.jpg
