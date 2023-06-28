@@ -23,7 +23,7 @@ While exploring the possibilities, I came across ONRR and its [open data website
 
 ## Learning New Skills
 
-The internship at ONRR provided me with the chance to learn and master new skills. I gained proficiency in using GitHub for larger repositories, including pushing, committing, and branching changes. Additionally, I acquired knowledge in product management and UX/UI design best practices, which proved invaluable throughout my time at ONRR. Participating in user interviews for the recently redesigned [onrr.gov](https://onrr.gov) website taught me how to guide users and extract actionable insights from their feedback.
+The internship at ONRR provided me with the chance to learn and master new skills. I gained proficiency in using GitHub for larger repositories, including pushing, committing, and branching changes. Additionally, I acquired knowledge in product management and UX/UI design best practices, which proved invaluable throughout my time at ONRR. Participating in user interviews for the recently redesigned [onrr.gov](https://onrr.gov/) website taught me how to guide users and extract actionable insights from their feedback.
 
 ## Surprises and Challenges
 
