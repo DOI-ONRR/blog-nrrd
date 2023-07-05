@@ -11,7 +11,7 @@ tags:
 date: "2023-07-13"
 ---
 
-During the challenging times of the pandemic, I stumbled upon a remarkable opportunity that not only allowed me to gain valuable experience but also make a meaningful difference. The Virtual Student Federal Service (VSFS) internship program opened new doors for me, leading me to intern with the [Office of Natural Resources Revenue (ONRR)]( https://onrr.gov/). In this blog, I will share my journey of how I discovered the [VSFS program]( https://careers.state.gov/interns-fellows/virtual-student-federal-service/) program, what drew me to intern with ONRR, and the impact it had on my career goals.
+During the challenging times of the pandemic, I stumbled upon a remarkable opportunity that not only allowed me to gain valuable experience but also make a meaningful difference. The [Virtual Student Federal Service (VSFS)]( https://careers.state.gov/interns-fellows/virtual-student-federal-service/) internship program opened new doors for me, leading me to intern with the [Office of Natural Resources Revenue (ONRR)]( https://onrr.gov/). In this blog, I will share my journey of how I discovered the VSFS program, what drew me to intern with ONRR, and the impact it had on my career goals.
 
 ## Discovering the VSFS internship program
 
@@ -21,9 +21,9 @@ As the pandemic restricted in-person opportunities, I learned about the VSFS pro
 
 While exploring the possibilities, I came across ONRR and its [open data website]( https://revenuedata.doi.gov/). This was my first encounter with a user-friendly and informative website created by the federal government. I was captivated by the wealth of revenue and disbursements data available and recognized the opportunity to gain experience in analyzing such crucial information.
 
-## Learning new akills
+## Learning new skills
 
-The internship at ONRR provided me with the chance to learn and master new skills. I gained proficiency in using GitHub for larger repositories, including pushing, committing, and branching changes. Additionally, I acquired knowledge in product management and UX/UI design best practices, which proved invaluable throughout my time at ONRR. Participating in user interviews for the recently redesigned [onrr.gov]( https://onrr.gov/) website taught me how to guide users and extract actionable insights from their feedback.
+The internship at ONRR provided me with the chance to learn and master new skills. I gained proficiency in using [GitHub]( https://github.com/DOI-ONRR) for larger repositories, including pushing, committing, and branching changes. Additionally, I acquired knowledge in product management and UX/UI design best practices, which proved invaluable throughout my time at ONRR. Participating in user interviews for the recently redesigned [onrr.gov]( https://onrr.gov/) website taught me how to guide users and extract actionable insights from their feedback.
 
 ## Surprises and challenges
 
@@ -31,11 +31,11 @@ One of the biggest surprises during my ONRR internship was the involvement of ev
 
 ## Making a difference
 
-Without a doubt, I can confidently say that my work and the collective efforts of our team at ONRR have made a tangible difference. My contribution involved updating and ensuring the accuracy of the data displayed on our website. Moreover, I worked on design projects and addressed issues that were eventually implemented on the live site. Additionally, I was involved in internal projects, such as the development of a data checklist to enhance our data verification process before publication.
+Without a doubt, I can confidently say that my work and the collective efforts of our team at ONRR have made a tangible difference. My contribution involved updating and ensuring the accuracy of the data displayed on ONRR's public websites. Moreover, I worked on design projects and addressed issues that were eventually implemented on the live site. Additionally, I was involved in internal projects, such as the development of a data checklist to enhance our data verification process before publication.
 
 ## Memorable projects
 
-Among the many projects I had the privilege to work on, the [fiscal year renewable fact sheets]( https://revenuedata.doi.gov/?tab=tab-fact-sheets) stand out as a personal favorite. From visualizing disbursements to gathering revenue and production data, I had the opportunity to be involved in various aspects of creating these.
+Among the many projects I had the privilege to work on, the [fiscal year renewable fact sheets]( https://revenuedata.doi.gov/?tab=tab-fact-sheets) stand out as a personal favorite. From visualizing disbursements data to gathering revenue and production data, I had the opportunity to be involved in various aspects of creating the visuals for the renewable fact sheets.
 
 ## Career goals and the internship's influence
 
