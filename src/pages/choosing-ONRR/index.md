@@ -8,7 +8,7 @@ tags:
 - internship
 - data
 
-date: "2023-07-13"
+date: "2023-07-28"
 ---
 
 During the challenging times of the pandemic, I stumbled upon a remarkable opportunity that not only allowed me to gain valuable experience but also make a meaningful difference. The [Virtual Student Federal Service (VSFS)]( https://careers.state.gov/interns-fellows/virtual-student-federal-service/) internship program opened new doors for me, leading me to intern with the [Office of Natural Resources Revenue (ONRR)]( https://onrr.gov/). In this blog, I will share my journey of how I discovered the VSFS program, what drew me to intern with ONRR, and the impact it had on my career goals.
