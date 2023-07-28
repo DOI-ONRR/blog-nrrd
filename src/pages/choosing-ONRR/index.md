@@ -2,7 +2,7 @@
 title: "My journey as an intern: making an impact at ONRR"
 authors:
 - Matt Sao
-excerpt: "Our outgoing data intern reflects on 3 years (!) as an ONRR intern and his growing public service career.
+excerpt: "Our outgoing data intern reflects on 3 years as an ONRR intern and his growing public service career.
 "
 tags:
 - internship
