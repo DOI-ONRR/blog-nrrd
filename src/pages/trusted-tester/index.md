@@ -9,7 +9,7 @@ tags:
 - accessibility
 - trusted tester
 
-date: "2023-08-25"
+date: "2023-08-24"
 ---
 
 ## Comprehensive Training for Trusted Testers 
