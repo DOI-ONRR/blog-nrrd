@@ -10,11 +10,11 @@ tags:
 - trusted tester
 
 date: "2023-08-24"
----
-
-## Comprehensive Training for Trusted Testers 
+--- 
 
 We embrace every opportunity to enhance the accessibility of our websites, so we were excited to learn about a comprehensive manual testing training offered by a government agency. A great feature is that the training is free and allows participants to complete it at their own pace without any live sessions. 
+
+## Comprehensive Training for Trusted Testers
 
 The [Trusted Tester Training Track]( https://training.section508testing.net/), offered by the Department of Homeland Security  consists of six courses, with the first two focusing on Section 508 and emphasizing the significance of manual testing. The third course provides insights into accessing the necessary tools for website assessment, while the fourth course delved into the testing process through 20 in-depth lessons. The final two courses contain the practice exam and the final exam. To progress to the next course, participants must complete each one in sequence. 
 
@@ -46,14 +46,14 @@ ANDI’s JavaScript URL: javascript:void((function(){andiScript=document.createE
 
 To launch ANDI to evaluate a webpage: 
 
-1. Press Ctrl + Shift + j on your keyboard to open the Developer Tools. 
+1. Press Ctrl + Shift + J on your keyboard to open the Developer Tools. 
 2. Click on the Sources tab to open the Sources panel. 
 3. Click the Snippets tab to open the Snippets pane.  
 4. Right-click on ANDI snippet and select Run to launch ANDI. 
 5. When you want to launch ANDI again after moving to a new webpage, right-click on the ANDI snippet and select Run. 
 
 *Screenshot of running ANDI using browser developer tools*
-![Browser window with Developer Tools – Sources open. ANDI is highlighted under Snippets and the Run function is highlighted.](ANDI.png)
+![Browser window with Developer Tools – Sources open. ANDI is highlighted under Snippets and the Run function is highlighted.](ANDI.PNG)
 
 #### Navigating the Trusted Tester training and accessing content 
 
@@ -63,13 +63,13 @@ The course demanded meticulous attention to detail. We had to email Trusted Test
 
 The training covered an extensive range of material, with twenty units divided into topics, each with substantial detail and examples. Practical tests needed to be passed before progressing to the next unit, and only three attempts were allowed before a reset. Losing progress during a test due to logging out was frustrating. Some lessons proved more challenging than others, demanding patience, and support from a training buddy.
 
-## Trusted Tester practice exam 
+### Trusted Tester practice exam 
 
 After completing the first four courses, participants are eligible to take the practice test. This test encompasses 17 sections from the training course, consolidating all required testing items into one exam. To pass, one needs to score 90% and test three different yet related webpages for all the required items. Many attempts are permitted, but the testing pages change each time. 
 
 The practice test mirrors the format of the real exam. Test completion requires around 6 hours, so adequate time allocation is essential. While both of us managed to pass, we found some question wordings and answer selections confusing. Consulting the course materials proved helpful, but explanations for incorrect answers would be beneficial, given the practical application of the material. 
 
-## Trusted Tester certification exam 
+### Trusted Tester certification exam 
 
 Once you pass the practice exam, you should receive an email enabling you to register for the certification exam. In our case, one of us had to request access via email before both of us received it. The final exam was more challenging, as it allows only three days to achieve a 90% or higher score, with just three attempts allowed. Failing requires re-requesting access, which could lead to several weeks of waiting for assessment and remedial training assignments by the Trusted Tester staff. 
 
@@ -105,7 +105,7 @@ Before learning about Trusted Tester, our accessibility testing consisted primar
 
 ## What we are doing with the findings  
 
-The training includes guidance for sharing the results with others, making it easy to identify and fix the failed test conditions. We put the ACRT results in a spreadsheet, making it easier for our team to review the information. Many automated testing tools provide a score or ranking that helps us prioritize how we can work through fixes. Since it’s all manual, contextual, and done on a page-by-page basis, it makes sense Trusted Tester and ACRT do not provide a compliance score or ranking. Our spreadsheet made it easy to look at the violations holistically and work together to assign priority to the issues. This is done by considering how many pages the issues affects and the estimated level of time and difficulty for the fix.  
+The training includes guidance for sharing the results with others, making it easy to identify and fix the failed test conditions. We put the ACRT results in a spreadsheet, making it easier for our team to review the information. Many automated testing tools provide a score or ranking that helps us prioritize how we can work through fixes. Since it’s all manual, contextual, and done on a page-by-page basis, it makes sense Trusted Tester and ACRT do not provide a compliance score or ranking. Our spreadsheet made it easy to look at the violations holistically and work together to assign priority to the issues. This is done by considering how many pages each issue affects and the estimated difficulty level of the fix.  
 
 Now that we’ve tested our top 10 pages for each site, we’re looking forward to applying the Trusted Tester process to more pages. 
 
@@ -113,6 +113,6 @@ Now that we’ve tested our top 10 pages for each site, we’re looking forward 
 
 While it felt tedious at times, the Trusted Tester training and certification was well worth it. Identifying accessibility issues on our websites was main reason for completing the process, but there are other benefits. We gained more understanding of how individuals with various disabilities use websites and which violations affect different disability groups. We are better equipped to advocate for a broader range of accessible design and content, and able to provide the reasons such decision. There is always a lot more to learn in this area, but our foundation is stronger now.  
 
-Applying Trusted Tester has also led to new collaboration opportunities within our team. Since ANDI is available for anyone to use, not just certified Trusted Testers, we’re training our team on how and when to use it. We’ve already found more uses for ANDI. ANDI presents heading structure in a way that is easy to understand, so we are using it on a project for checking the headings on each onrr.gov page.  
+Applying Trusted Tester has also led to new collaboration opportunities within our team. Since ANDI is available for anyone to use, not just certified Trusted Testers, we’re training our team on how and when to use it. We’ve already found more uses for ANDI. For example, ANDI presents heading structure in a way that is easy to understand, so we are currently using it on a project for checking the headings on each onrr.gov page.  
 
 We envision this could also lead to collaboration with others outside of ODDD and even outside of ONRR. If you are currently applying Trusted Tester or other manual testing tools to your site, feel free to contact us. Let’s help each other out! 
