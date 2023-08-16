@@ -16,7 +16,7 @@ We embrace every opportunity to enhance the accessibility of our websites, so we
 
 ## Comprehensive Training for Trusted Testers
 
-The [Trusted Tester Training Track]( https://training.section508testing.net/), offered by the Department of Homeland Security  consists of six courses, with the first two focusing on Section 508 and emphasizing the significance of manual testing. The third course provides insights into accessing the necessary tools for website assessment, while the fourth course delved into the testing process through 20 in-depth lessons. The final two courses contain the practice exam and the final exam. To progress to the next course, participants must complete each one in sequence. 
+The [Trusted Tester Training Track]( https://training.section508testing.net/), offered by the Department of Homeland Security consists of six courses, with the first two focusing on Section 508 and emphasizing the significance of manual testing. The third course provides insights into accessing the necessary tools for website assessment, while the fourth course delves into the testing process through 20 in-depth lessons. The final two courses contain the practice exam and the final exam. To progress to the next course, participants must complete each one in sequence. 
 
 Before starting the training, you must ask yourself two critical questions: 
 
