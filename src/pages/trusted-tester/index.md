@@ -35,7 +35,7 @@ The training requires installing ANDI (Accessible Name & Description Inspector) 
 
 #### Navigating the Trusted Tester training and accessing content 
 
-The course demanded meticulous attention to detail. We had to email Trusted Tester staff to clarify some course instructions. Specific operating systems and browsers were required to optimize the learning experience. Navigating the training site took time as some sections were very short and required a lot of scrolling and clicking to move through lessons.  The modules did not have an auto-play option, the lack of which slowed down our momentum during the course. The training site also has an auto-log out after a certain time and the log out warning would not necessarily show up in the window you were working in. This resulted in occasional lost progress if you were unknowingly logged out but continued to work.   
+The course demanded meticulous attention to detail. We had to email Trusted Tester staff to clarify some course instructions. Specific operating systems and browsers were required to optimize the learning experience. Navigating the training site took time as some sections were very short and required a lot of scrolling and clicking to move through lessons.  The modules did not have an auto-play option, the lack of which slowed down our momentum during the course. The training site also had an auto-log out after a certain time and the log out warning would not necessarily show up in the window you were working in. This resulted in occasional lost progress if you were unknowingly logged out but continued to work.   
 
 #### Coping with large amount of training content 
 
