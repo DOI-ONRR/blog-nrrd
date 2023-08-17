@@ -9,7 +9,7 @@ tags:
 - accessibility
 - trusted tester
 
-date: "2023-08-24"
+date: "2023-08-21"
 --- 
 
 We embrace every opportunity to enhance the accessibility of our websites, so we were excited to learn about a comprehensive manual testing training offered by a government agency. A great feature is that the training is free and allows participants to complete it at their own pace without any live sessions. 
@@ -31,7 +31,7 @@ Besides to the time commitment, we encountered several other challenges througho
 
 #### Gaining access to Trusted Tester tools
 
-The training requires installing ANDI (Accessible Name & Description Inspector) which is a free accessibility testing tool.  ANDI is an open-source project created by the Accessible Solutions Branch of the Social Security Administration; the source code is available on [GitHub](https://github.com/SSAgov/ANDI).  To [install ANDI](https://www.ssa.gov/accessibility/andi/help/install.html), it simply requires adding the JavaScript url as a bookmark and launching it. We discovered that our organization has JavaScript blocked and it prevents us from adding ANDI as a bookmark. As a workaround, we were able to add ANDI as a snippet in the developer tool and running it by following these instructions. 
+The training requires installing ANDI (Accessible Name & Description Inspector) which is a free accessibility testing tool.  ANDI is an open-source project created by the Accessible Solutions Branch of the Social Security Administration; the source code is available on [GitHub](https://github.com/SSAgov/ANDI).  To [install ANDI](https://www.ssa.gov/accessibility/andi/help/install.html), it simply requires adding the JavaScript url as a bookmark and launching it. We discovered that our organization has JavaScript blocked and it prevents us from adding ANDI as a bookmark. As a workaround, we were able to add ANDI as a snippet in the developer tool and running it by [following these instructions]( https://github.com/DOI-ONRR/onrr.gov-site/wiki/ANDI). 
 
 #### Navigating the Trusted Tester training and accessing content 
 
