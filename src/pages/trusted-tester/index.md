@@ -89,7 +89,7 @@ Now that we’ve tested our top 10 web pages for each site, we’re looking forw
 
 ## Conclusion
 
-While it felt tedious at times, the Trusted Tester training and certification was well worth it. Identifying accessibility issues on our websites was main reason for completing the process, but there are other benefits. We gained more understanding of how individuals with various disabilities use websites and which violations affect different disability groups. We are better equipped to advocate for a broader range of accessible design and content, and able to provide the reasons such decision. There is always a lot more to learn in this area, but our foundation is stronger now.  
+While it felt tedious at times, the Trusted Tester training and certification was well worth it. Identifying accessibility issues on our websites was the main reason for completing the process, but there are other benefits. We gained more understanding of how individuals with various disabilities use websites and which violations affect different disability groups. We are better equipped to advocate for a broader range of accessible design and content, and able to provide the reasons for such decisions. There is always a lot more to learn in this area, but our foundation is stronger now.  
 
 Applying Trusted Tester has also led to new collaboration opportunities within our team. Since ANDI is available for anyone to use, not just certified Trusted Testers, we’re training our team on how and when to use it. We’ve already found more uses for ANDI. For example, ANDI presents heading structure in a way that is easy to understand, so we are currently using it on a project for checking the headings on each onrr.gov page.  
 
