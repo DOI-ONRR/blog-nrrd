@@ -48,21 +48,21 @@ The table below shows every content type I cataloged in the inventory, what I ch
 
 **Content type**|**What to check**|**What to note in the Audit tab**
 :-----:|:-----:|:-----:
-Data - Card|In Explore Data - Select location options for all 4 cards. Check to make sure the data within the cards are correct.|If something is wrong, detail the issue(s)
-Data Control|Toggle between the data conrol options to make sure they function correctly.|If something is wrong, detail the issue(s)
-Download - CSV|NRRD csv file. Download the file, make sure it is the correct file, and test accessibility.|If something is wrong, detail the issue(s)
-Download - Excel|NRRD excel file. Download the file, make sure it is the correct file, and test accessibility.|If something is wrong, detail the issue(s)
-Download - PDF|NRRD PDF. Download the PDF and make sure it passes the Adobe accessibility checker.|Note the accessibility status, and what (if any) fixes are needed
-Email|Check to make sure the "mailto" hyperlink is working, and directing to the correct email address.|If something is wrong, detail the issue(s)
-Graph|Make sure all cursor-hover tool tips and data are correct. If applicable, cross check the graph with the associated table.|If something is wrong, detail the issue(s)
-Image|Make sure image has alt text.|Note if alt text is absent
-Link - External|Links outside of NRRD. Test the link, make sure the site we're linking to is maintained.|Detail if the link is broken, or if link needs to be updated
-Link - Internal|Links internal to NRRD. Make sure the link works, and directs to the correct webpage.|Detail if the link is broken, or if link needs to be updated
-Link - onrr.gov|All onrr.gov links. Make sure the link is redirecting to the proper new onrr.gov webpage.|Note the redirect status, and note the new link to update in the html
-Not Content - 508|Do a lighthouse accessibility check on the webpage. Save the extended PDF in the same folder as this content audit. |Note the lighthouse score and what improvements could be made
-Not Content - Page Views|FY 22 pageviews are in this spreadsheet on a separate tab.|List the number of pageviews
-Table|Make sure all cursor-hover tool tips and data are correct. If applicable, cross check the table with the associated graph.|If something is wrong, detail the issue(s)
-Text|Do a reading level check using Hemingway Editor or Microsoft Editor. |Note the grade level, and if any edits are needed 
+Data - Card|In Explore Data - Select location options for all 4 cards. Check to make sure the data within the cards are correct.|If something is wrong, detail the issue(s).
+Data Control|Toggle between the data conrol options to make sure they function correctly.|If something is wrong, detail the issue(s).
+Download - CSV|NRRD csv file. Download the file, make sure it is the correct file, and test accessibility.|If something is wrong, detail the issue(s).
+Download - Excel|NRRD excel file. Download the file, make sure it is the correct file, and test accessibility.|If something is wrong, detail the issue(s).
+Download - PDF|NRRD PDF. Download the PDF and make sure it passes the Adobe accessibility checker.|Note the accessibility status, and what (if any) fixes are needed.
+Email|Check to make sure the "mailto" hyperlink is working, and directing to the correct email address.|If something is wrong, detail the issue(s).
+Graph|Make sure all cursor-hover tool tips and data are correct. If applicable, cross check the graph with the associated table.|If something is wrong, detail the issue(s).
+Image|Make sure image has alt text.|Note if alt text is absent.
+Link - External|Links outside of NRRD. Test the link, make sure the site we're linking to is maintained.|Detail if the link is broken, or if link needs to be updated.
+Link - Internal|Links internal to NRRD. Make sure the link works, and directs to the correct webpage.|Detail if the link is broken, or if link needs to be updated.
+Link - onrr.gov|All onrr.gov links. Make sure the link is redirecting to the proper new onrr.gov webpage.|Note the redirect status, and note the new link to update in the html.
+Not Content - 508|Do a lighthouse accessibility check on the webpage. Save the extended PDF in the same folder as this content audit. |Note the lighthouse score and what improvements could be made.
+Not Content - Page Views|FY 22 pageviews are in this spreadsheet on a separate tab.|List the number of pageviews.
+Table|Make sure all cursor-hover tool tips and data are correct. If applicable, cross check the table with the associated graph.|If something is wrong, detail the issue(s).
+Text|Do a reading level check using Hemingway Editor or Microsoft Editor. |Note the grade level, and if any edits are needed .
 
 As I cataloged content, I audited it, then notated my findings in the database. I included columns to indicate if any errors were found, then detailed what updates are needed to fix the errors.
 
@@ -104,7 +104,7 @@ Since building a detailed content inventory database and completing an initial a
 
 As I make content enhancements and as new webpages are added to the site, I try to keep the databased updated as well. Even though I try to update as enhancements are made, I also plan to review the entire database on an annual basis. This way, I know it’s ready for our next content audit.
 
-Since this year’s content audit was so wide in scope  , in the future I will use this database to review individual content types more deeply for the next set of audits.
+Since this year’s content audit was so wide in scope, in the future I will use this database to review individual content types more deeply for the next set of audits.
 
 
 ### Key takeaways
