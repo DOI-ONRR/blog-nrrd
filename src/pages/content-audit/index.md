@@ -26,8 +26,8 @@ Because we had so much success with creating detailed tracking sheets for other 
 One of our UX designers, Erin Elzi, had already made a detailed site map for NRRD. I applied the sitemap hierarchy as the outline for my inventory database. Making sure that the content database and sitemap matched in terms of hierarchy identification was a great way for us all to stay organized and easily understand each other’s work. 
 Instead of limiting each URL as a single line item, I wanted to break down the information on each webpage to a more granular level. Cataloging the HTML heading   levels within a webpage helped provide more navigation structure for the database as I drilled down to catalog more detail. For each heading level, I cataloged every content type within it. Each instance of content got its own line item in the database. I detailed the content type and a short description of the content in separate columns. 
 
+![The first section of the content database includes columns for URL, page title, page type, site map hierarchy ID, and heading levels. There are multiple line items per an individual URL location, which indicates multiple types of content cataloged.](Figure1.png)
 *The first section of the content database includes columns for URL, page title, page type, site map hierarchy ID, and heading levels. There are multiple line items per an individual URL location, which indicates multiple types of content cataloged.*
-![The first section of the content database includes columns for URL, page title, page type, site map hierarchy ID, and heading levels. There are multiple line items per an individual URL location, which indicates multiple types of content cataloged.](Figure1.jpg)
 
 This cataloging method is particularly useful for NRRD because we have similar information on multiple pages. This way, I’m able to quickly filter and track down these locations. I can easily make sure any updates are consistently made across all locations.
 
@@ -35,8 +35,8 @@ Content types I cataloged included: data cards, data controls, downloads (organi
 
 I also cataloged two types of non-content: Section 508 compliance and page views. For Section 508 compliance, I completed an automated Lighthouse accessibility check on each URL and integrated the results into the database. For page views, I downloaded annual views from Google Analytics for each URL and integrated them into the database. 
 
+![The second part of the content database includes cataloging the content type and a description of the content. Each instance of a content type is cataloged as an individual line item.](Figure2.png)
 *The second part of the content database includes cataloging the content type and a description of the content. Each instance of a content type is cataloged as an individual line item.*
-![The second part of the content database includes cataloging the content type and a description of the content. Each instance of a content type is cataloged as an individual line item.](Figure2.jpg)
 
 ### Auditing content
 
@@ -46,7 +46,7 @@ This audit had a wide scope since we were coming out of a maintenance period. To
 
 The table below shows every content type I cataloged in the inventory, what I checked during the audit of each content type, and what I notated if there were issues discovered.
 
-**Content type**|**What to check**|**What to note in Column N of the Audit tab**
+**Content type**|**What to check**|**What to note in the Audit tab**
 :-----:|:-----:|:-----:
 Data - Card|In Explore Data - Select location options for all 4 cards. Check to make sure the data within the cards are correct.|If something is wrong, detail the issue(s)
 Data Control|Toggle between the data conrol options to make sure they function correctly.|If something is wrong, detail the issue(s)
@@ -66,8 +66,8 @@ Text|Do a reading level check using Hemingway Editor or Microsoft Editor. |Note 
 
 As I cataloged content, I audited it, then notated my findings in the database. I included columns to indicate if any errors were found, then detailed what updates are needed to fix the errors.
 
+![The third part of the content database includes the audit. I notated if any errors were found and detailed what needed to be addressed.](Figure3.png)
 *The third part of the content database includes the audit. I notated if any errors were found and detailed what needed to be addressed.*
-![The third part of the content database includes the audit. I notated if any errors were found and detailed what needed to be addressed.](Figure4.jpg)
 
 The processes of building a database while auditing was time-consuming but worth it! NRRD is a relatively small website and I ended up cataloging about 1,000 individual content items in my database. Of that, I identified about 160 content items that needed some form of fix or update.
 
@@ -85,18 +85,18 @@ During our [sprint demos](https://github.com/DOI-ONRR/nrrd/wiki/Joining-the-Open
 
 The first visualization I presented was a simple status update that showed overall how many issues were fixed as of the current sprint and how many still needed attention.
 
+![Pivot table and corresponding circle chart showing the overall status of the content audit updates.](Figure4.png)
 *Overall status of making the needed updates discovered by the content audit.*
-![Pivot table and corresponding circle chart showing the overall status of the content audit updates.](Figure5.jpg)
 
 The next visualization I showed was the content that still required fixing/updates. In addition, I also showed a pivot table breaking down the page location of the content that needed fixing and the associated page views for prioritization.
 
+![Pivot table and corresponding circle chart showing the overall status of the content that needs some for of fix or update.](Figure5.png)
 *Of the content that requires fixing, what content is included.*
-![Pivot table and corresponding circle chart showing the overall status of the content that needs some for of fix or update.](Figure6.jpg)
 
 The last visualization I showed was the breakdown of my progress. I liked to end with showing how much content I had currently updated. I also regularly showed a page-level status that listed which webpages were completely updated. Visualizing progress this way kept me motivated and helped me maintain buy-in from management.
 
+![Pivot table and corresponding circle chart showing the progress of completed content updates.](Figure6.png)
 *Content that has been updated since the audit.*
-![Pivot table and corresponding circle chart showing the progress of completed content updates.](Figure7.jpg)
 
 ## Future of the database
 
