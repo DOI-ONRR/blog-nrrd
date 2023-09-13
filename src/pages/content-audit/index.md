@@ -66,8 +66,8 @@ Text|Do a reading level check using Hemingway Editor or Microsoft Editor. |Note 
 
 As I cataloged content, I audited it, then noted my findings in the database. I included columns to indicate if any errors were found, then detailed what updates are needed to fix the errors.
 
-![The third part of the content database includes the audit. I notated if any errors were found and detailed what needed to be addressed.](Figure3.png)
-*The third part of the content database includes the audit. I notated if any errors were found and detailed what needed to be addressed.*
+![The third part of the content database includes the audit. I noted if any errors were found and detailed what needed to be addressed.](Figure3.png)
+*The third part of the content database includes the audit. I noted if any errors were found and detailed what needed to be addressed.*
 
 The processes of building a database while auditing was time-consuming but worth it! NRRD is a relatively small website and I ended up cataloging about 1,000 individual content items in my database. Of that, I identified about 160 content items that needed some form of fix or update.
 
@@ -75,7 +75,7 @@ The processes of building a database while auditing was time-consuming but worth
 
 Now that I had my database and audit complete, it was time to update the approximately 160 content items that needed attention. I integrated annual page view analytics into the database as well, so I first prioritized updates based on page views.
 
-As I corrected issues found in the audit, I also updated the database to indicate that the issue was fixed. In addition, I notated what fixes were made in the audit section of the database.
+As I corrected issues found in the audit, I also updated the database to indicate that the issue was fixed. In addition, I noted what fixes were made in the audit section of the database.
 
 Because I cataloged my content into a functional database, I was able to create pivot tables and charts from the resulting pivots. I used these to visualize the amount of content that needed updating, which content types required updating, and to track my progress.
 
