@@ -55,9 +55,9 @@ const Footer = () => (
           lineHeight: rhythm(-1),
         }}
       >
-        U.S. Department of the Interior <br />
-        1849 C Street NW MS 5134 <br />
-        Washington, D.C. 20240 <br />
+        Office of Natural Resources Revenue, <br />
+        PO Box 25165 <br />
+        Denver, CO 80225-0165 <br />
         <a
           style={{
             color: 'white',
