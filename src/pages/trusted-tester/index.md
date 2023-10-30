@@ -18,28 +18,13 @@ We embrace every opportunity to enhance the accessibility of our websites, so we
 
 The [Trusted Tester Training Track]( https://training.section508testing.net/), offered by the Department of Homeland Security (DHS) consists of six courses, with the first two focusing on Section 508 and emphasizing the significance of manual testing. The third course provides insights into accessing the necessary tools for website assessment, while the fourth course delves into the testing process through 20 in-depth lessons. The final two courses contain the practice exam and the final exam. To progress to the next course, participants must complete each one in sequence. 
 
-Before starting the training, you must ask yourself two critical questions: 
+Here’s a few things we suggest you consider before starting the training:
 
 1. Are you prepared to dedicate around 70 hours to the training? 
-2. Do you have the appetite for a mental challenge? 
+    Tip: Practice tests need to be passed before moving on to the next unit. Make sure you allocate enough time - we found the platform works best when each practice test is completed in a single session. We also suggest taking this course along alongside a teammate for support.
+2. The training requires installing ANDI (Accessible Name & Description Inspector) which is a free accessibility testing tool. To To [install ANDI](https://www.ssa.gov/accessibility/andi/help/install.html), it simply requires adding the JavaScript url as a bookmarklet and launching it.
+    Tip: Does your agency block javascript? We discovered that our organization has JavaScript blocked and it prevents us from adding ANDI as a bookmark. As a workaround, we were able to add ANDI as a snippet in the developer tool and running it from there. Instructions for this are available on [our wiki]( https://github.com/DOI-ONRR/onrr.gov-site/wiki/ANDI).
 
-Recognizing the large time commitment, we decided to allocate significant blocks of time over a short period to complete the training. We managed to finish the course within six weeks by immersing ourselves in the material and absorbing the information. 
-
-### Challenges faced during the training
-
-Besides to the time commitment, we encountered several other challenges throughout the training, such as: 
-
-#### Gaining access to Trusted Tester tools
-
-The training requires installing ANDI (Accessible Name & Description Inspector) which is a free accessibility testing tool.  ANDI is an open-source project created by the Accessible Solutions Branch of the Social Security Administration; the source code is available on [GitHub](https://github.com/SSAgov/ANDI).  To [install ANDI](https://www.ssa.gov/accessibility/andi/help/install.html), it simply requires adding the JavaScript url as a bookmark and launching it. We discovered that our organization has JavaScript blocked and it prevents us from adding ANDI as a bookmark. As a workaround, we were able to add ANDI as a snippet in the developer tool and running it by [following these instructions]( https://github.com/DOI-ONRR/onrr.gov-site/wiki/ANDI). 
-
-#### Navigating the Trusted Tester training and accessing content 
-
-The course demanded meticulous attention to detail. We had to email Trusted Tester staff to clarify some course instructions. Specific operating systems and browsers were required to optimize the learning experience. Navigating the training site took time as some sections were very short and required a lot of scrolling and clicking to move through lessons.  The modules did not have an auto-play option, the lack of which slowed down our momentum during the course. The training site also had an auto-log out after a certain time and the log out warning would not necessarily show up in the window you were working in. This resulted in occasional lost progress if you were unknowingly logged out but continued to work.   
-
-#### Coping with large amount of training content 
-
-The training covered an extensive range of material, with twenty units divided into topics, each with substantial detail and examples. Practical tests needed to be passed before progressing to the next unit, and only three attempts were allowed before a reset. Losing progress during a test due to logging out was frustrating. Some lessons proved more challenging than others, demanding patience, and support from a training buddy.
 
 ### Trusted Tester practice exam 
 
