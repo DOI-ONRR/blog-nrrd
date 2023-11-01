@@ -45,7 +45,7 @@ const Footer = () => (
             textDecoration: 'none',
           }}
         >
-          Office of Natural Resources Revenue
+          U.S. Department of the Interior 
         </a>
       </h3>
       <p
