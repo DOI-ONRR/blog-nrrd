@@ -16,17 +16,17 @@ We embrace every opportunity to enhance the accessibility of our websites, so we
 
 ## Comprehensive training for Trusted Testers
 
-The [Trusted Tester Training Track]( https://training.section508testing.net/), offered by the Department of Homeland Security (DHS) consists of six courses, with the first two focusing on Section 508 and emphasizing the significance of manual testing. The third course provides insights into accessing the necessary tools for website assessment, while the fourth course delves into the testing process through 20 in-depth lessons. The final two courses contain the practice exam and the final exam. To progress to the next course, participants must complete each one in sequence. 
+The [Trusted Tester Training Track]( https://www.dhs.gov/trusted-tester), offered by the Department of Homeland Security (DHS) consists of six courses, with the first two focusing on Section 508 and emphasizing the significance of manual testing. The third course provides insights into accessing the necessary tools for website assessment, while the fourth course delves into the testing process through 20 in-depth lessons. The final two courses contain the practice exam and the final exam. To progress to the next course, participants must complete each one in sequence. 
 
 Here’s a few things we suggest you consider before starting the training:
 
 1. Are you prepared to dedicate around 70 hours to the training? 
 
-    Tip: Practice tests need to be passed before moving on to the next unit. Make sure you allocate enough time - we found the platform works best when each practice test is completed in a single session. We also suggest taking this course along alongside a teammate for support.
+    Tip: Practice tests need to be passed before moving on to the next unit. Make sure you allocate enough time - we found the platform works best when each practice test is completed in a single session. We also suggest taking this course alongside a teammate for support.
 
-2. The training requires installing ANDI (Accessible Name & Description Inspector) which is a free accessibility testing tool. To [install ANDI](https://www.ssa.gov/accessibility/andi/help/install.html), it simply requires adding the JavaScript url as a bookmarklet and launching it.
+2. The training requires installing ANDI (Accessible Name & Description Inspector) which is a free accessibility testing tool. To [install ANDI](https://www.ssa.gov/accessibility/andi/help/install.html), it simply requires adding the JavaScript URL as a bookmarklet and launching it.
 
-    Tip: Does your agency block javascript? We discovered that our organization has JavaScript blocked and it prevents us from adding ANDI as a bookmark. As a workaround, we were able to add ANDI as a snippet in the developer tool and running it from there. Instructions for this are available on [our wiki]( https://github.com/DOI-ONRR/onrr.gov-site/wiki/ANDI).
+    Tip: Does your agency block JavaScript? We discovered that our organization has JavaScript blocked and it prevents us from adding ANDI as a bookmark. As a workaround, we were able to add ANDI as a snippet in the developer tool and running it from there. Instructions for this are available on [our wiki]( https://github.com/DOI-ONRR/onrr.gov-site/wiki/ANDI).
 
 
 ### Trusted Tester practice exam 
