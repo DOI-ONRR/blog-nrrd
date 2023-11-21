@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Managing a federal government dream team using Agile methodology"
 authors:
 - Maroya Faied
 excerpt: "Agile management has not only streamlined our project execution but has also transformed our team culture. This blog discusses the ODDD’s team consistent agile meeting schedule and how it helps foster shared ownership of our products and ensures accountability."
@@ -14,7 +14,7 @@ tags:
 date: "2023-11-27"
 ---
 
-# Managing a federal government dream team using Agile methodology.   
+# Managing a federal government dream team using Agile methodology   
 
 Agile management has not only streamlined our project execution but has also transformed our team culture. This blog discusses how the Open Data, Design, and Development (ODDD) team at the Office of Natural Resources Revenue (ONRR) uses a consistent Agile meeting schedule to foster shared ownership of our products and ensure accountability. 
 
