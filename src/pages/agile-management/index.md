@@ -28,7 +28,7 @@ We operate as a cross-functional team, respecting each other’s expertise and f
 
 Our team culture is all about fostering collaboration and innovation, promoting accountability, sharing responsibility, and making data-driven decisions. We prioritize the use of free and open-source products and follow the human-centered design process for the development of both websites. Our decision-making and work are heavily influenced by user feedback and analytics. Prioritization of tasks is based on a careful balance between the value a task brings and its complexity to implement.  
 
-We also value a fun work environment, and we are committed to keeping traditions alive and creating new ones! Some traditions we created over the years are sharing vacation pictures, sharing monthly personal and professional goals, and giving each other kudos for a job well done.   
+We also value a fun work environment, and we are committed to keeping traditions alive and creating new ones! Some traditions we've created over the years are sharing vacation pictures, sharing monthly personal and professional goals, and giving each other kudos for a job well done.   
 
 ## Agile management 
 
@@ -70,7 +70,7 @@ The project management tools utilized by our team serve as the backbone of our w
 
 We utilize [GitHub](https://github.com/DOI-ONRR) to host our code and manage version control. It's noteworthy that the Department of Interior (DOI) has granted GitHub an Authority to Operate (ATO), a significant validation of its security and compliance.  
 
-We use labels for every issue we open or submitted to us through GitHub. For example, if someone submits an issue of a bug found on one of the websites that prevents them from effectively using the website then that issue will have the labels “bug”, “tech”, “high priority”.  These labels indicate that this issue requires a developer, and it needs immediate attention. Some of our labels are an indication of the type of work such as “accessibility”, “user research”, content “enhancements”, “outreach”, etc.  Some of our labels are an indication of the priority level for the task, such as “showstopper”, “high”, “medium”, “low”.  Some of our labels are an indication of whether the task is an “enhancement” for the website or regular “maintenance”.  Using a combination of the labels is a great way to keep record of our work as well as for metrics measurements.  
+We use labels for every issue we open or submitted to us through GitHub. For example, if someone submits an issue of a bug found on one of the websites that prevents them from effectively using the website then that issue will have the labels “bug”, “tech”, and “high priority”.  These labels indicate that this issue requires a developer, and it needs immediate attention. Some of our labels are an indication of the type of work such as “accessibility”, “user research”, content “enhancements”, “outreach”, etc.  Some of our labels are an indication of the priority level for the task, such as “showstopper”, “high”, “medium”, and “low”.  Some of our labels are an indication of whether the task is an “enhancement” for the website or regular “maintenance”.  Using a combination of the labels is a great way to keep record of our work as well as for metrics measurements.  
 ![GitHub issues displaying labels](./GitHub.png)
 
 ### ZenHub 
