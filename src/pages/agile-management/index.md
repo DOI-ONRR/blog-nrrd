@@ -69,7 +69,8 @@ The project management tools utilized by our team serve as the backbone of our w
 We utilize [GitHub](https://github.com/DOI-ONRR) to host our code and manage version control. It's noteworthy that the Department of Interior (DOI) has granted GitHub an Authority to Operate (ATO), a significant validation of its security and compliance.  
 
 We use labels for every issue we open or submitted to us through GitHub. For example, if someone submits an issue of a bug found on one of the websites that prevents them from effectively using the website then that issue will have the labels “bug”, “tech”, and “high priority”.  These labels indicate that this issue requires a developer, and it needs immediate attention. Some of our labels are an indication of the type of work such as “accessibility”, “user research”, content “enhancements”, “outreach”, etc.  Some of our labels are an indication of the priority level for the task, such as “showstopper”, “high”, “medium”, and “low”.  Some of our labels are an indication of whether the task is an “enhancement” for the website or regular “maintenance”.  Using a combination of the labels is a great way to keep record of our work as well as for metrics measurements.  
-![GitHub issues displaying labels](./GitHub.png)
+
+![GitHub issues displaying labels](GitHub.png)
 
 ### ZenHub 
 
@@ -83,7 +84,7 @@ The ZenHub board is also a valuable tool for our Sprint Review meetings, where w
 
 In summary, ZenHub is an integral part of our project management process. Its features and seamless integration with GitHub make it an invaluable tool for managing our sprints, tracking progress, and fostering a culture of transparency and accountability within our team. 
 
-![ZenHub board filtered by sprint showing progress of each issue](./ZenHub.png)
+![ZenHub board filtered by sprint showing progress of each issue](ZenHub.png)
 
 ## Knowledge sharing 
 
