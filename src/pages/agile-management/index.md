@@ -12,9 +12,7 @@ tags:
 - ODDD
 - Office of Natural Resources Revenue
 date: "2023-11-27"
----
-
-# Managing a federal government dream team using Agile methodology   
+--- 
 
 Agile management has not only streamlined our project execution but has also transformed our team culture. This blog discusses how the Open Data, Design, and Development (ODDD) team at the Office of Natural Resources Revenue (ONRR) uses a consistent Agile meeting schedule to foster shared ownership of our products and ensure accountability. 
 
