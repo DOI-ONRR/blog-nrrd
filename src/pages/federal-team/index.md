@@ -2,7 +2,7 @@
 title: "Managing a high-performing dream team in the federal government"
 authors:
 - Maroya Faied
-excerpt: "Agile management has not only streamlined our project execution but has also transformed our team culture. This blog discusses the ODDD’s team consistent agile meeting schedule and how it helps foster shared ownership of our products and ensures accountability."
+excerpt: "Agile management has not only streamlined our project execution but has also transformed our team culture. This blog discusses how following a consistent agile schedule and utilizing project management tools on the Open Data, Design, and Development (ODDD) team at the Office of Natural Resources Revenue (ONRR) fosters a culture of shared ownership and ensures accountability."
 tags:
 - GitHub
 - ZenHub
@@ -18,7 +18,7 @@ Agile management has not only streamlined our project implementation but has als
 
 The ODDD team manages two public websites for the ONRR. The [revenuedata.doi.gov](https://revenuedata.doi.gov/) website provides open and transparent data on how the United States manages natural resources produced on federal and Native American lands. The [onrr.gov](https://onrr.gov/) website is the agency’s main website used mainly by industry to report production and pay royalties. 
 
-The ODDD team is [composed of just six members](https://github.com/DOI-ONRR/nrrd/wiki#team). We all have diverse skillsets and backgrounds.  Several team members, including myself, had no prior experience in digital services before joining this team with educational backgrounds in economics, geology, and natural resources policy.  The common characteristic we all share is that we asspire to be innovative leaders in government.  
+The ODDD team is [composed of just six members](https://github.com/DOI-ONRR/nrrd/wiki#team). We all have diverse skillsets and backgrounds.  Several team members, including myself, had no prior experience in digital services before joining this team with educational backgrounds in economics, geology, and natural resources policy.  The common characteristic we all share is that we aspire to be innovative leaders in government.  
 
 We operate as a cross-functional team, respecting each other’s expertise and frequently requesting each other’s involvement. This creates a culture of shared responsibility and ensures that we're all aligned with a clear vision to achieve our goals. We also welcome student [interns](https://openopps.usajobs.gov/communities/17), [volunteers](https://openopps.usajobs.gov/), and internal cross-trainers to contribute to learn our processes and actively contribute to our team's progress.  
 
