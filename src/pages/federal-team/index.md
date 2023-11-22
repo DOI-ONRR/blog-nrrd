@@ -1,5 +1,5 @@
 ---
-title: "Managing a federal government dream team using Agile methodology"
+title: "Managing a high-performing dream team in the federal government"
 authors:
 - Maroya Faied
 excerpt: "Agile management has not only streamlined our project execution but has also transformed our team culture. This blog discusses the ODDD’s team consistent agile meeting schedule and how it helps foster shared ownership of our products and ensures accountability."
@@ -14,7 +14,7 @@ tags:
 date: "2023-11-27"
 --- 
 
-Agile management has not only streamlined our project execution but has also transformed our team culture. This blog discusses how the Open Data, Design, and Development (ODDD) team at the Office of Natural Resources Revenue (ONRR) uses a consistent Agile meeting schedule to foster shared ownership of our products and ensure accountability. 
+Agile management has not only streamlined our project implementation but has also transformed our team culture. This blog discusses how following a consistent agile schedule and utilizing project management tools on the Open Data, Design, and Development (ODDD) team at the Office of Natural Resources Revenue (ONRR) fosters a culture of shared ownership and ensures accountability. 
 
 The ODDD team manages two public websites for the ONRR. The [revenuedata.doi.gov](https://revenuedata.doi.gov/) website provides open and transparent data on how the United States manages natural resources produced on federal and Native American lands. The [onrr.gov](https://onrr.gov/) website is the agency’s main website used mainly by industry to report production and pay royalties. 
 
@@ -34,31 +34,13 @@ We also value a fun work environment, and we are committed to keeping traditions
 
  Agile methodology is a project management approach that involves breaking projects into manageable phases and emphasizes continuous collaboration and improvement. Agile management has not only streamlined our project execution but has also created a culture that focuses on the people doing the work and how they work together. Agile has been an effective way to keep ourselves accountable. It allows us to constantly evaluate the current environment, identify uncertainties, and figure out how we can adapt without losing productivity.  
 
- ### Short-term planning schedule 
+ ### Agile meeting schedule 
 
-Agile methodology relies on a structured meeting schedule to ensure everyone is aware of work status and maintain accountability. Our team operates in [two-week sprints](https://github.com/DOI-ONRR/nrrd/wiki/Joining-the-Open-Data,-Design,-and-Development-(ODDD)-project-team#meetings). During each sprint we conduct sprint planning, daily stand-ups, weekly sync-ups, demo, sprint review and retrospective, and weekly one on one check-ins.  
-
-**Sprint planning**: At the start of each sprint, we conduct a sprint planning meeting. In sprint planning, we discuss sprint goals, break down these goals into concrete tasks, and ensure that a wide range of work is incorporated into the two-week period. This includes activities such as user research, design, content strategy, development, analysis, and quality reviews.   
-
-**Stand- up**: Every day we have a stand-up meeting where we share our progress on assigned tasks. This is a short meeting where we report on what was worked on yesterday, what's being worked on today, and report any blockers they may be facing. 
-
-**Sync-up**: Once a week, we gather for a sync-up meeting. During this meeting, any team member can bring up obstacles they're encountering, seeking feedback and support from the team.   
-
-**Demo**: At the end of the sprint, we host a demo meeting. This meeting is an opportunity for the team to showcase completed work to stakeholders and provides an opportunity for stakeholders to ask clarifying questions about the work done.  
-
-**Sprint review and retrospective**: We end the sprint by holding a sprint review and retrospective meeting. The first half of this meeting, we review any tasks that need to be carried over to the next sprint. In the second half of the meeting we reflect on the sprint by noting and celebrating our successes as well as discussing any frustrations or roadblocks we encountered. 
-
-**Weekly check-ins**: I value one-on-one check-ins with each team member. In these 30-minute meetings we catch-up on personal matters as well as talk through tasks assigned. These meetings help me as a manager to stay connected to my employees especially since we are a remote team. 
-
-### Long–term planning schedule 
+Agile methodology relies on a structured meeting schedule to ensure everyone is aware of work status and maintain accountability. Our team operates in two-week sprints. During each sprint we conduct sprint planning, daily stand-ups, weekly sync-ups, demo, sprint review and retrospective, and weekly one on one check-ins.  
 
 Agile management requires strategic [long-term planning](https://github.com/DOI-ONRR/nrrd/wiki/Joining-the-Open-Data,-Design,-and-Development-(ODDD)-project-team#long-term-planning-devops-product-management) and on-going refinement. Long-term planning includes meetings for roadmap, backlog grooming, and ad hoc design studios. 
 
-**Roadmap**: For long-term planning in our Agile framework, we operate on a cycle of every 6 weeks, equivalent to 3 sprints. We refer to this as an "epic”. Every epic, we hold a road mapping meeting, where we collectively define our high-level goals for the next six weeks.  
-
-**Backlog grooming**: On a monthly basis, we conduct a thorough review and refinement of our backlog. This process involves the removal of outdated issues that are no longer relevant. We prioritize and estimate tasks that still hold value and align with our goals.  
-
-**Ad hoc design studios**: For more substantial projects, we have the flexibility to organize ad hoc design studios. These sessions are tailored to the specific project's needs and can extend over several weeks. Within these studios, we define the problem at hand, sketch solutions offline, engage in critical discussions to identify weaknesses in the proposed solutions, and ultimately decide on the approach to take.  
+You can learn about the purpose of each meeting by visiting our [wiki page](https://github.com/DOI-ONRR/nrrd/wiki/Joining-the-Open-Data,-Design,-and-Development-(ODDD)-project-team#meetings) and reading [this blog](https://blog-nrrd.doi.gov/agile/) that details how our team conducts short-term planning and long-term planning following the Agile methodology.  
 
 ## Project management tools 
 
@@ -70,7 +52,7 @@ We utilize [GitHub](https://github.com/DOI-ONRR) to host our code and manage ver
 
 We use labels for every issue we open or submitted to us through GitHub. For example, if someone submits an issue of a bug found on one of the websites that prevents them from effectively using the website then that issue will have the labels “bug”, “tech”, and “high priority”.  These labels indicate that this issue requires a developer, and it needs immediate attention. Some of our labels are an indication of the type of work such as “accessibility”, “user research”, content “enhancements”, “outreach”, etc.  Some of our labels are an indication of the priority level for the task, such as “showstopper”, “high”, “medium”, and “low”.  Some of our labels are an indication of whether the task is an “enhancement” for the website or regular “maintenance”.  Using a combination of the labels is a great way to keep record of our work as well as for metrics measurements.  
 
-![GitHub issues displaying labels](GitHub.png)
+![GitHub issues displaying labels](GiHub.png)
 
 ### ZenHub 
 
@@ -88,7 +70,7 @@ In summary, ZenHub is an integral part of our project management process. Its fe
 
 ## Knowledge sharing 
 
-Although we are a small team, we take the time to document our work processes and share knowledge with other innovative leaders.  Our dedication to share, inspire and learn is a cornerstone of our success and adaptability. 	 
+Although we are a small team, we take the time to document our work processes and share knowledge with other innovative leaders.  Our dedication to share, inspire, and learn is a cornerstone of our success and adaptability. 	 
 
 ### Wiki 
 
