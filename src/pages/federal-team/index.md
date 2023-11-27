@@ -22,6 +22,8 @@ The ODDD team is [composed of just six members](https://github.com/DOI-ONRR/nrrd
 
 We operate as a cross-functional team, respecting each other’s expertise and frequently requesting each other’s involvement. This creates a culture of shared responsibility and ensures that we're all aligned with a clear vision to achieve our goals. We also welcome student [interns](https://openopps.usajobs.gov/communities/17), [volunteers](https://openopps.usajobs.gov/), and internal cross-trainers to contribute to learn our processes and actively contribute to our team's progress.  
 
+![Pictures of individuals on the ODDD team](team.png)
+
 ## Culture and values 
 
 Our team culture is all about fostering collaboration and innovation, promoting accountability, sharing responsibility, and making data-driven decisions. We prioritize the use of free and open-source products and follow the human-centered design process for the development of both websites. Our decision-making and work are heavily influenced by user feedback and analytics. Prioritization of tasks is based on a careful balance between the value a task brings and its complexity to implement.  
