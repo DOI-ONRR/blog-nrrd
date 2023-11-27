@@ -2,7 +2,7 @@
 title: "Managing a high-performing dream team in the federal government"
 authors:
 - Maroya Faied
-excerpt: "Agile management has not only streamlined our project execution but has also transformed our team culture. This blog discusses how following a consistent agile schedule and utilizing project management tools on the Open Data, Design, and Development (ODDD) team at the Office of Natural Resources Revenue (ONRR) fosters a culture of shared ownership and ensures accountability."
+excerpt: "This blog discusses how following a consistent agile schedule and utilizing project management tools on the Open Data, Design, and Development (ODDD) team at the Office of Natural Resources Revenue (ONRR) fosters a culture of shared ownership and ensures accountability."
 tags:
 - GitHub
 - ZenHub
