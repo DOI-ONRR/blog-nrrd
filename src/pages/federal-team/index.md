@@ -60,7 +60,7 @@ Agile management requires strategic long-term planning and on-going refinement. 
 
 ## Project management tools 
 
-The project management tools utilized by our team serve enables us to track our work, maintain comprehensive records, and ensure seamless collaboration.
+The project management tools utilized by our team enables us to track our work, maintain comprehensive records, and ensure seamless collaboration.
 
 We utilize GitHub to host our code and manage version control. We use labels for every issue we open or submitted to us through GitHub. For example, if someone submits an issue of a bug found on one of the websites that prevents them from effectively using the website then that issue will have the labels “bug”, “tech”, and “high priority”. These labels indicate that this issue requires a developer, and it needs immediate attention. 
 
@@ -71,7 +71,7 @@ Some of our labels are an indication of the type of work such as “accessibilit
 
 The ODDD team uses ZenHub for project management which  integrates with GitHub. We utilize the milestone feature to document our sprint goals. In keeping with our team's tradition of creativity and fun, we modify the sprint names by using an adjective and an animal name that both start with the same letter. We vote on these names at the beginning of each sprint, following alphabetical order. We utilize the Epic feature within ZenHub,  for roadmap meetings. In line with our naming tradition, we modify the Epic names by choosing the name of a national park or national forest, again in alphabetical order.
 
-Project management tools are crucial for sprint planning and sprint review meetings. We ensure that each assigned issue is given an estimate based on an approximation of the task's complexity As issues progress, the assigned person moves them from the “sprint backlog” column to “in-progress” or “ready to review” columns, and eventually to the “closed” column.
+Project management tools are crucial for sprint planning and sprint review meetings. We ensure that each assigned issue is given an estimate based on an approximation of the task's complexity. As issues progress, the assigned person moves them from the “sprint backlog” column to “in-progress” or “ready to review” columns, and eventually to the “closed” column.
 
 In summary, project management tools assist us in  managing our sprints, tracking progress, and fostering a culture of transparency and accountability within our team.
 
