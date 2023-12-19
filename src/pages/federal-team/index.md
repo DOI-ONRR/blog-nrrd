@@ -16,7 +16,7 @@ date: "2023-11-27"
 
 Agile management has not only streamlined our project implementation but has also transformed our team culture. This blog discusses how following a consistent agile schedule and utilizing project management tools on the Open Data, Design, and Development (ODDD) team at the Office of Natural Resources Revenue (ONRR) fosters a culture of shared ownership and ensures accountability. 
 
-The ODDD team manages two public websites for the ONRR. The [revenuedata.doi.gov](https://revenuedata.doi.gov/) website provides open and transparent data on how the United States manages natural resources produced on federal and Native American lands. The [onrr.gov](https://onrr.gov/) website is the agency’s main website used mainly by industry to report production and pay royalties. 
+The ODDD team manages two public websites for the ONRR. The [revenuedata.doi.gov](https://revenuedata.doi.gov/) website provides open and transparent data on how the United States manages natural resources produced on federal and Native American lands. The [onrr.gov](https://onrr.gov/) website is the agency’s main website used primarily by industry to report production and pay royalties. 
 
 The ODDD team is composed of just six members. We all have diverse skillsets and backgrounds.  Several team members, including myself, had no prior experience in digital services before joining this team with educational backgrounds in economics, geology, and natural resources policy.  The common characteristic we all share is that we aspire to be innovative leaders in government.  
 
@@ -35,7 +35,7 @@ We also value a fun work environment, and we are committed to keeping traditions
  Agile methodology is a project management approach that involves breaking projects into manageable phases and emphasizes continuous collaboration and improvement. Agile management has not only streamlined our project execution but has also created a culture that focuses on the people doing the work and how they work together. Agile has been an effective way to keep ourselves accountable. It allows us to constantly evaluate the current environment, identify uncertainties, and figure out how we can adapt without losing productivity.  
 
  ### Short-term planning schedule 
-Agile methodology relies on a structured meeting schedule to ensure everyone is aware of work status and maintain accountability. Our team operates in two-week sprints. During each sprint we conduct sprint planning, daily stand-ups, weekly sync-ups, demo, sprint review and retrospective, and weekly one on one check-ins.  
+Agile methodology relies on a structured meeting schedule to ensure everyone is aware of work status and maintain accountability. Our team operates in two-week sprints. During each sprint we conduct sprint planning, daily stand-ups, weekly sync-ups, demo, sprint review and retrospective, and weekly one-on-one check-ins.  
 
 **Sprint planning**: At the start of each sprint, we conduct a sprint planning meeting. In sprint planning, we discuss sprint goals, break down these goals into concrete tasks, and ensure that a wide range of work is incorporated into the two-week period. This includes activities such as user research, design, content strategy, development, analysis, and quality reviews.   
 
@@ -43,7 +43,7 @@ Agile methodology relies on a structured meeting schedule to ensure everyone is 
 
 **Sync-up**: Once a week, we gather for a sync-up meeting. During this meeting, any team member can bring up obstacles they're encountering, seeking feedback and support from the team.   
 
-**Demo**: At the end of the sprint, we host a demo meeting. This meeting is an opportunity for the team to showcase completed work to stakeholders and provides an opportunity for stakeholders to ask clarifying questions about the work done.  
+**Demo**: At the end of the sprint, we host a demo meeting. This meeting is an opportunity for the team to showcase completed work to stakeholders and provides an opportunity to ask clarifying questions about the work done.  
 
 **Sprint review and retrospective**: We end the sprint by holding a sprint review and retrospective meeting. The first half of this meeting, we review any tasks that need to be carried over to the next sprint. In the second half of the meeting we reflect on the sprint by noting and celebrating our successes as well as discussing any frustrations or roadblocks we encountered. 
 
