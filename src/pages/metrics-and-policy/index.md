@@ -90,11 +90,22 @@ As mentioned earlier in the blog, we categorized our high-level goals into acces
   </tr>
   <tr>
     <th>Goals</th>
-    <td>Design accessible experiences, follow accessibility standards, test for accessibility, and conduct inclusive research.</td>
+    <td>
+    *Design accessible experiences 
+    *Follow accessibility standards 
+    *Test for accessibility
+    *Conduct inclusive research
+    </td>
   </tr>
   <tr>
     <th>What we’re measuring</th>
-    <td>Accessibility testing (method, score, webpage), track number of issues identified, or recommendations identified from accessibility testing, track DOI annual report score, number of issues resolved from accessibility testing, and identify efforts to promote accessibility and receive feedback</td>
+    <td>
+    *Document accessibility testing (method, score, webpage), 
+    *Track number of issues or recommendations identified from accessibility testing, 
+    *Track DOI annual report score,
+    *Track number of issues resolved from accessibility testing, 
+    *Identify efforts to promote accessibility and receive feedback
+    </td>
   </tr>
 </table>
 
