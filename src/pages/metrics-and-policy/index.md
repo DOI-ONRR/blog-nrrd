@@ -18,7 +18,9 @@ date: "2024-01-18"
 
 The Open Data, Design, and Development (ODDD) team manages two public websites for the Department of the Interior at the Office of Natural Resources Revenue (ONRR). The [revenuedata.doi.gov]( https://revenuedata.doi.gov/) website provides open and transparent data on how the United States manages natural resources produced on federal and Native American lands. The main website of the agency, [onrr.gov]( https://onrr.gov/) is primarily used by industry to report production and pay royalties.  
 
-The ODDD team traditionally has maintained measures to justify our work and track our progress. In the beginning of this fiscal year, we made a strategic decision to reassess our metrics to align more effectively with annual high-level goals as well as to harmonize with policies governing federal public websites.   
+The ODDD team traditionally has maintained measures to justify our work and track our progress. In the beginning of this fiscal year, we made a strategic decision to reassess our metrics to:
+1. align more effectively with annual high-level goals 
+2. harmonize with policies governing federal public websites.   
 
 ## Reassessment of metrics plan 
 This decision to reassess our existing metrics plan was influenced by the [Delivering a Digital-First Public Experience]( https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf) memo that was published in September 2023.  The memo serves as guidance to federal agencies as they continue to implement the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/delivering-digital-first-public-experience/)(21st Century IDEA). Following a collective team review, we observed that the websites under our management generally align with the memo’s guidelines, but we’ve also identified specific areas for improvement. Reviewing the memo also revealed that we can enhance our work tracking by improving our existing metrics to effectively demonstrate our compliance.    
@@ -26,9 +28,9 @@ This decision to reassess our existing metrics plan was influenced by the [Deliv
 ### Misalignment with annual goals and policies 
 In the beginning of each fiscal year, the team develops high level goals for each website. The goals are categorized into data, content, accessibility, technical solutions, usability testing, design, and outreach. The prioritization of these goals is based on their perceived value and the complexity involved in implementing them. Goals that add substantial value to users with low technical complexity are designated as high priority.   
 
-Using a scale that considers both value and complexity guides us during roadmap planning sessions (every 6 weeks), focusing our efforts on these top-priority annual goals. This approach also proves valuable during bi-weekly sprint planning sessions, where we break down these high-level goals into specific tasks, ensuring a strategic and efficient work plan. 
+Using a scale that considers both value and complexity guides us during roadmap planning sessions (every 6 weeks), we focus our efforts on these top-priority annual goals. This approach also proves valuable during bi-weekly sprint planning sessions. In those sessions, we break down these high-level goals into specific tasks which ensures a strategic and efficient work plan. 
 
-Our previous metrics plan didn’t correlate with our established annual goals and didn’t indicate the relevance of laws, regulations and polices that govern the management of federal public websites.  
+Our previous metrics plan didn’t correlate with our established annual goals. It also did not indicate the relevance of laws, regulations and polices that govern the management of federal public websites.  
 
  ### Mismanagement of tracking metrics  
 In previous years, a single team member was designated as the person responsible for gathering and consolidating metrics and seeking input from other team members for data collection. However, the absence of a consistent approach and method made managing metrics a challenging task. 
@@ -41,38 +43,31 @@ Within each category, we specify the relevant laws, regulations and polices that
 ### Metrics management  
 We’ve taken a proactive approach to simplify our metrics management. We've incorporated our metrics goals into the same spreadsheet used for annual high-level goals and road mapping. We plan to revisit the metrics tracking tab during each roadmap session and document available data.   
 
-By embedding the metrics tracking sheet in our work planning document, we aim to create a routine for documenting and maintaining metrics regularly, steering away from the habit of deferring measurements until the quarter or year-end. 
+By embedding the metrics tracking sheet in our work planning document, we aim to create a routine for documenting and maintaining metrics regularly. We aim to avoid the habit of deferring measurements until the quarter or year-end. 
 
-Additionally, we're optimizing our organizational efficiency by applying labels through our project management tool. This enables us to categorize tasks based on the specific metrics goals. 
+Additionally, we are optimizing our organizational efficiency by applying labels through our project management tool. This enables us to categorize tasks based on the specific metrics goals. 
 
 ## Laws, regulations, and policies 
-We most often discuss [21st Century IDEA] (https://digital.gov/resources/delivering-digital-first-public-experience/) (2018) as a justification and guide for our work but there are numerous laws, regulations, and policies that guide our work. We incorporate best practices in website management, user-centered design, customer service, open data and government, and accessibility into all of our work products to deliver a digital first customer experience. 
+We most often discuss [21st Century IDEA] (https://digital.gov/resources/delivering-digital-first-public-experience/) (2018) as a justification and guide for our work but there are numerous laws, regulations, and policies that guide our work. We incorporate best practices in website management, user-centered design, customer service, open data and government, and accessibility into all of our work products to deliver a digital-first customer experience. 
 
 21st Century IDEA requires federal agencies to enhance the digital experience for government by modernizing websites, digitizing services, and improving customer experience. The Office of Management and Budget (OMB) published [Delivering a Digital-First Public Experience]( https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf) (M-23-22) this year to help federal agencies implement 21st Century IDEA.   
 
 M-23-22 specifically requires agencies to follow these requirements:  
 
-Accessible to people of diverse abilities 
-
-Consistent visual design and agency brand identity 
-
-Content that is authoritative and easy to understand 
-
-Information and services that are discoverable and optimized for search. 
-
-Secure by design, secure by default 
-
-User-centered and data-driven design 
-
-Customized and dynamic user experiences 
-
-Mobile-first design that scales across varying device sizes. 
+* Accessible to people of diverse abilities 
+* Consistent visual design and agency brand identity 
+* Content that is authoritative and easy to understand 
+* Information and services that are discoverable and optimized for search. 
+* Secure by design, secure by default 
+* User-centered and data-driven design 
+* Customized and dynamic user experiences 
+* Mobile-first design that scales across varying device sizes. 
 
 The [President’s Management Agenda (PMA), Priority 2]( https://www.performance.gov/pma/cx/) Delivering Excellent, Equitable, and Secure Federal Services and Customer Experience is reflected in M-23-22 and in the following Executive Order and guidance.  
 
 Executive Order 14058 on Transforming the Customer Experience and Federal Service Delivery to Rebuild Trust in Government (https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government) (2021) directs named agencies that are deemed High Impact Service Providers (HISPs) to take specific actions to deliver better federal customer experience. 
 
-OMB further released more detailed guidance to implement this order in [OMB Circular A-11, Section 280 ](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf). Section 280 requires these HISPs to conduct customer research, collect user feedback, to analyze the collected data, and use data driven decision making. We aren’t a HISP but we are committed to providing an excellent customer experience for our users, so we’ve incorporated this guidance into our goals and metrics.  
+OMB further released more detailed guidance to implement this order in [OMB Circular A-11, Section 280 ](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf). Section 280 requires these HISPs to conduct customer research, collect user feedback, to analyze the collected data, and use data driven decision making. We are not a HISP but we are committed to providing an excellent customer experience for our users, so we incorporated this guidance into our goals and metrics.  
 
 [The Open, Public, Electronic and Necessary (OPEN) Government Data Act]( https://data.gov/open-gov/)(2019) Act provides a sweeping, government-wide mandate for federal agencies to publish all their information as open data – using standardized, non-proprietary formats. Data.gov is the federal government’s open data site and is working to build a comprehensive repository for federal agencies and their datasets.  
 
@@ -81,7 +76,7 @@ Accessibility is included in the newer digital guidance but we continually refer
 In addition to the guidance above, we also follow DOI-specific Information Management Technology (IMT) strategic priorities which are aligned to the President’s Management Agenda (PMA), the DOI FY 2022-2026 Strategic Plan (https://www.doi.gov/sites/doi.gov/files/u.s.-department-of-the-interior-fy-2022-2026-strategic-plan.pdf), the [DOI Information Resource Management (IRM) Strategic Plan] (https://www.doi.gov/sites/doi.gov/files/uploads/doi-irm-2020-2025-strategic-plan.pdf), and the FY 2024–2029 IMT Strategic Plan (drafted for publication later this year) are included as part of the overarching strategic priority header. The Information Management Technology (IMT) strategic priorities focus on 1. Zero Trust Architecture, 2. Cybersecurity, 3. Customer Experience 4. Information Technology Modernization, 5. Information Technology Portfolio Management 6. Data Management 7. Information Technology Workforce. We’ve ensured that these priorities are also reflected in our goals and metrics.  
 
 ## Key metrics 				  
-As mentioned earlier in the blog, we’ve categorized our high-level goals data, content, accessibility, technical solutions, usability testing, design, and outreach. We’ve aligned our metrics specifically with these goals and with the laws, regulations, and guidance listed above to streamline the entire process.  
+As mentioned earlier in the blog, we’ve categorized our high-level goals into accessibility, content, customer experience, data, outreach and techology. We've aligned our metrics specifically with these goals and with the laws and with authorities listed above to streamline the entire process.  
  
 ### Accessibility
 <table>
