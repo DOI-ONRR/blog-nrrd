@@ -155,7 +155,7 @@ As mentioned earlier in the blog, we categorized our high-level goals into acces
     <br></br>
     Track questions and information users are seeking 
     <br></br>
-    Ttrack top search terms 
+    Track top search terms 
     <br></br>
     Track the number of SMEs engaged with related to content
     <br></br>
@@ -183,7 +183,7 @@ As mentioned earlier in the blog, we categorized our high-level goals into acces
     <br></br>
     Improve crawling or indexing of web content (including using sitemaps, robots.txt files, and descriptive metadata)
     <br></br> 
-    Eengage with users throughout design and development
+    Engage with users throughout design and development
     <br></br>
     Test with a representative cross-section of users 
     <br></br>
