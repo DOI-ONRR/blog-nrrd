@@ -91,20 +91,27 @@ As mentioned earlier in the blog, we categorized our high-level goals into acces
   <tr>
     <th>Goals</th>
     <td>
-    *Design accessible experiences 
-    *Follow accessibility standards 
-    *Test for accessibility
-    *Conduct inclusive research
+    Design accessible experiences 
+    <br></br>
+    Follow accessibility standards 
+    <br></br>
+    Test for accessibility
+    <br></br>
+    Conduct inclusive research
     </td>
   </tr>
   <tr>
     <th>What we’re measuring</th>
     <td>
-    *Document accessibility testing (method, score, webpage), 
-    *Track number of issues or recommendations identified from accessibility testing, 
-    *Track DOI annual report score,
-    *Track number of issues resolved from accessibility testing, 
-    *Identify efforts to promote accessibility and receive feedback
+    Document accessibility testing (method, score, webpage)
+    <br></br>
+    Track number of issues or recommendations identified from accessibility testing
+    <br></br>
+    Track DOI annual report score
+    <br></br>
+    Track number of issues resolved from accessibility testing 
+    <br></br>
+    Identify efforts to promote accessibility and receive feedback
     </td>
   </tr>
 </table>
@@ -121,11 +128,39 @@ As mentioned earlier in the blog, we categorized our high-level goals into acces
   </tr>
   <tr>
     <th>Goals</th>
-    <td>Remove outdated content, don’t publish duplicative content, write content in plain language, write and test content for the intended audience, establish content review controls, involve subject matter experts (SMEs) for content-related decisions, and clearly label non-governmental content.</td>
+    <td>
+    Remove outdated content
+    <br></br>
+    Don’t publish duplicative content 
+    <br></br>
+    Write content in plain language 
+    <br></br>
+    Write and test content for the intended audience
+    <br></br>
+    Establish content review controls
+    <br></br>
+    Involve subject matter experts (SMEs) for content-related decisions
+    <br></br>
+    Clearly label non-governmental content
+    </td>
   </tr>
   <tr>
     <th>What we’re measuring</th>
-    <td>Track the number of issues identified from the annual content audit and the number of resolved issues for both websites, track the number of content maintenance issues completed on onrr.gov, track the number of service information issues received and completed (e.g., contact updates), track questions and information users are seeking, track top search terms, track the number of SMEs engaged with related to content, and identify efforts to meet content guidelines.</td>
+    <td>
+    Track the number of issues identified and resolved issues from the annual content audit
+    <br></br> 
+    Track the number of content maintenance issues completed on onrr.gov
+    <br></br>
+    Track the number of service information issues received and completed 
+    <br></br>
+    Track questions and information users are seeking 
+    <br></br>
+    Ttrack top search terms 
+    <br></br>
+    Track the number of SMEs engaged with related to content
+    <br></br>
+    Identify efforts to meet content guidelines
+    </td>
   </tr>
 </table>
 
@@ -141,11 +176,37 @@ As mentioned earlier in the blog, we categorized our high-level goals into acces
   </tr>
   <tr>
     <th>Goals</th>
-    <td>Understand user perception, get user feedback on content, improve crawling or indexing of web content (including using sitemaps, robots.txt files, and descriptive metadata), engage with users throughout design and development, test with a representative cross-section of users, protect users’ privacy, and apply customer experience principles.</td>
+    <td>
+    Understand user perception 
+    <br></br>
+    Get user feedback on content
+    <br></br>
+    Improve crawling or indexing of web content (including using sitemaps, robots.txt files, and descriptive metadata)
+    <br></br> 
+    Eengage with users throughout design and development
+    <br></br>
+    Test with a representative cross-section of users 
+    <br></br>
+    Protect users’ privacy
+    <br></br>
+    Apply customer experience principles
+    </td>
   </tr> 
  <tr>
     <th>What we’re measuring</th>
-    <td>Track planned usability studies and goal of the study, track the number of users recruited, track the number of users who accepted recruitment and participated in the study, inclusive research (how we plan research and document in the research plan), and track the number of findings/recommendations resulting from user research, and identify user-centered design efforts.</td>
+    <td>
+    Track planned usability studies and goal of the study
+    <br></br>
+    Track the number of users recruited 
+    <br></br>
+    Track the number of users who accepted recruitment and participated in the study 
+    <br></br>
+    Inclusive research (how we plan research and document in the research plan)
+    <br></br>
+    Track the number of findings/recommendations resulting from user research
+    <br></br>
+    Identify user-centered design efforts
+    </td>
   </tr>
 </table>
 
@@ -161,11 +222,29 @@ As mentioned earlier in the blog, we categorized our high-level goals into acces
   </tr>
   <tr>
     <th>Goals</th>
-    <td>Make data-driven design and development decisions, use web analytics, leverage user feedback data, and enable data sharing.</td>
+    <td>
+    Make data-driven design and development decisions 
+    <br></br>
+    Use web analytics 
+    <br></br>
+    Leverage user feedback data
+    <br></br>
+    Enable data sharing
+    </td>
   </tr>
   <tr>
     <th>What we’re measuring</th>
-    <td>Track the number of published datasets, track the number of pageviews, track the number of FOIA requests relating to data, track the number of data inquiries for published data and data that could be made public. Identify proactive efforts to publish new datasets.</td>
+    <td>
+    Track the number of published datasets
+    <br></br>
+    Track the number of pageviews 
+    <br></br>
+    Track the number of FOIA requests relating to data
+    <br></br>
+    Track the number of data inquiries for published data and data that could be made public
+    <br></br>
+    Identify proactive efforts to publish new datasets
+    </td>
   </tr>
 </table>
 
@@ -181,11 +260,29 @@ As mentioned earlier in the blog, we categorized our high-level goals into acces
   </tr>
   <tr>
     <th>Goals</th>
-    <td>Promote accessibility, welcome feedback, strive for continuous improvement</td>
+    <td>
+    Promote accessibility 
+    <br></br>
+    Welcome feedback 
+    <br></br>
+    Strive for continuous improvement
+    <br></br>
+    </td>
   </tr>
   <tr>
     <th>What we’re measuring</th>
-    <td>Track the number of speaking proposals submitted and accepted, track the number of outreach events (date, topic, number of attendees, if it promotes accessibility), inquiries resulting from outreach (customer satisfaction), number of blogs published (title, date, listserv promotion), and analytics in correlation with outreach (track date of outreach, blog, listserv emails, and daily analytics).</td>
+    <td>
+    Track the number of speaking proposals submitted and accepted
+    <br></br>
+    Track the number of outreach events 
+    <br></br>
+    Inquiries resulting from outreach (customer satisfaction)
+    <br></br>
+    Track number of blogs published 
+    <br></br>
+    Analyze analytics in correlation with outreach 
+    <br></br>
+    </td>
   </tr>
 </table>
 
@@ -201,11 +298,31 @@ As mentioned earlier in the blog, we categorized our high-level goals into acces
   </tr>
   <tr>
     <th>Goals</th>
-    <td>Regular security assessment and testing, allow users to safely report security issues, and follow open standards and be browser neutral.</td>
+    <td>
+    Regular security assessment and testing 
+    <br></br>
+    Allow users to safely report security issues
+    <br></br>
+    Follow open standards and be browser neutral
+    <br></br>
+    </td>
   </tr>
   <tr>
     <th>What we’re measuring</th>
-    <td>Track the number of tech enhancement issues, track the number of open and valid reported vulnerabilities, median time to remediate/mitigate a valid report (in days), track the number of tech issues resolved from user research, track the number of tech issues resolved related to accessibility, and track the number of innovative tech solutions and results from implementation.</td>
+    <td>
+    Track the number of tech enhancement issues
+    <br></br>
+    Track the number of open and valid reported vulnerabilities
+    <br></br>
+    Track median time to remediate/mitigate a valid report (in days)
+    <br></br>
+    Track the number of tech issues resolved from user research
+    <br></br>
+    Track the number of tech issues resolved related to accessibility
+    <br></br>
+    Track the number of innovative tech solutions and results from implementation
+    <br></br>
+    </td>
   </tr>
 </table>
 
