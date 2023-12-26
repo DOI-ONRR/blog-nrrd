@@ -19,7 +19,7 @@ date: "2024-01-18"
 The Open Data, Design, and Development (ODDD) team manages two public websites for the Department of the Interior at the Office of Natural Resources Revenue (ONRR). The [revenuedata.doi.gov]( https://revenuedata.doi.gov/) website provides open and transparent data on how the United States manages natural resources produced on federal and Native American lands. The agency's main website, [onrr.gov]( https://onrr.gov/) is primarily used by industry to report production and pay royalties.  
 
 The ODDD team traditionally has maintained measures to justify our work and track our progress. In the beginning of this fiscal year, we made a strategic decision to reassess our metrics to:
-1. align more effectively with our team's annual high-level goals 
+1. align more effectively with our team's annual high-level goals. 
 2. harmonize with policies governing federal public websites.   
 
 ## Reassessment of metrics plan 
@@ -46,6 +46,8 @@ We’ve taken a proactive approach to simplify our metrics management. We've inc
 By embedding the metrics tracking sheet in our work planning document, we aim to create a routine for documenting and maintaining metrics regularly. We aim to avoid the habit of deferring measurements until the quarter or year-end. 
 
 Additionally, we are optimizing our organizational efficiency by applying labels through our project management tool. This enables us to categorize tasks based on the specific metrics goals. 
+
+![Metrics tracking sheet by category](Metrics.png)
 
 ## Laws, regulations, and policies 
 We most often discuss [21st Century IDEA](https://digital.gov/resources/delivering-digital-first-public-experience/) (2018) as a justification and guide for our team but there are numerous authorities that direct our work. We incorporate best practices in website management, user-centered design, customer service, open data and government, and accessibility into our work products to deliver a digital-first customer experience. 
