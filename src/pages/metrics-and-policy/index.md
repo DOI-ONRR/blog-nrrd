@@ -1,5 +1,5 @@
 ---
-title: " Integration of metrics with annual goals and policies that govern federal public websites. "
+title: " Maximizing impact of federal websites: integrating metrics with annual goals and policies "
 authors:
 - Lindsay Goldstein
 - Maroya Faied
@@ -23,12 +23,12 @@ The ODDD team traditionally has maintained measures to justify our work and trac
 2. harmonize with policies governing federal public websites.   
 
 ## Reassessment of metrics plan 
-This decision to reassess our existing metrics plan was influenced by the [Delivering a Digital-First Public Experience]( https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf) memo that was published in September 2023.  The memo serves as guidance to federal agencies as they continue to implement the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/delivering-digital-first-public-experience/)(21st Century IDEA). Following a collective team review, we observed that the websites under our management generally align with the memo’s guidelines, but we’ve also identified specific areas for improvement. Reviewing the memo also revealed that we can enhance our work tracking to effectively demonstrate our compliance.   
+This decision to reassess our existing metrics plan was influenced by the [Delivering a Digital-First Public Experience]( https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf) memo that was published in September 2023.  The memo serves as guidance to federal agencies as they continue to implement the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/delivering-digital-first-public-experience/) (21st Century IDEA). Following a collective team review, we observed that the websites under our management generally align with the memo’s guidelines, but we also identified specific areas for improvement. Reviewing the memo also revealed that we can enhance our work tracking to effectively demonstrate our compliance.   
 
 ### Misalignment with annual goals and policies 
 In the beginning of each fiscal year, the team develops high level goals for each website. The goals are categorized into data, content, accessibility, technical solutions, usability testing, design, and outreach. The prioritization of these goals is based on their perceived value and the complexity involved in implementing them. Goals that add substantial value to users with low technical complexity are designated as high priority.   
 
-Using a scale that considers both value and complexity guides us during roadmap planning sessions (every 6 weeks), we focus our efforts on these top-priority annual goals. This approach also proves valuable during bi-weekly sprint planning sessions. In those sessions, we break down these high-level goals into specific tasks which ensures a strategic and efficient work plan. 
+We focus our efforts on these top-priority annual goals by using a scale that considers both value and complexity which guides us during roadmap planning sessions (every 6 weeks). This approach also proves valuable during bi-weekly sprint planning sessions. In those sessions, we break down these high-level goals into specific tasks which ensures a strategic and efficient work plan. 
 
 Our previous metrics plan didn’t correlate with our established annual goals. It also did not indicate the relevance of laws, regulations and polices that govern the management of federal public websites.  
 
@@ -40,10 +40,12 @@ To correlate metrics with our annual goals, our strategy was to align measuremen
 
 Within each category, we specify the relevant laws, regulations and polices that govern that specific area of work. Each category contains a detailed breakdown of our desired outcomes, the specific metrics to gauge progress towards these ultimate goals, the methodology for tracking each metric, the frequency of tracking each measure, and the assigned individual responsible for data collection. 
 
+Including all team members to track at least one metric, promotes their buy-in to the metrics plan and encourages their input on the best ways to track the different metrics.
+
 ### Metrics management  
 We’ve taken a proactive approach to simplify our metrics management. We've incorporated our metrics goals into the same spreadsheet used for annual high-level goals and road mapping. We plan to revisit the metrics tracking tab during each roadmap session and document available data.   
 
-By embedding the metrics tracking sheet in our work planning document, we aim to create a routine for documenting and maintaining metrics regularly. We aim to avoid the habit of deferring measurements until the quarter or year-end. 
+By embedding the metrics tracking sheet in our work planning document, we aim to create a routine for documenting and maintaining metrics regularly. We aim to avoid the habit of deferring measurements until the quarter- or year-end. 
 
 Additionally, we are optimizing our organizational efficiency by applying labels through our project management tool. This enables us to categorize tasks based on the specific metrics goals. 
 
@@ -59,26 +61,26 @@ M-23-22 specifically requires agencies to follow these requirements:
 * Accessible to people of diverse abilities 
 * Consistent visual design and agency brand identity 
 * Content that is authoritative and easy to understand 
-* Information and services that are discoverable and optimized for search. 
+* Information and services that are discoverable and optimized for search
 * Secure by design, secure by default 
 * User-centered and data-driven design 
 * Customized and dynamic user experiences 
-* Mobile-first design that scales across varying device sizes. 
+* Mobile-first design that scales across varying device sizes 
 
-The [President’s Management Agenda (PMA), Priority 2](https://www.performance.gov/pma/cx/) Delivering Excellent, Equitable, and Secure Federal Services and Customer Experience is reflected in M-23-22 and in the following Executive Order and guidance.  
+The [President’s Management Agenda (PMA), Priority 2](https://www.performance.gov/pma/cx/): Delivering Excellent, Equitable, and Secure Federal Services and Customer Experience is reflected in M-23-22 and in the following Executive Order and guidance.  
 
 [Executive Order 14058 on Transforming the Customer Experience and Federal Service Delivery to Rebuild Trust in Government](https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government) (2021) directs named agencies that are deemed High Impact Service Providers (HISPs) to take specific actions to deliver better federal customer experience. 
 
-OMB further released more detailed guidance to implement this order in [OMB Circular A-11, Section 280](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf). Section 280 requires these HISPs to conduct customer research, collect user feedback, to analyze the collected data, and use data driven decision making. We are not a HISP but we are committed to providing an excellent customer experience for our users, so we incorporated this guidance into our goals and metrics.  
+OMB further released more detailed guidance to implement this order in [OMB Circular A-11, Section 280](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf). Section 280 requires these HISPs to conduct customer research, collect user feedback, analyze the collected data, and use data driven decision making. We are not a HISP but we are committed to providing an excellent customer experience for our users, so we incorporated this guidance into our goals and metrics.  
 
-[The Open, Public, Electronic and Necessary (OPEN) Government Data Act](https://data.gov/open-gov/)(2019) Act provides a sweeping, government-wide mandate for federal agencies to publish all their information as open data – using standardized, non-proprietary formats. [Data.gov](https://data.gov/) is the federal government’s open data site and is working to build a comprehensive repository for federal agencies and their datasets.  
+[The Open, Public, Electronic and Necessary (OPEN) Government Data Act](https://data.gov/open-gov/) (2019) provides a sweeping, government-wide mandate for federal agencies to publish all their information as open data – using standardized, non-proprietary formats. [Data.gov](https://data.gov/) is the federal government’s open data site and is working to build a comprehensive repository for federal agencies and their datasets.  
 
-Accessibility is included in the newer digital guidance, but we continually reference [Section 508](https://www.section508.gov/) and [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG22/)(WCAG). Section 508 requires federal agencies to ensure that information and communication technology (ICT) is accessible to individuals with disabilities (1986,1998). Section 508, as of 2018, adopted WCAG (Web Content Accessibility Guidelines) developed by the World Wide Web Consortium (W3C) as the federal standard. WCAG sets a benchmark for enhancing web content accessibility and is widely recognized in digital accessibility compliance. While we aim to meet the highest level of accessibility, WCAG AAA 2.2, we recognize that it can be difficult to achieve because it sets very high standards.
+Accessibility is included in the newer digital guidance, but we continually reference [Section 508](https://www.section508.gov/) and [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG22/) (WCAG). Section 508 requires federal agencies to ensure that information and communication technology (ICT) is accessible to individuals with disabilities (1986,1998). As of 2018, Section 508 adopted WCAG (Web Content Accessibility Guidelines), developed by the World Wide Web Consortium (W3C), as the federal standard. WCAG sets a benchmark for enhancing web content accessibility and is widely recognized in digital accessibility compliance. While we aim to meet the highest level of accessibility, WCAG AAA 2.2, we recognize that it can be difficult to achieve because it sets very high standards.
 
-In addition to the guidance above, we also follow DOI-specific Information Management Technology (IMT) strategic priorities which are aligned to the President’s Management Agenda (PMA), the [DOI FY 2022-2026 Strategic Plan](https://www.doi.gov/sites/doi.gov/files/u.s.-department-of-the-interior-fy-2022-2026-strategic-plan.pdf), the [DOI Information Resource Management (IRM) Strategic Plan](https://www.doi.gov/sites/doi.gov/files/uploads/doi-irm-2020-2025-strategic-plan.pdf), and the FY 2024–2029 IMT Strategic Plan (drafted for publication later this year) are included as part of the overarching strategic priority header. The Information Management Technology (IMT) strategic priorities focus on 1. Zero Trust Architecture, 2. Cybersecurity, 3. Customer Experience 4. Information Technology Modernization, 5. Information Technology Portfolio Management 6. Data Management 7. Information Technology Workforce. We’ve ensured that these priorities are also reflected in our goals and metrics.  
+We also follow DOI-specific Information Management Technology (IMT) strategic priorities which are aligned to the [DOI FY 2022-2026 Strategic Plan](https://www.doi.gov/sites/doi.gov/files/u.s.-department-of-the-interior-fy-2022-2026-strategic-plan.pdf), the [DOI Information Resource Management (IRM) Strategic Plan](https://www.doi.gov/sites/doi.gov/files/uploads/doi-irm-2020-2025-strategic-plan.pdf), and the FY 2024–2029 IMT Strategic Plan (drafted for publication later this year). The Information Management Technology (IMT) strategic priorities focus on 1. Zero Trust Architecture, 2. Cybersecurity, 3. Customer Experience, 4. Information Technology Modernization, 5. Information Technology Portfolio Management, 6. Data Management, 7. Information Technology Workforce. We’ve ensured that these priorities are also reflected in our goals and metrics.  
 
 ## Key metrics 				  
-As mentioned earlier in the blog, we categorized our high-level goals into accessibility, content, customer experience, data, outreach, and tech. We aligned our metrics specifically with these goals and with the authorities listed above to streamline the entire process.  
+As mentioned earlier in the blog, we categorized our high-level goals into accessibility, content, customer experience, data, outreach, and tech. We aligned our metrics specifically with these goals and with the authorities listed in the previous section to streamline the entire process.  
  
 ### Accessibility
 <table>
