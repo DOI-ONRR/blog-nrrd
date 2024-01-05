@@ -40,7 +40,7 @@ To correlate metrics with our annual goals, our strategy was to align measuremen
 
 Within each category, we specify the relevant laws, regulations and polices that govern that specific area of work. Each category contains a detailed breakdown of our desired outcomes, the specific metrics to gauge progress towards these ultimate goals, the methodology for tracking each metric, the frequency of tracking each measure, and the assigned individual responsible for data collection. 
 
-Requiring all team members to track at least one metric fosters our collective commitment to the metrics plan and invites valuable input on the best way to track each metric.
+Having each team member track at least one metric fosters our collective commitment to the metrics plan and invites valuable input on the best way to track each metric.
 
 ### Metrics management  
 We’ve taken a proactive approach to simplify our metrics management. We've incorporated our metrics goals into the same spreadsheet used for annual high-level goals and road mapping. We plan to revisit the metrics tracking tab during each roadmap session and document available data.   
