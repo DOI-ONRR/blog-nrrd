@@ -30,7 +30,7 @@ In the beginning of each fiscal year, the team develops high level goals for eac
 
 We focus our efforts on these top-priority annual goals by using a scale that considers both value and complexity which guides us during roadmap planning sessions (every 6 weeks). This approach also proves valuable during bi-weekly sprint planning sessions. In those sessions, we break down these high-level goals into specific tasks which ensures a strategic and efficient work plan. 
 
-Our previous metrics plan didn’t correlate with our established annual goals. It also did not indicate the relevance of laws, regulations and polices that govern the management of federal public websites.  
+Our previous metrics plan didn’t correlate with our established annual goals. It also did not indicate the relevance of laws, regulations and policies that govern the management of federal public websites.  
 
  ### Mismanagement of tracking metrics  
 In previous years, a single team member was designated as the person responsible for gathering and consolidating metrics and seeking input from other team members for data collection. However, the absence of a consistent approach and method made managing metrics a challenging task. 
@@ -38,7 +38,7 @@ In previous years, a single team member was designated as the person responsible
 ## Establishing new metrics plan 
 To correlate metrics with our annual goals, our strategy was to align measurement criteria with the distinct categories of our annual goals. To do this, we categorized our metrics to mirror the annual goals categories, which include data, content, accessibility, customer experience (involving user research and design), technical aspects, and outreach initiatives. 
 
-Within each category, we specify the relevant laws, regulations and polices that govern that specific area of work. Each category contains a detailed breakdown of our desired outcomes, the specific metrics to gauge progress towards these ultimate goals, the methodology for tracking each metric, the frequency of tracking each measure, and the assigned individual responsible for data collection. 
+Within each category, we specify the relevant laws, regulations and policies that govern that specific area of work. Each category contains a detailed breakdown of our desired outcomes, the specific metrics to gauge progress towards these ultimate goals, the methodology for tracking each metric, the frequency of tracking each measure, and the assigned individual responsible for data collection. 
 
 Having each team member track at least one metric fosters our collective commitment to the metrics plan and invites valuable input on the best way to track each metric.
 
