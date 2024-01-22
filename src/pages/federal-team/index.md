@@ -67,7 +67,7 @@ We utilize GitHub to host our code and manage version control. We use labels for
 Some of our labels are an indication of the type of work such as “accessibility”, “user research”, content “enhancements”, “outreach”, etc.  Some of our labels are an indication of the priority level for the task, such as “showstopper”, “high”, “medium”, and “low”. Some of our labels are an indication of whether the task is an “enhancement” for the website or regular “maintenance”. Using a combination of the labels is a great way to keep record of our work as well as for metrics measurements. 
   
 
-![GitHub issues displaying labels](GitHub.png)
+![GitHub issues displaying labels](GitmetriHub.png)
 
 The ODDD team uses ZenHub for project management which  integrates with GitHub. We utilize the milestone feature to document our sprint goals. In keeping with our team's tradition of creativity and fun, we modify the sprint names by using an adjective and an animal name that both start with the same letter. We vote on these names at the beginning of each sprint, following alphabetical order. We utilize the Epic feature within ZenHub,  for roadmap meetings. In line with our naming tradition, we modify the Epic names by choosing the name of a national park or national forest, again in alphabetical order.
 
