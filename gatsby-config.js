@@ -3,7 +3,7 @@
 const BASEURL = process.env.BASEURL || '';
 
 // CircleCI production environment
-const GOOGLE_ANALYTICS_ID = (process.env.CIRCLE_BRANCH === 'master') ? 'UA-33523145-1' : ''
+const GTM_ID = process.env.BLOG_GTM_ID
 
 module.exports = {
   siteMetadata: {
@@ -11,7 +11,6 @@ module.exports = {
     author: 'Ryan Johnson',
     description: 'Our blog about data, design, and innovation at the Department of the Interior',
     siteUrl: 'https://revenuedata.doi.gov/',
-    googleAnalyticsId: GOOGLE_ANALYTICS_ID,
   },
   pathPrefix: `${BASEURL}/`,
   mapping: {
@@ -19,6 +18,12 @@ module.exports = {
   },
   plugins: [
     `gatsby-transformer-yaml`,
+    {
+      resolve: 'gatsby-plugin-google-tagmanager',
+      options: {
+        id: GTM_ID
+      }
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
