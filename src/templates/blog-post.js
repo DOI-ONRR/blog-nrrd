@@ -9,7 +9,6 @@ import favicon from '../../static/img/favicon.ico'
 
 class BlogPostTemplate extends React.Component {
   render() {
-    const siteAnalytics = get(this.props, 'data.site.siteMetadata.googleAnalyticsId')
     const post = this.props.data.markdownRemark
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
     const siteDescription = post.excerpt
@@ -24,13 +23,6 @@ class BlogPostTemplate extends React.Component {
           link={[{ rel: 'shortcut icon', type: 'image/png', href: `${favicon}` }]}
 
         >
-          {/* Digital Analytics Program roll-up, see the data at https://analytics.usa.gov */}
-          <script src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js" id="_fed_an_ua_tag"></script>
-          {siteAnalytics &&
-            <script>
-              {"(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', '"+siteAnalytics+"', 'auto');ga('set', 'anonymizeIp', true);ga('set', 'forceSSL', true);ga('send', 'pageview');"}
-            </script>
-          }
         </Helmet>
 
         <h1 className="post-heading">{post.frontmatter.title}</h1>
