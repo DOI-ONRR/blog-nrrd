@@ -11,7 +11,6 @@ class BlogIndex extends React.Component {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
     const siteDescription = data.site.siteMetadata.description
-    const siteAnalytics = data.site.siteMetadata.googleAnalyticsID
     const posts = data.allMarkdownRemark.edges
     const { currentPage, numPages } = this.props.pageContext
     const isFirst = currentPage === 1
@@ -27,13 +26,6 @@ class BlogIndex extends React.Component {
         title={siteTitle}
         link={[{ rel: 'shortcut icon', type: 'image/png', href: `${favicon}` }]}
         >
-        {/* Digital Analytics Program roll-up, see the data at https://analytics.usa.gov */}
-        <script src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOI&subagency=ONRR" id="_fed_an_ua_tag" async type="text"></script>
-        {siteAnalytics &&
-            <script>
-            {`(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', '${ siteAnalytics }', 'auto');ga('set', 'anonymizeIp', true);ga('set', 'forceSSL', true);ga('send', 'pageview');`}
-            </script>
-        }
         </Helmet>
 
         {posts.map(({ node }) => {
