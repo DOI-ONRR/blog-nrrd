@@ -13,7 +13,7 @@ tags:
 - Section 508
 - M-23-22
 
-date: "2024-01-18"
+date: "2024-01-24"
 ---
 
 The Open Data, Design, and Development (ODDD) team manages two public websites for the Department of the Interior at the Office of Natural Resources Revenue (ONRR). The [revenuedata.doi.gov]( https://revenuedata.doi.gov/) website provides open and transparent data on how the United States manages natural resources produced on federal and Native American lands. The agency's main website, [onrr.gov]( https://onrr.gov/) is primarily used by industry to report production and pay royalties.  
