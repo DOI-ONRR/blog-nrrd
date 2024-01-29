@@ -19,20 +19,20 @@ Fall 2023 marked one year since our Open, Data, Design, and Development (ODDD) t
 In accordance with [M-23-22 “Delivering a Digital First Public”](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf), I established a content internal control process that involves SMEs to annually review their public-facing webpages.
   
 Steps I took to coordinate with SMEs include: 
-•	Create a website hierarchy and identify the program responsible for each webpage. 
-•	Engage with program managers to assign SMEs to specific webpages.
-•	Create easy spreadsheets for SMEs to request updates and document approvals.
-•	Set reasonable deadlines to ensure timely reviews.
+- Create a website hierarchy and identify the program responsible for each webpage. 
+- Engage with program managers to assign SMEs to specific webpages.
+- Create easy spreadsheets for SMEs to request updates and document approvals.
+- Set reasonable deadlines to ensure timely reviews.
 
 During the SME content review, I started building a detailed content database while simultaneously auditing the content as I cataloged it.
 
 Steps I took to develop this content database include:
-•	Incorporate SME updates to the website.
-•	Create a detailed inventory that incorporates our content management system (CMS) and information architecture. 
-•	Customize the inventory to assess questions about links to meet accessibility and privacy guidelines.
-•	Perform a detailed audit using the inventory.
-•	Develop a measurable action plan to fix issues found in the content audit.
-•	Develop visual charts to report progress on the identified content issues.
+- Incorporate SME updates to the website.
+- Create a detailed inventory that incorporates our content management system (CMS) and information architecture. 
+- Customize the inventory to assess questions about links to meet accessibility and privacy guidelines.
+- Perform a detailed audit using the inventory.
+- Develop a measurable action plan to fix issues found in the content audit.
+- Develop visual charts to report progress on the identified content issues.
 
 Let’s dive into the details!
 
@@ -139,6 +139,6 @@ All the non-federal links were classified as external links. Of those external l
 *The percentage of external links that are non-federal, and descriptions of each non-federal link.*
 
 ## Conclusions
-Creating a content database and audit is very technical and detailed work! But I find this method of content tracking to be absolutely critical to my [team’s success](https://blog-nrrd.doi.gov/federal-team/). Incorporating all the updates identified during this audit is a work-in -progress, but I am able to quantify and track this work because of the database I built.
+Creating a content database and audit is very technical and detailed work! But I find this method of content tracking to be absolutely critical to my [team’s success](https://blog-nrrd.doi.gov/federal-team/). Incorporating all the updates identified during this audit is a work-in-progress, but I am able to quantify and track this work because of the database I built.
 
 This database is a daily reference for my team and myself. It helps us make sure we are incorporating our updates to the website in the most consistent way possible. I update the database regularly as change occurs, but also plan to do a full audit annually. Now that the hard work of building the database is complete, it will allow me to audit at a deeper level in future years. As we look ahead, the content database will support our ongoing commitment to enhancing user experience and ensuring the quality of our public content.
