@@ -62,9 +62,9 @@ When starting to plan this database and audit, I realized that my team had three
 
 Our first question was: **how do our links open – in a new tab or the same tab?** Answering this question will help us meet the [WCAG technique G200 “Opening new windows and tabs from a link only when necessary”](https://www.w3.org/TR/WCAG20-TECHS/G200.html). I cataloged and tested every type of link on our site (internal, external, email, and all document type links) and recorded if these links opened in the same tab or a new tab.
 
-Our second question was: **is the title description of each link ambiguous?** Answering this question will help us meet [WCAG’s success criterion 2.4.4 “Link purpose (in context)”](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-refs.html). I cataloged and evaluated all link text on our site (internal, external, email, and all document type links) and recorded if more descriptive text was needed.
+Our second question was: **are the link titles ambiguous?** Answering this question will help us meet [WCAG’s success criterion 2.4.4 “Link purpose (in context)”](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-refs.html). I cataloged and evaluated all link text on our site (internal, external, email, and all document type links) and recorded if more descriptive text was needed.
 
-Our third question was: **how many external links on our site go to non-federal websites?** Answering this question will help us protect privacy when using third party websites when engaging with the public, as described in [M-10-23 “Guidance for Agency Use of Third-Party Websites and Applications”](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-23.pdf). For all external links, I noted if the link was navigating to a non-federal webpage.
+Our third question was: **how many external links go to non-federal websites?** Answering this question will help us protect privacy when using third party websites when engaging with the public, as described in [M-10-23 “Guidance for Agency Use of Third-Party Websites and Applications”](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-23.pdf). For all external links, I noted if the link was navigating to a non-federal webpage.
 
 ### Content catalog
 
