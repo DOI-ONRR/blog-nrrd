@@ -68,7 +68,7 @@ Our third question was: **how many external links go to non-federal websites?** 
 
 ### Content catalog
 
-In addition to the link questions, I also wanted to make sure this database was comprehensive of all types of content. This comprehensive approach allows my team to use the database to ask new accessibility questions that may come up in the future. It also helps allows me to easily identify locations of specific content when we improve the CMS in the future. For example, by cataloging the location of every table, I can quickly update them when new CMS functionality is added. 
+In addition to the link questions, I also wanted to make sure this database was comprehensive of all types of content. This comprehensive approach allows my team to use the database to ask new accessibility questions that may come up in the future. It also allows me to easily identify locations of specific content when we improve the CMS in the future. For example, by cataloging the location of every table, I can quickly update them when new CMS functionality is added. 
 
 Content types I cataloged in this database include: Download – PDF, Download – PPT, Download – Text, Download – Word, Image, Link – Email, Link – External, Link - External – Button, Link – Internal, Link - Internal – Button, Table, and CMS Collection.
 
