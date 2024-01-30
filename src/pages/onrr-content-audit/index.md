@@ -68,7 +68,7 @@ Our third question was: **how many external links go to non-federal websites?** 
 
 ### Content catalog
 
-In addition to the link questions, I also wanted to make sure this database was comprehensive of all types of content. This comprehensive approach allows my team to use the database to ask new accessibility questions that may come up in the future. It also helps allows me to easily identify locations of specific content when we get future CMS improvement. For example, by cataloging the location of every table, I can quickly update them when new CMS functionality is added. 
+In addition to the link questions, I also wanted to make sure this database was comprehensive of all types of content. This comprehensive approach allows my team to use the database to ask new accessibility questions that may come up in the future. It also helps allows me to easily identify locations of specific content when we improve the CMS in the future. For example, by cataloging the location of every table, I can quickly update them when new CMS functionality is added. 
 
 Content types I cataloged in this database include: Download – PDF, Download – PPT, Download – Text, Download – Word, Image, Link – Email, Link – External, Link - External – Button, Link – Internal, Link - Internal – Button, Table, and CMS Collection.
 
@@ -90,10 +90,10 @@ The third section includes cataloging each instance of content, addressing our q
 
 This cataloging method is particularly useful for ONRR because we have similar information across multiple pages. This allows us to quickly track down these locations, identify points of duplication, and ensure consistent updates across all instances.
 
-![Screen capture of the third secttion of the database, which includes cataloging the content type, a description of the content, addressing our questions about ](Figure5.png)
+![Screen capture of the third section of the database, which includes cataloging the content type, a description of the content, addressing our questions about](Figure5.png)
 *The third section includes cataloging the content type, a description of the content, addressing our questions about accessibility/privacy, and documenting URL localities for the links. Each instance of a content type is cataloged as an individual line item.*
 
-The last part of the database includes a more traditional audit. As I cataloged each instance of content, I noted errors that need to be fixed, and detailed what exactly needs attention. As I made fixes, I detailed the corresponding [GitHub issue number](https://github.com/DOI-ONRR/onrr.gov-site/issues) and noted which quarter it was completed for our [metrics]( https://blog-nrrd.doi.gov/metrics-and-policy/).
+The last part of the database includes a more traditional audit. As I cataloged each instance of content, I noted errors that need to be fixed, and detailed what exactly needs attention. As I made fixes, I detailed the corresponding [GitHub issue number](https://github.com/DOI-ONRR/onrr.gov-site/issues) and noted which quarter it was completed for our [metrics](https://blog-nrrd.doi.gov/metrics-and-policy/).
 
 ![Screen capture of the fourth part of the database, which includes audit details.](Figure6.png)
 *The fourth section includes the audit. I noted if any errors were found and detailed what needed to be addressed. I also noted the GitHub issue for each update and what quarter it was completed.*
