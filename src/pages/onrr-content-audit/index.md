@@ -11,7 +11,7 @@ tags:
 - content governance
 - onrr.gov
 - federal digital experience
-date: "2024-02-28"
+date: "2024-02-20"
 ---
 
 Fall 2023 marked one year since our Open, Data, Design, and Development (ODDD) team launched the new redesign of [onrr.gov](https://www.onrr.gov/). During this year, the ODDD team continued to innovate, improve, and add new content to the website. After so much change, I wanted to create a [content database and audit](https://blog-nrrd.doi.gov/content-audit/) similar to the one I created for [revenuedata.doi.gov](https://revenuedata.doi.gov/). This blog post covers how I coordinated with our web content owners – or subject matter experts (SMEs) – and how I developed a content database and audit for [onrr.gov](https://www.onrr.gov/). 
