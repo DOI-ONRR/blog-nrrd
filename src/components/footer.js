@@ -99,17 +99,6 @@ const Footer = () => (
             alt={`Facebook logo`}
           /></a>
           </div>
-          
-          <div className='accessibility'>
-          <a
-          href="https://www.onrr.gov/accessibility"
-          style={{
-            fontSize: '.8rem',
-            color: 'white',
-          }}
-          >ONRR Accessibility Statement
-          </a>
-          </div>
          
           <div className='privacy'>
           <a
