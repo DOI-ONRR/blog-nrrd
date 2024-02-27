@@ -109,6 +109,7 @@ const Footer = () => (
           }}
           >Accessibility
           </a>
+          <br></br>
           <a
           href="https://doi.gov/privacy"
           style={{
