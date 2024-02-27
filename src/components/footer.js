@@ -100,7 +100,15 @@ const Footer = () => (
           /></a>
           </div>
          
-          <div className='privacy'>
+          <div className='accessibility and privacy'>
+          <a
+          href="https://www.onrr.gov/accessibility"
+          style={{
+            fontSize: '.8rem',
+            color: 'white',
+          }}
+          >Accessibility
+          </a>
           <a
           href="https://doi.gov/privacy"
           style={{
