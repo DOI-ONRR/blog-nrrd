@@ -74,7 +74,8 @@ const Footer = () => (
               fontWeight: '300',
               color: 'white',
             }}
-          >From the team that works on <a style={{color: 'white'}} href='https://revenuedata.doi.gov'>Natural Resources Revenue Data</a> and <a style={{color: 'white'}} href='https://www.onrr.gov/'>ONRR.gov</a>. Have feedback or a blog post idea? <a style={{color: 'white'}} href='mailto:nrrd@onrr.gov'>Drop us a line</a>.</em>
+          >From the team that works on <a style={{color: 'white'}} href='https://revenuedata.doi.gov'>Natural Resources Revenue Data</a> and <a style={{color: 'white'}} href='https://www.onrr.gov/'>ONRR.gov</a>. Have feedback or a blog post idea? <a style={{color: 'white'}} href='mailto:nrrd@onrr.gov'>Drop us a line</a>.<br></br>
+          </em>
       </div>
 
       <div className='social'>
@@ -97,8 +98,17 @@ const Footer = () => (
             alt={`Facebook logo`}
           /></a>
           </div>
-          
-          <div className='privacy'>
+         
+          <div className='accessibility and privacy'>
+          <a
+          href="https://www.onrr.gov/accessibility"
+          style={{
+            fontSize: '.8rem',
+            color: 'white',
+          }}
+          >Accessibility
+          </a>
+          <br></br>
           <a
           href="https://doi.gov/privacy"
           style={{
