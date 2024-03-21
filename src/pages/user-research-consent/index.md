@@ -67,7 +67,7 @@ We wrote a user research participant guide to make sure that participants could 
 ![A visual depiction of the consent process before and during the interview for the user research participant.](userresearchparticipantprocess.png)
 *The consent process before and during the interview for the user research participant.*
 
-We also link to the user research agreement and to our [research repository]( https://github.com/DOI-ONRR/research) where we store our deidentified and consolidated study information. 
+We also link to the user research agreement and to our [research repository](https://github.com/DOI-ONRR/research) where we store our deidentified and consolidated study information. 
 
 We ran a hallway style research study on our new process with internal ONRR employees and one participant suggested that we create a diagram to further simplify the process and appeal to visual learners.  
 
