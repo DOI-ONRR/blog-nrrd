@@ -58,7 +58,7 @@ If we couldn’t get the signed consent form before the interview, we would have
 
 As with every new project, we started with research. We explored user research agreements across different agencies and spoke to our counterparts, documenting as we worked. Once we felt informed, we requested and received approval from our agency to move forward with a new process. 
 
-We decided to draft a new [user research agreement]( https://github.com/DOI-ONRR/nrrd/wiki/User-research-agreement])and a (user research participant guide)[ https://github.com/DOI-ONRR/nrrd/wiki/User-research-participant-guide], both hosted on our GitHub wiki. We wanted to put them on our wiki so anyone could access them at any time. 
+We decided to draft a new [user research agreement]( https://github.com/DOI-ONRR/nrrd/wiki/User-research-agreement) and a [user research participant guide] (https://github.com/DOI-ONRR/nrrd/wiki/User-research-participant-guide), both hosted on our GitHub wiki. We wanted to put them on our wiki so anyone could access them at any time. 
 
 In our new user research agreement, we included sections on the impact of research participation and emphasized that taking part is voluntary.  We detailed confidentiality and how we keep our participants’ information safe. We also included a Privacy Act statement and finished with a clear statement of consent. Our contact information is listed clearly throughout the agreement.
 
