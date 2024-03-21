@@ -64,7 +64,8 @@ In our new user research agreement, we included sections on the impact of resear
 
 We wrote a user research participant guide to make sure that participants could be fully informed about research process. This describes what it’s like to participate in user research before, during and after the interview. The 3 different “opt-in” consent points are noted in the process. The participant first opts in by agreeing to participate in the user interview. The second opt-in occurs at the beginning of the interview. We ask participants again at the end of the interview for their 3rd opt-in. 
 
-![A visual depiction of the consent process before and during the interview for the user research participant.](userresearchparticipantprocess.png)
+![A visual depiction of the consent process before and during the interview for the user research participant.]
+
 *The consent process before and during the interview for the user research participant.*
 
 We also link to the user research agreement and to our [research repository](https://github.com/DOI-ONRR/research) where we store our deidentified and consolidated study information. 
