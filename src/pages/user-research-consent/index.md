@@ -68,6 +68,9 @@ We also link to the user research agreement and to our [research repository](htt
 
 We ran a hallway style research study on our new process with internal ONRR employees and one participant suggested that we create a diagram to further simplify the process and appeal to visual learners.  
 
+![User research participant consent process stesp before and during the interview.](Userresearchparticipantprocess.png)
+
+
 ## Our new process
 ### How its going so far – benefits, feedback, how we track it
 We’ve used this new 3 point opt-in process for several rounds of user interviews, and it has been – knock on wood – pretty seamless! We’ve found that it’s much easier to share links with participants and touch base several times throughout the interview process. 
