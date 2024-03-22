@@ -68,8 +68,8 @@ We also link to the user research agreement and to our [research repository](htt
 
 We ran a hallway style research study on our new process with internal ONRR employees and one participant suggested that we create a diagram to further simplify the process and appeal to visual learners.  
 
-![User research participant consent process stesp before and during the interview.](Userresearchparticipantprocess.png)
-
+![User research participant consent process steps before and during the interview.](Userresearchparticipantprocess.png)
+*User research participant consent process steps before and during the interview.*
 
 ## Our new process
 ### How its going so far – benefits, feedback, how we track it
