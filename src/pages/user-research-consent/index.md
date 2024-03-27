@@ -1,10 +1,10 @@
 ---
-title: " Reconsidering the Consent Form:​ The Least User-Friendly Aspect of UX Research​ "
+title: " Reconsidering the consent form:​ the least user-friendly aspect of UX research​ "
 authors:
 - Erin Elzi 
 - Lindsay Goldstein
 
-excerpt: " This blog explores how and why we implemented a comprehensive participant consent process in our user research.  "
+excerpt: " This blog explores why and how we implemented a comprehensive participant consent process in our user research.  "
 tags:
 - 
 
@@ -16,7 +16,7 @@ Like many UX (user experience) teams, ODDD (Open Data, Design, and Development t
 ## What consent means in user research
 ### What consent looks like in general in UX and beyond
 
-One of the most commonly used methods for gaining consent during user research is with a signed form. If we’re doing good by our Paperwork Reduction Act requirements, the consent form is an online document but still requiring a signature. For some of us, this might be a PDF we send to the participant. They must download, open, read and comprehend on their own, add their electronic signature, reattach to the email, and send it back to us. We then need to store and track these forms. If we’re making our forms digital and easy to use, we might send the participant a link, they read and comprehend the form on their own, then type their name and hit a button to provide their consent.
+One of the most commonly used methods for gaining consent during user research is with a signed form. If [we’re complying with](https://github.com/DOI-ONRR/research/wiki/Doing-design-and-research-in-the-federal-government#paperwork-reduction-act-pra) our [Paperwork Reduction Act](https://pra.digital.gov/) requirements, the consent form is an online document but still requiring a signature. For some of us, this might be a PDF we send to the participant. They must download, open, read and comprehend on their own, add their electronic signature, reattach to the email, and send it back to us. We then need to store and track these forms. If we’re making our forms digital and easy to use, we might send the participant a link, they read and comprehend the form on their own, then type their name and hit a button to provide their consent.
 
 In both situations, the participant goes through a multi-step process. We tell them to “let us know if you have any questions”, but they might not be provided space to ask such questions during their user research session. The consent process is separate from actual participation in the research and happens days or weeks prior. Often our participants are new to user research and not sure what they have consented to until the session starts. We give them the option to opt-out “at any time,” but they must remember how to do that.
 
@@ -29,13 +29,13 @@ In advocating for a reconsideration of the user research consent process, we are
 ### Signed form – why is problematic and why it’s not necessary
 Anyone who has administered user research has probably used a signed consent form at some point. But have you ever stopped to wonder why? 
 
-The signed consent form process comes from the higher education practices involving human subjects research. Human subjects research requires extensive project plans, including every question the participant will be asked and details about any email or other communication used. Human subjects research requires institutional review board (IRB) approval by at least one institution. This process is framed as protecting the participant, but often does more to protect the sponsoring institutions. The consent forms for these projects are verbose, can be confusing and are presented at a time that doesn’t encourage the participant to read and actually comprehend the details (similar to the consent forms at a doctor’s office, or a website cookies warning banner that leads to a very long page of text when you want to reject the default settings).
+The signed consent form process comes from the higher education practices involving human subjects research. Human subjects research requires extensive project plans, including every question the participant will be asked and details about any email or other communication used. Human subjects research requires Institutional Review Board (IRB) approval by at least one institution. This process is framed as protecting the participant, but often does more to protect the sponsoring institutions. The consent forms for these projects are verbose, can be confusing and are presented at a time that doesn’t encourage the participant to read and actually comprehend the details (similar to the consent forms at a doctor’s office, or a website cookies warning banner that leads to a very long page of text when you want to reject the default settings).
 
 Even though a signed consent form is still the standard in user research in the government, we believe it’s not necessary. Even by IRB standards, user research is NOT human subjects research! The subject of our research is not the participant, it’s the website, tools, services, products, and experiences that we’re asking them about. 
 
 We’re not just using the fact that user research is not human subjects research as a loophole to avoid using a signed consent form. The signed consent form does little to inform the participant in a way that makes sense to them, at a time that makes sense to them, and requires an understand and remembering of how to opt-out. The participant might never see the signed form again, making it difficult to access later if they have questions or change their mind about having their data used. 
 
-Inspired by the work of Dana Chisnell from DHS, who has written and presented on the improving the consent process in government user research, we set out to develop a process that is more inclusive and equitable. We wanted something that:
+Inspired by the work of [Dana Chisnell](https://danachisnell.com/about/) from [The Department of Homeland Security (DHS)](https://www.dhs.gov/cx), who has written and presented on the improving the consent process in government user research, we set out to develop a process that is more inclusive and equitable. We wanted something that:
 
 * reduces the onus placed on the participant to download and return something to us 
 * is readily available to review after the user research ended
