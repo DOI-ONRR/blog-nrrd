@@ -50,7 +50,7 @@ Ideally, the participants would open the email, download and read the agreement,
 
 We tried to get the signed consent before the interview, but it wasn't always possible. Sometimes our emails got filtered out, participants forgot, or they had trouble opening and signing the PDF. Sometimes we even forgot to send the email with the PDF. We found that not everyone used PDFs regularly, weren’t familiar with them, or might not have access to a PDF reader or editor.
 
-If we couldn’t get the signed consent form before the interview, we would have to spend time at the beginning of interview troubleshooting the process. Having a complicated user research agreement process at the beginning of the interview took away time from the interview itself and made the participants feel flustered. It could make them feel like they were doing something wrong, which was not our intention. Our process was just a result of what we thought we were supposed to do. 
+If we couldn’t get the signed consent form before the interview, we would have to spend time at the beginning of the interview troubleshooting the process. Having a complicated user research agreement process at the beginning of the interview took away time from the interview itself and made the participants feel flustered. It could make them feel like they were doing something wrong, which was not our intention. Our process was just a result of what we thought we were supposed to do. 
 
  
 ## Steps we took to change the consent process
@@ -77,7 +77,7 @@ We’ve used this new 3 point opt-in process for several rounds of user intervie
 
 We send out the link in the interview invitation email and add it to the meeting invite itself. At the beginning of the interview, we ask the participant if they have read the agreement or would they like more time to read it. We add both the user research agreement and the participant guide in the chat window and give the participant any time needed to read the information.  
 
-We then ask if they have any questions before confirming that they agree to participate. We share that they can stop the interview at any time. They can decide any point in time -- even after the interview ends -- that they don’t want us to include their information in our research results. This verbal consent process sounds like a lot but usually takes less than 2 minutes. 
+We then ask if they have any questions before confirming that they agree to participate. We share that they can stop the interview at any time. They can decide at any point in time -- even after the interview ends -- that they don’t want us to include their information in our research results. This verbal consent process sounds like a lot but usually takes less than 2 minutes. 
 
 We then conduct the interview.  At the end of the interview, we ask again if they agree for us to use their information in our research study. We indicate in each notetaking document that the user has agreed for their information to be included in the research study.
 
