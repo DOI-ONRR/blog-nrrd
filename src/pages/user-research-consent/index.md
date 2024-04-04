@@ -62,7 +62,7 @@ We decided to draft a new [user research agreement]( https://github.com/DOI-ONRR
 
 In our new user research agreement, we included sections on the impact of research participation and emphasized that taking part is voluntary.  We detailed confidentiality and how we keep our participants’ information safe. We also included a Privacy Act statement and finished with a clear statement of consent. Our contact information is listed clearly throughout the agreement.
 
-We wrote a user research participant guide to make sure that participants could be fully informed about research process. The guide describes what it’s like to participate in user research before, during, and after the interview. The 3 different “opt-in” consent points are noted in the process. The participant first opts in by agreeing to participate in the user interview. The second opt-in occurs at the beginning of the interview. We ask participants again at the end of the interview for their 3rd opt-in. 
+We wrote a user research participant guide to make sure that participants could be fully informed about the research process. The guide describes what it’s like to participate in user research before, during, and after the interview. The 3 different “opt-in” consent points are noted in the process. The participant first opts in by agreeing to participate in the user interview. The second opt-in occurs at the beginning of the interview. We ask participants again at the end of the interview for their 3rd opt-in. 
 
 We also link to the user research agreement and to our [research repository](https://github.com/DOI-ONRR/research) where we store our deidentified and consolidated study information. 
 
