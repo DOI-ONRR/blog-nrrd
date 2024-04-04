@@ -55,7 +55,7 @@ const Footer = () => (
           lineHeight: rhythm(-1),
         }}
       >
-        Office of Natural Resources Revenue, <br />
+        Office of Natural Resources Revenue <br />
         PO Box 25165 <br />
         Denver, CO 80225-0165 <br />
         <a
