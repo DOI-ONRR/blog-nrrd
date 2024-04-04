@@ -11,7 +11,7 @@ tags:
 date: "2024-04-03"
 ---
 
-Like many UX (user experience) teams, ODDD (Open Data, Design, and Development team) was using a signed form to gain consent from user research participants. In 2023 we switched to a process that gives participants more information on the research process, including how we store and use their data. The new process also allows them multiple points of opting in rather opting out. We call this our user research agreement process. In this post we discuss why consent is important, but a signed form is not necessary for user research. We also share what our process looks like now and how we went about designing and implementing our new user research agreement process.
+Like many UX (user experience) teams, ODDD (Open Data, Design, and Development team) was using a signed form to gain consent from user research participants. In 2023 we switched to a process that gives participants more information on the research process, including how we store and use their data. The new process also allows them multiple points of opting in rather than opting out. We call this our user research agreement process. In this post we discuss why consent is important, but a signed form is not necessary for user research. We also share what our process looks like now and how we went about designing and implementing our new user research agreement process.
 
 ## What consent means in user research
 ### Consent in UX and beyond
