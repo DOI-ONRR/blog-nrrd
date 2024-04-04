@@ -11,7 +11,7 @@ tags:
 date: "2024-04-03"
 ---
 
-Like many UX (user experience) teams, ODDD (Open Data, Design, and Development team) was using a signed form to gain consent from user research participants. In 2023 we switched to a process that gives participants more information on the research process, including how we store and use their data. The new process also allows them multiple points of opting in rather opting out. We call this our user research agreement process. In this post we discuss why consent is important, but a signed form is not necessary for user research. We also share what our process looks like now and how we went about designing and implementing our new user research agreement process.
+Like many UX (user experience) teams, ODDD (Open Data, Design, and Development team) was using a signed form to gain consent from user research participants. In 2023 we switched to a process that gives participants more information on the research process, including how we store and use their data. The new process also allows them multiple points of opting in rather than opting out. We call this our user research agreement process. In this post we discuss why consent is important, but a signed form is not necessary for user research. We also share what our process looks like now and how we went about designing and implementing our new user research agreement process.
 
 ## What consent means in user research
 ### Consent in UX and beyond
@@ -33,7 +33,7 @@ The signed consent form process comes from higher education practices involving 
 
 Even though a signed consent form is still the standard in user research in the government, we believe it’s not necessary. Even by IRB standards, user research is NOT human subjects research! The subject of our research is not the participant, it’s the website, tools, services, products, and experiences that we’re asking them about. 
 
-We’re not just using the fact that user research is not human subjects research as a loophole to avoid using a signed consent form. The signed consent form does little to inform the participant in a way that makes sense to them, at a time that makes sense to them, and requires an understand and remembering of how to opt-out. The participant might never see the signed form again, making it difficult to access later if they have questions or change their mind about having their data used. 
+We’re not just using the fact that user research is not human subjects research as a loophole to avoid using a signed consent form. The signed consent form does little to inform the participant in a way that makes sense to them, at a time that makes sense to them, and requires an understanding and remembering of how to opt-out. The participant might never see the signed form again, making it difficult to access later if they have questions or change their mind about having their data used. 
 
 Inspired by the work of [Dana Chisnell](https://danachisnell.com/about/) from [The Department of Homeland Security (DHS)](https://www.dhs.gov/cx), we set out to develop a process that is more inclusive and equitable. We wanted something that:
 
@@ -62,7 +62,7 @@ We decided to draft a new [user research agreement]( https://github.com/DOI-ONRR
 
 In our new user research agreement, we included sections on the impact of research participation and emphasized that taking part is voluntary.  We detailed confidentiality and how we keep our participants’ information safe. We also included a Privacy Act statement and finished with a clear statement of consent. Our contact information is listed clearly throughout the agreement.
 
-We wrote a user research participant guide to make sure that participants could be fully informed about research process. The guide describes what it’s like to participate in user research before, during, and after the interview. The 3 different “opt-in” consent points are noted in the process. The participant first opts in by agreeing to participate in the user interview. The second opt-in occurs at the beginning of the interview. We ask participants again at the end of the interview for their 3rd opt-in. 
+We wrote a user research participant guide to make sure that participants could be fully informed about the research process. The guide describes what it’s like to participate in user research before, during, and after the interview. The 3 different “opt-in” consent points are noted in the process. The participant first opts in by agreeing to participate in the user interview. The second opt-in occurs at the beginning of the interview. We ask participants again at the end of the interview for their 3rd opt-in. 
 
 We also link to the user research agreement and to our [research repository](https://github.com/DOI-ONRR/research) where we store our deidentified and consolidated study information. 
 
