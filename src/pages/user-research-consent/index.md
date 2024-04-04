@@ -33,7 +33,7 @@ The signed consent form process comes from higher education practices involving 
 
 Even though a signed consent form is still the standard in user research in the government, we believe it’s not necessary. Even by IRB standards, user research is NOT human subjects research! The subject of our research is not the participant, it’s the website, tools, services, products, and experiences that we’re asking them about. 
 
-We’re not just using the fact that user research is not human subjects research as a loophole to avoid using a signed consent form. The signed consent form does little to inform the participant in a way that makes sense to them, at a time that makes sense to them, and requires an understand and remembering of how to opt-out. The participant might never see the signed form again, making it difficult to access later if they have questions or change their mind about having their data used. 
+We’re not just using the fact that user research is not human subjects research as a loophole to avoid using a signed consent form. The signed consent form does little to inform the participant in a way that makes sense to them, at a time that makes sense to them, and requires an understanding and remembering of how to opt-out. The participant might never see the signed form again, making it difficult to access later if they have questions or change their mind about having their data used. 
 
 Inspired by the work of [Dana Chisnell](https://danachisnell.com/about/) from [The Department of Homeland Security (DHS)](https://www.dhs.gov/cx), we set out to develop a process that is more inclusive and equitable. We wanted something that:
 
