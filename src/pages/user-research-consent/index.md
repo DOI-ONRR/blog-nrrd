@@ -72,7 +72,7 @@ We ran a hallway style research study on our new process with internal ONRR empl
 *User research participant consent process steps before and during the interview.*
 
 ## Our new process
-### How its going so far – benefits, feedback, how we track it
+### How it's going so far – benefits, feedback, how we track it
 We’ve used this new 3 point opt-in process for several rounds of user interviews, and it has been – knock on wood – pretty seamless! We’ve found that it’s much easier to share links with participants and touch base several times throughout the interview process. 
 
 We send out the link in the interview invitation email and add it to the meeting invite itself. At the beginning of the interview, we ask the participant if they have read the agreement or would they like more time to read it. We add both the user research agreement and the participant guide in the chat window and give the participant any time needed to read the information.  
