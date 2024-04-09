@@ -1,5 +1,5 @@
 ---
-title: "Transitioning to GA4: coordinating with DAP, developing explorations, and setting up our own agency profile"
+title: "Google Analytics 4: transition strategies for federal websites"
 authors:
 - Erin Elzi
 - Christine Thomas
@@ -71,6 +71,7 @@ Since GA4 is constantly improving, our team is constantly iterating. Our explora
 ## Monthly iterations
 
 Once we set up our explorations and had a few months of data within them, we noticed that some of our metrics were yielding data that were very different than what we were collecting in GA360. We set up a second virtual meeting with DAP in October to go over the questions we had about these data variations. 
+
 In this meeting we learned that specific metrics (like downloads, outbound links, and site searches) were part of ongoing DAP developer issues. DAP is constantly improving the GA4 property and through the months, we observed that many of the data discrepancies got resolved. We still have a few questions on specific metrics that are outlined in our Wiki pages. 
 
 Being able to simultaneously collect monthly data in GA360 and GA4 greatly helped us identify issues within the GA4 data. Since starting monthly comparisons in August 2023, the major discrepancies we observed between the two analytics systems disappeared. The data between the two are not exact but are very similar and now clearly show the same trends.
