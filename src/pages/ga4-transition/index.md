@@ -66,13 +66,13 @@ The image below shows the resulting exploration. Each metric has its own tab wit
 
 We hope that sharing these exploration templates will ease the learning curve for other agencies!
 
-Since GA4 is constantly improving, our team is constantly iterating. Our exploration details live on our Wiki pages where they can be easily updated.
+Since GA4 is constantly improving, our team is constantly iterating. Our exploration details live on our wiki pages where they can be easily updated.
 
 ## Monthly iterations
 
 Once we set up our explorations and had a few months of data within them, we noticed that some of our metrics were yielding data that were very different than what we were collecting in GA360. We set up a second virtual meeting with DAP in October to go over our questions about these data variations. 
 
-In this meeting we learned that specific metrics (including downloads, outbound links, and site searches) were part of ongoing DAP developer issues. DAP is constantly improving the GA4 property and through the months, we observed that many of the data discrepancies got resolved. We still have a few questions on specific metrics that are outlined in our Wiki pages. 
+In this meeting we learned that specific metrics (including downloads, outbound links, and site searches) were part of ongoing DAP developer issues. DAP is constantly improving the GA4 property and through the months, we observed that many of the data discrepancies got resolved. We still have a few questions on specific metrics that are outlined in our wiki pages. 
 
 Being able to simultaneously collect monthly data in GA360 and GA4 greatly helped us identify issues within the GA4 data. Since starting monthly comparisons in August 2023, the major discrepancies we observed between the two analytics systems disappeared. The data between the two are not exact but are very similar and now clearly show the same trends.
 
