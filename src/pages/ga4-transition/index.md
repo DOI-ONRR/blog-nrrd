@@ -41,9 +41,9 @@ During this August meeting, we met our DAP contact and started to build rapport.
 
 One of the (many) major changes between GA360 and GA4 is the way you create custom reports. Within GA4, our team decided to create reports within the exploration section. In explorations, you can create, save, and modify reports (or “explorations” as they are called in GA4). Our major goal was to recreate the monthly analytics reports we had in GA360 within GA4’s exploration section. We wanted to have several months where we could collect monthly analytics in both GA360 and GA4 to better understand how the data and trends compared/contrasted between the two.
 
-Thanks to that initial help from DAP, we figured out how to replicate our monthly analytics! Within our wikis for each website, we detail how exactly we set up each metric. You can view the GA4 wiki sections here: [onrr.gov](https://github.com/DOI-ONRR/onrr.gov-site/wiki/GA4-Reports), [NRRD](https://github.com/DOI-ONRR/nrrd/wiki/GA4-Reports), and [Blog](https://github.com/DOI-ONRR/blog-nrrd/wiki/Analytics-Templates-&-Instructions). 
+Thanks to that initial help from DAP, we figured out how to replicate our monthly analytics! Within our wikis for each website, we detail how exactly we set up each metric. You can access our GA4 wiki sections to learn more: [onrr.gov](https://github.com/DOI-ONRR/onrr.gov-site/wiki/GA4-Reports), [NRRD](https://github.com/DOI-ONRR/nrrd/wiki/GA4-Reports), and [Blog](https://github.com/DOI-ONRR/blog-nrrd/wiki/Analytics-Templates-&-Instructions). 
 
-The table below is an example of the onrr.gov exploration for our monthly analytics (as of March 2024).
+The following table is an example of the onrr.gov exploration for our monthly analytics (as of March 2024).
 
 **Metric**|**Rows**|**Values**|**Filters**
 :-----:|:-----:|:-----:|:-----:
@@ -70,9 +70,9 @@ Since GA4 is constantly improving, our team is constantly iterating. Our explora
 
 ## Monthly iterations
 
-Once we set up our explorations and had a few months of data within them, we noticed that some of our metrics were yielding data that were very different than what we were collecting in GA360. We set up a second virtual meeting with DAP in October to go over the questions we had about these data variations. 
+Once we set up our explorations and had a few months of data within them, we noticed that some of our metrics were yielding data that were very different than what we were collecting in GA360. We set up a second virtual meeting with DAP in October to go over our questions about these data variations. 
 
-In this meeting we learned that specific metrics (like downloads, outbound links, and site searches) were part of ongoing DAP developer issues. DAP is constantly improving the GA4 property and through the months, we observed that many of the data discrepancies got resolved. We still have a few questions on specific metrics that are outlined in our Wiki pages. 
+In this meeting we learned that specific metrics (including downloads, outbound links, and site searches) were part of ongoing DAP developer issues. DAP is constantly improving the GA4 property and through the months, we observed that many of the data discrepancies got resolved. We still have a few questions on specific metrics that are outlined in our Wiki pages. 
 
 Being able to simultaneously collect monthly data in GA360 and GA4 greatly helped us identify issues within the GA4 data. Since starting monthly comparisons in August 2023, the major discrepancies we observed between the two analytics systems disappeared. The data between the two are not exact but are very similar and now clearly show the same trends.
 
@@ -100,8 +100,8 @@ As we learned more about GA4, we found some potentially useful configuration set
 
 For these reasons, we opted to set up our own GA4 account. We learned from DAP that this is not an uncommon practice – many agencies use their own Google Analytics properties in addition to DAP’s. DAP gave us the option to run parallel tracking, but we chose not to do that. Instead, we set up the property in GA4 and our developer (who was now with us full-time)  added the tags for the data streams to our websites, along with the DAP code we already used. This way our analytics are tracked in both DAP and our own properties – allowing us to compare how configuration differences affect the analytics. One drawback is that we do not receive DAP support for our ODDD-managed property, but we have enough developer and Google Analytics knowledge on our team that we can troubleshoot on our own.
 
-We set up our property with each website as a separate data stream. This differs from DAP, which has DOI as a sub-property and analytics.usa.gov as a single data stream. We use three data streams instead if a single data stream for two reasons: 
-1) we are not concerned with tracking usages across our three sites, as our sites have three very different use cases; 
+We set up our property with each website as a separate data stream. This differs from DAP, which has DOI as a sub-property and [analytics.usa.gov](https://analytics.usa.gov/) as a single data stream. We use three data streams instead of a single data stream for two reasons: 
+1) we are not concerned with tracking usage across our three sites, as our sites have three very different use cases; 
 2) since we have to filter by each domain in the DAP configuration, we wanted to  see what we could do in an environment where we don’t have to do that high level of filtering. 
 
 ![ODDD has three data streams: ODDD Blog, NRRD, and onrr.gov.](Picture4.png)
@@ -123,7 +123,7 @@ Once our property was working our developer set up Google Tag Manager. Not only 
 
 Transitioning to GA4 has been a very interesting and rewarding challenge. Our team has substantially increased our knowledge of GA4 and DAP, but we are still learning! 
 
-Since we now have our ODDD Property, we are currently experimenting with [Looker Studio]( https://lookerstudio.google.com/) for developing analytics reports for each website. So far, we find that Looker Studio offers more options for visual representation of the data. The resulting reports are cleaner and more professional-looking than what we currently see within GA4’s explorations. We plan to use these reports to help inform management and prioritize modernization efforts in accordance with [M-23-22 “Delivering a Digital First Public”](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf). 
+Since we now have our ODDD Property, we are currently experimenting with [Looker Studio]( https://lookerstudio.google.com/) for developing analytics reports for each website. So far, we find that Looker Studio offers more options for visual representation of the data. The resulting reports are cleaner and more professional-looking than what we currently see within GA4’s explorations. We plan to use these reports to help inform management and prioritize modernization efforts in accordance with [M-23-22 “Delivering a Digital First Public Experience.”](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf)
 
 ![Screen capture of a Looker Studio report for onrr.gov monthly analytics. There is a heatmap chart for pageviews, sessions, and users; scorecards for pageviews, sessions, and users; and a line graph showing pageviews, sessions, and users over the course of a month.](Picture7.png)
 *looker Studio monthly analytics report for onrr.gov.*
