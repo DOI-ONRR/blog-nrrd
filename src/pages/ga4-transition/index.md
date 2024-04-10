@@ -126,6 +126,6 @@ Transitioning to GA4 has been a very interesting and rewarding challenge. Our te
 Since we now have our ODDD Property, we are currently experimenting with [Looker Studio]( https://lookerstudio.google.com/) for developing analytics reports for each website. So far, we find that Looker Studio offers more options for visual representation of the data. The resulting reports are cleaner and more professional-looking than what we currently see within GA4’s explorations. We plan to use these reports to help inform management and prioritize modernization efforts in accordance with [M-23-22 “Delivering a Digital First Public Experience.”](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf)
 
 ![Screen capture of a Looker Studio report for onrr.gov monthly analytics. There is a heatmap chart for pageviews, sessions, and users; scorecards for pageviews, sessions, and users; and a line graph showing pageviews, sessions, and users over the course of a month.](Picture7.png)
-*looker Studio monthly analytics report for onrr.gov.*
+*Looker Studio monthly analytics report for onrr.gov.*
 
 We would love input from others as we continue to learn and grow our analytics program! Please contact us at [nrrd@onrr.gov](mailto:nrrd@onrr.gov) if you would like to discuss. Thanks!
