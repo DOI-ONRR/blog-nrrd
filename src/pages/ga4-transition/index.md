@@ -80,7 +80,7 @@ Being able to simultaneously collect monthly data in GA360 and GA4 greatly helpe
 
 As [DAP explains](https://digital.gov/guides/dap/common-questions-about-dap/), your agency’s GA4 account uses views (which was previously called “profiles”) to categorize and report an agency’s website traffic. These views are assigned at the federal agency level, and the traffic for a sub-agency website is reported under that main agency profile.
 
-### DOI Agency Profile
+### DOI agency profile
 
 Originally our team created explorations within the DAP - GA4 - DOI Agency Profile, with a filter set to our specific sub-agency website. Because DOI is such a large agency and our sub-agency is such a small fraction of it, we would get a caution saying that our data was heavily sampled. 
 
@@ -94,15 +94,15 @@ We would have to constantly select “More detailed results” to make sure our 
 
 Sometimes, this “More detailed results” selection does not work, and we must use the “Request unsampled results” link which takes several minutes to receive. While somewhat time-consuming, the main struggle was that we had to do this for every metric on every tab of the exploration. If we forgot, the data we pulled would not be the most accurate. We are still working with DAP about our struggles to get 100% of the available data within the DOI Agency Profile.
 
-### Open Data, Design, and Development (ODDD) Profile
+### Open Data, Design, and Development (ODDD) profile
 
 As we learned more about GA4, we found some potentially useful configuration settings that DAP did not have turned on. We also wanted to see if we could get granular data if we were not having to filter the large amount of DOI data just to be able to view our own. Finally, we wondered if not having to wait for our reports to run against all of the DOI data might also allow our reports to run faster.
 
 For these reasons, we opted to set up our own GA4 account. We learned from DAP that this is not an uncommon practice – many agencies use their own Google Analytics properties in addition to DAP’s. DAP gave us the option to run parallel tracking, but we chose not to do that. Instead, we set up the property in GA4 and our developer (who was now with us full-time)  added the tags for the data streams to our websites, along with the DAP code we already used. This way our analytics are tracked in both DAP and our own properties – allowing us to compare how configuration differences affect the analytics. One drawback is that we do not receive DAP support for our ODDD-managed property, but we have enough developer and Google Analytics knowledge on our team that we can troubleshoot on our own.
 
 We set up our property with each website as a separate data stream. This differs from DAP, which has DOI as a sub-property and [analytics.usa.gov](https://analytics.usa.gov/) as a single data stream. We use three data streams instead of a single data stream for two reasons: 
-1) we are not concerned with tracking usage across our three sites, as our sites have three very different use cases; 
-2) since we have to filter by each domain in the DAP configuration, we wanted to  see what we could do in an environment where we don’t have to do that high level of filtering. 
+1) We are not concerned with tracking usage across our three sites, as our sites have three very different use cases. 
+2) Since we have to filter by each domain in the DAP configuration, we wanted to  see what we could do in an environment where we don’t have to do that high level of filtering. 
 
 ![ODDD has three data streams: ODDD Blog, NRRD, and onrr.gov.](Picture4.png)
 *Our data stream configurations.*
