@@ -41,7 +41,7 @@ During this August meeting, we met our DAP contact and started to build rapport.
 
 One of the (many) major changes between GA360 and GA4 is the way you create custom reports. Within GA4, our team decided to create reports within the exploration section. In explorations, you can create, save, and modify reports (or “explorations” as they are called in GA4). Our major goal was to recreate the monthly analytics reports we had in GA360 within GA4’s exploration section. We wanted to have several months where we could collect monthly analytics in both GA360 and GA4 to better understand how the data and trends compared/contrasted between the two.
 
-Thanks to that initial help from DAP, we figured out how to replicate our monthly analytics! Within our wikis for each website, we detail how exactly we set up each metric. You can access our GA4 wiki sections to learn more: [onrr.gov](https://github.com/DOI-ONRR/onrr.gov-site/wiki/GA4-Reports), [NRRD](https://github.com/DOI-ONRR/nrrd/wiki/GA4-Reports), and [Blog](https://github.com/DOI-ONRR/blog-nrrd/wiki/Analytics-Templates-&-Instructions). 
+Thanks to that initial help from DAP, we figured out how to replicate our monthly analytics! Within our wikis for each website, we detail how exactly we set up each metric. You can access our GA4 wiki sections to learn more: [onrr.gov wiki](https://github.com/DOI-ONRR/onrr.gov-site/wiki/GA4-Reports), [NRRD wiki](https://github.com/DOI-ONRR/nrrd/wiki/GA4-Reports), and [blog wiki](https://github.com/DOI-ONRR/blog-nrrd/wiki/Analytics-Templates-&-Instructions). 
 
 The following table is an example of the onrr.gov exploration for our monthly analytics (as of March 2024).
 
@@ -57,7 +57,7 @@ Downloads|Event Name & File Name|Event Count|Hostname contains onrr.gov; Event n
 Outbound Links|Event Name & Outbound & Link URL|Event Count|Hostname contains onrr.gov; Event name exactly matches click
 Site Searches|Event Name & Serch Term|Event Count|Page path + query string contains affiliate=onrr.gov; Event name exactly matches view_search_results
 
-This table shows the specific dimensions, values, and filters used to get data for each metric. This table might look simple, but it did take us several iterations to get the details within it.
+This table shows the specific dimensions, values, and filters used to get data for each metric. This table might look simple, but it took us several iterations to get the details within it.
 
 The image below shows the resulting exploration. Each metric has its own tab within the exploration.
 
