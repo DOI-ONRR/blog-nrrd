@@ -3,25 +3,25 @@ title: "Google Analytics 4: transition strategies for federal websites"
 authors:
 - Erin Elzi
 - Christine Thomas
-excerpt: "Learn how the ODDD team transitioned from Google Analytics - Universal Analytics (GA360) to Google Analytics 4 (GA4)! This blog outlines how we coordinated with the Digital Analytics Program (DAP), developed explorations (instead of custom reports), and the process of setting up our own agency profile."
+excerpt: "Learn how the ODDD team transitioned from Google Analytics - Universal Analytics (UA) to Google Analytics 4 (GA4)! This blog outlines how we coordinated with the Digital Analytics Program (DAP), developed explorations (instead of custom reports), and the process of setting up our own agency profile."
 tags:
 - Digital Analytics Program
 - DAP
 - Google Analytics 360
-- GA360
+- UA
 - Google Analytics 4
 - GA4
 - Looker Studio
 date: "2024-04-25"
 ---
 
-If you are involved in collecting website analytics for a federal agency, you probably already know that the [General Service Administration’s Digital Analytics Program (DAP)](https://digital.gov/guides/dap/) is transitioning from Google Analytics - Universal Analytics (GA360) to Google Analytics 4 (GA4). DAP announced that agencies need to migrate from GA360 to GA4 before July 1, 2024. After this date, GA360 properties will be permanently deleted. 
+If you are involved in collecting website analytics for a federal agency, you probably already know that the [General Service Administration’s Digital Analytics Program (DAP)](https://digital.gov/guides/dap/) is transitioning from Google Analytics - Universal Analytics (UA) to Google Analytics 4 (GA4). DAP migrated to GA4 back in August 2023, and announced that agencies must migrate their local Google Analytics account from UA to GA4 by July 1, 2024. After this date, UA properties will be permanently deleted. 
 
 This blog post outlines the Open Data, Design, and Development (ODDD) team’s efforts to transition to GA4. Here are our main takeaways:
 - Communicate with DAP!
 - Check the DAP code within all your websites.
 - Utilize the explorations feature to create custom, personalized reports.
-- Collect GA360 and GA4 data simultaneously while you still can.
+- Collect UA and GA4 data simultaneously while you still can.
 - Cross-check data and be prepared to make iterative fixes as DAP implements updates.
 - Setting up your own GA4 account and property allows for customizations but lacks DAP tech support.
 
@@ -39,7 +39,7 @@ During this August meeting, we met our DAP contact and started to build rapport.
 
 ## Explorations as the new custom report
 
-One of the (many) major changes between GA360 and GA4 is the way you create custom reports. Within GA4, our team decided to create reports within the exploration section. In explorations, you can create, save, and modify reports (or “explorations” as they are called in GA4). Our major goal was to recreate the monthly analytics reports we had in GA360 within GA4’s exploration section. We wanted to have several months where we could collect monthly analytics in both GA360 and GA4 to better understand how the data and trends compared/contrasted between the two.
+One of the (many) major changes between UA and GA4 is the way you create custom reports. Within GA4, our team decided to create reports within the exploration section. In explorations, you can create, save, and modify reports (or “explorations” as they are called in GA4). Our major goal was to recreate the monthly analytics reports we had in UA within GA4’s exploration section. We wanted to have several months where we could collect monthly analytics in both UA and GA4 to better understand how the data and trends compared/contrasted between the two.
 
 Thanks to that initial help from DAP, we figured out how to replicate our monthly analytics! Within our wikis for each website, we detail how exactly we set up each metric. You can access our GA4 wiki sections to learn more: [onrr.gov wiki](https://github.com/DOI-ONRR/onrr.gov-site/wiki/GA4-Reports), [NRRD wiki](https://github.com/DOI-ONRR/nrrd/wiki/GA4-Reports), and [blog wiki](https://github.com/DOI-ONRR/blog-nrrd/wiki/Analytics-Templates-&-Instructions). 
 
@@ -55,7 +55,7 @@ Devices|Device Category|Total Users|Hostname contains onrr.gov
 Browsers|Browser + Device Category|Sessions|Hostname contains onrr.gov
 Downloads|Event Name & File Name|Event Count|Hostname contains onrr.gov; Event name contains file_download
 Outbound Links|Event Name & Outbound & Link URL|Event Count|Hostname contains onrr.gov; Event name exactly matches click
-Site Searches|Event Name & Serch Term|Event Count|Page path + query string contains affiliate=onrr.gov; Event name exactly matches view_search_results
+Site Searches|Event Name & Search Term|Event Count|Page path + query string contains affiliate=onrr.gov; Event name exactly matches view_search_results
 
 This table shows the specific dimensions, values, and filters used to get data for each metric. This table might look simple, but it took us several iterations to get the details within it.
 
@@ -66,19 +66,19 @@ The image below shows the resulting exploration. Each metric has its own tab wit
 
 We hope that sharing these exploration templates will ease the learning curve for other agencies!
 
-Since GA4 is constantly improving, our team is constantly iterating. Our exploration details live on our wiki pages where they can be easily updated.
+Since GA4 is still in beta and constantly improving, our team is constantly iterating. Our exploration details live on our wiki pages where they can be easily updated.
 
 ## Monthly iterations
 
-Once we set up our explorations and had a few months of data within them, we noticed that some of our metrics were yielding data that were very different than what we were collecting in GA360. We set up a second virtual meeting with DAP in October to go over our questions about these data variations. 
+Once we set up our explorations and had a few months of data within them, we noticed that some of our metrics were yielding data that were very different than what we were collecting in UA. We set up a second virtual meeting with DAP in October to go over our questions about these data variations. 
 
 In this meeting we learned that specific metrics (including downloads, outbound links, and site searches) were part of ongoing DAP developer issues. DAP is constantly improving the GA4 property and through the months, we observed that many of the data discrepancies got resolved. We still have a few questions on specific metrics that are outlined in our wiki pages. 
 
-Being able to simultaneously collect monthly data in GA360 and GA4 greatly helped us identify issues within the GA4 data. Since starting monthly comparisons in August 2023, the major discrepancies we observed between the two analytics systems disappeared. The data between the two are not exact but are very similar and now clearly show the same trends.
+Being able to simultaneously collect monthly data in UA and GA4 greatly helped us identify issues within the GA4 data. Since starting monthly comparisons in August 2023, the major discrepancies we observed between the two analytics systems disappeared. The data between the two are not exact but are very similar and now clearly show the same trends.
 
 ## Agency profiles
 
-As [DAP explains](https://digital.gov/guides/dap/common-questions-about-dap/), your agency’s GA4 account uses views (which was previously called “profiles”) to categorize and report an agency’s website traffic. These views are assigned at the federal agency level, and the traffic for a sub-agency website is reported under that main agency profile.
+As [DAP explains](https://digital.gov/guides/dap/common-questions-about-dap/), your agency’s GA4 account uses sub-properties (which was previously called “profiles”) to categorize and report an agency’s website traffic. These sub-properties are assigned at the federal cabinet agency level, and the traffic for a sub-agency website is reported under that main agency sub-property.
 
 ### DOI agency profile
 
@@ -98,11 +98,11 @@ Sometimes, this “More detailed results” selection does not work, and we must
 
 As we learned more about GA4, we found some potentially useful configuration settings that DAP did not have turned on. We also wanted to see if we could get granular data if we were not having to filter the large amount of DOI data just to be able to view our own. Finally, we wondered if not having to wait for our reports to run against all of the DOI data might also allow our reports to run faster.
 
-For these reasons, we opted to set up our own GA4 account. We learned from DAP that this is not an uncommon practice – many agencies use their own Google Analytics properties in addition to DAP’s. DAP gave us the option to run parallel tracking, but we chose not to do that. Instead, we set up the property in GA4 and our developer (who was now with us full-time)  added the tags for the data streams to our websites, along with the DAP code we already used. This way our analytics are tracked in both DAP and our own properties – allowing us to compare how configuration differences affect the analytics. One drawback is that we do not receive DAP support for our ODDD-managed property, but we have enough developer and Google Analytics knowledge on our team that we can troubleshoot on our own.
+For these reasons, we opted to set up our own GA4 account. We learned from DAP that this is recommended – many agencies use their own Google Analytics properties in addition to DAP’s. DAP gave us the option to run parallel tracking, but we chose not to do that. Instead, we set up the property in GA4 and our developer (who was now with us full-time)  added the tags for the data streams to our websites, along with the DAP code we already used. This way our analytics are tracked in both DAP and our own properties – allowing us to compare how configuration differences affect the analytics. One drawback is that we do not receive DAP support for our ODDD-managed property, but we have enough developer and Google Analytics knowledge on our team that we can troubleshoot on our own.
 
 We set up our property with each website as a separate data stream. This differs from DAP, which has DOI as a sub-property and [analytics.usa.gov](https://analytics.usa.gov/) as a single data stream. We use three data streams instead of a single data stream for two reasons: 
 1) We are not concerned with tracking usage across our three sites, as our sites have three very different use cases. 
-2) Since we have to filter by each domain in the DAP configuration, we wanted to  see what we could do in an environment where we don’t have to do that high level of filtering. 
+2) Since we have to filter by each domain in the DAP configuration (DAP collects data from thousands of websites across the U.S. federal government), we wanted to  see what we could do in an environment where we don’t have to do that high level of filtering. 
 
 ![ODDD has three data streams: ODDD Blog, NRRD, and onrr.gov.](Picture4.png)
 *Our data stream configurations.*
