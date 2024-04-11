@@ -3,11 +3,12 @@ title: "Google Analytics 4: transition strategies for federal websites"
 authors:
 - Erin Elzi
 - Christine Thomas
-excerpt: "Learn how the ODDD team transitioned from Google Analytics - Universal Analytics (UA) to Google Analytics 4 (GA4)! This blog outlines how we coordinated with the Digital Analytics Program (DAP), developed explorations (instead of custom reports), and the process of setting up our own agency property."
+excerpt: "Learn how our team transitioned from Google Analytics - Universal Analytics to Google Analytics 4! This blog outlines how we coordinated with the Digital Analytics Program, developed explorations (instead of custom reports), and the process of setting up our own agency property."
 tags:
 - Digital Analytics Program
 - DAP
-- Google Analytics 360
+- Google Analytics
+- Universal Analytics
 - UA
 - Google Analytics 4
 - GA4
