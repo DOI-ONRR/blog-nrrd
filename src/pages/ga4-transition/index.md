@@ -80,9 +80,9 @@ Being able to simultaneously collect monthly data in UA and GA4 greatly helped u
 
 As [DAP explains](https://digital.gov/guides/dap/common-questions-about-dap/), your agency’s GA4 account uses sub-properties (which was previously called “profiles”) to categorize and report an agency’s website traffic. These sub-properties are assigned at the federal cabinet agency level, and the traffic for a sub-agency website is reported under that main agency sub-property.
 
-### DOI agency profile
+### Department of the Interior (DOI) agency profile
 
-Originally our team created explorations within the DAP - GA4 - DOI Agency Profile, with a filter set to our specific sub-agency website. Because DOI is such a large agency and our sub-agency is such a small fraction of it, we would get a caution saying that our data was heavily sampled. 
+Originally our team created explorations within the DAP - GA4 - DOI agency profile, with a filter set to our specific sub-agency website. Because DOI is such a large agency and our sub-agency is such a small fraction of it, we would get a caution saying that our data was heavily sampled. 
 
 ![Screen capture showing a caution reporting icon with details that the exploration is heavily sampled. There is a drop-down option to get more detailed results. Below there is a link to request detailed results.](Picture2.png)
 *Heavily sampled explorations have less accurate data.*
