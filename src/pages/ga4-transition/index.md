@@ -40,7 +40,7 @@ During this August meeting, we met our DAP contact and started to build rapport.
 
 ## Explorations as the new custom report
 
-One of the (many) major changes between UA and GA4 is the way you create custom reports. Within GA4, our team decided to create reports within the exploration section. In explorations, you can create, save, and modify reports (or “explorations” as they are called in GA4). Our major goal was to recreate the monthly analytics reports we had in UA within GA4’s exploration section. We wanted to have several months where we could collect monthly analytics in both UA and GA4 to better understand how the data and trends compared/contrasted between the two.
+One of the (many) major changes between UA and GA4 is the way you create custom reports. Within GA4, our team decided to create reports within the exploration section. In explorations, you can create, save, and modify reports (or “explorations” as they are called in GA4). Our primary goal was to recreate the monthly analytics reports we had in UA within GA4’s exploration section. We wanted to have several months where we could collect monthly analytics in both UA and GA4 to better understand how the data and trends compared/contrasted between the two.
 
 Thanks to that initial help from DAP, we figured out how to replicate our monthly analytics! Within our wikis for each website, we detail how exactly we set up each metric. You can access our GA4 wiki sections to learn more: [onrr.gov wiki](https://github.com/DOI-ONRR/onrr.gov-site/wiki/GA4-Reports), [NRRD wiki](https://github.com/DOI-ONRR/nrrd/wiki/GA4-Reports), and [blog wiki](https://github.com/DOI-ONRR/blog-nrrd/wiki/Analytics-Templates-&-Instructions). 
 
@@ -56,7 +56,7 @@ Devices|Device Category|Total Users|Hostname contains onrr.gov
 Browsers|Browser + Device Category|Sessions|Hostname contains onrr.gov
 Downloads|Event Name & File Name|Event Count|Hostname contains onrr.gov; Event name contains file_download
 Outbound Links|Event Name & Outbound & Link URL|Event Count|Hostname contains onrr.gov; Event name exactly matches click
-Site Searches|Event Name & Search Term|Event Count|Page path + query string contains affiliate=onrr.gov; Event name exactly matches view_search_results
+Site Searches|Event Name & Search Term|Event Count|Page path + query string contains affiliate=onrr.gov; Event name exactly matches view/_search_results
 
 This table shows the specific dimensions, values, and filters used to get data for each metric. This table might look simple, but it took us several iterations to get the details within it.
 
