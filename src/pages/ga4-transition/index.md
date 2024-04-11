@@ -56,7 +56,7 @@ Devices|Device Category|Total Users|Hostname contains onrr.gov
 Browsers|Browser + Device Category|Sessions|Hostname contains onrr.gov
 Downloads|Event Name & File Name|Event Count|Hostname contains onrr.gov; Event name contains file_download
 Outbound Links|Event Name & Outbound & Link URL|Event Count|Hostname contains onrr.gov; Event name exactly matches click
-Site Searches|Event Name & Search Term|Event Count|Page path + query string contains affiliate=onrr.gov; Event name exactly matches view/_search_results
+Site Searches|Event Name & Search Term|Event Count|Page path + query string contains affiliate=onrr.gov; Event name exactly matches view\_search_results
 
 This table shows the specific dimensions, values, and filters used to get data for each metric. This table might look simple, but it took us several iterations to get the details within it.
 
