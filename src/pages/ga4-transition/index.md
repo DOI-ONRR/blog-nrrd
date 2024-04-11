@@ -46,7 +46,7 @@ Thanks to that initial help from DAP, we figured out how to replicate our monthl
 
 The following table is an example of the onrr.gov exploration for our monthly analytics (as of March 2024).
 
-**Metric**|**Rows**|**Values**|**Filters**
+**Metric**|**Rows (Dimensions)**|**Values**|**Filters**
 :-----:|:-----:|:-----:|:-----:
 Pageviews, Sessions, Users|Landing page + query string|Views, Sessions, Total users|Hostname contains onrr.gov
 Landing Page|Landing page + query string|Sessions|Hostname contains onrr.gov
@@ -56,7 +56,7 @@ Devices|Device Category|Total Users|Hostname contains onrr.gov
 Browsers|Browser + Device Category|Sessions|Hostname contains onrr.gov
 Downloads|Event Name & File Name|Event Count|Hostname contains onrr.gov; Event name contains file_download
 Outbound Links|Event Name & Outbound & Link URL|Event Count|Hostname contains onrr.gov; Event name exactly matches click
-Site Searches|Event Name & Search Term|Event Count|Page path + query string contains affiliate=onrr.gov; Event name exactly matches view\_search_results
+Site Searches|Event Name & Search Term|Event Count|Page path + query string contains affiliate=onrr.gov; Event name exactly matches view/_search_results
 
 This table shows the specific dimensions, values, and filters used to get data for each metric. This table might look simple, but it took us several iterations to get the details within it.
 
