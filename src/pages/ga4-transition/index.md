@@ -3,7 +3,7 @@ title: "Google Analytics 4: transition strategies for federal websites"
 authors:
 - Erin Elzi
 - Christine Thomas
-excerpt: "Learn how the ODDD team transitioned from Google Analytics - Universal Analytics (UA) to Google Analytics 4 (GA4)! This blog outlines how we coordinated with the Digital Analytics Program (DAP), developed explorations (instead of custom reports), and the process of setting up our own agency profile."
+excerpt: "Learn how the ODDD team transitioned from Google Analytics - Universal Analytics (UA) to Google Analytics 4 (GA4)! This blog outlines how we coordinated with the Digital Analytics Program (DAP), developed explorations (instead of custom reports), and the process of setting up our own agency property."
 tags:
 - Digital Analytics Program
 - DAP
@@ -76,13 +76,13 @@ In this meeting we learned that specific metrics (including downloads, outbound 
 
 Being able to simultaneously collect monthly data in UA and GA4 greatly helped us identify issues within the GA4 data. Since starting monthly comparisons in August 2023, the major discrepancies we observed between the two analytics systems disappeared. The data between the two are not exact but are very similar and now clearly show the same trends.
 
-## Agency profiles
+## Agency properties
 
 As [DAP explains](https://digital.gov/guides/dap/common-questions-about-dap/), your agency’s GA4 account uses sub-properties (which was previously called “profiles”) to categorize and report an agency’s website traffic. These sub-properties are assigned at the federal cabinet agency level, and the traffic for a sub-agency website is reported under that main agency sub-property.
 
-### Department of the Interior (DOI) agency profile
+### Department of the Interior (DOI) agency property
 
-Originally our team created explorations within the DAP - GA4 - DOI agency profile, with a filter set to our specific sub-agency website. Because DOI is such a large agency and our sub-agency is such a small fraction of it, we would get a caution saying that our data was heavily sampled. 
+Originally our team created explorations within the DAP - GA4 - DOI agency property, with a filter set to our specific sub-agency website. Because DOI is such a large agency and our sub-agency is such a small fraction of it, we would get a caution saying that our data was heavily sampled. 
 
 ![Screen capture showing a caution reporting icon with details that the exploration is heavily sampled. There is a drop-down option to get more detailed results. Below there is a link to request detailed results.](Picture2.png)
 *Heavily sampled explorations have less accurate data.*
@@ -92,9 +92,9 @@ We would have to constantly select “More detailed results” to make sure our 
 ![Screen capture showing a green check mark reporting icon. It details that the report is based on 100% of the available data.](Picture3.png)
 *Unsampled explorations have 100% of available data.*
 
-Sometimes, this “More detailed results” selection does not work, and we must use the “Request unsampled results” link which takes several minutes to receive. While somewhat time-consuming, the main struggle was that we had to do this for every metric on every tab of the exploration. If we forgot, the data we pulled would not be the most accurate. We are still working with DAP about our struggles to get 100% of the available data within the DOI Agency Profile.
+Sometimes, this “More detailed results” selection does not work, and we must use the “Request unsampled results” link which takes several minutes to receive. While somewhat time-consuming, the main struggle was that we had to do this for every metric on every tab of the exploration. If we forgot, the data we pulled would not be the most accurate. We are still working with DAP about our struggles to get 100% of the available data within the DOI agency property.
 
-### Open Data, Design, and Development (ODDD) profile
+### Open Data, Design, and Development (ODDD) property
 
 As we learned more about GA4, we found some potentially useful configuration settings that DAP did not have turned on. We also wanted to see if we could get granular data if we were not having to filter the large amount of DOI data just to be able to view our own. Finally, we wondered if not having to wait for our reports to run against all of the DOI data might also allow our reports to run faster.
 
@@ -123,7 +123,7 @@ Once our property was working our developer set up Google Tag Manager. Not only 
 
 Transitioning to GA4 has been a very interesting and rewarding challenge. Our team has substantially increased our knowledge of GA4 and DAP, but we are still learning! 
 
-Since we now have our ODDD Property, we are currently experimenting with [Looker Studio]( https://lookerstudio.google.com/) for developing analytics reports for each website. So far, we find that Looker Studio offers more options for visual representation of the data. The resulting reports are cleaner and more professional-looking than what we currently see within GA4’s explorations. We plan to use these reports to help inform management and prioritize modernization efforts in accordance with [M-23-22 “Delivering a Digital First Public Experience.”](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf)
+Since we now have our ODDD property, we are currently experimenting with [Looker Studio]( https://lookerstudio.google.com/) for developing analytics reports for each website. So far, we find that Looker Studio offers more options for visual representation of the data. The resulting reports are cleaner and more professional-looking than what we currently see within GA4’s explorations. We plan to use these reports to help inform management and prioritize modernization efforts in accordance with [M-23-22 “Delivering a Digital First Public Experience.”](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf)
 
 ![Screen capture of a Looker Studio report for onrr.gov monthly analytics. There is a heatmap chart for pageviews, sessions, and users; scorecards for pageviews, sessions, and users; and a line graph showing pageviews, sessions, and users over the course of a month.](Picture7.png)
 *Looker Studio monthly analytics report for onrr.gov.*
