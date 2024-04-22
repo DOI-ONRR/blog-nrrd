@@ -13,7 +13,7 @@ tags:
 - Google Analytics 4
 - GA4
 - Looker Studio
-date: "2024-04-25"
+date: "2024-04-22"
 ---
 
 If you are involved in collecting website analytics for a federal agency, you probably already know that the [General Service Administration’s Digital Analytics Program (DAP)](https://digital.gov/guides/dap/) is transitioning from Google Analytics - Universal Analytics (UA) to Google Analytics 4 (GA4). DAP migrated to GA4 back in August 2023, and announced that agencies must migrate their local Google Analytics account from UA to GA4 by July 1, 2024. After this date, UA properties will be permanently deleted. 
