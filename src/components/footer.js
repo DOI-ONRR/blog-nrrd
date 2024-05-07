@@ -110,7 +110,7 @@ const Footer = () => (
      >About
      </a>&nbsp;&nbsp;
      <a
-     href="https://www.onrr.gov/accessibility"
+     href="https://revenuedata.doi.gov/accessibility"
      style={{
        fontSize: '.8rem',
        color: 'white',
