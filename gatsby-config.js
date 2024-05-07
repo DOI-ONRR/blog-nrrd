@@ -10,7 +10,7 @@ module.exports = {
     title: 'Open data, design, & development at the Department of the Interior',
     author: 'Ryan Johnson',
     description: 'Our blog about data, design, and innovation at the Department of the Interior',
-    siteUrl: 'https://revenuedata.doi.gov/',
+    siteUrl: 'https://blog-nrrd.doi.gov/',
   },
   pathPrefix: `${BASEURL}/`,
   mapping: {
