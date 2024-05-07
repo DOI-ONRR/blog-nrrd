@@ -108,7 +108,7 @@ const Footer = () => (
        color: 'white',
      }}
      >About
-     </a>
+     </a>&nbsp;&nbsp;
      <a
      href="https://www.onrr.gov/accessibility"
      style={{
@@ -116,7 +116,7 @@ const Footer = () => (
        color: 'white',
      }}
      >Accessibility 
-     </a>
+     </a>&nbsp;&nbsp;
     
      <a
      href="https://doi.gov/privacy"
@@ -125,16 +125,17 @@ const Footer = () => (
        color: 'white',
      }}
      >Privacy Policy
-     </a>
+     </a>&nbsp;&nbsp;
      
      <a
      href="https://doi.gov/FOIA"
      style={{
+
        fontSize: '.8rem',
        color: 'white',
      }}
      >Freedom of Information Act (FOIA)
-     </a>
+     </a>&nbsp;&nbsp;
      
      <a
      href="https://revenuedata.doi.gov/vdp"
@@ -143,7 +144,7 @@ const Footer = () => (
        color: 'white',
      }}
      >Vulnerability Disclosure Policy
-     </a>
+     </a>&nbsp;&nbsp;
      <a
      href="https://www.doi.gov/pmb/eeo/reports-repository"
      style={{
