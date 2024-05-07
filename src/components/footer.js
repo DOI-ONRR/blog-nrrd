@@ -100,25 +100,60 @@ const Footer = () => (
           </div>
          
           <div className='accessibility and privacy'>
-          <a
-          href="https://www.onrr.gov/accessibility"
-          style={{
-            fontSize: '.8rem',
-            color: 'white',
-          }}
-          >Accessibility
-          </a>
-          <br></br>
-          <a
-          href="https://doi.gov/privacy"
-          style={{
-            fontSize: '.8rem',
-            color: 'white',
-          }}
-          >Privacy Policy
-          </a>
-          </div>
-          </div>
+         
+         <a
+     href=" https://revenuedata.doi.gov/about"
+     style={{
+       fontSize: '.8rem',
+       color: 'white',
+     }}
+     >About
+     </a>
+     <a
+     href="https://www.onrr.gov/accessibility"
+     style={{
+       fontSize: '.8rem',
+       color: 'white',
+     }}
+     >Accessibility 
+     </a>
+    
+     <a
+     href="https://doi.gov/privacy"
+     style={{
+       fontSize: '.8rem',
+       color: 'white',
+     }}
+     >Privacy Policy
+     </a>
+     
+     <a
+     href="https://doi.gov/FOIA"
+     style={{
+       fontSize: '.8rem',
+       color: 'white',
+     }}
+     >Freedom of Information Act (FOIA)
+     </a>
+     
+     <a
+     href="https://revenuedata.doi.gov/vdp"
+     style={{
+       fontSize: '.8rem',
+       color: 'white',
+     }}
+     >Vulnerability Disclosure Policy
+     </a>
+     <a
+     href="https://www.doi.gov/pmb/eeo/reports-repository"
+     style={{
+       fontSize: '.8rem',
+       color: 'white',
+     }}
+     >No Fear Act
+    </a>
+     </div>
+     </div>
   </footer>
 )
 
