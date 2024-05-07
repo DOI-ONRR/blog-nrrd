@@ -135,7 +135,8 @@ const Footer = () => (
        color: 'white',
      }}
      >Freedom of Information Act (FOIA)
-     </a>&nbsp;&nbsp;
+     </a>
+     <br></br>
      
      <a
      href="https://revenuedata.doi.gov/vdp"
