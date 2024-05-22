@@ -79,7 +79,7 @@ const Footer = () => (
       </div>
 
       <div className='social'>
-        <a href='https://github.com/ONRR/'>
+        <a href='https://github.com/DOI-ONRR'>
           <img
             className='social-icon'
             src={github}
