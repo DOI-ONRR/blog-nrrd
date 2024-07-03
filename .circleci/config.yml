@@ -2,7 +2,7 @@ version: 2.1
 jobs:
   preview:
     docker:
-      - image: circleci/node:12.13.0
+      - image: cimg/node:12.13.0
     resource_class: xlarge
     environment:
       TEST_REPORTS: /tmp/test-reports
