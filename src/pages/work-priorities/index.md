@@ -67,33 +67,31 @@ We added additional columns to help with analysis.
 * **Estimated points**  - how many points a goal will take to complete. Points signify amount of work.
 * **Site** – NRRD, onrr.gov, blog, administrative (not related to a site)
 
-Many of our goals already had estimated points assigned to them which made this task easier. Each team member went through the remaining goals and added estimated points to those goals most relevant to their own work. We worked together to assign points to goals that require more group collaboration, such as creating a new webpage with design and programming requirements.
+Many of our goals already had estimated workload points assigned to them which made this task easier. Each team member went through the remaining goals and added estimated points to those goals most relevant to their own work. We worked together to assign points to goals that require more group collaboration, such as creating a new webpage with design and programming requirements.
 
 *Analysis spreadsheet*
-![Screenshot of the analysis spreadsheet.](analysisspreadsheet.png)
+![Screenshot of the analysis spreadsheet.](Analysisspreadsheet.png)
 
 Simultaneously, we were working on a transition plan for the new site. We divided this project into phases and when possible broke down the work into concrete goals. We added these goals into the spreadsheet and estimated points as a team.
 
 ## How much work can we do?
-We analyzed how much work the team completes on an annual basis to help us determine our baseline. The team uses project management software to manage our work. We assign “points” to each work task to estimate how much time it takes to complete tasks. These points are tracked on a 2-week sprint basis. We used our FY23 total points completed as the baseline for what we could achieve in FY24. 
+We analyzed how much work the team completes on an annual basis to help us determine our baseline. We used our FY23 total points completed as the baseline for what we could achieve in FY24.
 
-* Points completed in FY23: 1727 
-* Points completed in Q1/Q2 FY24: 900
-
-Looking at the points already completed in FY24 showed us that we were on track to match our FY23 productivity levels. We could plan to complete around 900 more points by the end of FY24. We noted this number in our spreadsheet and kept it top of mind as we continued our analysis.
+Looking at the points already completed in FY24 showed us that we were on track to match our FY23 productivity levels. We noted this in our spreadsheet and kept it top of mind as we continued our analysis.
 
 With our spreadsheet complete, we turned to pivot tables to analyze the information.
 
+
 ## Using pivots to pivot
 
-We found that we had already overcommited ourselves for the rest of the year – even without adding a new site to our workload. This was a good reminder that while it’s great to have goals for the year – we had too much on our plates to realistically accomplish all of those goals. We found that we had over 1,100 points planned to complete versus our goal of 900. This is without the addition of a new site.
+We found that we had already overcommitted ourselves for the rest of the year – even without adding a new site to our workload. This was a good reminder that while it’s great to have goals for the year – we had too much on our plates to realistically accomplish all of those goals. We found that we had over 1,100 points planned to complete versus our goal of 900. This is without the addition of a new site.
 
-For a dose of reality, we looked at a pivot table that would show the work of the additional site without removing any of our work. We estimated an additional 300 points of work related to the new site. We needed to remove around 500 points from our workload.
+For a dose of reality, we looked at a pivot table that would show the work of the additional site without removing any of our work. We estimated an additional 300 points of work related to the new site. We needed to remove around 500 points or 35% from our estimated workload to have an achievable amount of work for the year.
 
 *Total workload pivot table*
 ![Screenshot of the pivot table showing work product and associated points.](pivottable.png)
 
-Luckily we all were pragmatic about identifying work we could drop for the rest of the year. We postponed any goal that we identified as low reward. We also used our existing resources as a constraint and postponed some higher reward goals because of team capacity. 50% of postponed goals require more technical capacity than we have available. We also pulled outreach related goals. Once we pulled that work from our goals we were left with around 957 points. The workload is achievable.
+Luckily, we all were pragmatic about identifying work we could drop for the rest of the year. We postponed any goal that we identified as low reward. We also used our existing resources as a constraint and postponed some higher reward goals because of team capacity. 50% of postponed goals require more technical capacity than we have available. We also removed outreach related goals. Once we pulled that work from our goals we were left with around 957 points, making for an achievable workload.
 
 *Revised workload pivot table*
 ![Screenshot of the pivot table showing work product and associated points after reassessing workload.](revisedworkload.png)
