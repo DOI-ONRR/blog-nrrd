@@ -9,7 +9,7 @@ tags:
 - product management
 - best practices
 
-date: "2024-07-16"
+date: "2024-07-23"
 --- 
 
 The Open Data, Design, and Development team (ODDD) recently learned that an additional, already existing website will be added to our product portfolio. We’ll acquire the remaining hours contracted for one additional developer to work on this site for the rest of FY24, but the work of transferring the site to our team, implementing our method of site management, and incorporating content updates and routine maintenance into our workload is up to our existing 5-person team. Did we mention our team has been short-staffed throughout this process?
