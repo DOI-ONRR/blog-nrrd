@@ -23,7 +23,7 @@ When ODDD was told we are taking on the additional site, our immediate response 
 
 At the beginning of FY24, we identified [high-level goals](https://github.com/DOI-ONRR/nrrd/wiki/Goals-and-metrics#what-does-success-look-like-for-nrrd) for the year and aligned them to metrics.  These goals did not include assuming ownership of an additional website. We had to reassess our workload for FY24 Q3/Q4 to accommodate the planning and tasks associated with taking on another product.
 
-The reassessment required pre-work because we plan our FY high level goals but not our projects in the detail that we needed to assess our workload. This allows us to plan as we go, and pivot as needed. Having mapped out our goals for the year this far, we knew couldn’t accommodate more work without removing other work from the remaining goals. Being the evidence-driven team that we are – we needed proof and we needed to decide what work we would prioritize for Q3/Q4. We also wanted to share this information with our leadership. We knew it would be valuable to justify our workload and ask for more resources.
+The reassessment required pre-work because we plan our FY high level goals but not our projects in the detail that we needed to assess our workload. This allows us to plan as we go, and pivot as needed. Having mapped out our goals for the year this far, we knew we couldn’t accommodate more work without removing other work from the remaining goals. Being the evidence-driven team that we are – we needed proof and we needed to decide what work we would prioritize for Q3/Q4. We also wanted to share this information with our leadership. We knew it would be valuable to justify our workload and ask for more resources.
 
 
 ## Impossible to complete – what to do? 
