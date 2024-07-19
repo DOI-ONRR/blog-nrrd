@@ -94,7 +94,7 @@ For a dose of reality, we looked at a pivot table that would show the work of th
 Luckily, we all were pragmatic about identifying work we could drop for the rest of the year. We postponed any goal that we identified as low reward. We also used our existing resources as a constraint and postponed some higher reward goals because of team capacity. 50% of postponed goals require more technical capacity than we have available. We also removed outreach related goals. Once we pulled that work from our goals we were left with around 957 points, making for an achievable workload.
 
 *Revised workload pivot table*
-![Screenshot of the pivot table showing work product and associated points after reassessing workload.](revisedworkload.png)
+![Screenshot of the pivot table showing work product and associated points after reassessing workload.](Revisedworkload.png)
 
 ## Impact of the Impact Assessment
 
