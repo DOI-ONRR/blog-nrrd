@@ -10,7 +10,7 @@ tags:
 - user experience
 - public service
 - government
-date: "2024-08-06"
+date: "2024-08-14"
 ---
 
 Here we are again, discussing M-23-22. To refresh your memory, [Delivering a Digital-First Public Experience](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf) (M-23-22) memo was published in September 2023. The memo serves as guidance to federal agencies as they continue to implement the [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://digital.gov/resources/delivering-digital-first-public-experience/). 
