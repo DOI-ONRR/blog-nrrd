@@ -10,12 +10,12 @@ tags:
 - user experience
 - public service
 - government
-date: "2024-08-14"
+date: "2024-08-20"
 ---
 
 Here we are again, discussing M-23-22. To refresh your memory, [Delivering a Digital-First Public Experience](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf) (M-23-22) memo was published in September 2023. The memo serves as guidance to federal agencies as they continue to implement the [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://digital.gov/resources/delivering-digital-first-public-experience/). 
 
-We already integrated the requirements into our [metrics](https://github.com/DOI-ONRR/nrrd/wiki/Goals-and-metrics) and wrote about it the blog [“Maximizing impact of federal websites: integrating metrics with annual goals and policies”](https://blog-nrrd.doi.gov/metrics-and-policy/), and addressed or planned to address areas that need improvement. We also created a customer experience (CX) plan to further guide our efforts. Our CX plan focuses on human-centered design, accessibility, multi-channel support, and feedback and continuous improvement. These focus areas reflect the already established goals of our team.
+We already integrated the requirements into our [metrics](https://github.com/DOI-ONRR/nrrd/wiki/Goals-and-metrics) and wrote about it in the blog [“Maximizing impact of federal websites: integrating metrics with annual goals and policies”](https://blog-nrrd.doi.gov/metrics-and-policy/), and addressed or planned to address areas that need improvement. We also created a customer experience (CX) plan to further guide our efforts. Our CX plan focuses on human-centered design, accessibility, multi-channel support, and feedback and continuous improvement. These focus areas reflect the already established goals of our team.
 
 ## The self-assessment catalyst
 
@@ -43,7 +43,7 @@ Alex (DX) and Lindsay (CX) worked to fill the spreadsheet out together and then 
 
 After we filled out the spreadsheet, we met together to go over it in detail. Reviewing it ensured that we all had a grasp of each requirement and agreed about our level of compliance.
 
-Working as a team to fill this out made sure that we were all in agreement about our level of compliance.
+Working as a team to fill this out made sure that we all agreed about our level of compliance.
 
 ## Our results and how we scored ourselves
  
