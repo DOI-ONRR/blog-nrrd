@@ -39,8 +39,8 @@ The team identified users of state and offshore region pages as reporter (resour
 - Preference between the two prototypes
 - General input on improvements to the product 
 
-## Identifying insights and recommendations from hallway testing
-The participants from the hallway testing provided a wealth of insights into the navigation to the state and offshore region pages. Participants were introduced to the state pages and then were given the opportunity to click through two limited-functionality prototypes, options A and B.
+## Prototyping part one: hallway testing the initial prototypes
+The participants from the hallway testing provided a wealth of insights into the navigation to the state and offshore region pages. Participants were introduced to the state pages and then were given the opportunity to click through two limited-functionality prototypes, options A and B. Both options provide similar buttons that link users to the different states and offshore regions individually, but they differ in the initial navigation to these buttons.
 
 ### Option A
 - Option provides a link to the state and offshore region navigation page in the website’s footer. 
@@ -56,8 +56,7 @@ The participants from the hallway testing provided a wealth of insights into the
 *Option B prototype:*
 ![Screenshot of the Option B prototype, where the homepage tabs are the focus for the reader. In the tab section, there is a new tab after the Production tab, called “Data by State”. For the purposes of this demonstrative image, there is a red arrow pointing to a red box around the new tab with text that states, “Tab with state and offshore region navigation”.](./Hallway-SNP-OptionB.png)
 
-Both Options provide similar state navigation with buttons to access the different states and offshore regions individually.
-
+### Hallway testing insights
 Participants provided the following insights for prototype options A and B:
 - Users could be state engineers or state revenue resources department employees, who must pull specific state values.
 - Participants expected to see the new navigation page as a tab on the homepage or within the homepage's tabs.
@@ -68,7 +67,8 @@ This round of research also provided feedback that was beyond the scope of this 
 - Participants said that the navigation page could include a map of the entire U.S., where users could choose the state or offshore region by clicking on the boundary of the state or offshore region.
 - Participants said that each state or offshore region page could have a small map that shows the boundary of the state or offshore region, the larger context of it within the U.S., and a layer that indicates the federal or tribal land in states.
 
-This led to a second round of prototyping, using the interview participant's insights, which produced three additional prototypes, options C, D, and E: 
+## Prototyping part two: more focused prototypes
+The insights from the hallway testing led to a second round of prototypes that focused the navigation to these pages in the tab section of the homepage. We  created three additional prototypes, options C, D, and E: 
 
 ### Option C
 - Option alters the current “Factsheets” tab to include state and offshore region navigation.
