@@ -2,12 +2,12 @@
 title: "The beauty of hallway testing: how we implemented state and offshore region navigation pages"
 authors:
 - Alexandra McNally
-excerpt: "This blog post "
+excerpt: "Getting user feedback is essential in creating digital products that provide a good user experience, but what do we do when we have limited resources to complete a growing list of user research studies? Hallway testing! This blog post discusses the use of hallway testing to implement a solution for our users to navigate to our state and offshore region pages."
 tags:
-- user research
+- customer experience
 - user experience
-- public service
-- government
+- human centered design
+- best practices
 date: "2024-09-03"
 ---
 
@@ -42,20 +42,21 @@ The team identified users of state and offshore region pages as reporter (resour
 ## Identifying insights and recommendations from hallway testing
 The participants from the hallway testing provided a wealth of insights into the navigation to the state and offshore region pages. Participants were introduced to the state pages and then were given the opportunity to click through two limited-functionality prototypes, options A and B.
 
-*Option A:*
+### Option A
 - Option provides a link to the state and offshore region navigation page in the website’s footer. 
 - Additional page contains the state and offshore region navigation buttons.
 
-![Screenshot of the Option A prototype, where the homepage footer is the focus for the reader. In the dark gray footer, there is a link, “Data by State”, in relatively small light text. For the purposes of this demonstrative image, there is a red arrow pointing to a red box around the link with text that states, “Link to state and offshore region navigation”.](./Hallway-SNP-OptionA.png)
-
-*Option B:*
+### Option B
 - Option provides an additional tab, “Data by state”, on the homepage.
 - Tab contains description and the state and offshore region navigation buttons.
 
+*Option A prototype:*
+![Screenshot of the Option A prototype, where the homepage footer is the focus for the reader. In the dark gray footer, there is a link, “Data by State”, in relatively small light text. For the purposes of this demonstrative image, there is a red arrow pointing to a red box around the link with text that states, “Link to state and offshore region navigation”.](./Hallway-SNP-OptionA.png)
+
+*Option B prototype:*
 ![Screenshot of the Option B prototype, where the homepage tabs are the focus for the reader. In the tab section, there is a new tab after the Production tab, called “Data by State”. For the purposes of this demonstrative image, there is a red arrow pointing to a red box around the new tab with text that states, “Tab with state and offshore region navigation”.](./Hallway-SNP-OptionB.png)
 
-*Both Options:*
-- Both provide similar state navigation with buttons to access the different states and offshore regions individually.
+Both Options provide similar state navigation with buttons to access the different states and offshore regions individually.
 
 Participants provided the following insights for prototype options A and B:
 - Users could be state engineers or state revenue resources department employees, who must pull specific state values.
@@ -69,19 +70,21 @@ This round of research also provided feedback that was beyond the scope of this 
 
 This led to a second round of prototyping, using the interview participant's insights, which produced three additional prototypes, options C, D, and E: 
 
-*Option C:*
+### Option C
 - Option alters the current “Factsheets” tab to include state and offshore region navigation.
 - Tab contains current content and adds a description and the state and offshore region navigation buttons.
 
-*Option D:*
+### Option D
 - Option provides a link to the state and offshore region navigation page with the four tabs of the homepage. 
 - At the bottom of each tab, there is a section that contains several links to other parts of the website. The link, “Data by state and offshore regions” is listed in this section.
 
-*Option E:*
+### Option E
 - Option provides a link to the state and offshore region navigation page with the four tabs of the homepage. 
 - At the top of each tab, there are links to the query tool and the explore tool of the website. The link, “Data by state and offshore regions” is listed in this section.
 
-These options were presented to the team for their preferences and feedback. Using this additional feedback, the team chose option D.
+These options were presented to the team for their preferences and feedback. The team chose option D because it aligned best with the insights provided by the participants in the hallway testing.
+
+*Option D prototype:*
 
 ![Screenshot of the Option D prototype, where the homepage tab section is the focus for the reader. At the bottom of the revenue tab, there is a section with different links to different parts of the website. There is a link, “Data by state and offshore region”, in underlined blue link text and an icon of the United States. For the purposes of this demonstrative image, there is a red arrow pointing to a red box around the link with text that states, “Link to state and offshore region navigation”.](./Hallway-SNP-OptionD.png)
 
@@ -92,6 +95,6 @@ We refined the descriptive text content on the navigation page to make sure that
 
 ## Next steps
 As a part of our next steps, our team will do the following:
-- *Monitor these pages using Google Analytics* to see how the pageviews and events on these pages change with the new access via link on the homepage and the navigation page.
-- *Reevaluate the addition of maps* into individual state and offshore region pages and to the navigation page.
-- *Do more hallway testing* to add more functionality to the navigation page and the individual state and offshore regional pages.
+- **Monitor these pages using Google Analytics** to see how the pageviews and events on these pages change with the new access via link on the homepage and the navigation page.
+- **Reevaluate the addition of maps** into individual state and offshore region pages and to the navigation page.
+- **Do more hallway testing** to add more functionality to the navigation page and the individual state and offshore regional pages.
