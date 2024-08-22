@@ -12,7 +12,7 @@ date: "2024-09-03"
 ---
 
 ## What the heck is hallway testing
-Before my colleague had suggested the use of hallway testing, I had never heard of it before. Luckily, both she and a simple internet search provided ample guidance and examples on how this form of user research works. Hallway testing allows user experience (UX) researchers and designers to ask random individuals from the hallway (a more casual request for participation) to test a product that is under development. Our team (and most of our agency) works remotely, so we can’t ask hallway bystanders for 15 minutes of their time for an impromptu testing session. However, we could send a chat message to different colleagues in the agency to see if we could schedule a casual, short chat to discuss a webpage that we were hoping to improve. Since many of our coworkers know our team and over time we have built an understanding of our human-centered approach, we thought they would be receptive to helping us out with this task.
+Before my colleague suggested the use of hallway testing, I had never heard of it before. Luckily, both she and a simple internet search provided ample guidance and examples on how to conduct this form of research. Hallway testing allows user experience (UX) researchers and designers to ask random individuals from the hallway (a more casual request for participation) to test a product that is under development. Our team (and most of our agency) works remotely, so we couldn't ask hallway bystanders for 15 minutes of their time to do an impromptu testing session. However, we could send a chat message to different colleagues in the agency to schedule a casual, short chat to discuss a webpage that we were hoping to improve. Since many of our coworkers know our team and over time we have built an understanding of our human-centered approach, we thought they would be receptive to helping us out with this task.
 
 ### The pros of hallway testing
 - Quick interviews
@@ -26,7 +26,7 @@ Before my colleague had suggested the use of hallway testing, I had never heard 
 - May not get the whole picture of how a user is using product
 
 ## Why focus on the state and offshore region pages?
-In Spring 2024, we reassessed our search engine functionality for the revenue data (NRRD) website, and the state pages and offshore region pages appeared in our search results. It was a good reminder that they exist and we should revisit them. These pages contain a few sentences about the location and then links to filtered datasets within Explore data and Query data sections of the site. To get a sense of these pages, you can access the [Oklahoma state page](https://revenuedata.doi.gov/explore/states/OK/) and the [Atlantic offshore region page]( https://revenuedata.doi.gov/explore/offshore-regions/atlantic/).
+In Spring 2024, we reassessed our search engine functionality for the revenue data (NRRD) website, and the state pages and offshore region pages appeared in our search results, but there wasn't an easy way to access them. It was a good reminder that they exist and we should revisit them. These pages contain a few sentences about the location and then links to filtered datasets within Explore data and Query data sections of the site. To get a sense of these pages, you can access the [Oklahoma state page](https://revenuedata.doi.gov/explore/states/OK/) and the [Atlantic offshore region page]( https://revenuedata.doi.gov/explore/offshore-regions/atlantic/).
 
 Our analytics showed that there was a moderate number of users viewing the state and offshore region pages. However, the revenue data website did not provide navigation for users to find these pages through the homepage or other website pages. This issue of missing page navigation violates accessibility guidelines, so our team prioritized it for hallway testing. 
 
@@ -71,15 +71,15 @@ This round of research also provided feedback that was beyond the scope of this 
 The insights from the hallway testing led to a second round of prototypes that focused the navigation to these pages in the tab section of the homepage. We  created three additional prototypes, options C, D, and E: 
 
 ### Option C
-- Option alters the current “Factsheets” tab to include state and offshore region navigation.
+- Option alters the current “Fact sheets” tab to include state and offshore region navigation.
 - Tab contains current content and adds a description and the state and offshore region navigation buttons.
 
 ### Option D
-- Option provides a link to the state and offshore region navigation page with the four tabs of the homepage. 
+- Option provides a link to the state and offshore region navigation page with the thee data tabs of the homepage. 
 - At the bottom of each tab, there is a section that contains several links to other parts of the website. The link, “Data by state and offshore regions” is listed in this section.
 
 ### Option E
-- Option provides a link to the state and offshore region navigation page with the four tabs of the homepage. 
+- Option provides a link to the state and offshore region navigation page with the three data tabs of the homepage. 
 - At the top of each tab, there are links to the query tool and the explore tool of the website. The link, “Data by state and offshore regions” is listed in this section.
 
 These options were presented to the team for their preferences and feedback. The team chose option D because it aligned best with the insights provided by the participants in the hallway testing.
@@ -89,7 +89,7 @@ These options were presented to the team for their preferences and feedback. The
 ![Screenshot of the Option D prototype, where the homepage tab section is the focus for the reader. At the bottom of the revenue tab, there is a section with different links to different parts of the website. There is a link, “Data by state and offshore region”, in underlined blue link text and an icon of the United States. For the purposes of this demonstrative image, there is a red arrow pointing to a red box around the link with text that states, “Link to state and offshore region navigation”.](./Hallway-SNP-OptionD.png)
 
 ## Implementing recommendations and building the product 
-After gathering two rounds of feedback for the prototype, we selected the best option, Option D. Then, we moved forward with building the pages the site’s code. Alex (digital experience or DX) and Jeff (developer) worked together to find where the different components lived within the NRRD website’s code. We created the page itself in the MDX format, which was simple. MDX is an extension to Markdown that lets you include JavaScript components in Markdown documents and supports inline HTML. We built the JavaScript component, which took more effort because Alex and Jeff had to research how to create the desired aesthetic. We considered using a grid, but eventually used flex boxes with buttons to depict the individual states and offshore regions. Flex boxes provided flexibility in button size and number of columns. We used a popular Artificial Intelligence (AI) chatbot to help us develop the code itself. We told the AI chatbot the JavaScript library and component library that we use on the NRRD, the need for creating state buttons, and the requirement for using flex boxes. From there, we iterated on the code by defining the requirements and having the AI chatbot alter the code after each requirement request.
+After gathering two rounds of feedback for the prototype, we selected the best option, Option D. Then, we moved forward with building the pages in the site’s code. Alex (digital experience or DX) and Jeff (developer) worked together to find where the different components lived within the NRRD website’s code. Creating the page itself in an MDX format was simple. MDX is an extension to Markdown that lets you include JavaScript components in Markdown documents and supports inline HTML. We built the JavaScript component, which took more effort because Alex and Jeff had to research how to create the desired aesthetic. We considered using a grid, but eventually used flex boxes with buttons to depict the individual states and offshore regions. Flex boxes provided flexibility in button size and number of columns. We used a popular Artificial Intelligence (AI) chatbot to help us develop the code itself. We told the AI chatbot the JavaScript library and component library that we use on the NRRD, the need for creating state buttons, and the requirement for using flex boxes. From there, we iterated on the code by defining the requirements and having the AI chatbot alter the code after each requirement request.
 
 We refined the descriptive text content on the navigation page to make sure that it had the right balance between providing context and being concise for readers. Finally, the team did a final review and then published the [data by state and offshore region page]( https://revenuedata.doi.gov/data-by-state-offshore-region/).
 
