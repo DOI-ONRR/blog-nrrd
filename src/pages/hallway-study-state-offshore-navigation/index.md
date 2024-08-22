@@ -75,7 +75,7 @@ The insights from the hallway testing led to a second round of prototypes that f
 - Tab contains current content and adds a description and the state and offshore region navigation buttons.
 
 ### Option D
-- Option provides a link to the state and offshore region navigation page with the thee data tabs of the homepage. 
+- Option provides a link to the state and offshore region navigation page with the three data tabs of the homepage. 
 - At the bottom of each tab, there is a section that contains several links to other parts of the website. The link, “Data by state and offshore regions” is listed in this section.
 
 ### Option E
