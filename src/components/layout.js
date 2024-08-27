@@ -12,7 +12,7 @@ class Template extends React.Component {
   render() {
     const { location, children } = this.props
     const rootPath = `${__PATH_PREFIX__}/`
-    const mastText = "Open data, design, & development at the Office of Natural Resources Revenue"
+    const mastText = "Open Data, Design, & Development at the Office of Natural Resources Revenue"
 
     let header
 
