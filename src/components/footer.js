@@ -102,7 +102,7 @@ const Footer = () => (
           <div className='accessibility and privacy'>
          
          <a
-     href=" https://revenuedata.doi.gov/about"
+     href="about"
      style={{
        fontSize: '.8rem',
        color: 'white',
