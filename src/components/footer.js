@@ -102,7 +102,7 @@ const Footer = () => (
           <div className='accessibility and privacy'>
          
          <a
-     href="https://blog-nrrd.doi.gov/about"
+     href="https://blog-nrrd.doi.gov/about/"
      style={{
        fontSize: '.8rem',
        color: 'white',
