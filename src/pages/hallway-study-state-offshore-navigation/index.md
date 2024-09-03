@@ -8,7 +8,7 @@ tags:
 - user experience
 - human centered design
 - best practices
-date: "2024-09-03"
+date: "2024-09-04"
 ---
 
 ## What the heck is hallway testing
