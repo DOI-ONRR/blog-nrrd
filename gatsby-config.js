@@ -7,9 +7,9 @@ const GTM_ID = process.env.BLOG_GTM_ID
 
 module.exports = {
   siteMetadata: {
-    title: 'Open data, design, & development at the Department of the Interior',
-    author: 'Ryan Johnson',
-    description: 'Our blog about data, design, and innovation at the Department of the Interior',
+    title: 'Open Data, Design, & Development at the Office of Natural Resources Revenue',
+    author: 'The Open Data, Design, & Development (ODDD) team',
+    description: 'Blog for the Open Data, Design, & Development team at the Office of Natural Resources Revenue',
     siteUrl: 'https://blog-nrrd.doi.gov/',
   },
   pathPrefix: `${BASEURL}/`,
