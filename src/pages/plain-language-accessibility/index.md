@@ -84,7 +84,7 @@ Instead of a wiki page (like I did for document testing), I created an [instruct
 
 After walking through the ACRT process with Erin, I filled out this spreadsheet with plain language explanations, ANDI notes, and website issues. Once I completed the spreadsheet, my ODDD team members reviewed and added some additional information. This spreadsheet is a great example of collaborative work!
 
-![Screen capture of the instructional ACRT spreadsheet.Column headers include: issue number, test name, test conditions, plan language instructions, ANDI notes, ONRR pass/fail notes, NRRD pass/fail notes, and additional resources](Image1.png)
+![Screen capture of the instructional ACRT spreadsheet.Column headers include: issue number, test name, test conditions, plan language instructions, ANDI notes, ONRR pass/fail notes, NRRD pass/fail notes, and additional resources](Image1.PNG)
 *Screen capture of the instructional ACRT spreadsheet.*
 
 Now that this spreadsheet is complete, we will use it for future testing projects. The annual Section 508 assessment requires us to manually test the top webpages on all our public-facing websites. Now that everyone on our team is educated in the process, we can all contribute to this large-scale annual testing project. We will use this spreadsheet to remind us of testing requirements, identify parts of our websites that fail accessibility standards, note the progress made on accessibility issues, and ensure that our testing methods are standardized across team members.
