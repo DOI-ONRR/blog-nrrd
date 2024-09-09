@@ -16,7 +16,7 @@ Accessibility is one of the foundational pillars for inclusion, diversity, and e
 This blog details how we strive to manually test all our digital products by providing plain language instructions for all testers to follow. Developing these instructions ensures that manual testing methodology is uniform across our agency. It also eases testers’ burden by reducing the amount of time needed to understand each accessibility requirement.
 
 Here are our best practices and main takeaways from this blog post:
-- **Clarity though plain language**: Writing instructions in plain language improves understanding and compliance, making complex accessibility requirements more approachable for all.
+- **Clarity through plain language**: Writing instructions in plain language improves understanding and compliance, making complex accessibility requirements more approachable for all.
 - **Balance detail with usability**: While comprehensive instructions are valuable, it’s important to balance detail with usability. This ensures that instructions are thorough enough to be effective but not so detailed that they become difficult to follow.
 - **Tailor instructions to audience needs**: By focusing on common issues specific to our agency’s documents and websites, the instructions become more relevant and practical for the intended users.
 - **Iterative improvement**: Writing and updating instructions is an ongoing process. As our team learns new methods or encounters new challenges, the instructions will be revised to reflect the latest best practices.
