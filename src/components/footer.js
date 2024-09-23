@@ -1,7 +1,6 @@
 import React from 'react'
 import { rhythm } from '../utils/typography'
 import logo from '../img/DOI-2x.png'
-import twitter from '../img/twitter.png'
 import facebook from '../img/facebook.png'
 import github from '../img/github.png'
 
@@ -84,12 +83,6 @@ const Footer = () => (
             className='social-icon'
             src={github}
             alt={`GitHub logo`}
-          /></a>
-          <a href='https://twitter.com/DOIONRR'>
-          <img
-            className='social-icon'
-            src={twitter}
-            alt={`Twitter logo`}
           /></a>
           <a href='https://www.facebook.com/DOIONRR/'>
           <img
