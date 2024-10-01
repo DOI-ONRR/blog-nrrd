@@ -39,7 +39,7 @@ For documents, it’s the SME’s responsibility to make sure their products are
 
 While accessibility is an important part of everyone’s job at ONRR, it’s only a fraction of the workload. It can be hard for employees to remember all the accessibility requirements when they might only need to test periodically.
 
-It’s the ODDD team’s job to ensure that everyone within our agency is following the same testing standards and methodologies. We do this is by incorporating plain language instructions into our accessibility policy. 
+It’s the ODDD team’s job to ensure that everyone within our agency is following the same testing standards and methodologies. We do this by incorporating plain language instructions into our accessibility policy. 
 
 ## Document accessibility
 
