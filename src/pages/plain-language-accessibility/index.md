@@ -8,7 +8,7 @@ tags:
 - accessibility
 - plain language
 - best practices
-date: "2024-10-24"
+date: "2024-10-07"
 ---
 
 Accessibility is one of the foundational pillars for inclusion, diversity, and equity within the federal government. The main way the government establishes accessibility requirements for information and communication technology is through [Section 508 of the Rehabilitation Act](https://www.access-board.gov/about/law/ra.html). The Office of Natural Resources Revenue (ONRR) is committed to making its digital products accessible. Our Open Data, Design, and Development (ODDD) team has previously chronicled ONRR’s efforts to [implement accessibility policy](https://blog-nrrd.doi.gov/accessibility/), [create accessible products](https://blog-nrrd.doi.gov/beyond-auto/), and [evaluate what accessibility resources are needed](https://blog-nrrd.doi.gov/508-Study/). 
