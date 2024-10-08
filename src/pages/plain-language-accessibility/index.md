@@ -45,7 +45,7 @@ It’s the ODDD team’s job to ensure that everyone within our agency is follow
 
 When the ODDD team first took over onrr.gov, we created an [accessibility policy](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Accessibility-guidance#onrrgov-document-accessibility-policy) which established that it is the SME’s responsibility to make sure their documents are accessible. The SMEs use GitHub to submit document update requests to our team. The ODDD team checks to make sure the document is Section 508 compliant before publishing the document to the live site. Providing instructions for [using GitHub](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Using-GitHub) and creating [templates for new GitHub issues](https://github.com/DOI-ONRR/onrr.gov-site/issues/new/choose) helps our SMEs understand the accessibility policy and the publication process.
 
-Because we observed significant improvements in our SME’s level of understanding after providing clear instructions, I wanted to write similar instructions for how to manually test a document for accessibility. SMEs are responsible for testing their documents, but many SMEs do not have the enough time in their workload to fully understand the manual testing requirements.
+Because we observed significant improvements in our SME’s level of understanding after providing clear instructions, I wanted to write similar instructions for how to manually test a document for accessibility. SMEs are responsible for testing their documents, but many SMEs do not have enough time in their workload to fully understand the manual testing requirements.
 
 ### Manual accessibility testing instructions for documents
 
