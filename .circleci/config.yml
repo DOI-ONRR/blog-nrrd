@@ -1,19 +1,17 @@
 version: 2.1
 
 orbs:
-  node: circleci/node@5.2.0
+  node: circleci/node@6.3.0
 
 jobs:
   preview:
     docker:
-      - image: cimg/base:stable
+      - image: cimg/node:18.20.4
     resource_class: xlarge
     environment:
       TEST_REPORTS: /tmp/test-reports
     steps:
       - checkout
-      - node/install:
-          node-version: '12.13.0'
       - node/install-packages
       - run:
           name: Build gatsby
@@ -29,7 +27,6 @@ jobs:
             cf auth "$CF_USERNAME" "$CF_PASSWORD"
             cf target -o doi-onrr -s dev -v
             cf push dev-blog-nrrd -f ./manifest.yml
-
 
   dev:
     docker:

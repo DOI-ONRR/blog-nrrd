@@ -1,8 +1,8 @@
 {
-  "name": "NRRD-blog",
+  "name": "nrrd-blog",
   "description": "Open data, design, & development at the Department of the Interior",
   "version": "1.0.0",
-  "author": "Ryan Johnson <brent.johnson@onrr.gov>",
+  "author": "Ryan Johnson <brent.johnson@onrr.gov>, Jeff Schwartz <jeffrey.schwartz@onrr.gov>",
   "bugs": {
     "url": "https://github.com/ONRR/doi-extractives-data/issues"
   },
@@ -74,5 +74,9 @@
     "develop": "gatsby develop",
     "build": "gatsby build --prefix-paths",
     "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=7.0.0"
   }
 }
