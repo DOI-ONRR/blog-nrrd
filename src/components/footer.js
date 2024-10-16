@@ -3,6 +3,7 @@ import { rhythm } from '../utils/typography'
 import logo from '../img/DOI-2x.png'
 import facebook from '../img/facebook.png'
 import github from '../img/github.png'
+import RSS from '../img/RSS.png'
 
 const Footer = () => (
   <footer
