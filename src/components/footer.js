@@ -78,6 +78,12 @@ const Footer = () => (
       </div>
 
       <div className='social'>
+      <a href='https://blog-nrrd.doi.gov/rss.xml'>
+          <img
+            className='social-icon'
+            src={RSS}
+            alt={`RSS logo`}
+          /></a>
         <a href='https://github.com/DOI-ONRR'>
           <img
             className='social-icon'
