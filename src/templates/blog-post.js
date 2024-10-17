@@ -93,7 +93,7 @@ class BlogPostTemplate extends React.Component {
         </ul>
       {
         <div className="home-link">
-          <Link to='https://blog-nrrd.doi.gov/'>
+          <Link to='/'>
           Home</Link>
         </div>
       }
