@@ -3,99 +3,19 @@ version: 2.1
 orbs:
   node: circleci/node@6.3.0
 
-jobs:
-  preview:
-    docker:
-      - image: cimg/node:18.20.4
-    resource_class: xlarge
-    environment:
-      TEST_REPORTS: /tmp/test-reports
-    steps:
-      - checkout
-      - node/install-packages
-      - run:
-          name: Build gatsby
-          command: npm run build
-      - run:
-          name: deploy preview to cloud.gov
-          command: |
-            wget -q -O - https://packages.cloudfoundry.org/debian/cli.cloudfoundry.org.key | sudo apt-key add -
-            echo "deb https://packages.cloudfoundry.org/debian stable main" | sudo tee /etc/apt/sources.list.d/cloudfoundry-cli.list
-            sudo apt-get update
-            sudo apt-get install cf8-cli
-            cf api https://api.fr.cloud.gov
-            cf auth "$CF_USERNAME" "$CF_PASSWORD"
-            cf target -o doi-onrr -s dev -v
-            cf push dev-blog-nrrd -f ./manifest.yml
-
-  dev:
+executors:
+  blog-executor:
     docker:
       - image: cimg/base:stable
     resource_class: xlarge
-    steps:
-      - checkout
-      - node/install:
-          node-version: '12.13.0'
-      - node/install-packages
-      - run:
-          name: Build gatsby
-          command: npm run build
-      - run:
-          name: deploy to cloud.gov
-          command: |
-            wget -q -O - https://packages.cloudfoundry.org/debian/cli.cloudfoundry.org.key | sudo apt-key add -
-            echo "deb https://packages.cloudfoundry.org/debian stable main" | sudo tee /etc/apt/sources.list.d/cloudfoundry-cli.list
-            sudo apt-get update
-            sudo apt-get install cf8-cli
-            cf api https://api.fr.cloud.gov
-            cf auth "$CF_USERNAME" "$CF_PASSWORD"
-            cf target -o doi-onrr -s dev -v
-            cf push dev-blog-nrrd -f ./manifest.yml
-      - run:
-          name: clean up
-          command: |
-            which cf
-            bash ./.circleci/cleanup.sh
-
-  deploy:
-    docker:
-      - image: cimg/base:stable
-    steps:
-      - checkout
-      - node/install:
-          node-version: '12.13.0'
-      - node/install-packages
-      - run:
-          name: Build gatsby
-          command: npm run build
-      - run:
-          name: deploy preview to cloud.gov
-          command: |
-            wget -q -O - https://packages.cloudfoundry.org/debian/cli.cloudfoundry.org.key | sudo apt-key add -
-            echo "deb https://packages.cloudfoundry.org/debian stable main" | sudo tee /etc/apt/sources.list.d/cloudfoundry-cli.list
-            sudo apt-get update
-            sudo apt-get install cf8-cli
-            cf api https://api.fr.cloud.gov
-            cf auth "$CF_USERNAME" "$CF_PASSWORD"
-            cf target -o doi-onrr -s prod
-            cf push blog-nrrd -f ./manifest.yml
-
 
 workflows:
-  preview:
+  deploy-prod-workflow:
     jobs:
-      - preview:
-          context:
-            - org-global
-            - DEV
+      - build:
           filters:
             branches:
-              ignore:
-                - master
-                - dev
-
-  deploy:
-    jobs:
+              only: master
       - deploy:
           context:
             - org-global
@@ -104,12 +24,42 @@ workflows:
             branches:
               only: master
 
-  dev:
+  deploy-dev-workflow:
     jobs:
-      - dev:
+      - build:
+          filters:
+            branches:
+              ignore: master
+      - deploy:
           context:
             - org-global
             - DEV
           filters:
             branches:
-              only: dev
+              ignore: master
+
+jobs:
+  build:
+    executor: blog-executor
+    steps:
+      - checkout
+      - node/install:
+          node-version: '18.20.4'
+      - node/install-packages
+      - run:
+          name: Build gatsby
+          command: npm run build
+      - persist_to_workspace:
+          root: ~/project
+          paths: 
+            - .
+  deploy:
+    executor: blog-executor
+    steps:
+      - attach_workspace:
+          at: ~/project
+      - run:
+          name: Deploy to cloud.gov
+          command: |
+            chmod +x ~/project/.circleci/scripts/deploy.sh
+            ~/project/.circleci/scripts/deploy.sh --branch "$CIRCLE_BRANCH"
