@@ -78,12 +78,16 @@ a:hover {
   color: #79bbda;
 }
 
-.other-posts a {
+.other-posts a, .home-link a {
   text-decoration: none;
 }
 
-.other-posts a:hover {
+.other-posts a:hover, .home-link a:hover {
   text-decoration: underline;
+}
+
+.home-link {
+  text-align: center;
 }
 
 /* captions */

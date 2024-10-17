@@ -92,9 +92,8 @@ class BlogPostTemplate extends React.Component {
           </li>
         </ul>
       {
-        <div>
-          <Link to='https://blog-nrrd.doi.gov/' className = 'home-link'
-          style = {{textAlign: 'center', textDecoration: 'none'}}>
+        <div className="home-link">
+          <Link to='https://blog-nrrd.doi.gov/'>
           Home</Link>
         </div>
       }
