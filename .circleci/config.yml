@@ -17,6 +17,8 @@ workflows:
             branches:
               only: master
       - deploy:
+          requires: 
+            - build
           context:
             - org-global
             - PROD
@@ -31,6 +33,8 @@ workflows:
             branches:
               ignore: master
       - deploy:
+          requires: 
+            - build
           context:
             - org-global
             - DEV
