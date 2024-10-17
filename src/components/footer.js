@@ -3,6 +3,7 @@ import { rhythm } from '../utils/typography'
 import logo from '../img/DOI-2x.png'
 import facebook from '../img/facebook.png'
 import github from '../img/github.png'
+import RSS from '../img/RSS.png'
 
 const Footer = () => (
   <footer
@@ -78,6 +79,12 @@ const Footer = () => (
       </div>
 
       <div className='social'>
+      <a href='https://blog-nrrd.doi.gov/rss.xml'>
+          <img
+            className='social-icon'
+            src={RSS}
+            alt={`RSS logo`}
+          /></a>
         <a href='https://github.com/DOI-ONRR'>
           <img
             className='social-icon'

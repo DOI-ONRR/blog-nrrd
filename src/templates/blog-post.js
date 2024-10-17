@@ -91,6 +91,12 @@ class BlogPostTemplate extends React.Component {
             }
           </li>
         </ul>
+      {
+        <div className="home-link">
+          <Link to='/'>
+          Home</Link>
+        </div>
+      }
       </Layout>
     )
   }
