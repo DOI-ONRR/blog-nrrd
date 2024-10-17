@@ -1,6 +1,6 @@
 ---
 applications:
-- name: blog-nrrd
+- name: dev-blog-nrrd
   path: ./public
   buildpacks:
    - staticfile_buildpack
