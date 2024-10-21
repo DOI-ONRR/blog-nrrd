@@ -126,6 +126,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
+            title: "NRRD Blog RSS Feed",
           },
         ],
       },
