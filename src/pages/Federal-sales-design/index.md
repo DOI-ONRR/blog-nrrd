@@ -3,7 +3,7 @@ title: "Publishing federal sales data: how we used design studios and user testi
 authors:
 - Erin Elzi
 - Alexandra McNally
-excerpt: ""
+excerpt: "When tasked with publishing a new dataset, our team set out to be more innovative and inclusive. As an initial step, we involved more stakeholders in our design team. Our team incorporated elements of participatory design into our design studios. The design studios led to user-focused product recommendations and future UX research improvements."
 tags:
 - customer experience
 - user experience
