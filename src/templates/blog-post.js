@@ -118,7 +118,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         authors {
-          id
+          id:yamlId
           bio
           pic
         }
