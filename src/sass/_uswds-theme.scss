@@ -1,0 +1,17 @@
+/*
+ ----------------------------------------
+ USWDS with settings overrides
+ ----------------------------------------
+ */
+
+@use "uswds-core" with (
+    $theme-show-notifications: false,
+    $theme-typeface-tokens: (
+      'lato': (
+         'display-name': "Lato",
+         'cap-height': 364px,
+         'stack': "Helvetica, Arial, sans-serif",
+      ),
+   ),
+   $theme-font-type-sans: 'lato'
+);
