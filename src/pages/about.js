@@ -27,7 +27,7 @@ const AboutPage = () => {
 
     <section>
         <h2>History</h2>
-        <p>The ODDD team’s origins begin in 2014 with the creation of the NRRD site. The original NRRD site was designed and developed in partnership with digital services experts at the General Services Administration’s <a href="https://18f.gsa.gov/" target="_blank">18-F organization</a>.</p>
+        <p>The ODDD team’s origins began in 2014 with the creation of the NRRD site. The original NRRD site was designed and developed in partnership with digital services experts at the General Services Administration’s <a href="https://18f.gsa.gov/" target="_blank">18-F organization</a>.</p>
         <p>In 2017, ONRR hired internal staff members (who became the ODDD team) to bring the design and development work in-house. We took over the site's product management, user research, design, and development responsibilities.</p>
         <p>In 2020, our team took on a second website, onrr.gov, and commenced work on its redesign. In fall 2022, the new redesign of onrr.gov launched.</p>
         <p>A full, detailed timeline can be found on <a href="https://github.com/DOI-ONRR/nrrd/wiki#project-background" target="_blank">our wiki</a>.</p>
