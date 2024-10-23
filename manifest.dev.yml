@@ -5,5 +5,4 @@ applications:
   buildpacks:
    - staticfile_buildpack
   memory: 128M
-  disk_quota: 4G
   instances: 1

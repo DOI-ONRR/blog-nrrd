@@ -63,6 +63,10 @@ jobs:
       - attach_workspace:
           at: ~/project
       - run:
+          name: Rename partytown directory
+          command: |
+            mv ~/project/public/~partytown ~/project/public/_partytown
+      - run:
           name: Deploy to cloud.gov
           command: |
             chmod +x ~/project/.circleci/scripts/deploy.sh
