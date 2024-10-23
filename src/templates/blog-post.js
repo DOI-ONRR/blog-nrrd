@@ -59,6 +59,9 @@ class BlogPostTemplate extends React.Component {
                 marginRight: rhythm(1 / 2),
               }}
             ><strong>{author.id}: </strong>{author.bio}.
+            {author.email && (
+              <span class="author-contact"><a href={`mailto:${author.email}`}>Contact {author.id.split(' ')[0]}.</a></span>
+            )}
             </p>
           </div>
         ))
@@ -121,6 +124,7 @@ export const pageQuery = graphql`
           id:yamlId
           bio
           pic
+          email
         }
         date(formatString: "MMMM D, YYYY")
       }
