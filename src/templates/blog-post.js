@@ -42,7 +42,7 @@ class BlogPostTemplate extends React.Component {
           </div>
           <div class="grid-row">
             <div class="grid-col">
-              <hr />
+              <hr class="height-1px" />
             </div>
           </div>
           <div class="grid-row">
@@ -72,7 +72,7 @@ class BlogPostTemplate extends React.Component {
               </div>
             ))
           }
-          <div class="grid-row grid-gap">
+          <div class="grid-row grid-gap margin-y-3">
             <div class="grid-col-6">
               {
                 previous &&
@@ -96,7 +96,7 @@ class BlogPostTemplate extends React.Component {
               }
             </div>
           </div>
-          <div class="grid-col text-center padding-y-4">
+          <div class="grid-col text-center padding-bottom-4 padding-top-2">
           {
              <Link to='/' class="usa-link">Home</Link>
           }
