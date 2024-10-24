@@ -21,4 +21,13 @@ i.e.
 */
 
 @use "uswds-core" as *;
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+@import "~@fontsource/lato/index.css";
+
+.post-date {
+   color: #627884;
+   @include u-font('sans', 'md');
+}
+
+.post-body {
+   @include u-line-height('sans', 4);
+}

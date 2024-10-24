@@ -25,47 +25,54 @@ class BlogPostTemplate extends React.Component {
         >
         </Helmet>
 
-        <h1 className="post-heading">{post.frontmatter.title}</h1>
-        <p
-          style={{
-            ...scale(-1 / 5),
-            display: 'block',
-            color: '#627884',
-            marginBottom: rhythm(1),
-            marginTop: rhythm(-.7),
-          }}
-        >
-          {post.frontmatter.date}
-        </p>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr
-          style={{
-            marginBottom: rhythm(1),
-          }}
-        />
-<p><i>Note : Reference in this blog to any specific commercial product, process, or service, is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the Department of the Interior.</i></p>
-      {
-        (post.frontmatter.authors).map((author, index) => (
-          <div key={index} className="author-bio">
-           <div className="author-profile-container">
-             <img
-                    src={author.pic}
-                    alt={author.id + ` profile image`}
-                    className="author-image"
-              />
+        <div class="grid-container">
+          <div class="grid-row">
+            <div class="grid-col">
+              <h1 className="post-heading">{post.frontmatter.title}</h1>
             </div>
-            <p
-              style={{
-                marginRight: rhythm(1 / 2),
-              }}
-            ><strong>{author.id}: </strong>{author.bio}.
-            {author.email && (
-              <span class="author-contact"><a href={`mailto:${author.email}`}>Contact {author.id.split(' ')[0]}.</a></span>
-            )}
-            </p>
           </div>
-        ))
-      }
+          <div class="grid-row">
+            <p class="post-date">{post.frontmatter.date}</p>
+          </div>
+          <div class="grid-row">
+            <div class="post-body" dangerouslySetInnerHTML={{ __html: post.html }} />
+          </div>
+          <div class="grid-row">
+            <hr />
+          </div>
+          <div class="grid-row">
+            <p><i>Note : Reference in this blog to any specific commercial product, process, or service, is for the information and convenience 
+              of the public, and does not constitute endorsement, recommendation, or favoring by the Department of the Interior.</i></p>
+          </div>
+          <div class="grid-row">
+            {
+              (post.frontmatter.authors).map((author, index) => (
+                <div key={index} className="author-bio">
+                <div className="author-profile-container">
+                  <img
+                          src={author.pic}
+                          alt={author.id + ` profile image`}
+                          className="author-image"
+                    />
+                </div>
+                <p
+                  style={{
+                    marginRight: rhythm(1 / 2),
+                  }}
+                ><strong>{author.id}: </strong>{author.bio}.
+                {author.email && (
+                  <span class="author-contact"><a href={`mailto:${author.email}`}>Contact {author.id.split(' ')[0]}.</a></span>
+                )}
+                </p>
+                </div>
+              ))
+            }
+          </div>
+          <div class="grid-row"></div>
+        </div>
+        
+
+      
 
         <ul className='other-posts'
           style={{
