@@ -31,3 +31,87 @@ i.e.
 .post-body, .blog-note, .author-bio {
    @include u-line-height('sans', 4);
 }
+
+main {
+   @include u-margin-bottom(5);
+
+   &::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      width: 100%;
+      height: 80px;
+      -webkit-transform: skewY(-1.5deg);
+      transform: skewY(-1.5deg);
+      background-color: #FFF;
+      z-index: 100000;
+   }
+}
+
+footer {
+   background-color: #086996;
+   @include u-padding-bottom(2);
+   @include u-padding-top(3);
+
+   .doi-footer-logo img {
+      max-width: 130px;
+   }
+
+   .footer-address {
+      @include u-text('white');
+      @include u-line-height('sans', 4);
+      @include u-font('sans', 'xs');
+   
+      span {
+         @include u-display('block');
+   
+         a {
+            @include u-text('white');
+         }
+      }
+   }
+
+   .footer-blurb {
+      @include u-text('italic');
+      @include u-text('white');
+      @include u-text('light');
+      @include u-text('center');
+      @include u-line-height('sans', 4);
+
+      a {
+         @include u-text('white');
+      }
+   }
+
+   .footer-social-icons {
+      @include u-text(center);
+      @include u-padding-y(5);
+
+      a {
+         &:not(:first-child) {
+            @include u-margin-left(1);
+         }
+
+         svg {
+            @include u-text('white');
+            @include u-width(5);
+            @include u-height(5);
+         }
+      }
+   }
+
+   .footer-links {
+      @include u-text('center');
+
+      a {
+         @include u-text('white');
+         @include u-font('sans', 'md');
+         @include u-line-height('sans', 4);
+         @include u-text('no-wrap');
+
+         &:not(:last-child) {
+            @include u-margin-right(1)
+         }
+      }
+   }
+}

@@ -24,7 +24,7 @@ class BlogPostTemplate extends React.Component {
         >
         </Helmet>
 
-        <div class="grid-container">
+        <div class="grid-container blog-post">
           <div class="grid-row">
             <div class="grid-col">
               <h1 className="post-heading">{post.frontmatter.title}</h1>
