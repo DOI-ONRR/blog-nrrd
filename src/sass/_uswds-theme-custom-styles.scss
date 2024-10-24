@@ -28,6 +28,6 @@ i.e.
    @include u-font('sans', 'md');
 }
 
-.post-body {
+.post-body, .blog-note, .author-bio {
    @include u-line-height('sans', 4);
 }
