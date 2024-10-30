@@ -28,7 +28,15 @@ i.e.
    @include u-font('sans', 'md');
 }
 
-.post-body, .blog-note, .author-bio {
+a.post-link {
+   @include u-text('no-underline');
+}
+
+.blog-post-item {
+   @include u-margin-bottom(4);
+}
+
+.post-body, .blog-note, .author-bio, .post-excerpt {
    @include u-line-height('sans', 4);
 }
 
@@ -114,4 +122,8 @@ footer {
          }
       }
    }
+}
+
+ul.usa-pagination__list {
+   @include u-margin-left(0);
 }

@@ -96,7 +96,7 @@ class BlogPostTemplate extends React.Component {
               }
             </div>
           </div>
-          <div class="grid-col text-center padding-bottom-4 padding-top-2">
+          <div class="grid-col text-center padding-top-2">
           {
              <Link to='/' class="usa-link">Home</Link>
           }

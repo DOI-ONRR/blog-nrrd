@@ -19,7 +19,10 @@ class Template extends React.Component {
 
     if (location.pathname === rootPath) {
       header = (
-        <h1 className="masthead">
+        <div class="grid-container padding-top-5">
+          <div class="grid-row">
+            <div class="grid-col">
+            <h1 className="masthead">
           <Link
             style={{
               boxShadow: 'none',
@@ -42,6 +45,9 @@ class Template extends React.Component {
         />
           </Link>
         </h1>
+            </div>
+          </div>
+        </div>
       )
     } else {
       header = (
