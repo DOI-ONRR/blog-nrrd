@@ -120,6 +120,7 @@ footer {
          @include u-font('sans', 'md');
          @include u-line-height('sans', 4);
          @include u-text('no-wrap');
+         @include u-display('inline-block');
 
          &:not(:last-child) {
             @include u-margin-right(1)
