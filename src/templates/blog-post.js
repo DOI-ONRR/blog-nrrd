@@ -4,7 +4,6 @@ import { Link,graphql } from 'gatsby'
 import get from 'lodash/get'
 
 import Layout from '../components/layout'
-import { rhythm, scale } from '../utils/typography'
 import favicon from '../../static/img/favicon.ico'
 
 class BlogPostTemplate extends React.Component {
@@ -25,72 +24,84 @@ class BlogPostTemplate extends React.Component {
         >
         </Helmet>
 
-        <h1 className="post-heading">{post.frontmatter.title}</h1>
-        <p
-          style={{
-            ...scale(-1 / 5),
-            display: 'block',
-            color: '#627884',
-            marginBottom: rhythm(1),
-            marginTop: rhythm(-.7),
-          }}
-        >
-          {post.frontmatter.date}
-        </p>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr
-          style={{
-            marginBottom: rhythm(1),
-          }}
-        />
-<p><i>Note : Reference in this blog to any specific commercial product, process, or service, is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the Department of the Interior.</i></p>
-      {
-        (post.frontmatter.authors).map((author, index) => (
-          <div key={index} className="author-bio">
-           <div className="author-profile-container">
-             <img
+        <div class="grid-container blog-post">
+          <div class="grid-row">
+            <div class="grid-col">
+              <h1 className="post-heading">{post.frontmatter.title}</h1>
+            </div>
+          </div>
+          <div class="grid-row">
+            <div class="grid-col">
+              <p class="post-date">{post.frontmatter.date}</p>
+            </div>
+          </div>
+          <div class="grid-row">
+            <div class="grid-col">
+              <div class="post-body" dangerouslySetInnerHTML={{ __html: post.html }} />
+            </div>
+          </div>
+          <div class="grid-row">
+            <div class="grid-col">
+              <hr class="height-1px" />
+            </div>
+          </div>
+          <div class="grid-row">
+            <div class="grid-col blog-note">
+              <p><i>Note : Reference in this blog to any specific commercial product, process, or service, is for the information and convenience 
+                of the public, and does not constitute endorsement, recommendation, or favoring by the Department of the Interior.</i></p>
+            </div>
+          </div>
+          {
+            (post.frontmatter.authors).map((author, index) => (
+              <div class="grid-row grid-gap-1" key={index}>
+                <div class="grid-col-auto">
+                  <img
                     src={author.pic}
                     alt={author.id + ` profile image`}
                     className="author-image"
-              />
+                    />
+                </div>
+                <div class="grid-col author-bio">
+                  <p>
+                    <strong>{author.id}: </strong>{author.bio}.
+                    {author.email && (
+                      <span class="margin-left-1"><a href={`mailto:${author.email}`} class="usa-link">Contact {author.id.split(' ')[0]}.</a></span>
+                    )}
+                  </p>
+                </div>
+              </div>
+            ))
+          }
+          <div class="grid-row grid-gap margin-y-3">
+            <div class="grid-col-6">
+              {
+                previous &&
+                <Link to={previous.fields.slug} rel="prev" class="usa-link line-height-sans-4">
+                  <svg class="usa-icon text-middle" aria-hidden="true" focusable="false" role="img">
+                    <use href="/assets/img/sprite.svg#navigate_before"></use>
+                  </svg>
+                  {previous.frontmatter.title}
+                </Link>
+              }
             </div>
-            <p
-              style={{
-                marginRight: rhythm(1 / 2),
-              }}
-            ><strong>{author.id}: </strong>{author.bio}.
-            </p>
+            <div class="grid-col-6">
+              {
+                next &&
+                <Link to={next.fields.slug} rel="next" class="usa-link line-height-sans-4">
+                  {next.frontmatter.title}
+                  <svg class="usa-icon text-middle" aria-hidden="true" focusable="false" role="img">
+                    <use href="/assets/img/sprite.svg#navigate_next"></use>
+                  </svg>
+                </Link>
+              }
+            </div>
           </div>
-        ))
-      }
-
-        <ul className='other-posts'
-          style={{
-            marginTop: '2rem',
-            display: 'flex',
-            flexWrap: 'wrap',
-            justifyContent: 'space-between',
-            listStyle: 'none',
-            padding: 0,
-          }}
-        >
-          <li>
-            {
-              previous &&
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Link>
-            }
-          </li>
-          <li>
-            {
-              next &&
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Link>
-            }
-          </li>
-        </ul>
+          <div class="grid-col text-center padding-top-2">
+          {
+             <Link to='/' class="usa-link">Home</Link>
+          }
+          </div>
+        </div>
       </Layout>
     )
   }
@@ -112,9 +123,10 @@ export const pageQuery = graphql`
       frontmatter {
         title
         authors {
-          id
+          id:yamlId
           bio
           pic
+          email
         }
         date(formatString: "MMMM D, YYYY")
       }

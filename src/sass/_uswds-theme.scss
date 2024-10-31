@@ -1,0 +1,29 @@
+/*
+ ----------------------------------------
+ USWDS with settings overrides
+ ----------------------------------------
+ */
+
+@use "uswds-core" with (
+  $theme-show-notifications: false,
+  $theme-typeface-tokens: (
+    'lato': (
+      'display-name': "Lato",
+      'cap-height': 364px,
+      'stack': "Helvetica, Arial, sans-serif",
+    ),
+  ),
+  $theme-utility-breakpoints: (
+    'desktop-lg': true,
+    'widescreen': true,
+  ),
+  $theme-utility-breakpoints-custom: (
+    "blog-standard": 700px
+  ),
+  $theme-grid-container-max-width: 'blog-standard',
+  $theme-font-type-sans: 'lato',
+  $theme-respect-user-font-size: false,
+  $theme-root-font-size: 20px,
+  $theme-banner-background-color: primary-lighter,
+  $theme-banner-max-width: 'blog-standard'
+);

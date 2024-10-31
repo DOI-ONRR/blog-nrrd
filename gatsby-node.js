@@ -9,10 +9,7 @@ exports.createPages = ({ graphql, actions }) => {
   return graphql(
     `
       {
-        allMarkdownRemark(
-          sort: { fields: [frontmatter___date], order: DESC }
-          limit: 1000
-        ) {
+        allMarkdownRemark(sort: {frontmatter: {date: DESC}}, limit: 1000) {
           edges {
             node {
               fields {
@@ -82,11 +79,18 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 }
 
 var copydir = require('copy-dir');
+const fs = require('fs');
 
 exports.onPostBuild = () => {
 
-  console.log("Copying Files from public to _site/blog...");
-  copydir.sync(__dirname+'/public', '../_site/blog');
-  console.log("Finished Copying Files to _site/blog.");
+  const source = `${__dirname}/public`;
+  const destination = '../_site/blog';
+  
+  if (!fs.existsSync(destination)) {
+    fs.mkdirSync(destination, { recursive: true });
+  }
+  console.log(`Copying Files from ${source} to ${destination}...`);
+  copydir.sync(source, destination);
+  console.log(`Finished Copying Files to ${destination}.`);
 
 }

@@ -14,16 +14,16 @@ module.exports = {
   },
   pathPrefix: `${BASEURL}/`,
   mapping: {
-    "MarkdownRemark.frontmatter.authors": `AuthorYaml`,
+    "MarkdownRemark.frontmatter.authors": `AuthorYaml.yamlId`,
   },
   plugins: [
-    `gatsby-transformer-yaml`,
     {
       resolve: 'gatsby-plugin-google-tagmanager',
       options: {
         id: GTM_ID
       }
     },
+    `gatsby-transformer-yaml`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -110,7 +110,7 @@ module.exports = {
             },
             query: `
               {
-                allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {
+                allMarkdownRemark(sort: {frontmatter: {date: DESC}}) {
                   edges {
                     node {
                       excerpt
@@ -126,6 +126,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
+            title: "NRRD Blog RSS Feed",
           },
         ],
       },

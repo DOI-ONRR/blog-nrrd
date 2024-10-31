@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 
 import { rhythm } from '../utils/typography'
 import './layout.css'
+import '../../uswds/assets/css/styles.css'
 import './prism-theme.css'
 import Footer from './footer.js'
 import mastImage from '../img/NRRD_blog_mast.png'
@@ -18,7 +19,10 @@ class Template extends React.Component {
 
     if (location.pathname === rootPath) {
       header = (
-        <h1 className="masthead">
+        <div class="grid-container padding-top-5">
+          <div class="grid-row">
+            <div class="grid-col">
+            <h1 className="masthead">
           <Link
             style={{
               boxShadow: 'none',
@@ -41,44 +45,46 @@ class Template extends React.Component {
         />
           </Link>
         </h1>
+            </div>
+          </div>
+        </div>
       )
     } else {
       header = (
-        <h2 className="post-mast">
-          <Link
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              color: '#086996',
-            }}
-            to={'/'}
-          >
-            <img
-                src={mastImage}
-                alt={`Department of the Interior Bison fenced in angle brackets`}
-                style={{
-                  marginRight: rhythm(1 / 2),
-                  margin: 'auto',
-                  width: rhythm(5),
-                  height: rhythm(1.78),
-                  display: 'block',
-                }}
-            />{mastText}
-          </Link>
-        </h2>
+        <div class="grid-container padding-top-5">
+          <div class="grid-row">
+            <div class="grid-col">
+              <h2 className="post-mast">
+                <Link
+                  style={{
+                    boxShadow: 'none',
+                    textDecoration: 'none',
+                    color: '#086996',
+                  }}
+                  to={'/'}
+                >
+                  <img
+                      src={mastImage}
+                      alt={`Department of the Interior Bison fenced in angle brackets`}
+                      style={{
+                        marginRight: rhythm(1 / 2),
+                        margin: 'auto',
+                        width: rhythm(5),
+                        height: rhythm(1.78),
+                        display: 'block',
+                      }}
+                  />{mastText}
+                </Link>
+              </h2>
+            </div>
+          </div>
+        </div>
       )
     }
     return (
     <div>
       <Banner />
-      <main className="angle"
-        style={{
-          marginLeft: 'auto',
-          marginRight: 'auto',
-          maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-        }}
-      >
+      <main>
         {header}
         {children}
       </main>
