@@ -6,6 +6,7 @@ yarn.lock
 
 # Build directory
 /public
+/uswds
 .DS_Store
 _site
 /test-results

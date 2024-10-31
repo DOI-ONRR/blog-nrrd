@@ -1,161 +1,65 @@
 import React from 'react'
-import { rhythm } from '../utils/typography'
 import logo from '../img/DOI-2x.png'
-import facebook from '../img/facebook.png'
-import github from '../img/github.png'
-import RSS from '../img/RSS.png'
 
 const Footer = () => (
-  <footer
-    style={{
-      background: '#086996',
-      marginBottom: '0',
-    }}
-  >
-    <div className='footer-content'
-    >
-        <div
-          className='footer-img'
-        >
-          <a href='https://doi.gov/'>
-              <img
-                  src={logo}
-                  alt={`Department of the Interior logo`}
-                  style={{
-                    marginRight: rhythm(1 / 2),
-                    paddingLeft: '7px',
-                    paddingTop: '2px',
-                    margin: 'auto',
-                    maxWidth: '130px',
-                  }}
-              />
+  <footer>
+    <div class="grid-container padding-top-10">
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-auto doi-footer-logo">
+          <a href="https://doi.gov">
+            <img src={logo}
+              alt={`Department of the Interior logo`}
+            />
           </a>
         </div>
-      <div
-        className='footer-contact'
-        style={{
-          display: 'block',
-        }}
-      />
-      <h3 style={{ margin: 0 }}>
-        <a
-          href="https://www.onrr.gov/"
-          style={{
-            color: 'white',
-            textDecoration: 'none',
-          }}
-        >
-          U.S. Department of the Interior 
-        </a>
-      </h3>
-      <p
-        style={{
-          fontSize: '.8rem',
-          color: 'white',
-          lineHeight: rhythm(-1),
-        }}
-      >
-        Office of Natural Resources Revenue <br />
-        PO Box 25165 <br />
-        Denver, CO 80225-0165 <br />
-        <a
-          style={{
-            color: 'white',
-          }}
-          href="mailto:nrrd@onrr.gov">nrrd@onrr.gov</a><br />
-      </p>
-      <div className='team'
-        style={{
-          display: 'block',
-        }}
-        >
-          <em
-            style={{
-              fontWeight: '300',
-              color: 'white',
-            }}
-          >From the team that works on <a style={{color: 'white'}} href='https://revenuedata.doi.gov'>Natural Resources Revenue Data</a> and <a style={{color: 'white'}} href='https://www.onrr.gov/'>ONRR.gov</a>. Have feedback or a blog post idea? <a style={{color: 'white'}} href='mailto:nrrd@onrr.gov'>Drop us a line</a>.<br></br>
-          </em>
+        <div class="grid-col">
+          <h3>
+            <a href="https://doi.gov" class="text-white text-no-underline">U.S. Department of the Interior</a>
+          </h3>
+          <p class="footer-address">
+            <span>Office of Natural Resources Revenue</span>
+            <span>PO Box 25165</span>
+            <span>Denver, CO 80225-0165</span>
+            <span><a href="mailto:nrrd@onrr.gov">nrrd@onrr.gov</a></span>
+          </p>
+        </div>
       </div>
-
-      <div className='social'>
-      <a href='https://blog-nrrd.doi.gov/rss.xml'>
-          <img
-            className='social-icon'
-            src={RSS}
-            alt={`RSS logo`}
-          /></a>
-        <a href='https://github.com/DOI-ONRR'>
-          <img
-            className='social-icon'
-            src={github}
-            alt={`GitHub logo`}
-          /></a>
+      <div class="grid-row">
+        <div class="grid-col footer-blurb">
+          From the team that works on <a href='https://revenuedata.doi.gov'>Natural Resources Revenue Data</a> and <a href='https://www.onrr.gov/'>ONRR.gov</a>. 
+          Have feedback or a blog post idea? <a href='mailto:nrrd@onrr.gov'>Drop us a line</a>.
+        </div>
+      </div>
+      <div class="grid-row">
+        <div class="grid-col footer-social-icons">
+          <a href='https://blog-nrrd.doi.gov/rss.xml'>
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+              <use href="/assets/img/sprite.svg#rss_feed"></use>
+            </svg>
+          </a>
+          <a href='https://github.com/DOI-ONRR'>
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+              <use href="/assets/img/sprite.svg#github"></use>
+            </svg>
+          </a>
           <a href='https://www.facebook.com/DOIONRR/'>
-          <img
-            className='social-icon'
-            src={facebook}
-            alt={`Facebook logo`}
-          /></a>
-          </div>
-         
-          <div className='accessibility and privacy'>
-         
-         <a
-     href="https://revenuedata.doi.gov/about"
-     style={{
-       fontSize: '.8rem',
-       color: 'white',
-     }}
-     >About
-     </a>&nbsp;&nbsp;
-     <a
-     href="https://revenuedata.doi.gov/accessibility"
-     style={{
-       fontSize: '.8rem',
-       color: 'white',
-     }}
-     >Accessibility 
-     </a>&nbsp;&nbsp;
-    
-     <a
-     href="https://doi.gov/privacy"
-     style={{
-       fontSize: '.8rem',
-       color: 'white',
-     }}
-     >Privacy Policy
-     </a>&nbsp;&nbsp;
-     
-     <a
-     href="https://doi.gov/FOIA"
-     style={{
-
-       fontSize: '.8rem',
-       color: 'white',
-     }}
-     >Freedom of Information Act (FOIA)
-     </a>
-     <br></br>
-     
-     <a
-     href="https://revenuedata.doi.gov/vdp"
-     style={{
-       fontSize: '.8rem',
-       color: 'white',
-     }}
-     >Vulnerability Disclosure Policy
-     </a>&nbsp;&nbsp;
-     <a
-     href="https://www.doi.gov/pmb/eeo/reports-repository"
-     style={{
-       fontSize: '.8rem',
-       color: 'white',
-     }}
-     >No Fear Act
-    </a>
-     </div>
-     </div>
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+              <use href="/assets/img/sprite.svg#facebook"></use>
+            </svg>
+          </a>
+        </div>
+      </div>
+      <div class="grid-row">
+        <div class="grid-col footer-links">
+          <a href="/about">About</a>
+          <a href="https://revenuedata.doi.gov/accessibility">Accessibility</a>
+          <a href="https://doi.gov/privacy">Privacy Policy</a>
+          <a href="https://doi.gov/FOIA">Freedom of Information Act (FOIA)</a>
+          <a href="https://revenuedata.doi.gov/vdp">Vulnerability Disclosure Policy</a>
+          <a href="https://www.doi.gov/pmb/eeo/reports-repository">No Fear Act</a>
+        </div>
+      </div>
+    </div>
   </footer>
 )
 

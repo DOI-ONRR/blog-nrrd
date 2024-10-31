@@ -2,8 +2,8 @@ import React from 'react'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/layout.js'
+import Pagination from '../components/Pagination.js'
 import Helmet from 'react-helmet'
-import { rhythm } from '../utils/typography'
 import favicon from '../../static/img/favicon.ico'
 
 class BlogIndex extends React.Component {
@@ -13,10 +13,6 @@ class BlogIndex extends React.Component {
     const siteDescription = data.site.siteMetadata.description
     const posts = data.allMarkdownRemark.edges
     const { currentPage, numPages } = this.props.pageContext
-    const isFirst = currentPage === 1
-    const isLast = currentPage === numPages
-    const prevPage = currentPage - 1 === 1 ? '' : (currentPage - 1).toString()
-    const nextPage = (currentPage + 1).toString()
 
     return (
       <Layout location={this.props.location}>
@@ -28,80 +24,23 @@ class BlogIndex extends React.Component {
         >
         </Helmet>
 
-        {posts.map(({ node }) => {
-          const title = node.frontmatter.title || node.fields.slug
-          return (
-            <div key={node.fields.slug}>
-              <h2
-                style={{
-                  marginBottom: rhythm(-0.1),
-                }}
-              >
-                <Link style={{ boxShadow: 'none', textDecoration: 'none' }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h2>
-              <small
-                style={{
-                  color: '#627884',
-                }}
-              >{node.frontmatter.date}</small>
-              <p
-                style={{
-                  marginTop: rhythm(.2),
-                  marginBottom: rhythm(1.5)
-                }}
-              >{node.frontmatter.excerpt}</p>
-            </div>
-          )
-        })}
-        <ul
-          style={{
-            display: 'flex',
-            flexWrap: 'wrap',
-            justifyContent: 'space-between',
-            alignItems: 'center',
-            listStyle: 'none',
-            marginTop: '3rem',
-            marginLeft: '0',
-            padding: 0,
-          }}
-        >
-          <li style={{ marginBottom: '0' }}>
-          {!isFirst && (
-            <Link to={'/'+prevPage} rel="prev">
-              ← Newer
-            </Link>
-          )}
-          </li>
-          {Array.from({ length: numPages }, (_, i) => (
-            <li
-              key={`pagination-number${i + 1}`}
-              style={{
-                margin: 0,
-              }}
-            >
-              <Link
-                to={`/${i === 0 ? '' : i + 1}`}
-                style={{
-                  padding: rhythm(1 / 4),
-                  textDecoration: 'none',
-                  color: i + 1 === currentPage ? '#1478a6' : '',
-                  borderBottom: i + 1 === currentPage ? '4px solid #1478a6' : '',
-                }}
-              >
-                {i + 1}
-              </Link>
-            </li>
-          ))}
-          <li style={{ marginBottom: '0' }}>
-          {!isLast && (
-            <Link to={'/'+nextPage} rel="next">
-              Older →
-            </Link>
-          )}
-          </li>
-        </ul>
+        <div class="grid-container">
+          {posts.map(({ node, index }) => {
+            const title = node.frontmatter.title || node.fields.slug
+            return (
+              <div class="grid-row blog-post-item" key={index}>
+                <div class="grid-col" key={node.fields.slug}>
+                  <h2>
+                    <Link class="post-link" to={node.fields.slug}>{title}</Link>
+                  </h2>
+                  <p class="post-date margin-bottom-05">{node.frontmatter.date}</p>
+                  <p class="post-excerpt">{node.frontmatter.excerpt}</p>
+                </div>
+              </div>
+            )
+          })}
+          <Pagination currentPage={currentPage} numPages={numPages} />
+        </div>
       </Layout>
     )
   }

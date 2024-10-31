@@ -8,7 +8,10 @@
   },
   "dependencies": {
     "@babel/core": "^7.25.8",
+    "@fontsource/lato": "^5.1.0",
+    "@uswds/uswds": "3.9.0",
     "acorn": "^8.0.0",
+    "classnames": "^2.5.1",
     "copy-dir": "^1.3.0",
     "gatsby": "^5.13.7",
     "gatsby-cli": "^5.13.3",
@@ -48,6 +51,7 @@
     "typography-theme-wordpress-2016": "^0.16.19"
   },
   "devDependencies": {
+    "@uswds/compile": "^1.2.0",
     "babel-eslint": "^10.0.0",
     "eslint": "^9.13.0",
     "eslint-plugin-react": "^7.19.0",
@@ -70,7 +74,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js' 'src/**/*.md'",
     "develop": "gatsby develop",
-    "build": "gatsby build --prefix-paths",
+    "build": "gatsby clean; npx gulp updateUswds; gatsby build --prefix-paths; npx gulp onrrPostGatsbyBuild;",
     "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
   },
   "engines": {
