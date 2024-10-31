@@ -12,7 +12,7 @@ const PaginationButton = ({ page, isCurrent }) => {
     return (
         <li class="usa-pagination__item usa-pagination__page-no">
             <a
-                href={`/${page}`}
+                href={`/${Number(page) !== 1 ? page : ''}`}
                 class="usa-pagination__button"
                 className={className}
                 aria-label={`Page ${page}`}

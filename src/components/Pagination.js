@@ -51,16 +51,10 @@ const Pagination = ({ currentPage, numPages }) => {
                                 <span>…</span>
                             </li>
                         ) : (
-                            <li class="usa-pagination__item usa-pagination__page-no">
-                                <a
-                                    href="/2"
-                                    class="usa-pagination__button"
-                                    className={classNames("usa-pagination__button", {"usa-current": currentPage === 2})}
-                                    aria-label="Page 2"
-                                >
-                                    2
-                                </a>
-                            </li>
+                            <PaginationButton
+                                page="2"
+                                isCurrent={2 === currentPage}
+                            />
                         )}
                         {/* 3 middle slots */}
                         {getMiddlePages(currentPage, midPoint, numPages).map((page) => (

@@ -57,6 +57,10 @@ main {
 }
 
 footer {
+   h3 a:hover {
+      @include u-text('white');
+   }
+
    background-color: #086996;
    @include u-padding-bottom(2);
    @include u-padding-top(3);
