@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import classNames from 'classnames';
+import PaginationButton from './PaginationButton';
 
 const Pagination = ({ currentPage, numPages }) => {
     const isFirst = currentPage === 1;
@@ -37,17 +38,10 @@ const Pagination = ({ currentPage, numPages }) => {
                             </li>
                         )}
                         {/* First page */}
-                        <li class="usa-pagination__item usa-pagination__page-no">
-                            <a
-                                href="/"
-                                class="usa-pagination__button"
-                                className={classNames("usa-pagination__button", {"usa-current": currentPage === 1})}
-                                aria-label="Page 1"
-                                aria-current="page"
-                            >
-                                1
-                            </a>
-                        </li>
+                        <PaginationButton
+                            page="1"
+                            isCurrent={1 === currentPage}
+                        />
                         {/* Second slot */}
                         {currentPage === 1 || ((midPoint - currentPage) < 3) ? (
                             <li
@@ -69,18 +63,12 @@ const Pagination = ({ currentPage, numPages }) => {
                             </li>
                         )}
                         {/* 3 middle slots */}
-                        {getMiddlePages(currentPage, midPoint, numPages).map((page, index) => (
-                            <li key={index}
-                                class="usa-pagination__item usa-pagination__page-no"
-                            >
-                                <a
-                                    href={`/${page}`}
-                                    class="usa-pagination__button"
-                                    className={classNames("usa-pagination__button", {"usa-current": currentPage === page})}
-                                    aria-label={`Page ${page}`}
-                                >{page}</a>
-
-                            </li>
+                        {getMiddlePages(currentPage, midPoint, numPages).map((page) => (
+                            <PaginationButton
+                                key={page}
+                                page={page}
+                                isCurrent={page === currentPage}
+                            />
                         ))}
                         {/* Sixth slot */}
                         {((numPages - currentPage) > 3) ? (
@@ -91,16 +79,10 @@ const Pagination = ({ currentPage, numPages }) => {
                                 <span>…</span>
                             </li>
                         ) : (
-                            <li class="usa-pagination__item usa-pagination__page-no">
-                                <a
-                                    href={`/${numPages - 1}`}
-                                    class="usa-pagination__button"
-                                    className={classNames("usa-pagination__button", {"usa-current": currentPage === numPages - 1})}
-                                    aria-label={`Page ${numPages - 1}`}
-                                >
-                                    {numPages - 1}
-                                </a>
-                            </li>
+                            <PaginationButton
+                                page={numPages - 1}
+                                isCurrent={numPages - 1 === currentPage}
+                            />
                         )}
                         {/* Last page */}
                         <li class="usa-pagination__item usa-pagination__page-no">
