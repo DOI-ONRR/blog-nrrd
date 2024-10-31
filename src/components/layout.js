@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 
 import { rhythm } from '../utils/typography'
 import './layout.css'
-import '../../public/assets/css/styles.css'
+import '../../uswds/assets/css/styles.css'
 import './prism-theme.css'
 import Footer from './footer.js'
 import mastImage from '../img/NRRD_blog_mast.png'

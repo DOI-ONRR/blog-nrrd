@@ -25,10 +25,10 @@ class BlogIndex extends React.Component {
         </Helmet>
 
         <div class="grid-container">
-          {posts.map(({ node }) => {
+          {posts.map(({ node, index }) => {
             const title = node.frontmatter.title || node.fields.slug
             return (
-              <div class="grid-row blog-post-item">
+              <div class="grid-row blog-post-item" key={index}>
                 <div class="grid-col" key={node.fields.slug}>
                   <h2>
                     <Link class="post-link" to={node.fields.slug}>{title}</Link>

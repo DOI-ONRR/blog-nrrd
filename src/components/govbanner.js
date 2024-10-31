@@ -1,10 +1,30 @@
-import React, { useEffect } from 'react';
-import banner from "@uswds/uswds/js/usa-banner";
+import React, { useEffect, useState } from 'react';
 
 const Banner = () => {
+  const [banner, setBanner] = useState(null);
+  const [isInitialized, setIsInitialized] = useState(false);
+
   useEffect(() => {
-    banner.on();
+    // Dynamically import the `@uswds/uswds/js/usa-banner` module only in the browser. 
+    // This avoids errors during the Gatsby build process
+    import('@uswds/uswds/js/usa-banner')
+      .then((module) => {
+        module.default.on();
+        setBanner(module.default);
+        setIsInitialized(true);
+      })
+      .catch((err) => console.error('Failed to load the banner module:', err));
   }, []);
+
+  useEffect(() => {
+    if (isInitialized) {
+      document.querySelector('section.usa-banner button span').click();
+      document.querySelector('section.usa-banner button span').click();
+    }
+  }, [isInitialized])
+
+  if (!banner) return null;
+
   return (
   <section
     class="usa-banner"
@@ -85,7 +105,7 @@ const Banner = () => {
                     <desc id="banner-lock-description-default">Locked padlock icon</desc>
                     <path
                       fill="#000000"
-                      fill-rule="evenodd"
+                      fillRule="evenodd"
                       d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"
                     />
                   </svg> </span
