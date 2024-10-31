@@ -9,7 +9,6 @@ const Banner = () => {
     // This avoids errors during the Gatsby build process
     import('@uswds/uswds/js/usa-banner')
       .then((module) => {
-        module.default.on();
         setBanner(module.default);
         setIsInitialized(true);
       })
@@ -18,8 +17,7 @@ const Banner = () => {
 
   useEffect(() => {
     if (isInitialized) {
-      document.querySelector('section.usa-banner button span').click();
-      document.querySelector('section.usa-banner button span').click();
+      banner.on();
     }
   }, [isInitialized])
 
@@ -37,7 +35,7 @@ const Banner = () => {
             <img
               aria-hidden="true"
               class="usa-banner__header-flag"
-              src="/assets/img/us_flag_small.png"
+              src="/assets/img/us_flag.svg"
               alt=""
             />
           </div>
