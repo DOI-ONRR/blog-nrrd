@@ -26,7 +26,7 @@ After the design studios, we performed user research on the prototypes and webpa
 This project started with requirements from outside of our agency. ONRR received a [recommendation](https://www.oversight.gov/sites/default/files/oig-reports/DOI/Final-Inspection-ReportEffectiveRoyaltyRatesPublic.pdf) from the Office of the Inspector General (OIG) to “Develop and implement a means of communicating the oil and gas effective royalty rates to stakeholders and decision makers on an ongoing basis.” Due to the short project timeline, we were unable to perform discovery research. This research would have helped us assess the demand for including effective royalty rate data on our public sites. However, in past user research studies, participants requested federal sales data on NRRD. The federal sales dataset includes the effective royalty rate. Publishing the federal sales dataset would meet the OIG recommendation and user needs.
 
 ## Design Studios
-We adaped our [design studio process](https://blog-nrrd.doi.gov/trends-design-studio/) to meet the needs and requirements of the OIG recommendation. We start design studios with a session where we “define appetite.” Appetite is our interest and capacity to take on the project. Because the OIG recommendation required us to publish federal sales data, defining appetite was not an effective use of our time. We already knew we had to complete the project and had a deadline.
+We adapted our [design studio process](https://blog-nrrd.doi.gov/trends-design-studio/) to meet the needs and requirements of the OIG recommendation. We start design studios with a session where we “define appetite.” Appetite is our interest and capacity to take on the project. Because the OIG recommendation required us to publish federal sales data, defining appetite was not an effective use of our time. We already knew we had to complete the project and had a deadline.
 
 Instead, we started with recruiting SMEs. The ONRR team that owns the dataset chose these SMEs. Our design studio group consisted of 7 SMEs from 3 different ONRR teams and our ODDD team of 6.
 
@@ -49,7 +49,7 @@ Prototype examples from Studio 1's offline work:
 *A prototype for the explore data map with annual Royalty Value Less Allowances (RVLA) of all commodities in 2017.*
 
 ### Studio 2
-We shared the lo-fi prototypes to the group. Each participant presented their prototype and other participants asked questions.
+We shared the lo-fi prototypes with the group. Each participant presented their prototype and other participants asked questions.
 
 **Offline work:**
 - ODDD facilitators developed a survey to gather feedback on the prototypes. In design studios, participants provide feedback in real time. Since most of this group was new to design studios, we changed this studio’s format to fit the participants’ needs for more anonymous feedback. Only the designers knew who submitted each survey, so that they could ask follow-up questions as needed.
@@ -76,7 +76,7 @@ We split Studio 4 into two sessions to allow plenty of presenting and feedback t
 ## User testing
 We used design studios to identify problems and agree on solutions. User testing helped us find usability issues and incorporate user feedback into the final product.
 
-We recruited participants outside of the design studio team for user interviews. These participants were unaware of the OIG recommendation. They were also unfamiliar with internal processes related to this data. We limited our participants to U.S. Department of Interior (DOI) employees because this dataset was a new and unfinalized. We wanted to recruit people that used ONRR data but do not produce ONRR datasets. 
+We recruited participants outside of the design studio team for user interviews. These participants were unaware of the OIG recommendation. They were also unfamiliar with internal processes related to this data. We limited our participants to U.S. Department of Interior (DOI) employees because this dataset was a new and unfinalized. We recruited DOI employees that used ONRR data but do not produce ONRR datasets. 
 
 ### Round 1
 This round included usability testing for prototypes of the download data and query pages. The ODDD team held a total of 13 user interviews with each lasting about 45 minutes. The participants provided valuable information, including 32 recommendations for improvement. An example of a recommendation for the query tool was to switch position of Sales Value and Sales Volume columns. This change would make the dataset reflect the ONRR 2014 form. An example of a recommendation for the download data page was to clarify the equation. This change would help users understand the progression of how reporters calculate royalties. ODDD implemented several of these recommendations immediately to improve the product.
@@ -84,7 +84,7 @@ This round included usability testing for prototypes of the download data and qu
 Our team held more user testing in Round 2. This round of testing parsed through the information-dense explore data page.
 
 ### Round 2
-This round included hallway testing for the explore data page. The explore data page has several interactive components, including a map, graphics, and tables. Three ONRR employees participated in sessions that were approximately 10 minutes long. The hallway testing resulted in 4 recommendations for the explore data page. An example of a recommendation for the explore page is to add a title for the federal sales map. This change would provide the user with information of the values represented on the map after a user chose the federal sales filter. Incorporating this new dataset and its recommendation is very time consuming because the page has many components. Our team is waiting until we bring on an additional designer to do further research and implement designs.
+This round included hallway testing for the explore data page. The explore data page has several interactive components, including a map, graphics, and tables. Three ONRR employees participated in sessions that were approximately 10 minutes long. The hallway testing resulted in 4 recommendations for the explore data page. An example of a recommendation for the explore page is to add a title for the federal sales map. This change would provide the user with information of the values represented on the map after a user chose the federal sales filter. Incorporating this new dataset and its recommendation is very time consuming because the page has many components. Our team is waiting until we bring on an additional designer to implement designs.
 
 ## Publishing the federal sales data
 
