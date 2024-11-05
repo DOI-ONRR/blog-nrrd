@@ -22,9 +22,6 @@ In the past, we limited design studio participants to ODDD team members. For thi
 Participatory design encourages product teams to include users in every step of the design process. Due to project restrictions, we were not able to include external users in the design studios. However, some of our SMEs were also users of this federal sales dataset and NRRD, so we were able to include some actual users into our design studios. After the design studios, we performed user research on the prototypes and webpages within our development site. This allowed us to gather user feedback and make impactful updates. Now that the dataset is public, we plan to include external users in future research studies.
 After the design studios, we performed user research on the prototypes and webpages within our development site.
 
-![Screen capture of the instructional ACRT spreadsheet.Column headers include: issue number, test name, test conditions, plan language instructions, ANDI notes, ONRR pass/fail notes, NRRD pass/fail notes, and additional resources](Image1.PNG)
-*Screen capture of the instructional ACRT spreadsheet.*
-
 ## Background
 This project started with requirements from outside of our agency. ONRR received a [recommendation](https://www.oversight.gov/sites/default/files/oig-reports/DOI/Final-Inspection-ReportEffectiveRoyaltyRatesPublic.pdf) from the Office of the Inspector General (OIG) to “Develop and implement a means of communicating the oil and gas effective royalty rates to stakeholders and decision makers on an ongoing basis.” Due to the short project timeline, we were unable to perform discovery research. This research would have helped us assess the demand for including effective royalty rate data on our public sites. However, in past user research studies, participants requested federal sales data on NRRD. The federal sales dataset includes the effective royalty rate. Publishing the federal sales dataset would meet the OIG recommendation and user needs.
 
@@ -46,11 +43,13 @@ We introduced the SMEs to the design studio process and expectations. Each parti
 
 Prototype examples from Studio 1's offline work:
 
-![A prototype for ONRR's compliance activites with two diagrams; The diagram on the left shows nested circles where upfront system edits in the largest circle, then data mining in the second largest, compliance reviews in the third largest circle, and audits in the smallest circle; The diagram on the right shows a circular process, where the top step is payors submit royalty data to eCommerce then goes to automated validation "upfront edits" flags potential error in eCommerce then goes to ONRR's analysts flagged errors and notify payors to make corrections then goes to ONRR processes royalty payments then goes to payors make adjustments to previous royalty payments, and then this last box circles back to the top step](prototypeonrrcompliancesteps.PNG)
+"C:\Users\mcnallya\Documents\GitHub\blog-nrrd\src\pages\Publishing-Federal-Sales-Data\Results3.PNG"
+
+![A prototype for ONRR's compliance activites with two diagrams; The diagram on the left shows nested circles where upfront system edits in the largest circle, then data mining in the second largest, compliance reviews in the third largest circle, and audits in the smallest circle; The diagram on the right shows a circular process, where the top step is payors submit royalty data to eCommerce then goes to automated validation "upfront edits" flags potential error in eCommerce then goes to ONRR's analysts flagged errors and notify payors to make corrections then goes to ONRR processes royalty payments then goes to payors make adjustments to previous royalty payments, and then this last box circles back to the top step](Prototype1.PNG)
 *A prototype for ONRR's compliance activites with two diagrams.*
 
-![A prototype with a map of annual Royalty Value Less Allowances (RVLA) all commodities 2017; This shows a map of the united states with several western states in a pale green color; The green color indicates that it has a value of RVLA; There are also notes to the right of the map: the map has annual data that can change the year a commodity; show the royalty value less allowances but if you hover over then it could show allowances and ERR; you could select individual states and offshore areas like you do for other data sets and the cards could show a further breakdown of information including a state ranking of revenue](prototypervlamap.PNG)
-*A prototype with a map of annual Royalty Value Less Allowances (RVLA) all commodities 2017.*
+![A prototype with a map of annual Royalty Value Less Allowances (RVLA) all commodities 2017; This shows a map of the united states with several western states in a pale green color; The green color indicates that it has a value of RVLA; There are also notes to the right of the map: the map has annual data that can change the year a commodity; show the royalty value less allowances but if you hover over then it could show allowances and ERR; you could select individual states and offshore areas like you do for other data sets and the cards could show a further breakdown of information including a state ranking of revenue](Prototype2.PNG)
+*A prototype for the explore data map with annual Royalty Value Less Allowances (RVLA) of all commodities in 2017.*
 
 ### Studio 2
 We shared the lo-fi prototypes to the group. Each participant presented their prototype and other participants asked questions.
@@ -67,8 +66,8 @@ We reviewed the feedback survey results and discussed the top ideas for each sec
 
 Prototype example from Studio 3's offline work:
 
-![A high-fidelity prototype of a diagram that explains the process of data development; This diagram is located in the download data page and shows a heading, "How we developed this data" with four numbered circles; Circles 1 through 3 are purple, which indicate ONRR 2014 form reporting; Circle 4 is green, which indicates OIG recommendation. Circle 1 has the title, "Deduct Royalty Relief and Quality Bank Adjustments from Sales Value"; Circle 2 has the title, "Apply Contract Royalty Rate"; Circle 3 has the title, "Deduct Allowances from Royalty Value"; Circle 4 has the title, "Calculate the Effective Royalty Rate".](prototypedatadownload.PNG)
-*A high-fidelity prototype of a diagram that explains the process of data development with four steps.*
+![A high-fidelity prototype of a diagram that explains the process of data development; This diagram is located in the download data page and shows a heading, "How we developed this data" with four numbered circles; Circles 1 through 3 are purple, which indicate ONRR 2014 form reporting; Circle 4 is green, which indicates OIG recommendation. Circle 1 has the title, Deduct Royalty Relief and Quality Bank Adjustments from Sales Value; Circle 2 has the title, Apply Contract Royalty Rate; Circle 3 has the title, Deduct Allowances from Royalty Value; Circle 4 has the title, Calculate the Effective Royalty Rate](Prototype3.PNG)
+*An interactive diagram that explains the process of data development in four steps.*
 
 ### Studio 4
 We split Studio 4 into two sessions to allow plenty of presenting and feedback time for the hi-fi prototypes. Hosting two sessions prevented burnout that could have happened during one long session. The group continued hole-poking with these hi-fi prototypes.
@@ -98,13 +97,13 @@ Through the design studios and user testing, our team published federal sales da
 - the [download data page](https://revenuedata.doi.gov/downloads/federal-sales/);
 - a redesign of the [homepage](https://revenuedata.doi.gov/) “what’s new” box to promote this newly added dataset.
 
-![A screenshot of the query tool with federal sales data on the NRRD site; The top section includes the different filters for the interactive data set, which have selected Federal Sales, Calendar Year, 2019 through 2023, all commodities, all land types, and all state and offshore regions; The data displayed is grouped by commodity and has a row for each year](resultsquerydata.PNG)
+![A screenshot of the query tool with federal sales data on the NRRD site; The top section includes the different filters for the interactive data set, which have selected Federal Sales, Calendar Year, 2019 through 2023, all commodities, all land types, and all state and offshore regions; The data displayed is grouped by commodity and has a row for each year](Results1.PNG)
 *A screenshot of the query tool with federal sales data on the NRRD site.*
 
-![A screenshot of the download data page in the federal sales section on the NRRD site; The first step is reporters submit royalty reporting, the second step is ONRR aggregates sales data, and the third step is calculation of effective royalty rate; All three steps give the readers an option to learn more with a drop down arrow](./resultsdatadownload.PNG)
+![A screenshot of the download data page in the federal sales section on the NRRD site; The first step is reporters submit royalty reporting, the second step is ONRR aggregates sales data, and the third step is calculation of effective royalty rate; All three steps give the readers an option to learn more with a drop down arrow](Results2.PNG)
 *A screenshot of the download data page in the federal sales section on the NRRD site.*
 
-![A screenshot of the what's new box on the NRRD site with information about the new dataset, federal sales; The what's new box includes a section dedicated to the new dataset with links directly to the download data page and query tool](resultswhatsnewbox.PNG)
+![A screenshot of the what's new box on the NRRD site with information about the new dataset, federal sales; The what's new box includes a section dedicated to the new dataset with links directly to the download data page and query tool](Results3.PNG)
 *A screenshot of the what's new box on the NRRD site with information about the new dataset, federal sales.*
 
 ## Next steps for federal sales data
