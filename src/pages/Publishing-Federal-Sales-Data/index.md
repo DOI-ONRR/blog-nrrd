@@ -42,9 +42,6 @@ We introduced the SMEs to the design studio process and expectations. Each parti
 - Participants produced prototypes in any way they were most comfortable. This included pencil sketches, PowerPoint charts, spreadsheets, and annotated screenshots.
 
 Prototype examples from Studio 1's offline work:
-
-"C:\Users\mcnallya\Documents\GitHub\blog-nrrd\src\pages\Publishing-Federal-Sales-Data\Results3.PNG"
-
 ![A prototype for ONRR's compliance activites with two diagrams; The diagram on the left shows nested circles where upfront system edits in the largest circle, then data mining in the second largest, compliance reviews in the third largest circle, and audits in the smallest circle; The diagram on the right shows a circular process, where the top step is payors submit royalty data to eCommerce then goes to automated validation "upfront edits" flags potential error in eCommerce then goes to ONRR's analysts flagged errors and notify payors to make corrections then goes to ONRR processes royalty payments then goes to payors make adjustments to previous royalty payments, and then this last box circles back to the top step](Prototype1.PNG)
 *A prototype for ONRR's compliance activites with two diagrams.*
 
@@ -65,7 +62,6 @@ We reviewed the feedback survey results and discussed the top ideas for each sec
 - Designers created interactive, functional hi-fi prototypes. They divided up the prototyping so each designer was working on different pages.
 
 Prototype example from Studio 3's offline work:
-
 ![A high-fidelity prototype of a diagram that explains the process of data development; This diagram is located in the download data page and shows a heading, "How we developed this data" with four numbered circles; Circles 1 through 3 are purple, which indicate ONRR 2014 form reporting; Circle 4 is green, which indicates OIG recommendation. Circle 1 has the title, Deduct Royalty Relief and Quality Bank Adjustments from Sales Value; Circle 2 has the title, Apply Contract Royalty Rate; Circle 3 has the title, Deduct Allowances from Royalty Value; Circle 4 has the title, Calculate the Effective Royalty Rate](Prototype3.PNG)
 *An interactive diagram that explains the process of data development in four steps.*
 
