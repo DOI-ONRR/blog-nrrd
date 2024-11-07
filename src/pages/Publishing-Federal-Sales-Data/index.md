@@ -94,13 +94,13 @@ Through the design studios and user testing, our team published federal sales da
 - a redesign of the [homepage](https://revenuedata.doi.gov/) “what’s new” box to promote this newly added dataset.
 
 ![A screenshot of the query tool with federal sales data on the NRRD site; The top section includes the different filters for the interactive data set, which have selected Federal Sales, Calendar Year, 2019 through 2023, all commodities, all land types, and all state and offshore regions; The data displayed is grouped by commodity and has a row for each year](Results1.PNG)
-*A screenshot of the query tool with federal sales data on the NRRD site.*
+*The query tool on the NRRD site with data filtered to federal sales data.*
 
 ![A screenshot of the download data page in the federal sales section on the NRRD site; The first step is reporters submit royalty reporting, the second step is ONRR aggregates sales data, and the third step is calculation of effective royalty rate; All three steps give the readers an option to learn more with a drop down arrow](Results2.PNG)
-*A screenshot of the download data page in the federal sales section on the NRRD site.*
+*The download data page in the federal sales section on the NRRD site.*
 
 ![A screenshot of the what's new box on the NRRD site with information about the new dataset, federal sales; The what's new box includes a section dedicated to the new dataset with links directly to the download data page and query tool](Results3.PNG)
-*A screenshot of the what's new box on the NRRD site with information about the new dataset, federal sales.*
+*The what's new box on the NRRD site with information about the new dataset, federal sales.*
 
 ## Next steps for federal sales data
 - Build explore data page for federal sales data.
