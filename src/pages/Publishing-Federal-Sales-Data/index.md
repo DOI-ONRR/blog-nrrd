@@ -19,14 +19,13 @@ In the past, we limited design studio participants to ODDD team members. For thi
 - Our team wanted to increase user and stakeholder participation in our design work;   
 - SMEs had the in-depth content knowledge we needed, as well as ideas of how customers might use this data.
 
-Participatory design encourages product teams to include users in every step of the design process. Due to project restrictions, we were not able to include external users in the design studios. However, some of our SMEs were also users of this federal sales dataset and NRRD, so we were able to include some actual users into our design studios. After the design studios, we performed user research on the prototypes and webpages within our development site. This allowed us to gather user feedback and make impactful updates. Now that the dataset is public, we plan to include external users in future research studies.
-After the design studios, we performed user research on the prototypes and webpages within our development site.
+Participatory design encourages product teams to include users in every step of the design process. Due to project restrictions, we were not able to include external users in the design studios. However, some of our SMEs were also users of this federal sales dataset and NRRD, so we were able to include some actual users into our design studios. After the design studios, we performed user research on the prototypes and draft webpages with ONRR and U.S. Department of the Interior employees. This allowed us to gather user feedback and make impactful updates. Now that the dataset is public, we plan to include external users in future research studies.
 
 ## Background
 This project started with requirements from outside of our agency. ONRR received a [recommendation](https://www.oversight.gov/sites/default/files/oig-reports/DOI/Final-Inspection-ReportEffectiveRoyaltyRatesPublic.pdf) from the Office of the Inspector General (OIG) to “Develop and implement a means of communicating the oil and gas effective royalty rates to stakeholders and decision makers on an ongoing basis.” Due to the short project timeline, we were unable to perform discovery research. This research would have helped us assess the demand for including effective royalty rate data on our public sites. However, in past user research studies, participants requested federal sales data on NRRD. The federal sales dataset includes the effective royalty rate. Publishing the federal sales dataset would meet the OIG recommendation and user needs.
 
 ## Design Studios
-We adapted our [design studio process](https://blog-nrrd.doi.gov/trends-design-studio/) to meet the needs and requirements of the OIG recommendation. We start design studios with a session where we “define appetite.” Appetite is our interest and capacity to take on the project. Because the OIG recommendation required us to publish federal sales data, defining appetite was not an effective use of our time. We already knew we had to complete the project and had a deadline.
+We adapted our [design studio process](https://blog-nrrd.doi.gov/trends-design-studio/) to meet the needs and requirements of the OIG recommendation. We start design studios with a session where we “define appetite.” Appetite is our interest and capacity to take on the project. Because the OIG recommendation required us to publish federal sales data, defining appetite was not an effective use of our time. We already knew we had to complete a specific task by a defined deadline.
 
 Instead, we started with recruiting SMEs. The ONRR team that owns the dataset chose these SMEs. Our design studio group consisted of 7 SMEs from 3 different ONRR teams and our ODDD team of 6.
 
@@ -56,10 +55,10 @@ We shared the lo-fi prototypes with the group. Each participant presented their 
 - Participants gave feedback on the prototypes via survey.
 
 ### Studio 3
-We reviewed the feedback survey results and discussed the top ideas for each section, using the requirements list from Studio 1. We also discussed possible solutions that were realistic with our resources and timeline. This is also known as “hole-poking.” The group agreed on the ideas and lo-fi prototypes that the designers would develop into high-fidelity (hi-fi) prototypes.
+We reviewed the feedback survey results and discussed the top ideas for each section, using the requirements list from Studio 1. We also discussed possible solutions that were realistic given our resources and timeline. This is also known as “hole-poking.” The group agreed on the ideas and lo-fi prototypes that the designers would develop into high-fidelity (hi-fi) prototypes.
 
 **Offline work:**
-- Designers created interactive, functional hi-fi prototypes. They divided up the prototyping so each designer was working on different pages.
+- Designers created interactive, functional hi-fi prototypes. They divided up the prototyping so each designer worked on different pages.
 
 Prototype example from Studio 3's offline work:
 ![A high-fidelity prototype of a diagram that explains the process of data development; This diagram is located in the download data page and shows a heading, "How we developed this data" with four numbered circles; Circles 1 through 3 are purple, which indicate ONRR 2014 form reporting; Circle 4 is green, which indicates OIG recommendation. Circle 1 has the title, Deduct Royalty Relief and Quality Bank Adjustments from Sales Value; Circle 2 has the title, Apply Contract Royalty Rate; Circle 3 has the title, Deduct Allowances from Royalty Value; Circle 4 has the title, Calculate the Effective Royalty Rate](Prototype3.PNG)
@@ -69,8 +68,8 @@ Prototype example from Studio 3's offline work:
 We split Studio 4 into two sessions to allow plenty of presenting and feedback time for the hi-fi prototypes. Hosting two sessions prevented burnout that could have happened during one long session. The group continued hole-poking with these hi-fi prototypes.
 
 **Offline work:**
-- Designers continued to refine prototypes. They gathered more feedback on the prototypes via surveys and email. Key ONRR stakeholders, who were not involved in the design studios, provided feedback as well. They helped ensure that we were meeting leadership requirements. It also kept them informed and engaged with the work that went into the project.
-- We updated participants on the updated prototypes and pages developed. 
+- Designers continued to refine prototypes. They gathered more feedback on the prototypes via surveys and email. Key ONRR stakeholders, who were not involved in the design studios, provided feedback as well. They helped ensure that we were meeting leadership requirements. It also kept them informed and engaged with the process.
+- We informed participants about the revised prototypes and newly developed pages. 
 - We shared user research completed on the [query](https://revenuedata.doi.gov/query-data/?dataType=Federal%20Sales) and [download data](https://revenuedata.doi.gov/downloads/federal-sales/) pages for this dataset.
 
 ## User testing
@@ -84,7 +83,7 @@ This round included usability testing for prototypes of the download data and qu
 Our team held more user testing in Round 2. This round of testing parsed through the information-dense explore data page.
 
 ### Round 2
-This round included hallway testing for the explore data page. The explore data page has several interactive components, including a map, graphics, and tables. Three ONRR employees participated in sessions that were approximately 10 minutes long. The hallway testing resulted in 4 recommendations for the explore data page. An example of a recommendation for the explore page is to add a title for the federal sales map. This change would provide the user with information of the values represented on the map after a user chose the federal sales filter. Incorporating this new dataset and its recommendation is very time consuming because the page has many components. Our team is waiting until we bring on an additional designer to implement designs.
+This round included hallway testing for the explore data page. The explore data page has several interactive components, including a map, graphics, and tables. Three ONRR employees participated in sessions that were approximately 10 minutes long. The hallway testing resulted in 4 recommendations for the explore data page. An example of a recommendation for the explore page was to add a title for the federal sales map. This change would provide the user with information of the values represented on the map after a user selected the federal sales filter. Incorporating this new dataset and its recommendation is time consuming because the page has many components. Our team is waiting until we bring on an additional designer to implement these designs.
 
 ## Publishing the federal sales data
 
