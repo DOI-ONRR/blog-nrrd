@@ -10,7 +10,7 @@ tags:
 - human centered design
 - best practices
 - user research
-date: "2024-11-12"
+date: "2024-11-19"
 ---
 
 Design studios establish project requirements, define the problem, and explore many solutions. When the Open Data, Design, and Development (ODDD) team took on the challenging project of adding federal sales data to the [revenuedata.doi.gov](revenuedata.doi.gov) (NRRD) site, we decided it was necessary to use design studios. Design studios would help us to develop the best possible design and content solutions on a short timeline.
