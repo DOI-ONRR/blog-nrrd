@@ -1,5 +1,5 @@
 ---
-title: "Publishing federal sales data: how we used design studios and user testing to develop a more user-centered dataset"
+title: "Publishing federal sales data: how we used design studios and user testing to develop a user-centered dataset"
 authors:
 - Erin Elzi
 - Alexandra McNally
@@ -40,11 +40,11 @@ We introduced the SMEs to the design studio process and expectations. Each parti
 - Participants created lo-fi prototypes and drafts for charts, graphs, text content, and process diagrams.
 - Participants produced prototypes in any way they were most comfortable. This included pencil sketches, PowerPoint charts, spreadsheets, and annotated screenshots.
 
-Prototype examples from Studio 1's offline work:
-![A prototype for ONRR's compliance activites with two diagrams; The diagram on the left shows nested circles where upfront system edits in the largest circle, then data mining in the second largest, compliance reviews in the third largest circle, and audits in the smallest circle; The diagram on the right shows a circular process, where the top step is payors submit royalty data to eCommerce then goes to automated validation "upfront edits" flags potential error in eCommerce then goes to ONRR's analysts flagged errors and notify payors to make corrections then goes to ONRR processes royalty payments then goes to payors make adjustments to previous royalty payments, and then this last box circles back to the top step](Prototype1.PNG)
-*A prototype for ONRR's compliance activites with two diagrams.*
+Prototype examples from Studio 1 offline work:
+![A prototype for ONRR's compliance activities with two diagrams. The diagram on the left shows nested circles with upfront system edits in the largest circle, then data mining in the second largest, compliance reviews in the third largest circle, and audits in the smallest circle. The diagram on the right shows a circular process of five steps connected by arrows. The top step is payors submit royalty data to eCommerce. The second step is automated validation "upfront edits" flags potential error in eCommerce. The third step is ONRR's analysts review flagged errors and notify payors to make corrections. The fourth step is ONRR processes royalty payments. In the fifth step, payors make adjustments to previous royalty payments.](Prototype1.PNG)
+*A prototype for ONRR's compliance activities with two diagrams.*
 
-![A prototype with a map of annual Royalty Value Less Allowances (RVLA) all commodities 2017; This shows a map of the united states with several western states in a pale green color; The green color indicates that it has a value of RVLA; There are also notes to the right of the map: the map has annual data that can change the year a commodity; show the royalty value less allowances but if you hover over then it could show allowances and ERR; you could select individual states and offshore areas like you do for other data sets and the cards could show a further breakdown of information including a state ranking of revenue](Prototype2.PNG)
+![A prototype with a map of annual Royalty Value Less Allowances (RVLA) all commodities 2017; This shows a map of the United States with several western states in a pale green color; The green color indicates that it has a value of RVLA; There are also notes to the right of the map: the map has annual data that can change the year a commodity; show the royalty value less allowances but if you hover over then it could show allowances and ERR; you could select individual states and offshore areas like you do for other data sets and the cards could show a further breakdown of information including a state ranking of revenue](Prototype2.PNG)
 *A prototype for the explore data map with annual Royalty Value Less Allowances (RVLA) of all commodities in 2017.*
 
 ### Studio 2
@@ -60,8 +60,8 @@ We reviewed the feedback survey results and discussed the top ideas for each sec
 **Offline work:**
 - Designers created interactive, functional hi-fi prototypes. They divided up the prototyping so each designer worked on different pages.
 
-Prototype example from Studio 3's offline work:
-![A high-fidelity prototype of a diagram that explains the process of data development; This diagram is located in the download data page and shows a heading, "How we developed this data" with four numbered circles; Circles 1 through 3 are purple, which indicate ONRR 2014 form reporting; Circle 4 is green, which indicates OIG recommendation. Circle 1 has the title, Deduct Royalty Relief and Quality Bank Adjustments from Sales Value; Circle 2 has the title, Apply Contract Royalty Rate; Circle 3 has the title, Deduct Allowances from Royalty Value; Circle 4 has the title, Calculate the Effective Royalty Rate](Prototype3.PNG)
+Prototype example from Studio 3 offline work:
+![A high-fidelity prototype of a diagram that explains the process of data development. This diagram is located in the download data page and shows a heading, "How we developed this data" with four numbered circles. Circles 1 through 3 are purple, which indicate ONRR 2014 form reporting. Circle 4 is green, which indicates OIG recommendation. Circle 1 has the title, Deduct Royalty Relief and Quality Bank Adjustments from Sales Value. Circle 2 has the title, Apply Contract Royalty Rate. Circle 3 has the title, Deduct Allowances from Royalty Value. Circle 4 has the title, Calculate the Effective Royalty Rate.](Prototype3.PNG)
 *An interactive diagram that explains the process of data development in four steps.*
 
 ### Studio 4
