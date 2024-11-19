@@ -6,7 +6,7 @@ orbs:
 executors:
   blog-executor:
     docker:
-      - image: cimg/base:stable
+      - image: cimg/base:current
     resource_class: xlarge
 
 workflows:
