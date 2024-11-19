@@ -19,7 +19,7 @@ In the past, we limited design studio participants to ODDD team members. For thi
 - Our team wanted to increase user and stakeholder participation in our design work;   
 - SMEs had the in-depth content knowledge we needed, as well as ideas of how customers might use this data.
 
-Participatory design encourages product teams to include users in every step of the design process. Due to project restrictions, we were not able to include external users in the design studios. However, some of our SMEs were also users of this federal sales dataset and NRRD, so we were able to include some actual users into our design studios. After the design studios, we performed user research on the prototypes and draft webpages with ONRR and U.S. Department of the Interior employees. This allowed us to gather user feedback and make impactful updates. Now that the dataset is public, we plan to include external users in future research studies.
+Participatory design encourages product teams to include users in every step of the design process. Due to project restrictions, we were not able to include external users in the design studios. However, some of our SMEs were also users of this federal sales dataset and NRRD, so we were able to include some actual users into our design studios. After the design studios, we performed user research on the prototypes and draft webpages with ONRR and U.S. Department of the Interior (DOI) employees. This allowed us to gather user feedback and make impactful updates. Now that the dataset is public, we plan to include external users in future research studies.
 
 ## Background
 This project started with requirements from outside of our agency. ONRR received a [recommendation](https://www.oversight.gov/sites/default/files/oig-reports/DOI/Final-Inspection-ReportEffectiveRoyaltyRatesPublic.pdf) from the Office of the Inspector General (OIG) to “Develop and implement a means of communicating the oil and gas effective royalty rates to stakeholders and decision makers on an ongoing basis.” Due to the short project timeline, we were unable to perform discovery research. This research would have helped us assess the demand for including effective royalty rate data on our public sites. However, in past user research studies, participants requested federal sales data on NRRD. The federal sales dataset includes the effective royalty rate. Publishing the federal sales dataset would meet the OIG recommendation and user needs.
@@ -75,7 +75,7 @@ We split Studio 4 into two sessions to allow plenty of presenting and feedback t
 ## User testing
 We used design studios to identify problems and agree on solutions. User testing helped us find usability issues and incorporate user feedback into the final product.
 
-We recruited participants outside of the design studio team for user interviews. These participants were unaware of the OIG recommendation. They were also unfamiliar with internal processes related to this data. We limited our participants to U.S. Department of Interior (DOI) employees because this dataset was a new and unfinalized. We recruited DOI employees that used ONRR data but do not produce ONRR datasets. 
+We recruited participants outside of the design studio team for user interviews. These participants were unaware of the OIG recommendation. They were also unfamiliar with internal processes related to this data. We limited our participants to DOI employees because this dataset was a new and unfinalized. We recruited DOI employees that used ONRR data but do not produce ONRR datasets. 
 
 ### Round 1
 This round included usability testing for prototypes of the download data and query pages. The ODDD team held a total of 13 user interviews with each lasting about 45 minutes. The participants provided valuable information, including 32 recommendations for improvement. An example of a recommendation for the query tool was to switch position of Sales Value and Sales Volume columns. This change would make the dataset reflect the ONRR 2014 form. An example of a recommendation for the download data page was to clarify the equation. This change would help users understand the progression of how reporters calculate royalties. ODDD implemented several of these recommendations immediately to improve the product.
@@ -87,7 +87,7 @@ This round included hallway testing for the explore data page. The explore data 
 
 ## Publishing the federal sales data
 
-Through the design studios and user testing, our team published federal sales data 7 weeks before the deadline set by ONRR leadership. This initial roll-out included:
+Through the design studios and user testing, our team published federal sales data 7 weeks before the deadline set by the OIG. This initial roll-out included:
 - the [query tool](https://revenuedata.doi.gov/query-data);
 - the [download data page](https://revenuedata.doi.gov/downloads/federal-sales/);
 - a redesign of the [homepage](https://revenuedata.doi.gov/) “what’s new” box to promote this newly added dataset.
@@ -95,7 +95,7 @@ Through the design studios and user testing, our team published federal sales da
 ![A screenshot of the query tool with federal sales data on the NRRD site; The top section includes the different filters for the interactive data set, which have selected Federal Sales, Calendar Year, 2019 through 2023, all commodities, all land types, and all state and offshore regions; The data displayed is grouped by commodity and has a row for each year](Results1.PNG)
 *The query tool on the NRRD site with data filtered to federal sales data.*
 
-![A screenshot of the download data page in the federal sales section on the NRRD site; The first step is reporters submit royalty reporting, the second step is ONRR aggregates sales data, and the third step is calculation of effective royalty rate; All three steps give the readers an option to learn more with a drop down arrow](Results2.PNG)
+![A screenshot of the download data page in the federal sales section on the NRRD site. The first step is reporters submit royalty reporting, the second step is ONRR aggregates sales data, and the third step is calculation of effective royalty rate. All three steps give the readers an option to learn more with a drop down arrow](Results2.PNG)
 *The download data page in the federal sales section on the NRRD site.*
 
 ![A screenshot of the what's new box on the NRRD site with information about the new dataset, federal sales; The what's new box includes a section dedicated to the new dataset with links directly to the download data page and query tool](Results3.PNG)
@@ -110,6 +110,6 @@ Through the design studios and user testing, our team published federal sales da
 The team worked together to explore lessons learned. We did this to improve our design process going forward. This project’s lessons learned include:
 
 - **Identify roles on the ODDD team** for the design studio and user testing parts of this project. This includes roles, such as a project manager, interview, recruitment, and analysis.
-- For complex projects, **create a project plan for project managers** to communicate the required level of effort required. This includes defining each task, the timeline of each task, and prioritization of the project in comparison to other work.
+- For complex projects, **create a project plan for project managers** to communicate the required level of effort. This includes defining each task, the timeline of each task, and prioritization of the project in comparison to other work.
 - **Provide basic notes on decisions made and action items** to team and participants in design studios. This could be in a running list of notes sent to entire design group after each meeting. These notes will remind participants of decisions made and action items.
 - Continue to plan projects that **move the team towards participatory design**. This project was the first time the team included people outside of ODDD in design studios. These stakeholders enhanced our understanding of this dataset and the end user's needs.
