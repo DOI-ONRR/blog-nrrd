@@ -51,7 +51,7 @@ Prototype examples from Studio 1 offline work:
 We shared the lo-fi prototypes with the group. Each participant presented their prototype and other participants asked questions.
 
 **Offline work:**
-- ODDD facilitators developed a survey to gather feedback on the prototypes. In design studios, participants provide feedback in real time. Since most of this group was new to design studios, we changed this studio’s format to fit the participants’ needs for more anonymous feedback. Only the designers knew who submitted each survey, so that they could ask follow-up questions as needed.
+- ODDD facilitators developed a survey to gather feedback on the prototypes. In design studios, participants provided feedback in real time. Since most of this group was new to design studios, we changed this studio’s format to fit the participants’ needs for more anonymous feedback. Only the designers knew who submitted each survey, so that they could ask follow-up questions as needed.
 - Participants gave feedback on the prototypes via survey.
 
 ### Studio 3
@@ -62,7 +62,7 @@ We reviewed the feedback survey results and discussed the top ideas for each sec
 
 Prototype example from Studio 3 offline work:
 ![A high-fidelity prototype of a diagram that explains the process of data development. This diagram is located in the download data page and shows a heading, "How we developed this data" with four numbered circles. Circles 1 through 3 are purple, which indicate ONRR 2014 form reporting. Circle 4 is green, which indicates OIG recommendation. Circle 1 has the title, Deduct Royalty Relief and Quality Bank Adjustments from Sales Value. Circle 2 has the title, Apply Contract Royalty Rate. Circle 3 has the title, Deduct Allowances from Royalty Value. Circle 4 has the title, Calculate the Effective Royalty Rate.](Prototype3.PNG)
-*An interactive diagram that explains the process of data development in four steps.*
+*A prototype of an interactive diagram that explains the process of data development in four steps.*
 
 ### Studio 4
 We split Studio 4 into two sessions to allow plenty of presenting and feedback time for the hi-fi prototypes. Hosting two sessions prevented burnout that could have happened during one long session. The group continued hole-poking with these hi-fi prototypes.
@@ -90,7 +90,7 @@ This round included hallway testing for the explore data page. The explore data 
 Through the design studios and user testing, our team published federal sales data 7 weeks before the deadline set by ONRR leadership. This initial roll-out included:
 - the [query tool](https://revenuedata.doi.gov/query-data);
 - the [download data page](https://revenuedata.doi.gov/downloads/federal-sales/);
-- a redesign of the [homepage](https://revenuedata.doi.gov/) “what’s new” box to promote this newly added dataset.
+- a redesign of the [homepage](https://revenuedata.doi.gov/) what’s new box to promote this newly added dataset.
 
 ![A screenshot of the query tool with federal sales data on the NRRD site; The top section includes the different filters for the interactive data set, which have selected Federal Sales, Calendar Year, 2019 through 2023, all commodities, all land types, and all state and offshore regions; The data displayed is grouped by commodity and has a row for each year](Results1.PNG)
 *The query tool on the NRRD site with data filtered to federal sales data.*
