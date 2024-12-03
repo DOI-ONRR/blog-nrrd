@@ -13,6 +13,9 @@ workflows:
   deploy-prod-workflow:
     jobs:
       - build:
+          context:
+            - org-global
+            - PROD
           filters:
             branches:
               only: master
