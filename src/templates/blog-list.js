@@ -56,7 +56,16 @@ export const pageQuery = graphql`
         description
       }
     }
-    allMarkdownRemark(sort: {frontmatter: {date: DESC}}, limit: $limit, skip: $skip) {
+    allMarkdownRemark(
+      filter: { 
+        frontmatter: { 
+          archived: { in: [false, null] } 
+        } 
+      }
+      sort: { frontmatter: { date: DESC } }
+      limit: $limit
+      skip: $skip
+    ) {
       edges {
         node {
           excerpt
