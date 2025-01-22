@@ -8,6 +8,7 @@ tags:
 - accessibility
 - National Disability Employment Awareness Month
 date: "2019-10-23"
+archived: true
 ---
 
 October is [National Disability Employment Awareness Month](https://www.dol.gov/odep/topics/ndeam/), an opportunity to raise awareness about our colleagues who experience disability, celebrate their contributions to our workplaces, and learn about how we can all help build more accessible and inclusive work practices.

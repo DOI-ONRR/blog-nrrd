@@ -9,7 +9,15 @@ exports.createPages = ({ graphql, actions }) => {
   return graphql(
     `
       {
-        allMarkdownRemark(sort: {frontmatter: {date: DESC}}, limit: 1000) {
+        allMarkdownRemark(
+          filter: { 
+            frontmatter: { 
+              archived: { in: [false, null] } 
+            } 
+          } 
+          sort: { frontmatter: { date: DESC } }
+          limit: 1000
+        ) {
           edges {
             node {
               fields {
