@@ -47,16 +47,13 @@ const AboutPage = () => {
                     <div class="grid-gap">
                         <section>
                             <h2>What guides our work</h2>
-                            <p>We are committed to delivering transparent, accessible, and user-friendly digital services. Our guiding principles are shaped by our dedication to innovation, accountability, and collaboration. We strive to make data and information readily available and understandable for all stakeholders. We want to ensure that our digital presence reflects our values of openness and inclusivity.</p>
+                            <p>We are committed to delivering transparent, accessible, and user-friendly digital services. Our guiding principles are shaped by our dedication to innovation, accountability, and collaboration. We strive to make data and information readily available and understandable for all stakeholders. </p>
                             
                             <h3>User-centered design and development</h3>
                             <p>Our team follows user-centered design and development practices as best we can. We’re always looking for research participants to help us improve the site for users. If you’re interested in participating in a user research interview, email us at <a href="mailto:nrrd@onrr.gov">nrrd@onrr.gov</a>.</p>
                             
                             <h3>Working in the open</h3>
                             <p>We work in the open, with open-source tools. We believe this approach is a good fit for government. All of our site changes and issues are captured in our <a class="usa-link usa-link--external" href="https://github.com/DOI-ONRR" target="_blank" rel="noreferrer">GitHub repositories</a>, and anyone can clone our codebase.</p>
-                            
-                            <h3>Our duty is to everyone</h3>
-                            <p>We work for the people of the United States, and thus believe our product and work processes must be accessible and inclusive to everyone. As a result, accessibility is among our core success metrics.</p>
                             
                             <h3>Important laws and regulations</h3>
                             <p>These laws reinforce ONRR’s commitment to exceptional digital service and data transparency. This is not meant to be an exhaustive list but highlights the major laws and regulations that guide our work.</p>
