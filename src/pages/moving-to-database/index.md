@@ -15,7 +15,7 @@ tags:
 date: "2019-12-03"
 ---
 
-[Natural Resources Revenue Data](https://revenuedata.doi.gov/) has been a static site since its inception. At the time, [static site generation](https://18f.gsa.gov/2016/07/11/conversation-about-static-dynamic-websites/) was on the rise as an alternative to dynamic, database-driven websites. Static site generation was (and is) particularly suited to content-heavy sites with little or no user interaction in the form of commenting, ecommerce transactions, form submission, or profile management.
+[Natural Resources Revenue Data](https://revenuedata.doi.gov/) has been a static site since its inception. At the time, static site generation was on the rise as an alternative to dynamic, database-driven websites. Static site generation was (and is) particularly suited to content-heavy sites with little or no user interaction in the form of commenting, ecommerce transactions, form submission, or profile management.
 
 This has worked well for years. Static sites have several advantages over their dynamic counterparts, including structural simplicity, security, and – in theory, at least – performance. But we started to encounter some limitations.
 

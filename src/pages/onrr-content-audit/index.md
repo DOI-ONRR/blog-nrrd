@@ -16,7 +16,7 @@ date: "2024-02-20"
 
 Fall 2023 marked one year since our Open, Data, Design, and Development (ODDD) team launched the new redesign of [onrr.gov](https://www.onrr.gov/). During this year, the ODDD team continued to innovate, improve, and add new content to the website. After so much change, I wanted to create a [content database and audit](https://blog-nrrd.doi.gov/content-audit/) similar to the one I created for [revenuedata.doi.gov](https://revenuedata.doi.gov/). This blog post covers how I coordinated with our web content owners – or subject matter experts (SMEs) – and how I developed a content database and audit for [onrr.gov](https://www.onrr.gov/). 
 
-In accordance with [M-23-22 “Delivering a Digital First Public”](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf), I established a content internal control process that involves SMEs to annually review their public-facing webpages.
+In accordance with [M-23-22 “Delivering a Digital First Public”](https://digital.gov/resources/delivering-digital-first-public-experience/), I established a content internal control process that involves SMEs to annually review their public-facing webpages.
   
 Steps I took to coordinate with SMEs include: 
 - Create a website hierarchy and identify the program responsible for each webpage. 
@@ -38,7 +38,7 @@ Let’s dive into the details!
 
 ## SME coordination 
 
-We incorporated SMEs during every step of our [redesign](https://blog-nrrd.doi.gov/modernize-government-website/) of [onrr.gov](https://www.onrr.gov/) and previously outlined how we [coordinated with SMEs](https://blog-nrrd.doi.gov/plain-language/) during this process. In accordance with [M-23-22 “Delivering a Digital First Public”](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf), I established a content internal control process that involves SMEs to annually review and approve their public-facing content. 
+We incorporated SMEs during every step of our [redesign](https://blog-nrrd.doi.gov/modernize-government-website/) of [onrr.gov](https://www.onrr.gov/) and previously outlined how we [coordinated with SMEs](https://blog-nrrd.doi.gov/plain-language/) during this process. In accordance with M-23-22 “Delivering a Digital First Public”, I established a content internal control process that involves SMEs to annually review and approve their public-facing content. 
 
 My first step of our new content internal control process was to create a hierarchy of onrr.gov. I cataloged the first three levels because there are several webpages where different program areas are responsible for different tabs within same webpage. By creating this detailed hierarchy, I made sure each section of the website had a program area assigned to it.
 
@@ -64,7 +64,7 @@ Our first question was: **how do our links open – in a new tab or the same tab
 
 Our second question was: **are the link titles ambiguous?** Answering this question will help us meet [WCAG’s success criterion 2.4.4 “Link purpose (in context)”](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-refs.html). I cataloged and evaluated all link text on our site (internal, external, email, and all document type links) and recorded if more descriptive text was needed.
 
-Our third question was: **how many external links go to non-federal websites?** Answering this question will help us protect privacy when using third party websites when engaging with the public, as described in [M-10-23 “Guidance for Agency Use of Third-Party Websites and Applications”](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-23.pdf). For all external links, I noted if the link was navigating to a non-federal webpage.
+Our third question was: **how many external links go to non-federal websites?** Answering this question will help us protect privacy when using third party websites when engaging with the public, as described in M-10-23 “Guidance for Agency Use of Third-Party Websites and Applications”. For all external links, I noted if the link was navigating to a non-federal webpage.
 
 ### Content catalog
 
