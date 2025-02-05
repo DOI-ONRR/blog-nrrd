@@ -13,7 +13,7 @@ tags:
 date: "2022-06-21"
 ---
 
-With the new [Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government (Executive Order 14058)](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government), Customer Experience (CX) has become a buzzword in the federal government. Let’s take a look at what it is.
+With the new Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government (Executive Order 14058), Customer Experience (CX) has become a buzzword in the federal government. Let’s take a look at what it is.
 
 Listening to customers is not only good for citizens, it’s [the law](https://digital.gov/resources/government-customer-service-policies-requirements-1993-to-present/).
 

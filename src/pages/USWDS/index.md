@@ -12,7 +12,7 @@ tags:
 date: "2023-02-22"
 ---
 
-The [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/) is a design system that makes it easier for federal government websites to create an accessible and mobile-friendly user experience. USWDS was created in 2015 by [18F](https://18f.gsa.gov/) and the [U.S. Digital Service](https://www.usds.gov/). 18F is the same group that initiated the work that our Open Data, Design and Development (ODDD) team at the Office of Natural Resources Revenue (ONRR) continues to do.
+The [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/) is a design system that makes it easier for federal government websites to create an accessible and mobile-friendly user experience.
 
 USWDS includes design principles, components, patterns, design tokens, utilities and templates that utilize human-centered design. Following the five USWDS design principles is required by the [21st Century Integrated Digital Experience Act (IDEA)](https://digital.gov/resources/21st-century-integrated-digital-experience-act/). We also find the key considerations and practical actions useful in determining which improvements to focus on in our agile environment.
 
@@ -36,7 +36,7 @@ We test with real people regularly. Our team is small but includes dedicated UX 
 
 The most significant aspects of earning users' trust are making services consistently available, easy to understand, working transparently, and ensuring users' privacy.
 
-The ODDD team was formed to manage the [NRRD website](https://revenuedata.doi.gov/), which was created as part of the U.S. [Extractive Industries Transparency Initiative ](https://eiti.org/ )(USEITI). This means transparency and openness has been baked into the work of our team from the start. We use open-source tools whenever we can, publishing our code and data on [GitHub](https://github.com/DOI-ONRR/). We also use the [GitHub wiki](https://github.com/ONRR/onrr.gov-site/wiki) and the [ODDD blog](https://blog-nrrd.doi.gov/) to share our processes.
+The ODDD team was formed to manage the [NRRD website](https://revenuedata.doi.gov/). Transparency and openness has been baked into the work of our team from the start. We use open-source tools whenever we can, publishing our code and data on [GitHub](https://github.com/DOI-ONRR/). We also use the [GitHub wiki](https://github.com/ONRR/onrr.gov-site/wiki) and the [ODDD blog](https://blog-nrrd.doi.gov/) to share our processes.
 
 
 In order to increase availability and resiliency while minimizing server failures or traffic spikes, we have created multiple instances for our frontend web application and the backend content management system (CMS) application. We use [CircleCi](https://app.circleci.com/pipelines/github/DOI-ONRR), which provides continuous integration, runs tests, builds frontend application, and then deploys to [cloud.gov](https://cloud.gov/). We check that our site works as intended on a daily basis. Our service agreement with [cloud.gov](https://cloud.gov/) provides us with support for resolving any issues related to the platform as well as support for resolving issues for any specific applications.

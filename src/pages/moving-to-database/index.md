@@ -21,7 +21,7 @@ This has worked well for years. Static sites have several advantages over their 
 
 ## “Source and transform nodes…”
 
-When we [migrated our codebase from Jekyll to GatsbyJS](https://revenuedata.doi.gov/blog/homepage-revamp-part-two/), we changed the way we query and update our site data. Basically, we changed our schedule and workflow from updating the site data once a year (using a [Makefile](https://www.gnu.org/software/make/) and [SQLite database](https://www.sqlite.org/index.html)) to querying an Excel file with [GraphQL](https://graphql.org/) every time we build and deploy the site.
+When we migrated our codebase from Jekyll to GatsbyJS, we changed the way we query and update our site data. Basically, we changed our schedule and workflow from updating the site data once a year (using a [Makefile](https://www.gnu.org/software/make/) and [SQLite database](https://www.sqlite.org/index.html)) to querying an Excel file with [GraphQL](https://graphql.org/) every time we build and deploy the site.
 
 Our goal was to create a workflow that would:
 
@@ -33,7 +33,7 @@ While we successfully met each of these goals, we encountered significant downsi
 
 First, a static site must be compiled (built) before deployment, and our build times ballooned from just a few minutes to over 30 minutes, most of which time was spent processing these new data queries and subsequent transformations. This slowed down our development process and hindered our productivity.
 
-Second, the builds taxed our local computer memory and that of our hosting service, [Federalist](https://federalist.18f.gov/), crashing builds and limiting the number of concurrent builds we could run.
+Second, the builds taxed our local computer memory and that of our hosting service, Federalist, crashing builds and limiting the number of concurrent builds we could run.
 
 Third, we’re transferring to the user’s computer all the data for a given page at once, as opposed to accessing from a database only what the user requests at any given time.
 
@@ -133,7 +133,7 @@ Our star schema consists of three fact tables: one each for revenue, disbursemen
 
 ## Federalist to cloud.gov
 
-Moving to a database means migrating away from our excellent static-site hosting service, [Federalist](https://federalist.18f.gov/). We were one of Federalist’s first customers, and it has been a reliable service that allows us to [focus on our content instead of worrying about compliance and servers](https://federalist.18f.gov/assets/documents/doi-success.pdf).
+Moving to a database means migrating away from our excellent static-site hosting service, Federalist. We were one of Federalist’s first customers, and it has been a reliable service that allows us to focus on our content instead of worrying about compliance and servers.
 
 Thankfully, we have a database-friendly alternative in the form of [cloud.gov](https://cloud.gov/). We get the same compliance benefits, but we’ll have the ability to host our Hasura and database services using [Docker containers](https://www.docker.com/) in the cloud.
 
