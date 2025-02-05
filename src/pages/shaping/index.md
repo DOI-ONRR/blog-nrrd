@@ -10,6 +10,7 @@ tags:
 - collaboration
 - training
 date: "2020-06-17"
+archived: true
 ---
 
 Most of us in government have by now heard the familiar phrase: The strategy is delivery. (Or its variant: Delivery is the strategy.)​ It’s a useful phrase. ​

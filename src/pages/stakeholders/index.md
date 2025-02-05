@@ -11,7 +11,7 @@ date: "2021-05-19"
 ---
 ## Framing the problem
 
-For the [Natural Resources Revenue Data (NRRD) website](https://revenuedata.doi.gov/), we often start a project with a [design studio]( https://blog-nrrd.doi.gov/remote-design-studio/). We start here to solve a problem we’ve identified through user research.  
+For the [Natural Resources Revenue Data (NRRD) website](https://revenuedata.doi.gov/), we often start a project with a design studio. We start here to solve a problem we’ve identified through user research.  
 
 We took a different approach to redesign the Office of Natural Resources Revenue’s (ONRR) primary website, [ONRR.gov]( https://www.onrr.gov/). ONRR.gov's primary goal is to communicate about the agency and reporting requirements. To reach this goal, we needed to partner with internal stakeholders from all areas of ONRR. This enabled us to learn about the domain before we could begin to better explain things to users. Our approach was to iteratively review [wireframes](https://gyxrzs.axshare.com) with each team at ONRR.  
 

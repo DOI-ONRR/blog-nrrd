@@ -12,6 +12,7 @@ tags:
 - user experience
 
 date: "2022-08-19"
+archived: true
 ---
 
 Private sector organizations use revenue as the primary measurement to justify improving experiences. Many government services don’t have revenue as a lever, so how can we justify work to improve experience? We have leveraged a few metrics on our team at the Office of Natural Resources Revenue (ONRR). They fall into three categories: laws and regulations, improving the experience for users, and saving time for employees.

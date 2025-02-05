@@ -7,14 +7,13 @@ excerpt: "This blog post discusses our interview findings and outlines our next 
 tags:
 - accessibility
 - section 508
-- inclusion
 - user experience
 - public service
 - government
 date: "2022-01-20"
 ---
 
-Accessibility is the foundation for inclusion, diversity, and equity within the federal government. The main way the government establishes accessibility requirements for information and communication technology is through [Section 508 of the Rehabilitation Act](https://www.access-board.gov/law/ra.html). Our team recently [documented](https://blog-nrrd.doi.gov/accessibility/) the steps we took to ensure all documents on onrr.gov are Section 508 compliant. This daunting task is now complete!
+ The main way the government establishes accessibility requirements for information and communication technology is through [Section 508 of the Rehabilitation Act](https://www.access-board.gov/law/ra.html). Our team recently [documented](https://blog-nrrd.doi.gov/accessibility/) the steps we took to ensure all documents on onrr.gov are Section 508 compliant. This daunting task is now complete!
 
 During the last few months of the onrr.gov document compliance project, we decided to interview our stakeholders to better understand (1) the current level of understanding ONRR employees have of 508 compliance, and (2) what we need to do to make all ONRR resources (not just onrr.gov) 508 compliant. This blog post discusses our interview findings and outlines our next steps to ensure ONRR continues to be at the forefront of Section 508 compliance. For further details, our study plan and a presentation of our findings can be found in [GitHub](https://github.com/ONRR/research/tree/master/onnr-dot-gov-research/09_508_Study).
 
@@ -40,13 +39,13 @@ The majority emphasized that it is important and easier to achieve compliance by
 
 To address these shortcomings, participants expressed that they would like to see an established 508 remediation process. They also emphasized that some form of document review should take place annually.
 
-##Training Resources
+## Training Resources
 
 To make existing documents 508 compliant, most document remediators “learned by doing.” Remediators who were tasked with updating many documents attended training specific to the source material software as well as Adobe-specific training. They also utilized the Department of the Interior (DOI) level compliance officer for troubleshooting help. As several people within ONRR became well-versed in document remediation, they then helped new remediators learn the process.
 
 Remediators noted that there was a lack of current resources within ONRR and DOI. Going forward, they noted the need for more advanced training resources, and clarity and consistency of best practices for remediating documents.
 
-##Compliant Material Needs
+## Compliant Material Needs
 
 We asked those who required 508 compliant documents specific questions to better understand what employees with disabilities need to fully and independently use materials. Out of everyone interviewed, 19% of participants required 508 compliant materials. Participants’ disabilities included degrees of colorblindness, low vision/blindness, and hearing impairment.
 
