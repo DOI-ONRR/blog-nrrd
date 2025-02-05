@@ -22,7 +22,7 @@ I quickly learned that the Open Data, Design, & Development team (formerly the D
 
 The team also manages [ONRR’s 508 compliance project](https://blog-nrrd.doi.gov/accessibility/), focuses on how to make the NRRD portal easier for our customers to understand (through user-centered design), and they are working to [redesign ONRR.gov](https://blog-nrrd.doi.gov/stakeholders/) and overhaul the process for creating and maintaining the website.  My explanation of the team’s charge does not do justice to the amount of work and coordination they perform.
 
-My biggest take-away from my time with the ODDD team actually had nothing to do with data or website maintenance and design.  My biggest take away was how this team is stellar at communicating.  In my opinion, **this team is the model of what a high-functioning virtual team looks like**.  Not only do they collaborate effectively amongst themselves as a team; but they regularly coordinate with interns, other program areas, ONRR leadership, and other agencies.
+My biggest take-away from my time with the ODDD team actually had nothing to do with data or website maintenance and design.  My biggest take away was how this team is stellar at communicating.  In my opinion, this is the model of what a high-functioning team looks like.  Not only do they collaborate effectively amongst themselves as a team; but they regularly coordinate with interns, other program areas, ONRR leadership, and other agencies.
 
 How do they do this?  Agile project management.  Agile project management is a framework for working towards a common goal in a manner that focuses on what can be accomplished in a short time period, called sprints (for the team a sprint is 2 weeks long) and adjusting and making changes as necessary (an iterative approach).  The key to the agile methodology is constant communication.  If you want to learn more about agile project management, I found this [website](https://www.atlassian.com/agile/project-management) helpful.
 
@@ -54,7 +54,7 @@ Additionally, the team has long-term planning meetings:
 
  - Backlog grooming - One meeting a month to review any remaining issues, determine how they should be prioritized, figure estimates (a number that represents complexity and time), and assign them to team members
 
- - Ad-hoc design studios - One to two day meetings to discuss and [plan the aspects of large upcoming initiatives](https://blog-nrrd.doi.gov/remote-design-studio/)
+ - Ad-hoc design studios - One to two day meetings to discuss and plan the aspects of large upcoming initiatives
 
 Longer term planning includes three two-week sprints per six-week roadmap, as well as backlog grooming every four weeks.
 
