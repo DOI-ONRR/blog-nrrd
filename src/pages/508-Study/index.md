@@ -7,7 +7,6 @@ excerpt: "This blog post discusses our interview findings and outlines our next 
 tags:
 - accessibility
 - section 508
-- inclusion
 - user experience
 - public service
 - government

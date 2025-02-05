@@ -7,6 +7,7 @@ tags:
 - content design
 - content strategy
 date: "2019-05-16"
+archived: true
 ---
 
 Over the years, I've found the discipline of content strategy to be...malleable. Sure, there are principles that guide the overarching approach, but the day-to-day mechanics of the job are shaped by the organization's culture, its mission, the composition of the team, and the history and trajectory of the product itself, among other variables.

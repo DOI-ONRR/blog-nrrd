@@ -8,10 +8,8 @@ tags:
 - metrics
 - 21st Century Integrated Digital Experience Act (IDEA)
 - customer experience
-- OMB Circular A-11
 - Open, Public, Electronic and Necessary Government Data Act (OPEN)
 - Section 508
-- M-23-22
 
 date: "2024-01-18"
 ---
@@ -23,7 +21,7 @@ The ODDD team traditionally has maintained measures to justify our work and trac
 2. harmonize with policies governing federal public websites.   
 
 ## Reassessment of metrics plan 
-This decision to reassess our existing metrics plan was influenced by the [Delivering a Digital-First Public Experience]( https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf) memo that was published in September 2023.  The memo serves as guidance to federal agencies as they continue to implement the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/delivering-digital-first-public-experience/) (21st Century IDEA). Following a collective team review, we observed that the websites under our management generally align with the memo’s guidelines, but we also identified specific areas for improvement. Reviewing the memo also revealed that we could enhance our work tracking to effectively demonstrate our compliance.   
+This decision to reassess our existing metrics plan was influenced by the Delivering a Digital-First Public Experience  memo that was published in September 2023.  The memo serves as guidance to federal agencies as they continue to implement the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/delivering-digital-first-public-experience/) (21st Century IDEA). Following a collective team review, we observed that the websites under our management generally align with the memo’s guidelines, but we also identified specific areas for improvement. Reviewing the memo also revealed that we could enhance our work tracking to effectively demonstrate our compliance.   
 
 ### Misalignment with annual goals and policies 
 In the beginning of each fiscal year, the team develops high level goals for each website. The goals are categorized into data, content, accessibility, technical solutions, usability testing, design, and outreach. The prioritization of these goals is based on their perceived value and the complexity involved in implementing them. Goals that add substantial value to users with low technical complexity are designated as high priority.   
@@ -49,29 +47,16 @@ By embedding the metrics tracking sheet in our work planning document, we aim to
 
 Additionally, we are optimizing our organizational efficiency by applying labels through our project management tool. This enables us to categorize tasks based on the specific metrics goals. 
 
-![Metrics tracking sheet by category](Metrics.png)
-
 ## Laws, regulations, and policies 
 We most often discuss [21st Century IDEA](https://digital.gov/resources/delivering-digital-first-public-experience/) (2018) as a justification and guide for our team but there are numerous authorities that direct our work. We incorporate best practices in website management, user-centered design, customer service, open data and government, and accessibility into our work products to deliver a digital-first customer experience. 
 
-21st Century IDEA requires federal agencies to enhance the digital experience for government by modernizing websites, digitizing services, and improving customer experience. The Office of Management and Budget (OMB) published [Delivering a Digital-First Public Experience](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf) (M-23-22) this year to help federal agencies implement 21st Century IDEA.   
+21st Century IDEA requires federal agencies to enhance the digital experience for government by modernizing websites, digitizing services, and improving customer experience. The Office of Management and Budget (OMB) published Delivering a Digital-First Public Experience (M-23-22) this year to help federal agencies implement 21st Century IDEA.   
 
-M-23-22 specifically requires agencies to follow these requirements:  
-
-* Accessible to people of diverse abilities 
-* Consistent visual design and agency brand identity 
-* Content that is authoritative and easy to understand 
-* Information and services that are discoverable and optimized for search
-* Secure by design, secure by default 
-* User-centered and data-driven design 
-* Customized and dynamic user experiences 
-* Mobile-first design that scales across varying device sizes 
-
-The [President’s Management Agenda (PMA), Priority 2](https://www.performance.gov/pma/cx/): Delivering Excellent, Equitable, and Secure Federal Services and Customer Experience is reflected in M-23-22 and in the following Executive Order and guidance.  
+The President’s Management Agenda (PMA), Priority 2: Delivering Excellent, Equitable, and Secure Federal Services and Customer Experience is reflected in M-23-22 and in the following Executive Order and guidance.  
 
 [Executive Order 14058 on Transforming the Customer Experience and Federal Service Delivery to Rebuild Trust in Government](https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government) (2021) directs named agencies that are deemed High Impact Service Providers (HISPs) to take specific actions to deliver better federal customer experience. 
 
-OMB further released more detailed guidance to implement this order in [OMB Circular A-11, Section 280](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf). Section 280 requires these HISPs to conduct customer research, collect user feedback, analyze the collected data, and use data driven decision making. We are not a HISP but we are committed to providing an excellent customer experience for our users, so we incorporated this guidance into our goals and metrics.  
+OMB further released more detailed guidance to implement this order in OMB Circular A-11, Section 280. Section 280 requires these HISPs to conduct customer research, collect user feedback, analyze the collected data, and use data driven decision making. We are not a HISP but we are committed to providing an excellent customer experience for our users, so we incorporated this guidance into our goals and metrics.  
 
 [The Open, Public, Electronic and Necessary (OPEN) Government Data Act](https://data.gov/open-gov/) (2019) provides a sweeping, government-wide mandate for federal agencies to publish all their information as open data – using standardized, non-proprietary formats. [Data.gov](https://data.gov/) is the federal government’s open data site and is working to build a comprehensive repository for federal agencies and their datasets.  
 

@@ -8,6 +8,7 @@ tags:
 - training
 - public service
 date: "2019-03-14"
+archived: true
 ---
 
 If you had asked me two years ago what a product manager is, I wouldn’t have known. And, yet, today, that is one of my titles.

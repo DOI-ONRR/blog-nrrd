@@ -18,6 +18,7 @@ tags:
 - development
 - transition
 date: "2018-12-20"
+archived: true
 ---
 
 _This is the second post in a two-part series about our homepage redesign. [Read part one here](/homepage-revamp/)._
