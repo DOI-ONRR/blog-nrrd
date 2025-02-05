@@ -3,7 +3,7 @@ title: "What agile looks like at the Office of Natural Resources Revenue"
 authors:
 - Lindsay Goldstein
 - Shannon McHarg
-excerpt: "We started using agile development when we were working with 18F. We reflect on where we're at today, 5 years later."
+excerpt: "We reflect on how we've adapted agile for our small team."
 tags:
 - agile
 - product strategy
@@ -12,9 +12,8 @@ tags:
 date: "2022-07-13"
 ---
 
-Agile at the Office of Natural Resources Revenue (ONRR) started with [18F](https://18f.gsa.gov/). Our Natural Resources Revenue Data website was created as part of the U.S. [Extractive Industries Transparency Initiative](https://eiti.org/) (USEITI) by a Presidential Innovation Fellow, Michelle Hertzfeld. That fellow went on to become a founder of 18F, so USEITI became one of 18F’s first projects. The team working on USEITI started using a scrum-based agile with 18F. We’ve adapted our agile practices over time to meet our needs.
 
->“The Agile Manifesto is realized at 18F in the combined practices of iterative software development, product management, user-centered design, and DevOps.” From [18F’s Agile Principles and 18F Practices](https://agile.18f.gov/18f-agile-approach/)
+The [Agile Manifesto](https://agilemanifesto.org/) emphasizes valuing individuals and interactions, working software, customer collaboration, and responding to change over rigid processes and tools. 
 
 Let’s look at how we’ve taken these practices and made them our own.
 
@@ -22,9 +21,7 @@ Let’s look at how we’ve taken these practices and made them our own.
 We are a small, agile team that works on ONRR’s public-facing websites. The first is an open data site, the [Natural Resources Revenue Data website](https://revenuedata.doi.gov/). This site presents production, revenue, and disbursement data for oil, gas, and minerals produced on federal and Indian lands. The second is the agency’s main website, [ONRR.gov](https://www.onrr.gov/). Companies that lease federal and Indian lands use this site to report production and revenue of natural resources on leased lands.
 
 ## Product management
->“We start with a product vision and strategy, informed by users and the overall mission of 18F or one of our partner agencies. We do this so that the work always stays connected to an overarching goal that everyone understands and is excited about.” From [18F’s Agile Principles and 18F Practices](https://agile.18f.gov/18f-agile-approach/)
-
-At ONRR, we’ve spent quite a bit of time working on product strategy. We’ve held workshops to define the problem statement and vision for both of our public websites. We continue to revise them over time as we learn more about the websites’ users. From 18F, we learned the importance of having a product strategy to ensure we know where we’re going. Agile is JUST a way of doing work, you still need to know what you're doing before you start.
+At ONRR, we’ve spent quite a bit of time working on product strategy. We’ve held workshops to define the problem statement and vision for both of our public websites. We continue to revise them over time as we learn more about the websites’ users. We've learned the importance of having a product strategy to ensure we know where we’re going. Agile is JUST a way of doing work, you still need to know what you're doing before you start.
 
 ### Natural Resources Revenue Data website
 #### Problem statement
@@ -45,7 +42,6 @@ Native Americans and the public need to understand their revenues and ensure we 
 We communicate the role of the Office of Natural Resources Revenue. We deliver trusted and easy to use information and customer service. This enables companies who lease federal and Indian lands to accurately report production and pay revenue due.
 
 ### User-centered design
->“We conduct discovery research before we build anything. Depending on the complexity of your problem space, this can take up to 2 to 3 months. As opposed to ‘requirements gathering’, this process involves actually visiting with users and prototyping to test out multiple concepts quickly before investing a lot of money in building something.” From [18F’s Agile Principles and 18F Practices](https://agile.18f.gov/18f-agile-approach/)
 
 We base our website design for both of our websites on users. The user-centered design process is ongoing, it never ends. We start by understanding problems based on previous user research, data requests, or analytics. We then shape solutions by putting ourselves in the shoes of the users. Then we build and validate products using agile processes. We repeat and iterate as we learn more about users.
 
@@ -53,14 +49,10 @@ We base our website design for both of our websites on users. The user-centered 
 
 
 ## Iterative software development
->“When we build, we aim to release early and often to real users in real life situations. Ultimately, the government’s investment should be measured in working software, not phase documents or milestones.” From [18F’s Agile Principles and 18F Practices](https://agile.18f.gov/18f-agile-approach/)
-
 As part of the user-centered design process described above, we iterate the solutions as we learn more about the problems. The cycle never ends. We factor tasks in every phase of our iterative cycle into our agile backlog, sprints, and epics.
 
 ## DevOps: Agile execution
->“We also work to ensure that the infrastructure and process is there to enable continuous delivery of software to real users (DevOps), and that a clear agile delivery process is set up. Teams are free to tailor their agile process to suit their own situations.” From [18F’s Agile Principles and 18F Practices](https://agile.18f.gov/18f-agile-approach/)
-
-
+Dev ops and agile are crucial for fostering collaboration and flexibility in software development, enabling us to deliver high-quality products rapidly and respond effectively to the evolving needs of our users. 
 
 ### Two-week sprints
 We work in two-week sprints. Each sprint includes daily standups, sprint planning, weekly synch up, sprint demo, and sprint review/retro. We decide what individuals are working on at the beginning of each sprint. We define sprint goals based on previous velocity estimates. Everything goes into the two-week sprints. This includes user research, design, content strategy, development, analysis, and quality reviews.
@@ -72,7 +64,7 @@ Every 6 weeks (or 3 sprints) is an epic. These help us to keep sight of where we
 
 We refine the backlog once a month. We remove old issues and prioritize and estimate ones we want to keep.
 
-We conduct ad hoc [design studios](https://blog-nrrd.doi.gov/shaping/), as needed, to shape solutions for larger projects. These involve meetings over a few weeks. We define the problem, sketch solutions offline, poke holes in the solutions and decide on what approach we want to take.
+We conduct ad hoc design studios, as needed, to shape solutions for larger projects. These involve meetings over a few weeks. We define the problem, sketch solutions offline, poke holes in the solutions and decide on what approach we want to take.
 
 ![Diagram demonstrating our long-term planning. Epic (road mapping) is comprised of three 2-week sprints. Backlog refinement is every four weeks or two sprints](./Planning.png)
 

@@ -7,7 +7,6 @@ excerpt: "Our approach to making 5,000 documents on onrr.gov accessible."
 tags:
 - accessibility
 - section 508
-- inclusion
 - user experience
 - public service
 - government

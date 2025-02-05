@@ -8,6 +8,7 @@ tags:
 - design
 - remote
 date: "2020-03-20"
+archived: true
 ---
 
 ## How we work remotely

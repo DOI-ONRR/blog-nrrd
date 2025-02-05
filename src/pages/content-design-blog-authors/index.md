@@ -8,6 +8,8 @@ tags:
 - content strategy
 - gatsbyjs
 date: "2019-03-27"
+archived: true
+
 ---
 
 I've been thinking about how our options as content designers can be expanded or limited based on our site architecture (and our understanding of it). And while content strategists often depend on other team members (developers) to scope the desired features and build the supporting architecture, understanding how your architecture is built (or can be built) can spark your content design process.

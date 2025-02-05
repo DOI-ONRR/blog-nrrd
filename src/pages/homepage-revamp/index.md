@@ -15,6 +15,7 @@ tags:
 - prototypes
 - product framing
 date: "2018-12-06"
+archived: true
 ---
 
 _This is part one of a two-part series about our homepage redesign. [Read part two here](/homepage-revamp-part-two/)._
