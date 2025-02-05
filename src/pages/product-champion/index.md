@@ -24,11 +24,9 @@ Judy does everything with passion. She cares deeply about her work, the people s
 
 ## Bring in the experts
 
-In order to make our website open and usable, Judy knew that she needed people who knew about creating open source websites with users. She engaged a Presidential Innovation Fellow, Michelle Hertzfeld, to help her start the site with users in mind from the beginning. Michelle designed a beta of the site and, at the end of her fellowship, became one of the founding members of [18F](https://18f.gsa.gov/).
+In order to make our website open and usable, Judy knew that she needed people who knew about creating open source websites with users. She engaged a Presidential Innovation Fellow, Michelle Hertzfeld, to help her start the site with users in mind from the beginning.
 
-Judy wanted to continue working with Michelle and people like her, so she lobbied for the EITI website to become one of 18F’s first projects. It wasn’t a given that the project would be accepted, so Judy worked to showcase the site as a demonstration of the value 18F could provide to an organization. The project was accepted by 18F and was a project that helped shape the model for that organization.
-
-After working with 18F for several years, it became time to think about the long-term plan to keep the site going. Judy worked with 18F to transition existing staff into digital roles – training a new product owner and program analyst – and hiring an innovation design team with similar skills to the 18F team. Judy did this all while taking on a higher level role and additional teams at ONRR.
+Judy worked to transition existing staff into digital roles – training a new product owner and program analyst – and hiring an innovation design team. Judy did this all while taking on a higher level role and additional teams at ONRR.
 
 ## Work within constraints
 
