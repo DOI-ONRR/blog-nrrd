@@ -11,7 +11,7 @@ tags:
 date: "2024-10-07"
 ---
 
-Accessibility is one of the foundational pillars for inclusion, diversity, and equity within the federal government. The main way the government establishes accessibility requirements for information and communication technology is through [Section 508 of the Rehabilitation Act](https://www.access-board.gov/about/law/ra.html). The Office of Natural Resources Revenue (ONRR) is committed to making its digital products accessible. Our Open Data, Design, and Development (ODDD) team has previously chronicled ONRR’s efforts to [implement accessibility policy](https://blog-nrrd.doi.gov/accessibility/), [create accessible products](https://blog-nrrd.doi.gov/beyond-auto/), and [evaluate what accessibility resources are needed](https://blog-nrrd.doi.gov/508-Study/). 
+The main way the government establishes accessibility requirements for information and communication technology is through [Section 508 of the Rehabilitation Act](https://www.access-board.gov/about/law/ra.html). The Office of Natural Resources Revenue (ONRR) is committed to making its digital products accessible. Our Open Data, Design, and Development (ODDD) team has previously chronicled ONRR’s efforts to [implement accessibility policy](https://blog-nrrd.doi.gov/accessibility/), [create accessible products](https://blog-nrrd.doi.gov/beyond-auto/), and [evaluate what accessibility resources are needed](https://blog-nrrd.doi.gov/508-Study/). 
 
 This blog details how we strive to manually test all our digital products by providing plain language instructions for all testers to follow. Developing these instructions ensures that manual testing methodology is uniform across our agency. It also eases testers’ burden by reducing the amount of time needed to understand each accessibility requirement.
 
@@ -73,7 +73,7 @@ As Trusted Testers, Erin and Lindsay took on large projects like our annual Sect
 
 Because manual accessibility testing of websites is only one of my team’s many tasks, I wanted to write instructions that remind us of all the testing requirements and ensure that people new to our team can easily learn the process. 
 
-Instead of a wiki page (like I did for document testing), I created an [instructional spreadsheet focused on ACRT](https://github.com/DOI-ONRR/research/blob/main/accessibility/2024_ACRT_Instructions.xlsx) to help us with the annual Section 508 assessment. Within the spreadsheet I included:  
+Instead of a wiki page (like I did for document testing), I created an [instructional Excel spreadsheet focused on ACRT](https://github.com/DOI-ONRR/research/blob/main/accessibility/2024_ACRT_Instructions.xlsx) to help us with the annual Section 508 assessment. Within the spreadsheet I included:  
 
 - the ACRT test condition and corresponding WCAG identifier,
 - a plain language explanation of the ACRT test condition,
