@@ -21,7 +21,7 @@ In this blog, we walk you through our planning and implementation process for Se
 
 ![Screenshot of onrr.gov’s homepage, where the main navigation, hero image, additional navigation cards, and announcement cards are located. The search bar is located in the top right corner, emphasized with a red box.](./Onrr.gov-SearchBar-Image.PNG)
 
-##Choosing a search engine: Search.gov
+## Choosing a search engine: Search.gov
 
 The ODDD team chose to utilize [Search.gov](https://search.gov/) as the search engine for the redesigned onrr.gov. Search.gov is a product of the U.S. General Services Administration’s Technology Transformation Services. We chose Search.gov for our search engine for the following reasons:
 
@@ -29,7 +29,7 @@ The ODDD team chose to utilize [Search.gov](https://search.gov/) as the search e
 * It is a modern and highly configurable search engine.
 * The product includes excellent hands-on customer service.
 
-##Planning for search engine before launch
+## Planning for search engine before launch
 
 About six months before the launch of the redesigned website, we initiated an email to the Search.gov team inquiring about using their search engine. At this time, we had our redesigned development website fully functioning. The Search.gov team was very responsive and scheduled a Zoom meeting with us. At this initial meeting, we learned two important things we need to do before launching the new website:
 1.	Plan for redirecting links from the old site’s web pages to the appropriate new pages to avoid users getting 404 errors.
@@ -47,13 +47,13 @@ To test whether the search engine was functioning, we worked with Search.gov to 
 
 Search.gov instructed us to notify them when we launched the new website so they could replace the beta site domain with the new live site domain. Search.gov activated the new domain, and the search engine went live on the new website. 
 
-###XML sitemap submissions to Bing and Google
+### XML sitemap submissions to Bing and Google
 
-As mentioned earlier in the blog, we tested uploading the XML sitemap to GitHub in our development environment. Google and Bing require that sitemaps live directly within the root URL. We added the XML sitemap to our production environment and submitted the [sitemap URL]( https://onrr.gov/sitemap.xml) to Google and Bing.
+As mentioned earlier in the blog, we tested uploading the XML sitemap to GitHub in our development environment. Google and Bing require that sitemaps live directly within the root URL. We added the XML sitemap to our production environment and submitted the [sitemap URL](https://onrr.gov/sitemap.xml) to Google and Bing.
 
 We initially thought that by adding as many of our URLs to the XML sitemap as possible, we would have a robust and complete sitemap that would create an accurate search experience. However, we found that [Bing Webmaster Tools](https://www.bing.com/webmasters/about) and [Google Search Console](https://search.google.com/search-console/about) wouldn’t accept our first iteration of the sitemap. Using a free, online XML sitemap verifying tool, we refined the sitemap a few times. Changes we made for it to be accepted  include removing “www” from the URLs and deleting URLs containing a question mark from the XML file.
 
-###Robots and redirects 
+### Robots and redirects 
 
 Once Bing and Google accepted our new sitemaps, we waited patiently for a few weeks while both search engines indexed the new site. Both search engines continued to give top results that all pointed to the URLs for the old website, so we kept looking for anything we could do to expedite these search engines prioritizing our new URLs. This problem was amplified by reports of redirects giving a 404 error. Had all of our redirects worked as expected, we might have been more patient in waiting for Google and Bing to recognize the new URLs.
 
@@ -63,7 +63,7 @@ We discovered an unexpected problem post-launch: our new URLs are case-sensitive
 
 We still find some old URLs in search results, but they now redirect as expected. Our next goal is to indicate the new URLs as canonical since we noticed that when choosing between an old and new URL, Google lists the old URL as canonical. When Google recognizes duplicates of a page, it will prioritize the page marked as canonical in the results list. This is another aspect of crawling and indexing that is new to us, and we’re learning as we go.
 
-##Testing the search engine for accessibility 
+## Testing the search engine for accessibility 
 
 After the launch, the team wanted to evaluate the accessibility of the site’s search engine. We set out to learn more about accessibility requirements and best practices for search engines, and what we could do to make improvements. First, the team reviewed [WCAG 2.1](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=111#captions-live) to understand how to make web content more accessible to people with disabilities. While these guidelines do not contain specific search engine accessibility elements, this guidance provides criteria to be compliant with website accessibility, using four pillars: Perceivable, Operable, Understandable, and Robust.
  
@@ -74,19 +74,19 @@ We used UX blogs and articles, such as the [Agolia Web content accessibility gui
 * When presented with the search results, users should be able to bypass blocks of content that are repeated on multiple Web pages. This aligns with the WCAG Success Criterion 2.4.1: [Bypass Blocks](https://www.w3.org/WAI/WCAG22/Understanding/bypass-blocks).
 * Search bar should have a visible label of “search”; in the code, you can see the aria-label description “Search through the site content”. This aligns with the WCAG Success Criterion 1.1.1: [Non-text Content](https://www.w3.org/WAI/WCAG22/Understanding/non-text-content). 
 
-Using [the table we made to track these requirements]( https://github.com/DOI-ONRR/research/blob/main/onnr-dot-gov-research/ONRR.gov-Search-Engine-Accessibility-Elements.docx), the team identified specific elements that could be improved and created issues that have been or will be addressed on the onrr.gov website. For example, the team found that the search bar and text did not have the minimum color contrast for visually impaired users, so a [GitHub issue](https://github.com/DOI-ONRR/onrr.gov-site/issues/2463) was created to increase the color contrast between the text and the background.
+Using [the table we made to track these requirements](https://github.com/DOI-ONRR/research/blob/main/onnr-dot-gov-research/ONRR.gov-Search-Engine-Accessibility-Elements.docx), the team identified specific elements that could be improved and created issues that have been or will be addressed on the onrr.gov website. For example, the team found that the search bar and text did not have the minimum color contrast for visually impaired users, so a [GitHub issue](https://github.com/DOI-ONRR/onrr.gov-site/issues/2463) was created to increase the color contrast between the text and the background.
 
 Some of these elements led to more questions, and the team decided to meet with Search.gov again. A few months had passed between the last correspondence with the Search.gov team, so we reached out and scheduled a meeting with Search.gov’s team lead and one of the team members.
 
-##Second meeting with Search.gov 
+## Second meeting with Search.gov 
 
 Our questions for the Search.gov team fell into three categories: Search.gov’s standards for accessibility, aligning the needs of onrr.gov with Search.gov’s product, and updates from Search.gov. Here’s what we learned:
 
-###Search.gov's standards for accessibility
+### Search.gov's standards for accessibility
 
-Search.gov uses the [U.S. Web Design System (USWDS) standards]( https://designsystem.digital.gov/documentation/accessibility/#:~:text=Section%20508%20incorporates%20by%20reference,to%20perceive%20the%20information%20presented.) for 508 compliance. USWDS and Search.gov work together to ensure that their products follow their accessibility and 508 standards, which go beyond the typical 508 standards.
+Search.gov uses the [U.S. Web Design System (USWDS) standards](https://designsystem.digital.gov/documentation/accessibility/#:~:text=Section%20508%20incorporates%20by%20reference,to%20perceive%20the%20information%20presented.) for 508 compliance. USWDS and Search.gov work together to ensure that their products follow their accessibility and 508 standards, which go beyond the typical 508 standards.
 
-###Aligning the needs of onrr.gov with Search.gov’s product
+### Aligning the needs of onrr.gov with Search.gov’s product
 
 At the time of our meeting, Search.gov had recently launched their in-house developed search engine, giving clients the option to continue to use Bing or switch to the new product. Search.gov was also preparing to launch their new interface, which allows for easy faceting. Facets are a commonly used filtering tool that allows users to narrow results after a search. 
 
@@ -100,7 +100,7 @@ During the meeting, our team also discussed the possibility of tailoring Search.
 
 When we had the meeting, Search.gov was currently in the process of rebuilding and redesigning their search results site. The backend was developed; the interface was still in design. Among other improvements, many of the new features aimed to improve accessibility and results filtering.  To learn more about Search.gov's recent features of their rebuild, check out [Search.gov's release notes](https://search.gov/about/updates/releases/).
 
-##Indexing tabs using meta description 
+## Indexing tabs using meta description 
 
 Since we’re unable to use metadata tags to fine-tune our indexing, we looked for another solution to the missing pages from results. To define the scope of the problem, we ran test queries for narrow terms that we expected to produce results for specific pages, such as “Crude Oil Market Centers,” and “Initial Reporting for Processed Gas in Non-Index Zone (Major Portion) Areas.” Through this testing, we found that the labels for tabs were not being indexed. Our website has a lot of tabbed pages (including some of the most heavily visited pages on the site), so it's important that a search for these terms gets users to the content they need. The team at Search.gov helped us determine these labels weren’t indexing due to the way they’re tagged in the code.  
 
