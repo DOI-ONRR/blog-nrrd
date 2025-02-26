@@ -34,15 +34,15 @@ Maroya, ODDD Product Manager and Supervisor, and Nancy, ONRR Workforce Developme
 After sending in my application, I felt a sense of relief and inspiration—I was ready for this change.
 
 ## Experience joining the team
-The ODDD team is incredibly organized and runs their team with an [agile methodology](https://blog-nrrd.doi.gov/agile-methodology/). They use [ZenHub]( https://app.zenhub.com/workspaces/open-data-design--development-5464fa79c3cc8d7f4c384eaf/board?filterLogic=any&repos=215585796,279914708,210892300&showPRs=false&showPipelineDescriptions=false) and [GitHub](https://github.com/ONRR/) to track their work issues/tasks. I love agile because it forces you to be organized and…
+The ODDD team is incredibly organized and runs their team with an [agile methodology](https://blog-nrrd.doi.gov/agile-methodology/). They use [ZenHub]( https://app.zenhub.com/workspaces/open-data-design--development-5464fa79c3cc8d7f4c384eaf/board?filterLogic=any&repos=215585796,279914708,210892300&showPRs=false&showPipelineDescriptions=false) and [GitHub](https://github.com/DOI-ONRR) to track their work issues/tasks. I love agile because it forces you to be organized and…
 
 >"It forces you to be accountable" Lindsay Goldstein
 
-They have a structured [meeting schedule](https://github.com/ONRR/nrrd/wiki/Joining-the-Natural-Resources-Revenue-Data-project-team) with daily standups and organize their work in two week sprints, and for larger goals have roadmapping every six weeks. They have documented [basics for making distributed work work](https://github.com/ONRR/nrrd/wiki/Basics-for-making-distributed-work-work) that everyone should read because it is relevant to our current remote working.
+They have a structured [meeting schedule](https://github.com/DOI-ONRR/nrrd/wiki/Joining-the-Open-Data,-Design,-and-Development-(ODDD)-project-team) with daily standups and organize their work in two week sprints, and for larger goals have roadmapping every six weeks. They have documented [basics for making distributed work work](https://github.com/ONRR/nrrd/wiki/Basics-for-making-distributed-work-work) that everyone should read because it is relevant to our current remote working.
 
 >"Default to video for most meetings (especially daily standups, collaboration, and coworking). Things move faster because you can rely on nonverbal feedback and cues to keep the conversation moving. They also help build team empathy and avoid alienation." Corey Mahoney
 
-They are a diverse and highly skilled team with a product manager, program analysts, user experience designer, developers, a content strategist, and interns from [Virtual Student Federal Service](https://vsfs.state.gov/). Their main products are [Natural Resources Revenue Data website](https://revenuedata.doi.gov/) and are working towards [redesigning](https://blog-nrrd.doi.gov/stakeholders/) [onrr.gov](https://onrr.gov/), but they also work on many other projects.
+They are a diverse and highly skilled team with a product manager, program analysts, user experience designer, developers, a content strategist, and interns from [Virtual Student Federal Service](https://careers.state.gov/interns-fellows/virtual-student-federal-service/). Their main products are [Natural Resources Revenue Data website](https://revenuedata.doi.gov/) and are working towards [redesigning](https://blog-nrrd.doi.gov/stakeholders/) [onrr.gov](https://onrr.gov/), but they also work on many other projects.
 
 As a newbie cross trainer, the team made me feel welcome and empowered me to make improvements from day one. They had an amazing [onboarding checklist](https://github.com/ONRR/nrrd/wiki/Onboarding-checklist) that helped me get set up—every team should have an [onboarding checklist](https://blog-nrrd.doi.gov/Intern-Onboarding/), specific to their team, to get new team members set up and contributing quickly.
 
@@ -126,4 +126,4 @@ If you want to read about other cross training experiences with the ODDD team an
 * [I came for the data and stayed for the agility: reflections on my rotation with the Open Data, Design, & Development team](https://blog-nrrd.doi.gov/agile-methodology/)
 
 ###For ONRR employees
-[ONRResource](https://onrresource/Job-Rotation/) has cross training and job rotation opportunities (connect to VPN to access). If you have any questions about my cross training experience feel free to connect with me.
+ONRResource has cross training and job rotation opportunities (connect to VPN to access). If you have any questions about my cross training experience feel free to connect with me.

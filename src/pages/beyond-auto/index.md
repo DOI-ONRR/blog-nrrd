@@ -29,7 +29,7 @@ Christina decided to fix the source document to ensure accessibility going forwa
 
 She reached out to me to discuss. We talked about the recommendation from the [accessibility stakeholder interviews](https://blog-nrrd.doi.gov/508-Study/) to use locked source docs instead of PDFs. We made this recommendation to avoid the extra errors that appear after converting to PDF. Since the source document was Visio, we decided to convert it to PowerPoint because few people have Visio installed on their machines.
 
-I converted the chart to PowerPoint, did some research on alt text for the lines connecting boxes, and what the proper format for phone numbers is. As a result, I marked all the lines as decorative and added a “reports to” line to the alt text for each box to describe the hierarchy. I also formatted the phone numbers with spaces between each digit in the alt text. Then I sent this [first version of the PowerPoint org chart](./OrgChart_v1.pptx) to Sid, the Department of the Interior’s Section 508 Coordinator, to review and test with his screen reader.
+I converted the chart to PowerPoint, did some research on alt text for the lines connecting boxes, and what the proper format for phone numbers is. As a result, I marked all the lines as decorative and added a “reports to” line to the alt text for each box to describe the hierarchy. I also formatted the phone numbers with spaces between each digit in the alt text. Then I sent this [first version of the PowerPoint org chart (PPT)](./OrgChart_v1.pptx) to Sid, the Department of the Interior’s Section 508 Coordinator, to review and test with his screen reader.
 
 
 **Image: PowerPoint org chart with alt text on the boxes**
@@ -39,7 +39,7 @@ Sid called me up and shared his screen to show what the screen reader reads. It 
 
 Sid gave me two options for making the organization chart accessible. The first option was to keep the chart in PowerPoint and put in some alt text at the beginning of the document telling screen reader users to find the alt text in the notes field. The second option would be to export to PDF and describe the entire diagram as a single image. We opted for the first option.
 
-To create the [final version of the org chart](./ONRR_External_Org_Chart.pptx) using the first option, I added alt text to the logo that appears at the top of the page indicating that screen reader users should jump to the notes field. Then I described the structure of the diagram in detail within the notes field.
+To create the [final version of the org chart (PPT)](./ONRR_External_Org_Chart.pptx) using the first option, I added alt text to the logo that appears at the top of the page indicating that screen reader users should jump to the notes field. Then I described the structure of the diagram in detail within the notes field.
 
 **Image: PowerPoint org chart with alt text indicating to jump to the notes field for detailed alt text.**
 ![Screenshot of final PowerPoint file. ONRR logo is highlighted and shows alt text that says: "Office of Natural Resources Revenue Logo, For screen reader users, see the Notes field for a description of this diagram." Also shows the notes field at the bottom of the screen. See article copy for the full text of the notes field.](./OrgChart_Final.png)

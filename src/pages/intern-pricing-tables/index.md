@@ -15,7 +15,7 @@ date: "2023-06-23"
 
 To inform the redesign of [onrr.gov](https://onrr.gov/), the Open Data, Design, and Development team (ODDD) conducted [12 user research studies](https://github.com/DOI-ONRR/research/tree/main/onnr-dot-gov-research) that built upon each other. These studies shaped the design and organization of the new site. Since we work in an [iterative and user-centered design cycle](https://blog-nrrd.doi.gov/modernize-government-website/), we were ready to continue our user research with our new website!
 
-In those first few months after launching the new site, users reported the [Pricing page](https://onrr.gov/references/valuation?tabs=pricing,indian-gas-index-zone) as difficult to use. We identified a bug on the page and our part-time, Open Opportunities developer, Jeff Schwartz, was able to fix it. This alleviated some of the reported frustration with the page, but did not address all user reported problems. The team determined that user research would be necessary to identify specific problems and explore solutions. We also thought this would be a great opportunity for our intern Isabel Hernandez. Isabel started interning with ODDD in January of 2022 as part of the [Virtual Student Federal Service (VSFS)](https://careers.state.gov/interns-fellows/virtual-student-federal-service/) program. She had received some UX training in her coursework and in previous ODDD studies, but had not yet been involved in an entire research study.
+In those first few months after launching the new site, users reported the [Pricing page](https://www.onrr.gov/references/valuation?tabs=pricing) as difficult to use. We identified a bug on the page and our part-time, Open Opportunities developer, Jeff Schwartz, was able to fix it. This alleviated some of the reported frustration with the page, but did not address all user reported problems. The team determined that user research would be necessary to identify specific problems and explore solutions. We also thought this would be a great opportunity for our intern Isabel Hernandez. Isabel started interning with ODDD in January of 2022 as part of the [Virtual Student Federal Service (VSFS)](https://careers.state.gov/interns-fellows/virtual-student-federal-service/) program. She had received some UX training in her coursework and in previous ODDD studies, but had not yet been involved in an entire research study.
 
 ![Pricing page includes 5 tabs, each with a variation on the pricing table. The filter selected for Index Zone equals Oklahoma Zone 2 and the filter for All Years equals 2019 and 2022.](onrr.gov-pricing-tables.png)
 
@@ -25,7 +25,7 @@ This user research study was a first in multiple ways. It was the first study we
 
 **Isabel:** When I first saw the [Virtual Service Federal Service](https://careers.state.gov/interns-fellows/virtual-student-federal-service/) posting for the “2021/2022 UX Apprenticeship” at ONRR, I immediately wanted to apply. I had been looking for a professional internship that could help me break into the tech and UX that was remote due to the COVID-19 pandemic. This internship would teach me new skills such as learning a content management system (CMS), the stages of UX designs, note taking during user interviews, developing data dashboards, professional presentation skills, and exposure to an Agile work environment.
 
-##Planning the research study
+## Planning the research study
 
 The first step was meeting with the rest of ODDD to gather details on the problems reported by Pricing page users, as well as any pain points our team experienced in using the page. From the notes gathered in this meeting, Isabel was tasked with drafting the research plan. She was also provided with our [guide to planning user research](https://github.com/DOI-ONRR/nrrd/wiki/Research-norms-and-processes#plan-your-research), ONRR’s UX Strategy document that details the steps of problem identification through final solution building, example plans from [previous ODDD user studies](https://github.com/DOI-ONRR/research/tree/main/onnr-dot-gov-research), and online resources on writing and conducting user interviews.
 
@@ -43,7 +43,7 @@ For this study, we had both external users that might be experts and internal in
 
 To prepare for my practice interview, I went over a few videos sent by Erin on user testing facilitation techniques and reviewed resources in the [Research norms and processes wiki](https://github.com/DOI-ONRR/nrrd/wiki/Research-norms-and-processes#debrief-after-each-session).
 
- ##Conducting the study
+## Conducting the study
 
 On ODDD, all team members are trained to conduct user interviews. This allows us to share interview duties, making it easier to be flexible and meet the scheduling needs of participants. For each of these interviews, we had at least three team members present: the interviewer, one to two notetakers, and any additional team members were there to observe. Notetakers are given space during the interview to ask follow-up or clarifying questions, but otherwise the interview is conducted by the interviewer.
 
@@ -57,7 +57,7 @@ Prepare to go off script for unexpected moments. Sometimes, modifying the origin
 
 I learned that communication is crucial in an Agile environment for capturing accurate information and to meet deadlines. I found post-interview debrief meetings with the team really help capture any information that notetakers may have missed.
 
-##Analysis and recommendations 
+## Analysis and recommendations 
 
 Isabel and Erin consolidated the notetaking documents into a single spreadsheet. They coded the notes as facts (what the participant said or did) or observations (what the notetaker interpreted based on those facts). Erin coded the facts as positive experiences, pain points, surprises, or suggested improvements. The color-coded facts were moved to an online board where Lindsay and Erin used [affinity mapping](https://methods.18f.gov/decide/affinity-mapping/) techniques to create groupings. The resulting groupings, along with the observations from earlier in the analysis process, were then used to create recommendations and opportunities.
 
@@ -75,7 +75,7 @@ During an ODDD analysis meeting, I provided the team with additional reading on 
 
 For the affinity mapping, we used an online whiteboarding tool that allowed multiple users to collaborate in real time and have interactive feedback sessions. I had not previously used this tool and it was great to learn something new. 
 
-##Prototyping
+## Prototyping
 
 The first recommendation we chose to address was “explore options for clearing filters” because it was a primary question that initiated this study. Based on the research findings, we decided to use the same participant poll, and gather their input on a few high-fidelity (hi-fi) prototype options for clearing the pricing table filters.
 
@@ -91,7 +91,7 @@ During this meeting, I was introduced to the [U.S Website Design System (USWDS)]
 
 You can make prototypes via pencil sketches or on prototyping software. For this study, I created pencil sketches, which I found to be quick and easy to make. In previous projects with ODDD, I was exposed to prototyping software and how to use existing component libraries.
 
-###Examples of prototypes - low to high
+### Examples of prototypes - low to high
 
 **Low-fidelity prototype/sketch by Erin**
 ![Simple mockup drawing of the pricing table with a clear all link and option to clear each filter individually.](rough-sketch-erin.png)
@@ -102,7 +102,7 @@ You can make prototypes via pencil sketches or on prototyping software. For this
 **High-fidelity prototype**
 ![Screenshot of one hi-fidelity prototype with a Reset All Filters button and options for clearing Index Zone and Year filters individually.](prototype-pricing-tables.png)
 
-##Conclusion
+## Conclusion
 
 Even though it had only been a couple months since the launch of the redesigned site, it was apparent that the pricing tables were causing problems for some users. ODDD was looking forward to continuing user research for the new site, and it was perfect timing to give our intern more experience with UX research and design in her final months with the team. The previous projects Isabel worked on for ODDD provided the foundation for her to take a more significant role in this research. The initial interviews revealed that clearing the pricing filters was a problem for users, but did not reveal a solid solution. Since this led to the shaping process, prototyping, and a quick hallway study to get prototype feedback, it was a great opportunity for Isabel to get experience with many aspects of UX research and all phases of the iterative design process. It was also helpful for Erin, as a new member of ODDD, to learn from Lindsay the ONRR-specific methods of recruitment and research. Understanding how best to communicate with your user groups is important, and Lindsay’s expertise in this area was invaluable to the study.
 

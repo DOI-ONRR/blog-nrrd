@@ -13,13 +13,13 @@ tags:
 date: "2021-09-03"
 ---
 
-When the Director of the Office of Natural Resources Revenue (ONRR) decided to ensure all documents on onrr.gov are Section 508 compliant, we thought it would be a reasonable project. We needed to come up with a plan to correct all the documents currently on the website and a plan for any new documents requested to be uploaded on the website. We started compiling [resources](https://github.com/ONRR/onrr.gov-site/wiki/Accessibility) to share with our colleagues to help them correct documents. With our Director’s support, we sent an agency-wide notification that we are no longer uploading any new documents on the website unless they pass the accessibility checks. Then we started going through the content inventory that [one of last year's interns](https://blog-nrrd.doi.gov/intern-experience/) had put together and found out there were over 3,000 documents currently on the site. That made the project seem daunting. We weren't sure we'd be able to get through all the documents in less than several years.
+When the Director of the Office of Natural Resources Revenue (ONRR) decided to ensure all documents on onrr.gov are Section 508 compliant, we thought it would be a reasonable project. We needed to come up with a plan to correct all the documents currently on the website and a plan for any new documents requested to be uploaded on the website. We started compiling [resources](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Accessibility-guidance) to share with our colleagues to help them correct documents. With our Director’s support, we sent an agency-wide notification that we are no longer uploading any new documents on the website unless they pass the accessibility checks. Then we started going through the content inventory that [one of last year's interns](https://blog-nrrd.doi.gov/intern-experience/) had put together and found out there were over 3,000 documents currently on the site. That made the project seem daunting. We weren't sure we'd be able to get through all the documents in less than several years.
 
 ## Prioritizing documents for compliance
 
 To start making sense of the pile of documents, we looked at our site's analytics to rank the documents by usage. We knew we should fix the most used documents first. We also found more documents that weren't in the content inventory. We put together a project plan that broke down the project into three phases and we emphasized that documents should be corrected by the owner since they are the subject matter experts of their own documents, and accessibility is everyone’s responsibility. We were happy to learn that 70% of downloads over the course of a year were of the top 100 documents. We split those first 100 documents off as phase 1.
 
-At the beginning of phase 1, we ran accessibility reports on each document and assigned each document an owner. We sent each owner a list of the documents assigned to them for the phase along with the accessibility report. We also provided a link to our [wiki](https://github.com/ONRR/onrr.gov-site/wiki/Accessibility) with resources to make documents accessible. We also gave the owners a deadline of about eight weeks from the start date. One program area had the bulk of the documents, so we gave them a longer deadline of 20 weeks.
+At the beginning of phase 1, we ran accessibility reports on each document and assigned each document an owner. We sent each owner a list of the documents assigned to them for the phase along with the accessibility report. We also provided a link to our [wiki](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Accessibility-guidance) with resources to make documents accessible. We also gave the owners a deadline of about eight weeks from the start date. One program area had the bulk of the documents, so we gave them a longer deadline of 20 weeks.
 
 We defined phase 2 as the next 100 most downloaded documents, which got us to 84% of downloaded documents. We sent each document owner their list of documents and accessibility reports. We gave document owners another eight weeks to complete phase 2, but it went faster than phase 1 because the document owners were now familiar with making documents accessible.
 
@@ -77,7 +77,7 @@ Breaking it down a little further, the Department of the Interior (DOI) follows 
 
 So, maybe you're thinking, "Awesome, I'm good to go!" Well, "Yes," and possibly "No." A little more thought and Agency consideration may be necessary. Suppose you know that the intended audience may be disabled, or the group has disabled team members. In that case, I recommend making content 508 accessible upon content creation.
 
-It's important to mention that sending out non-public facing content that isn't 508 accessible might need to be made compliant. Any qualifying individual may request reasonable accommodations under [Section 504](https://www.govinfo.gov/content/pkg/USCODE-2018-title29/pdf/USCODE-2018-title29-chap16-subchapV-sec794.pdf), another section of the [Rehabilitation Act of 1973.](https://www.section508.gov/sites/default/files/rehabilitation-act-of-1973-amended-by-wioa.pdf)
+It's important to mention that sending out non-public facing content that isn't 508 accessible might need to be made compliant. Any qualifying individual may request reasonable accommodations under [Section 504 (PDF)](https://www.govinfo.gov/content/pkg/USCODE-2018-title29/pdf/USCODE-2018-title29-chap16-subchapV-sec794.pdf), another section of the [Rehabilitation Act of 1973.](https://www.section508.gov/manage/laws-and-policies/)
 
 ### Tips and tricks
 
@@ -121,7 +121,7 @@ Naturally, RRM has picked up some tips and tricks.
 ### Guidance and resources
 
 #### Law
-* [Rehabilitation Act of 1973](https://www.section508.gov/sites/default/files/rehabilitation-act-of-1973-amended-by-wioa.pdf)
+* [Rehabilitation Act of 1973](https://www.section508.gov/manage/laws-and-policies/)
 * [36 CFR 1194](https://ecfr.federalregister.gov/current/title-36/chapter-XI/part-1194)
 
 #### Department/agency policy
@@ -139,7 +139,7 @@ Naturally, RRM has picked up some tips and tricks.
 * [Video-Recordings of Webinars](https://www.doi.gov/ocio/section508/references), plus additional training resources
 * [U.S. Access Board](https://www.access-board.gov/)
 * The DOI 2020 Digital Week video [Microsoft Accessibility for the Blind](https://doimspp.sharepoint.com/sites/doi-it-enterprise-solutions/SitePages/2020%20DOI%20Digital%20Week%20-%20Videos%20and%20FAQs.aspx)
-* ONRR Data Display team [wiki page for creating accessible electronic documents](https://github.com/ONRR/onrr.gov-site/wiki/Accessibility)
+* ONRR Data Display team [wiki page for creating accessible electronic documents](https://github.com/DOI-ONRR/onrr.gov-site/wiki/Accessibility-guidance)
 * DOI recommended software add-on, [NVDA (Nonvisual Desktop Access)](https://www.microsoft.com/en-us/p/nvda-nonvisual-desktop-access/9nvl6z0tm57d?activetab=pivot:overviewtab)
 
 ## Conclusion

@@ -34,7 +34,7 @@ We also value a fun work environment, and we are committed to keeping traditions
  We adopted Agile methodologies to build and validate products, allowing us to iterate and refine as we gather more insights about our users. 
  Agile methodology is a project management approach that involves breaking projects into manageable phases and emphasizes continuous collaboration and improvement. Agile management has not only streamlined our project execution but has also created a culture that focuses on the people doing the work and how they work together. Agile has been an effective way to keep ourselves accountable. It allows us to constantly evaluate the current environment, identify uncertainties, and figure out how we can adapt without losing productivity.  
 
- ### Short-term planning schedule 
+### Short-term planning schedule 
 Agile methodology relies on a structured meeting schedule to ensure everyone is aware of work status and maintain accountability. Our team operates in two-week sprints. During each sprint we conduct sprint planning, daily stand-ups, weekly sync-ups, demo, sprint review and retrospective, and weekly one-on-one check-ins.  
 
 **Sprint planning**: At the start of each sprint, we conduct a sprint planning meeting. In sprint planning, we discuss sprint goals, break down these goals into concrete tasks, and ensure that a wide range of work is incorporated into the two-week period. This includes activities such as user research, design, content strategy, development, analysis, and quality reviews.   
@@ -66,8 +66,7 @@ We utilize GitHub to host our code and manage version control. We use labels for
 
 Some of our labels are an indication of the type of work such as “accessibility”, “user research”, content “enhancements”, “outreach”, etc.  Some of our labels are an indication of the priority level for the task, such as “showstopper”, “high”, “medium”, and “low”. Some of our labels are an indication of whether the task is an “enhancement” for the website or regular “maintenance”. Using a combination of the labels is a great way to keep record of our work as well as for metrics measurements. 
   
-
-![GitHub issues displaying labels](GitmetriHub.png)
+![GitHub issues displaying labels](GitHub.png)
 
 The ODDD team uses ZenHub for project management which  integrates with GitHub. We utilize the milestone feature to document our sprint goals. In keeping with our team's tradition of creativity and fun, we modify the sprint names by using an adjective and an animal name that both start with the same letter. We vote on these names at the beginning of each sprint, following alphabetical order. We utilize the Epic feature within ZenHub,  for roadmap meetings. In line with our naming tradition, we modify the Epic names by choosing the name of a national park or national forest, again in alphabetical order.
 

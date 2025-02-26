@@ -14,7 +14,7 @@ tags:
 date: "2024-01-24"
 ---
 
-The Open Data, Design, and Development (ODDD) team manages two public websites for the Department of the Interior at the Office of Natural Resources Revenue (ONRR). The [revenuedata.doi.gov]( https://revenuedata.doi.gov/) website provides open and transparent data on how the United States manages natural resources produced on federal and Native American lands. The agency's main website, [onrr.gov]( https://onrr.gov/) is primarily used by industry to report production and pay royalties.  
+The Open Data, Design, and Development (ODDD) team manages two public websites for the Department of the Interior at the Office of Natural Resources Revenue (ONRR). The [revenuedata.doi.gov](https://revenuedata.doi.gov/) website provides open and transparent data on how the United States manages natural resources produced on federal and Native American lands. The agency's main website, [onrr.gov](https://onrr.gov/) is primarily used by industry to report production and pay royalties.  
 
 The ODDD team traditionally has maintained measures to justify our work and track our progress. In the beginning of this fiscal year, we made a strategic decision to reassess our metrics to:
 1. align more effectively with our team's annual high-level goals. 
@@ -30,7 +30,7 @@ We focus our efforts on these top-priority annual goals by using a scale that co
 
 Our previous metrics plan didn’t correlate with our established annual goals. It also did not indicate the relevance of laws, regulations and policies that govern the management of federal public websites.  
 
- ### Mismanagement of tracking metrics  
+### Mismanagement of tracking metrics  
 In previous years, a single team member was designated as the person responsible for gathering and consolidating metrics and seeking input from other team members for data collection. However, the absence of a consistent approach and method made managing metrics a challenging task. 
  
 ## Establishing new metrics plan 
@@ -62,7 +62,7 @@ OMB further released more detailed guidance to implement this order in OMB Circu
 
 Accessibility is included in the newer digital guidance, but we continually reference [Section 508](https://www.section508.gov/) and [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG22/) (WCAG). Section 508 requires federal agencies to ensure that information and communication technology (ICT) is accessible to individuals with disabilities (1986,1998). As of 2018, Section 508 adopted WCAG (Web Content Accessibility Guidelines), developed by the World Wide Web Consortium (W3C), as the federal standard. WCAG sets a benchmark for enhancing web content accessibility and is widely recognized in digital accessibility compliance. While we aim to meet the highest level of accessibility, WCAG AAA 2.2, we recognize that it can be difficult to achieve because it sets very high standards.
 
-We also follow DOI-specific Information Management Technology (IMT) strategic priorities which are aligned to the [DOI FY 2022-2026 Strategic Plan](https://www.doi.gov/sites/doi.gov/files/u.s.-department-of-the-interior-fy-2022-2026-strategic-plan.pdf), the [DOI Information Resource Management (IRM) Strategic Plan](https://www.doi.gov/sites/doi.gov/files/uploads/doi-irm-2020-2025-strategic-plan.pdf), and the FY 2024–2029 IMT Strategic Plan (drafted for publication later this year). The Information Management Technology (IMT) strategic priorities focus on 1. Zero Trust Architecture, 2. Cybersecurity, 3. Customer Experience, 4. Information Technology Modernization, 5. Information Technology Portfolio Management, 6. Data Management, 7. Information Technology Workforce. We’ve ensured that these priorities are also reflected in our goals and metrics.  
+We also follow DOI-specific Information Management Technology (IMT) strategic priorities which are aligned to the [DOI FY 2022-2026 Strategic Plan (PDF)](https://www.doi.gov/sites/doi.gov/files/u.s.-department-of-the-interior-fy-2022-2026-strategic-plan.pdf), the [DOI Information Resource Management (IRM) Strategic Plan (PDF)](https://www.doi.gov/sites/doi.gov/files/uploads/doi-irm-2020-2025-strategic-plan.pdf), and the FY 2024–2029 IMT Strategic Plan (drafted for publication later this year). The Information Management Technology (IMT) strategic priorities focus on 1. Zero Trust Architecture, 2. Cybersecurity, 3. Customer Experience, 4. Information Technology Modernization, 5. Information Technology Portfolio Management, 6. Data Management, 7. Information Technology Workforce. We’ve ensured that these priorities are also reflected in our goals and metrics.  
 
 ## Key metrics 				  
 As mentioned earlier in the blog, we categorized our high-level goals into accessibility, content, customer experience, data, outreach, and tech. We aligned our metrics specifically with these goals and with the authorities listed in the previous section to streamline the entire process.  We have [detailed tables in our Wiki](https://github.com/DOI-ONRR/nrrd/wiki/Goals-and-metrics) that break down our metrics by category, guidance followed, goals, and what we measure. 
