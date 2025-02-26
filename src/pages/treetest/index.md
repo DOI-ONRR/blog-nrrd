@@ -12,7 +12,7 @@ tags:
 date: "2020-12-18"
 ---
 
-As we’ve approached the redesign of [onrr.gov](https://www.onrr.gov/), we’ve done several rounds of user testing, including open and closed [card sorting](https://blog-nrrd.doi.gov/card-sort/). Card sorting helped us determine the categories and subcategories that users expect to see on the website. We wanted to further confirm that we were placing the subcategories into the correct main categories and that users would be able to find the needed information, so we turned to tree testing. Tree testing was a new type of user research to our program analysts so we read a few [articles](https://www.optimalworkshop.com/learn/101s/tree-testing/ ) to get up to speed.
+As we’ve approached the redesign of [onrr.gov](https://www.onrr.gov/), we’ve done several rounds of user testing, including open and closed [card sorting](https://blog-nrrd.doi.gov/card-sort/). Card sorting helped us determine the categories and subcategories that users expect to see on the website. We wanted to further confirm that we were placing the subcategories into the correct main categories and that users would be able to find the needed information, so we turned to tree testing. Tree testing was a new type of user research to our program analysts so we read a few [articles](https://www.optimalworkshop.com/learn/101s/tree-testing/) to get up to speed.
 
 ## Getting started
 Our first step in the process was to figure out how to use our existing or free software to conduct the tree testing. After some investigation, our UX expert determined that a [clickable prototype](https://wkvlqa.axshare.com/) would serve our needs. We used the software that she already uses for prototyping so she could quickly create the testing materials. You could use any software that allows clickable interfaces to do the same thing.
@@ -39,7 +39,7 @@ Document notes:
 ![User interview notes in a word document](./word-notes.png "Word notes")
 
 ## Analysis
-After [summarizing the findings](https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/06_tree_test/Tree%20Test%20Findings.pptx?raw=true), we used [Sankey diagrams]( http://sankeymatic.com/build/) to show how users navigated from the task to the subcategory. The visualization helped to illustrate which tasks were straightforward and which ones were confusing. We had several tasks that made us feel confident that we had the right structure in place, including leading participants to report production, find contacts, file appeals, and make rent payments. The Sankey diagram below illustrates how all participants agreed on where to report production.
+After [summarizing the findings (PPT)](https://github.com/ONRR/research/blob/master/onnr-dot-gov-research/06_tree_test/Tree%20Test%20Findings.pptx?raw=true), we used [Sankey diagrams]( http://sankeymatic.com/build/) to show how users navigated from the task to the subcategory. The visualization helped to illustrate which tasks were straightforward and which ones were confusing. We had several tasks that made us feel confident that we had the right structure in place, including leading participants to report production, find contacts, file appeals, and make rent payments. The Sankey diagram below illustrates how all participants agreed on where to report production.
 
 ![Sankey diagram of user task 3](./Task-3.png)
 

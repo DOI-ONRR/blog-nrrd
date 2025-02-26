@@ -47,7 +47,7 @@ Working as a team to fill this out made sure that we all agreed about our level 
 
 ## Our results and how we scored ourselves
  
-Through this collaborative scoring process, we produced comprehensive documentation in the [ONRR scoring spreadsheet](https://github.com/DOI-ONRR/research/blob/main/Digital%20Experience/M-23-22%20self-assessment%20ONRR.xlsx). The scoring spreadsheet helped us to think about what each requirement meant then compare our products side-by-side. Other agencies can use this [template scoring spreadsheet](https://github.com/DOI-ONRR/research/blob/main/Digital%20Experience/M-23-22%20self-assessment%20Template.xlsx) if they want to do a similar exercise.
+Through this collaborative scoring process, we produced comprehensive documentation in the [ONRR scoring spreadsheet (Excel)](https://github.com/DOI-ONRR/research/blob/main/Digital%20Experience/M-23-22%20self-assessment%20ONRR.xlsx). The scoring spreadsheet helped us to think about what each requirement meant then compare our products side-by-side. Other agencies can use this [template scoring spreadsheet (Excel)](https://github.com/DOI-ONRR/research/blob/main/Digital%20Experience/M-23-22%20self-assessment%20Template.xlsx) if they want to do a similar exercise.
 
 While there are over 90 individual requirements, we will walk through each overarching category where we scored ourselves. These overarching categories were defined within M-23-22. We will discuss the general intent of each category and our team’s successes or areas of improvement related to that category.
  
