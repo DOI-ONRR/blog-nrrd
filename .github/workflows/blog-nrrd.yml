@@ -4,13 +4,13 @@ on:
   push:
     branches-ignore:
       - master
+  
   pull_request:
     branches:
       - dev
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
     outputs:
       build-dir: ${{ steps.set-output.outputs.build-dir }}
@@ -54,7 +54,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        
+
       - name: Download build artifacts
         uses: actions/download-artifact@v4
         with:
@@ -63,3 +63,11 @@ jobs:
 
       - name: Install CF CLI
         uses: ./.github/actions/cf-install
+
+      - name: Deploy to cf
+        uses: ./.github/actions/cf-deploy
+        with: 
+          cf-username: ${{ secrets.CF_USERNAME }}
+          cf-password: ${{ secrets.CF_PASSWORD }}
+          cf-space: dev
+          manifest: manifest.dev.yml
