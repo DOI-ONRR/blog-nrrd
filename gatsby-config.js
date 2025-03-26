@@ -3,7 +3,7 @@
 const BASEURL = process.env.BASEURL || '';
 
 // CircleCI production environment
-const GTM_ID = process.env.BLOG_GTM_ID
+const GTM_ID = process.env.GTM_ID
 
 module.exports = {
   siteMetadata: {

@@ -13,10 +13,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      GTM_ID: ${{ secrets.GTM_ID }}
     outputs:
       build-dir: ${{ steps.set-output.outputs.build-dir }}
 
     steps:
+    - name: Secret secret
+      run: echo "My secret is $GTM_ID"
     
     - name: Checkout code
       uses: actions/checkout@v4
