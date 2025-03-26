@@ -45,7 +45,7 @@ jobs:
         path: |
           public/
 
-  deploy_dev:
+  dev:
     needs: build
     if: github.ref != 'refs/head/master'
     uses: doi-onrr/oddd-actions/.github/workflows/cf-deploy.yml@v1
@@ -53,7 +53,7 @@ jobs:
       manifest: manifest.dev.yml
     secrets: inherit
     
-  deploy_prod:
+  prod:
     needs: build
     if: github.ref == 'refs/head/master'
     uses: doi-onrr/oddd-actions/.github/workflows/cf-deploy.yml@v1
