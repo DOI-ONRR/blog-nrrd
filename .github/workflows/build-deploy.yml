@@ -14,14 +14,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      GATSBY_GTM_ID: ${{ secrets.GTM_ID }}
+      GTM_ID: ${{ secrets.GTM_ID }}
     outputs:
       build-dir: ${{ steps.set-output.outputs.build-dir }}
 
     steps:
-    - name: Secret secret
-      run: echo "My secret is $GATSBY_GTM_ID"
-    
     - name: Checkout code
       uses: actions/checkout@v4
     
@@ -37,10 +34,10 @@ jobs:
     - name: Build application
       run: npm run build --if-present
 
-    - name: Rename _partytown directory
+    - name: Rename ~partytown directory
       run: |
-        if [ -d public/_partytown ]; then
-          mv public/_partytown public/~partytown
+        if [ -d public/~partytown ]; then
+          mv public/~partytown public/_partytown
         fi
 
     - name: Upload build artifacts
