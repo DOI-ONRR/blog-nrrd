@@ -8,6 +8,7 @@ on:
   pull_request:
     branches:
       - dev
+      - master
 
 jobs:
   build:
@@ -44,28 +45,19 @@ jobs:
         path: |
           public/
 
-  deploy:
-
+  deploy_dev:
     needs: build
+    if: github.ref != 'refs/head/master'
+    uses: doi-onrr/oddd-actions/.github/workflows/cf-deploy.yml@v1
+    with:
+      manifest: manifest.dev.yml
+    secrets: inherit
     
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Download build artifacts
-        uses: actions/download-artifact@v4
-        with:
-          path: ./public
-
-      - name: Install CF CLI
-        uses: ./.github/actions/cf-install
-
-      - name: Deploy to cf
-        uses: ./.github/actions/cf-deploy
-        with: 
-          cf-username: ${{ secrets.CF_USERNAME }}
-          cf-password: ${{ secrets.CF_PASSWORD }}
-          cf-space: dev
-          manifest: manifest.dev.yml
+  deploy_prod:
+    needs: build
+    if: github.ref == 'refs/head/master'
+    uses: doi-onrr/oddd-actions/.github/workflows/cf-deploy.yml@v1
+    with:
+      cf-space: prod
+      manifest: manifest.master.yml
+    secrets: inherit
