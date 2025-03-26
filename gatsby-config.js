@@ -5,6 +5,9 @@ const BASEURL = process.env.BASEURL || '';
 // CircleCI production environment
 const GTM_ID = process.env.GATSBY_GTM_ID
 
+console.log('GTM_ID', GTM_ID)
+console.log('process.env.GATSBY_GTM_ID', process.env.GATSBY_GTM_ID)
+
 module.exports = {
   siteMetadata: {
     title: 'Open Data, Design, & Development at the Office of Natural Resources Revenue',
