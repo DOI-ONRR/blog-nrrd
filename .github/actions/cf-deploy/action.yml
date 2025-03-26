@@ -1,5 +1,5 @@
 name: Deploy with CF CLI
-description: Uses the cf CLI to push an app
+description: Uses the cf CLI to push app
 inputs:
   cf-username:
     description: cf username
@@ -24,5 +24,4 @@ runs:
     - name: Push to Cloud Foundry
       shell: bash
       run: |
-        ls -ltr public
         cf push -f ${{ inputs.manifest }}
