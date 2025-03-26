@@ -24,5 +24,5 @@ runs:
     - name: Push to Cloud Foundry
       shell: bash
       run: |
-        ls -ltr publiv
+        ls -ltr public
         cf push -f ${{ inputs.manifest }}
