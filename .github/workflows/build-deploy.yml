@@ -1,0 +1,64 @@
+name: Build and deploy
+
+on:
+  push:
+    branches-ignore:
+      - master
+  
+  pull_request:
+    branches:
+      - dev
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      GTM_ID: ${{ secrets.GTM_ID }}
+    outputs:
+      build-dir: ${{ steps.set-output.outputs.build-dir }}
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Setup node
+      uses: actions/setup-node@v4
+      with:
+        node-version: 18
+        cache: 'npm'
+    
+    - name: Install dependencies
+      run: npm ci
+    
+    - name: Build application
+      run: npm run build --if-present
+
+    - name: Rename ~partytown directory
+      run: |
+        if [ -d public/~partytown ]; then
+          mv public/~partytown public/_partytown
+        fi
+
+    - name: Upload build artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: public
+        path: public
+
+  dev:
+    needs: build
+    if: github.ref != 'refs/head/master'
+    uses: doi-onrr/oddd-actions/.github/workflows/cf-deploy.yml@v1
+    with:
+      manifest: manifest.dev.yml
+    secrets: inherit
+    
+  prod:
+    needs: build
+    if: github.ref == 'refs/head/master'
+    uses: doi-onrr/oddd-actions/.github/workflows/cf-deploy.yml@v1
+    with:
+      cf-space: prod
+      manifest: manifest.master.yml
+    secrets: inherit
