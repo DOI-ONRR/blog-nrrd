@@ -99,7 +99,7 @@ Since ONRR’s datasets are published first DOI EDI before appearing on Data.gov
 * Usually with 24 hours, the EDI “shell” record will be populated with all the metadata in our JSON file
     * This confirms that datasets were successfully ingested by DOI EDI and assigned proper metadata records
 
-### Harvesting by data.gov
+### Harvesting by Data.gov
 
 Once DOI EDI harvests the JSON, DOI EDI schedules the JSON to be automatically harvested by Data.gov. This process is designed to occur daily, meaning our datasets would appear on Data.gov within 24 hours. 
 
