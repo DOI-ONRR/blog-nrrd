@@ -24,7 +24,7 @@ In this blog post, we’ll discuss our process of getting ONRR’s datasets on D
 
 Data.gov aggregates metadata from inventories maintained by each department. Since ONRR is an office within DOI, our first step toward publishing metadata to Data.gov was to collaborate with DOI’s Enterprise Data Inventory (EDI) team. DOI EDI is a linked data inventory that collates metadata describing all of DOI’s data assets from all DOI bureaus and offices. It provides a comprehensive listing of data assets that are generated, managed, and used to support DOI missions. We upload our data to DOI EDI first, then it makes its way to Data.gov. 
 
-![Conceptual diagram of metadata flow between catalogs. The bureau or office contributes their metadata to DOI EDI, which is then published to data.gov. There is also a metadata catalog for geospatial data (only) called GeoPlatform.gov](Image1.PNG)
+![Conceptual diagram of metadata flow between catalogs. The bureau or office contributes their metadata to DOI EDI, which is then published to data.gov. There is also a metadata catalog for geospatial data (only) called GeoPlatform.gov](Image1.png)
 *Conceptual diagram of metadata flow between catalogs. The bureau or office contributes their metadata to DOI EDI, which is then published to data.gov. There is also a metadata catalog for geospatial data (only) called GeoPlatform.gov*
 
 Each DOI bureau/office has a Data Inventory Steward. The Data Inventory Steward is responsible for ensuring all data assets within the bureau/office are available to DOI EDI and that all metadata records meet standard requirements. We reached out to ONRR’s Data Inventory Steward – Jennifer Walter – to initiate the process. Jennifer helped us get access to DOI EDI’s SharePoint site that contained introductory and technical resources and requested new user accounts for us to access the DOI EDI application. She also helped us understand the metadata requirements that each dataset must contain, and how the metadata file must be structured. She provided templates populated with example metadata content in the required structure. Data.gov and DOI EDI require metadata conforming to the DCAT-US Schema v1.1.
@@ -41,7 +41,7 @@ We also had significant help from our former UX designer, Erin Elzi. Erin was pr
 
 In total, we had 14 datasets that we wanted to publish on Data.gov. To keep all the metadata organized, we created an Excel document. Each dataset had its own tab within the Excel. For each dataset, we listed the required metadata attribute, the information needed per attribute, and then the syntax required to document the metadata value in the JSON file. Once we developed this information, we sent the JSON file to Jennifer to review. She helped us ensure that the information we provided met DOI EDI and Data.gov metadata requirements.
 
-![Screen capture of our metadata Excel sheet. Each dataset had a separate tab within the Excel. For each dataset, we listed the required metadata attribute, the information needed per attribute, then syntax required for the JSON file.](Image2.PNG)
+![Screen capture of our metadata Excel sheet. Each dataset had a separate tab within the Excel. For each dataset, we listed the required metadata attribute, the information needed per attribute, then syntax required for the JSON file.](Image2.png)
 *Screen capture of our metadata Excel sheet. Each dataset had a separate tab within the Excel. For each dataset, we listed the required metadata attribute, the information needed per attribute, then syntax required for the JSON file.*
 
 ### Structuring the JSON in Word
@@ -50,7 +50,7 @@ Once we finalized the metadata within the Excel, Erin helped us structure the JS
 
 Because the metadata for all 14 datasets reside in this single JSON file, the resulting Word document was about 40 pages. Having this Word version helped us keep all the information navigable and easier to update if changes were needed.
 
-![Screen capture of our draft JSON text within a Word document. We used color-coding, highlighting, and comments to help us navigate this 40-page document.](Image3.PNG)
+![Screen capture of our draft JSON text within a Word document. We used color-coding, highlighting, and comments to help us navigate this 40-page document.](Image3.png)
 *Screen capture of our draft JSON text within a Word document. We used color-coding, highlighting, and comments to help us navigate this 40-page document.*
 
 ## Troubleshooting data submission issues
@@ -69,7 +69,7 @@ Since DOI EDI could still assign identifiers to manually created metadata record
 
 We had to do the workaround process for each dataset. To keep the creation of these “shell” records manageable, we decided to incrementally add our datasets to the JSON file one at a time. 
 
-![Screen capture of a DOI EDI metadata record, showing the identifiers created by the shell record in the bottom right corner.](Image4.PNG)
+![Screen capture of a DOI EDI metadata record, showing the identifiers created by the shell record in the bottom right corner.](Image4.png)
 *Screen capture of a DOI EDI metadata record, showing the identifiers created by the shell record in the bottom right corner.*
 
 ### JSON validators
@@ -78,7 +78,7 @@ After we incorporated the DOI EDI identifiers into our JSON file, we wanted to v
 
 We tested our JSON with several validators, including [Data.gov’s data catalog validator](https://catalog.data.gov/dcat-us/validator). The data.gov validator’s output said that each dataset was missing a required property, and we thought we needed to add it to our JSON. Instead, we learned that if this was the only error present, our data would still upload to Data.gov successfully. We made sure to check with multiple validators to be sure that our JSON passed their requirements before uploading. 
 
-![Screen capture of Data.gov's JSON validator. Even though the validator says each dataset has a missing "programCode", this JSON is valid and uploaded successfully.](Image5.PNG)
+![Screen capture of Data.gov's JSON validator. Even though the validator says each dataset has a missing "programCode", this JSON is valid and uploaded successfully.](Image5.png)
 *Screen capture of Data.gov's JSON validator. Even though the validator says each dataset has a missing "programCode", this JSON is valid and uploaded successfully.*
 
 ## Metadata Catalog Publishing process
