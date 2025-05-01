@@ -10,6 +10,7 @@ tags:
 - open government
 - policies and regulations
 date: "2025-05-01"
+archived: true
 ---
 
 The Office of Natural Resources Revenue (ONRR) is committed to open data and transparency by making our data accessible to the public. This commitment aligns with federal open data policies, including the [OPEN Government Data Act](https://data.gov/open-gov/) and the [Information Quality Act](https://www.doi.gov/ocio/policy-mgmt-support/information-and-records-management/iq). By adhering to these policies, we ensure that our data is high-quality, objective, and valuable for informing public discussions and decision-making.
