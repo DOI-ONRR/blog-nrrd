@@ -20,7 +20,7 @@ Christina updated the chart source document with the new names and then converte
 Christina decided to fix the source document to ensure accessibility going forward. She added alt text, removed extra line spaces, and better formatted the phone numbers. She found that adding the alt text in the source document didn’t correct all the errors that resulted after converting it to a pdf. The process of converting generates new errors that must be remediated in the pdf, making pdfs more work to make accessible than source documents.
 
 **Image: Visio org chart with alt text**
-![Screenshot of Visio file highlighting a text box with this text: "Revenue, Reporting & Compliance Management, Ruth Welch, 303 231 3175." Also shows alt text, which says: "Revenue, Reporting & Compliance Management, Ruth Welch, 3 0 3 2 3 1 3 1 7 5."](./Visio_Org_Chart.png)
+![Screenshot of Visio file highlighting a text box with this text: "Revenue, Reporting & Compliance Management, Ruth Welch" Also shows alt text, which says: "Revenue, Reporting & Compliance Management, Ruth Welch"](./Visio_Org_Chart.png)
 
 
 **Image: Errors in pdf conversion despite alt text in the source document.**
@@ -29,17 +29,16 @@ Christina decided to fix the source document to ensure accessibility going forwa
 
 She reached out to me to discuss. We talked about the recommendation from the [accessibility stakeholder interviews](https://blog-nrrd.doi.gov/508-Study/) to use locked source docs instead of PDFs. We made this recommendation to avoid the extra errors that appear after converting to PDF. Since the source document was Visio, we decided to convert it to PowerPoint because few people have Visio installed on their machines.
 
-I converted the chart to PowerPoint, did some research on alt text for the lines connecting boxes, and what the proper format for phone numbers is. As a result, I marked all the lines as decorative and added a “reports to” line to the alt text for each box to describe the hierarchy. I also formatted the phone numbers with spaces between each digit in the alt text. Then I sent this [first version of the PowerPoint org chart (PPT)](./OrgChart_v1.pptx) to Sid, the Department of the Interior’s Section 508 Coordinator, to review and test with his screen reader.
-
+I converted the chart to PowerPoint, did some research on alt text for the lines connecting boxes, and what the proper format for phone numbers is. As a result, I marked all the lines as decorative and added a “reports to” line to the alt text for each box to describe the hierarchy. I also formatted the phone numbers with spaces between each digit in the alt text. Then I sent a first version of the PowerPoint org chart to Sid, the Department of the Interior’s Section 508 Coordinator, to review and test with his screen reader.
 
 **Image: PowerPoint org chart with alt text on the boxes**
-![Screenshot of PowerPoint file highlighting a text box with this text: "Revenue, Reporting & Compliance Management, Ruth Welch, Phone: 303-231-3175." Also show alt text, which says: "Revenue, Reporting & Compliance Management Senior Executive, Ruth Welch, Phone: 3 0 3 2 3 1 3 1 7 5, Reports to Director"](./OrgChart_V1_AltText.png)
+![Screenshot of PowerPoint file highlighting a text box with this text: "Revenue, Reporting & Compliance Management, Ruth Welch" Also show alt text, which says: "Revenue, Reporting & Compliance Management Senior Executive, Ruth Welch, Reports to Director"](./OrgChart_V1_AltText.png)
 
 Sid called me up and shared his screen to show what the screen reader reads. It ignored all the alt text I wrote and was reading what was on the boxes, including reading the titles of all the lines I had marked as decorative. And the phone numbers with the dashes read fine.
 
 Sid gave me two options for making the organization chart accessible. The first option was to keep the chart in PowerPoint and put in some alt text at the beginning of the document telling screen reader users to find the alt text in the notes field. The second option would be to export to PDF and describe the entire diagram as a single image. We opted for the first option.
 
-To create the [final version of the org chart (PPT)](./ONRR_External_Org_Chart.pptx) using the first option, I added alt text to the logo that appears at the top of the page indicating that screen reader users should jump to the notes field. Then I described the structure of the diagram in detail within the notes field.
+To create the final version of the org chart using the first option, I added alt text to the logo that appears at the top of the page indicating that screen reader users should jump to the notes field. Then I described the structure of the diagram in detail within the notes field.
 
 **Image: PowerPoint org chart with alt text indicating to jump to the notes field for detailed alt text.**
 ![Screenshot of final PowerPoint file. ONRR logo is highlighted and shows alt text that says: "Office of Natural Resources Revenue Logo, For screen reader users, see the Notes field for a description of this diagram." Also shows the notes field at the bottom of the screen. See article copy for the full text of the notes field.](./OrgChart_Final.png)
@@ -51,36 +50,36 @@ Here is the language I used for the alt text at the top of the page:
 Here is the alt text I put into the notes field:
 
 “U.S. Department of the Interior Office of Natural Resources Revenue Organization Chart
-*	Director, Kimbra Davis, Phone: 303-231-3429
-* Information Management and Technology Modernization Senior Executive, Timothy Wight, Phone: 303-231-3130, Reports to Director
-* Internal Review, Oversight and Compliance Senior Executive, Sharilyn Keeton, Phone: 303-231-3332, Reports to Director
-* Deputy Director, Howard Cantor, Phone: 303-231-3429, Reports to Director
+*	Director, Kimbra Davis
+* Information Management and Technology Modernization Senior Executive, Timothy Wight, Reports to Director
+* Internal Review, Oversight and Compliance Senior Executive, Sharilyn Keeton, Reports to Director
+* Deputy Director, Howard Cantor, Reports to Director
 
-  * Information & Data Management Program Manager, Nathan Brannberg, Phone: 303-231-3776, Reports to Deputy Director
-  * Strategic Resource Management Program Manager, Deborah Lloyd, Phone: 303-231-3927, Reports to Deputy Director
-  * Information & Digital Services Program Manager, Joseph Manke, Phone: 303-231-3956, Reports to Deputy Director
-  * Chief of Staff, Joseph Coleman, Phone: 303-231-3956, Reports to Deputy Director
+  * Information & Data Management Program Manager, Nathan Brannberg, Reports to Deputy Director
+  * Strategic Resource Management Program Manager, Deborah Lloyd, Reports to Deputy Director
+  * Information & Digital Services Program Manager, Joseph Manke, Reports to Deputy Director
+  * Chief of Staff, Joseph Coleman, Reports to Deputy Director
 
-* Audit Management Senior Executive, Jeff Carlson, Phone: 303-231-3701, Reports to Director
+* Audit Management Senior Executive, Jeff Carlson, Reports to Director
 
-  * Tribal and State Audit Services Program Manager, Yvette Smith, Phone: 303-231-3485, Reports to Audit Management Senior Executive
-  * Southern Audit Management Program Manager, Cheryl Johnson, Phone: 281-987-6801, Reports to Audit Management Senior Executive
-  * Western Audit Management Program Manager, Dane Templin, Phone: 303-231-3149, Reports to Audit Management Senior Executive
-  * Central Audit Management Program Manager, Shawna Schimke, Phone: 405-879-6006, Reports to Audit Management Senior Executive
+  * Tribal and State Audit Services Program Manager, Yvette Smith, Reports to Audit Management Senior Executive
+  * Southern Audit Management Program Manager, Cheryl Johnson, Reports to Audit Management Senior Executive
+  * Western Audit Management Program Manager, Dane Templin, Reports to Audit Management Senior Executive
+  * Central Audit Management Program Manager, Shawna Schimke, Reports to Audit Management Senior Executive
 
-* Revenue, Reporting & Compliance Management Senior Executive, Ruth Welch, Phone: 303-231-3175, Reports to Director
+* Revenue, Reporting & Compliance Management Senior Executive, Ruth Welch, Reports to Director
 
-  * Financial Management Program Manager, Robert Winter, Phone: 303-231-3131, Reports to Revenue, Reporting & Compliance Management Senior Executive
-  * Reference & Reporting Management Program Manager, April Lockler, Phone: 303-231-3105, Reports to Revenue, Reporting & Compliance Management Senior Executive
-  * Compliance Management Program Manager, Jennifer Goldblatt, Phone: 303-231-3925, Reports to Revenue, Reporting & Compliance Management Senior Executive
+  * Financial Management Program Manager, Robert Winter, Reports to Revenue, Reporting & Compliance Management Senior Executive
+  * Reference & Reporting Management Program Manager, April Lockler, Reports to Revenue, Reporting & Compliance Management Senior Executive
+  * Compliance Management Program Manager, Jennifer Goldblatt, Reports to Revenue, Reporting & Compliance Management Senior Executive
 
-* Coordination, Enforcement, Valuation, and Appeals Senior Executive, Bonnie Robson, Phone: 303-231-3080, Reports to Director
+* Coordination, Enforcement, Valuation, and Appeals Senior Executive, Bonnie Robson, Reports to Director
 
-  * Indian Trust, Outreach  & Coordination Program Manager, Heidi Badaracco, Phone: 303-231-3434, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive
-  * Analytics & Risk Management Program Manager, Karl Wunderlich, Phone: 303-231-3663, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive
-  * Royalty Valuation Program Manager, Amy Lunt, Phone: 303-231-3746, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive
-  * Appeals & Regulations Program Manager, Matthew Collins, Phone: 303-231-3602, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive
-  * Enforcement Program Manager, Michael Marchetti, Phone: 303-231-3125, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive”
+  * Indian Trust, Outreach  & Coordination Program Manager, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive
+  * Analytics & Risk Management Program Manager, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive
+  * Royalty Valuation Program Manager, Amy Lunt, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive
+  * Appeals & Regulations Program Manager, Matthew Collins, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive
+  * Enforcement Program Manager, Michael Marchetti, Reports to Coordination, Enforcement, Valuation, and Appeals Senior Executive”
 
 ## Why this works
 Creating alt text for the organization chart and providing a detailed text description of the chart in the notes pane is a great strategy for ensuring the content is accessible to screen reader users. As the chart becomes more complicated, alt text for individual portions of the graphic may no longer provide useful information. In most situations, one alt text for the entire graphic may be the best solution.
