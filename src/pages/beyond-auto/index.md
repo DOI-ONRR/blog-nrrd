@@ -38,7 +38,7 @@ Sid called me up and shared his screen to show what the screen reader reads. It 
 
 Sid gave me two options for making the organization chart accessible. The first option was to keep the chart in PowerPoint and put in some alt text at the beginning of the document telling screen reader users to find the alt text in the notes field. The second option would be to export to PDF and describe the entire diagram as a single image. We opted for the first option.
 
-To create the final version of the org chart (PPT) using the first option, I added alt text to the logo that appears at the top of the page indicating that screen reader users should jump to the notes field. Then I described the structure of the diagram in detail within the notes field.
+To create the final version of the org chart using the first option, I added alt text to the logo that appears at the top of the page indicating that screen reader users should jump to the notes field. Then I described the structure of the diagram in detail within the notes field.
 
 **Image: PowerPoint org chart with alt text indicating to jump to the notes field for detailed alt text.**
 ![Screenshot of final PowerPoint file. ONRR logo is highlighted and shows alt text that says: "Office of Natural Resources Revenue Logo, For screen reader users, see the Notes field for a description of this diagram." Also shows the notes field at the bottom of the screen. See article copy for the full text of the notes field.](./OrgChart_Final.png)
