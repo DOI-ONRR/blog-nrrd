@@ -20,7 +20,7 @@ Christina updated the chart source document with the new names and then converte
 Christina decided to fix the source document to ensure accessibility going forward. She added alt text, removed extra line spaces, and better formatted the phone numbers. She found that adding the alt text in the source document didn’t correct all the errors that resulted after converting it to a pdf. The process of converting generates new errors that must be remediated in the pdf, making pdfs more work to make accessible than source documents.
 
 **Image: Visio org chart with alt text**
-![Screenshot of Visio file highlighting a text box with this text: "Revenue, Reporting & Compliance Management, Ruth Welch, 303 231 3175." Also shows alt text, which says: "Revenue, Reporting & Compliance Management, Ruth Welch"](./Visio_Org_Chart.png)
+![Screenshot of Visio file highlighting a text box with this text: "Revenue, Reporting & Compliance Management, Ruth Welch" Also shows alt text, which says: "Revenue, Reporting & Compliance Management, Ruth Welch"](./Visio_Org_Chart.png)
 
 
 **Image: Errors in pdf conversion despite alt text in the source document.**
@@ -50,7 +50,7 @@ Here is the language I used for the alt text at the top of the page:
 Here is the alt text I put into the notes field:
 
 “U.S. Department of the Interior Office of Natural Resources Revenue Organization Chart
-*	Director, Kimbra Davis, 
+*	Director, Kimbra Davis
 * Information Management and Technology Modernization Senior Executive, Timothy Wight, Reports to Director
 * Internal Review, Oversight and Compliance Senior Executive, Sharilyn Keeton, Reports to Director
 * Deputy Director, Howard Cantor, Reports to Director
