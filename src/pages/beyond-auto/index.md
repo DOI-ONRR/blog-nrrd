@@ -20,7 +20,7 @@ Christina updated the chart source document with the new names and then converte
 Christina decided to fix the source document to ensure accessibility going forward. She added alt text, removed extra line spaces, and better formatted the phone numbers. She found that adding the alt text in the source document didn’t correct all the errors that resulted after converting it to a pdf. The process of converting generates new errors that must be remediated in the pdf, making pdfs more work to make accessible than source documents.
 
 **Image: Visio org chart with alt text**
-![Screenshot of Visio file highlighting a text box with this text: "Revenue, Reporting & Compliance Management, Ruth Welch, 303 231 3175." Also shows alt text, which says: "Revenue, Reporting & Compliance Management, Ruth Welch, 3 0 3 2 3 1 3 1 7 5."](./Visio_Org_Chart.png)
+![Screenshot of Visio file highlighting a text box with this text: "Revenue, Reporting & Compliance Management, Ruth Welch, 303 231 3175." Also shows alt text, which says: "Revenue, Reporting & Compliance Management, Ruth Welch"](./Visio_Org_Chart.png)
 
 
 **Image: Errors in pdf conversion despite alt text in the source document.**
@@ -32,7 +32,7 @@ She reached out to me to discuss. We talked about the recommendation from the [a
 I converted the chart to PowerPoint, did some research on alt text for the lines connecting boxes, and what the proper format for phone numbers is. As a result, I marked all the lines as decorative and added a “reports to” line to the alt text for each box to describe the hierarchy. I also formatted the phone numbers with spaces between each digit in the alt text. Then I sent a first version of the PowerPoint org chart to Sid, the Department of the Interior’s Section 508 Coordinator, to review and test with his screen reader.
 
 **Image: PowerPoint org chart with alt text on the boxes**
-![Screenshot of PowerPoint file highlighting a text box with this text: "Revenue, Reporting & Compliance Management, Ruth Welch, Phone: 303-231-3175." Also show alt text, which says: "Revenue, Reporting & Compliance Management Senior Executive, Ruth Welch, Phone: 3 0 3 2 3 1 3 1 7 5, Reports to Director"](./OrgChart_V1_AltText.png)
+![Screenshot of PowerPoint file highlighting a text box with this text: "Revenue, Reporting & Compliance Management, Ruth Welch" Also show alt text, which says: "Revenue, Reporting & Compliance Management Senior Executive, Ruth Welch, Reports to Director"](./OrgChart_V1_AltText.png)
 
 Sid called me up and shared his screen to show what the screen reader reads. It ignored all the alt text I wrote and was reading what was on the boxes, including reading the titles of all the lines I had marked as decorative. And the phone numbers with the dashes read fine.
 
@@ -53,7 +53,7 @@ Here is the alt text I put into the notes field:
 *	Director, Kimbra Davis, 
 * Information Management and Technology Modernization Senior Executive, Timothy Wight, Reports to Director
 * Internal Review, Oversight and Compliance Senior Executive, Sharilyn Keeton, Reports to Director
-* Deputy Director, Howard Cantor, Phone: 303-231-3429, Reports to Director
+* Deputy Director, Howard Cantor, Reports to Director
 
   * Information & Data Management Program Manager, Nathan Brannberg, Reports to Deputy Director
   * Strategic Resource Management Program Manager, Deborah Lloyd, Reports to Deputy Director
