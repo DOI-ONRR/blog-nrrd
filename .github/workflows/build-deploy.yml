@@ -46,17 +46,17 @@ jobs:
         name: public
         path: public
 
-  dev:
+  deploy-dev:
     needs: build
-    if: github.ref != 'refs/head/master'
+    if: github.ref == 'refs/heads/dev' || (github.event_name == 'pull_request' && github.base_ref == 'dev')
     uses: doi-onrr/oddd-actions/.github/workflows/cf-deploy.yml@v1
     with:
       manifest: manifest.dev.yml
     secrets: inherit
     
-  prod:
+  deploy-prod:
     needs: build
-    if: github.ref == 'refs/head/master'
+    if: github.event_name == 'pull_request' && github.base_ref == 'master'
     uses: doi-onrr/oddd-actions/.github/workflows/cf-deploy.yml@v1
     with:
       cf-space: prod
