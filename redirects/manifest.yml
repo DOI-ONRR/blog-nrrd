@@ -1,0 +1,7 @@
+---
+applications:
+  - name: blog-redirects
+    memory: 64M
+    buildpacks:
+      - https://github.com/cloudfoundry/nginx-buildpack.git
+    path: .
