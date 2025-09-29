@@ -27,7 +27,7 @@ const AboutPage = () => {
                             <ul>
                                 <li><a class="usa-link usa-link--external" href="https://www.onrr.gov/" target="_blank" rel="noreferrer">onrr.gov</a>: This is the public, front-facing site for ONRR. ONRR collects, accounts for, and verifies energy and mineral revenues. We then distribute the funds to States, American Indians, and the U.S. Treasury.</li>
                                 <li><a class="usa-link usa-link--external" href="https://revenuedata.doi.gov/" target="_blank" rel="noreferrer">revenuedata.doi.gov</a>: This site (also called NRRD) provides open data and contextual information about how natural resources and their revenues are managed in the United States.</li>
-                                <li><a href="https://blog-nrrd.onrr.gov/" target="_blank" rel="noreferrer">blog-nrrd.onrr.gov</a>: You are currently on the about page for this blog! We use the blog to document our lessons learned from modernizing onrr.gov and NRRD.</li>
+                                <li><a href="https://blog-nrrd.doi.gov/" target="_blank" rel="noreferrer">blog-nrrd.doi.gov</a>: You are currently on the about page for this blog! We use the blog to document our lessons learned from modernizing onrr.gov and NRRD.</li>
                             </ul>
                         </section>
                     </div>
