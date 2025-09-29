@@ -11,7 +11,7 @@ tags:
 date: "2024-10-07"
 ---
 
-The main way the government establishes accessibility requirements for information and communication technology is through [Section 508 of the Rehabilitation Act](https://www.access-board.gov/about/law/ra.html). The Office of Natural Resources Revenue (ONRR) is committed to making its digital products accessible. Our Open Data, Design, and Development (ODDD) team has previously chronicled ONRR’s efforts to [implement accessibility policy](https://blog-nrrd.doi.gov/accessibility/), [create accessible products](https://blog-nrrd.doi.gov/beyond-auto/), and [evaluate what accessibility resources are needed](https://blog-nrrd.doi.gov/508-Study/). 
+The main way the government establishes accessibility requirements for information and communication technology is through [Section 508 of the Rehabilitation Act](https://www.access-board.gov/about/law/ra.html). The Office of Natural Resources Revenue (ONRR) is committed to making its digital products accessible. Our Open Data, Design, and Development (ODDD) team has previously chronicled ONRR’s efforts to [implement accessibility policy](/accessibility/), [create accessible products](/beyond-auto/), and [evaluate what accessibility resources are needed](/508-Study/). 
 
 This blog details how we strive to manually test all our digital products by providing plain language instructions for all testers to follow. Developing these instructions ensures that manual testing methodology is uniform across our agency. It also eases testers’ burden by reducing the amount of time needed to understand each accessibility requirement.
 
@@ -65,7 +65,7 @@ This checklist is a key tool for ensuring consistency in accessibility efforts a
 
 ## Website accessibility
 
-Over the past two years, our ODDD team made significant accessibility improvements to onrr.gov and revenuedata.doi.gov. We transitioned from using [Lighthouse for automated testing and screen readers for manual testing](https://blog-nrrd.doi.gov/four-part-hybrid-testing/) to the [Trusted Tester process](https://www.dhs.gov/trusted-tester). Two of our team members – Lindsay Goldstein and Erin Elzi – took training to become certified Trusted Testers and [detailed the process in a blog post](https://blog-nrrd.doi.gov/trusted-tester/). 
+Over the past two years, our ODDD team made significant accessibility improvements to onrr.gov and revenuedata.doi.gov. We transitioned from using [Lighthouse for automated testing and screen readers for manual testing](/four-part-hybrid-testing/) to the [Trusted Tester process](https://www.dhs.gov/trusted-tester). Two of our team members – Lindsay Goldstein and Erin Elzi – took training to become certified Trusted Testers and [detailed the process in a blog post](/trusted-tester/). 
 
 As Trusted Testers, Erin and Lindsay took on large projects like our annual Section 508 assessment. They also shared new skills like using the [Accessible Name and Description Inspector tool (ANDI)](https://www.ssa.gov/accessibility/andi/help/install.html) and creating [Accessibility Conformance Reporting Tool (ACRT) reports](https://www.webaccess.pro/acrt/) with the rest of the ODDD team. While Erin took the lead over the past two years, she recently left the team. I wanted to make sure her knowledge was not lost to us. I also wanted to take a deep dive into the ACRT reports so I can take on a larger role in the next annual Section 508 assessment. 
 

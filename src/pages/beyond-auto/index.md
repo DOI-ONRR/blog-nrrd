@@ -27,7 +27,7 @@ Christina decided to fix the source document to ensure accessibility going forwa
 ![Screenshot of PDF file showing the organization chart and the accessibility errors generated. Shows 3 document issues, 2 alternate text issues, and an uncounted number of alternate text issues (10 are visible in the screenshot).](./PDF_Errors.png)
 
 
-She reached out to me to discuss. We talked about the recommendation from the [accessibility stakeholder interviews](https://blog-nrrd.doi.gov/508-Study/) to use locked source docs instead of PDFs. We made this recommendation to avoid the extra errors that appear after converting to PDF. Since the source document was Visio, we decided to convert it to PowerPoint because few people have Visio installed on their machines.
+She reached out to me to discuss. We talked about the recommendation from the [accessibility stakeholder interviews](/508-Study/) to use locked source docs instead of PDFs. We made this recommendation to avoid the extra errors that appear after converting to PDF. Since the source document was Visio, we decided to convert it to PowerPoint because few people have Visio installed on their machines.
 
 I converted the chart to PowerPoint, did some research on alt text for the lines connecting boxes, and what the proper format for phone numbers is. As a result, I marked all the lines as decorative and added a “reports to” line to the alt text for each box to describe the hierarchy. I also formatted the phone numbers with spaces between each digit in the alt text. Then I sent a first version of the PowerPoint org chart to Sid, the Department of the Interior’s Section 508 Coordinator, to review and test with his screen reader.
 

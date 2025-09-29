@@ -32,7 +32,7 @@ Now let’s dive into the details!
 
 In June 2023, DAP notified users of their plans to migrate to GA4. The emails sent gave detailed instructions and deadlines, which included that DAP was preparing to launch their new GA4 code in August 2023.
 
-The ODDD team is responsible for three websites: [onrr.gov](https://www.onrr.gov/), [revenuedata.doi.gov, nicknamed “NRRD”](https://revenuedata.doi.gov/), and [our blog](https://blog-nrrd.doi.gov/). The programming languages differ across these three sites, so we wanted to verify that DAP’s code was implemented correctly everywhere. We were especially concerned because at that time our team was without a full-time developer to help us.
+The ODDD team is responsible for three websites: [onrr.gov](https://www.onrr.gov/), [revenuedata.doi.gov, nicknamed “NRRD”](https://revenuedata.doi.gov/), and [our blog](https://blog-nrrd.onrr.gov/). The programming languages differ across these three sites, so we wanted to verify that DAP’s code was implemented correctly everywhere. We were especially concerned because at that time our team was without a full-time developer to help us.
 
 In July 2023, we reached out to DAP and asked to have a virtual meeting to discuss our GA4 transition. In that initial email, we let DAP know our concerns about verifying code within all three websites and our lack of developer help. DAP began collecting GA4 analytics on August 1, so we set up a meeting in early August to discuss.
 

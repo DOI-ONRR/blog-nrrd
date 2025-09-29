@@ -34,7 +34,7 @@ Maroya, ODDD Product Manager and Supervisor, and Nancy, ONRR Workforce Developme
 After sending in my application, I felt a sense of relief and inspiration—I was ready for this change.
 
 ## Experience joining the team
-The ODDD team is incredibly organized and runs their team with an [agile methodology](https://blog-nrrd.doi.gov/agile-methodology/). They use [ZenHub]( https://app.zenhub.com/workspaces/open-data-design--development-5464fa79c3cc8d7f4c384eaf/board?filterLogic=any&repos=215585796,279914708,210892300&showPRs=false&showPipelineDescriptions=false) and [GitHub](https://github.com/DOI-ONRR) to track their work issues/tasks. I love agile because it forces you to be organized and…
+The ODDD team is incredibly organized and runs their team with an [agile methodology](/agile-methodology/). They use [ZenHub]( https://app.zenhub.com/workspaces/open-data-design--development-5464fa79c3cc8d7f4c384eaf/board?filterLogic=any&repos=215585796,279914708,210892300&showPRs=false&showPipelineDescriptions=false) and [GitHub](https://github.com/DOI-ONRR) to track their work issues/tasks. I love agile because it forces you to be organized and…
 
 >"It forces you to be accountable" Lindsay Goldstein
 
@@ -42,9 +42,9 @@ They have a structured [meeting schedule](https://github.com/DOI-ONRR/nrrd/wiki/
 
 >"Default to video for most meetings (especially daily standups, collaboration, and coworking). Things move faster because you can rely on nonverbal feedback and cues to keep the conversation moving. They also help build team empathy and avoid alienation." Corey Mahoney
 
-They are a diverse and highly skilled team with a product manager, program analysts, user experience designer, developers, a content strategist, and interns from [Virtual Student Federal Service](https://careers.state.gov/interns-fellows/virtual-student-federal-service/). Their main products are [Natural Resources Revenue Data website](https://revenuedata.doi.gov/) and are working towards [redesigning](https://blog-nrrd.doi.gov/stakeholders/) [onrr.gov](https://onrr.gov/), but they also work on many other projects.
+They are a diverse and highly skilled team with a product manager, program analysts, user experience designer, developers, a content strategist, and interns from [Virtual Student Federal Service](https://careers.state.gov/interns-fellows/virtual-student-federal-service/). Their main products are [Natural Resources Revenue Data website](https://revenuedata.doi.gov/) and are working towards [redesigning](/stakeholders/) [onrr.gov](https://onrr.gov/), but they also work on many other projects.
 
-As a newbie cross trainer, the team made me feel welcome and empowered me to make improvements from day one. They had an amazing [onboarding checklist](https://github.com/ONRR/nrrd/wiki/Onboarding-checklist) that helped me get set up—every team should have an [onboarding checklist](https://blog-nrrd.doi.gov/Intern-Onboarding/), specific to their team, to get new team members set up and contributing quickly.
+As a newbie cross trainer, the team made me feel welcome and empowered me to make improvements from day one. They had an amazing [onboarding checklist](https://github.com/ONRR/nrrd/wiki/Onboarding-checklist) that helped me get set up—every team should have an [onboarding checklist](/Intern-Onboarding/), specific to their team, to get new team members set up and contributing quickly.
 
 The team patiently took time to share their knowledge—even when they were still learning the job themselves—and they were always willing to answer questions and help.
 
@@ -76,7 +76,7 @@ So maybe I won't give you all my daily takeaways but here are a few of them....
 * Takeaways: Markdown seemed straightforward, but with all things it takes practice; and it was fun learning and doing something new!
 
 ### Day 24 – 508 document project
-* Notes: Uploaded the last accessible document for Phase 2 of the [508 accessibility project](https://blog-nrrd.doi.gov/accessibility/) using one of the ODDD’s checklists:
+* Notes: Uploaded the last accessible document for Phase 2 of the [508 accessibility project](/accessibility/) using one of the ODDD’s checklists:
     1.	Recheck document for accessibility
     2.	Upload document in dev (development) site
     3.	Review document in dev site
@@ -87,10 +87,10 @@ So maybe I won't give you all my daily takeaways but here are a few of them....
 
 ### Day 36 – Check-in with Maroya, Product Manager and Supervisor
 * Notes: Team members have a weekly or bi-weekly check-in, one-on-one, with Maroya. As a cross trainer, I was able to experience these check-ins. The check-in meeting is informal, and you can talk about any issues that you may have questions on or talk in general about workload.
-* Takeaway: Great check-in with Maroya—gained her perspectives and experience transitioning to leadership, which was helpful to plan my career goals. Recommend reading Maroya’s blog post [Stepping out of my comfort zone - into management](https://blog-nrrd.doi.gov/transition-to-management/), and getting other’s perspectives.
+* Takeaway: Great check-in with Maroya—gained her perspectives and experience transitioning to leadership, which was helpful to plan my career goals. Recommend reading Maroya’s blog post [Stepping out of my comfort zone - into management](/transition-to-management/), and getting other’s perspectives.
 
 ### Day 47 – Sprint Demo
-* Notes: The ODDD team has an end of sprint demo every other Thursday. This is a good time to see everything the team worked on in the sprint and has attendees from outside the team. Redirects was one of the issues I worked on that took several weeks of effort. The goal of this issue was to add new Uniform Resource Locator (URL) internal or external redirect links for the 2,525 documents that the team removed as part of the [508 accessibility project](https://blog-nrrd.doi.gov/accessibility/). Presented the status of adding all the redirects and the next steps to add redirects for the new, in development, [onrr.gov](https://onrr.gov/) site.
+* Notes: The ODDD team has an end of sprint demo every other Thursday. This is a good time to see everything the team worked on in the sprint and has attendees from outside the team. Redirects was one of the issues I worked on that took several weeks of effort. The goal of this issue was to add new Uniform Resource Locator (URL) internal or external redirect links for the 2,525 documents that the team removed as part of the [508 accessibility project](/accessibility/). Presented the status of adding all the redirects and the next steps to add redirects for the new, in development, [onrr.gov](https://onrr.gov/) site.
 * Takeaways: Presenting is always nerve-racking, but it was great to feel a sense of accomplishment after giving an update on the redirects issue to the team and others.
 
 The ODDD team works on such a variety of issues. Those daily takeaways were a glimpse into the issues you work on as a cross trainer in this team.
@@ -121,9 +121,9 @@ What are you waiting for? Go find a cross training, or other opportunity, that w
 ###Cross training blog posts
 If you want to read about other cross training experiences with the ODDD team and get some inspiration, go check out these blog posts:
 
-* [Cross training experience with ONRR’s Open Data, Design, & Development (ODDD) team](https://blog-nrrd.doi.gov/Cross-training/)
+* [Cross training experience with ONRR’s Open Data, Design, & Development (ODDD) team](/Cross-training/)
 
-* [I came for the data and stayed for the agility: reflections on my rotation with the Open Data, Design, & Development team](https://blog-nrrd.doi.gov/agile-methodology/)
+* [I came for the data and stayed for the agility: reflections on my rotation with the Open Data, Design, & Development team](/agile-methodology/)
 
 ###For ONRR employees
 ONRResource has cross training and job rotation opportunities (connect to VPN to access). If you have any questions about my cross training experience feel free to connect with me.
