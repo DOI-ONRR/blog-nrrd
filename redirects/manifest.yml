@@ -1,0 +1,14 @@
+---
+applications:
+  - name: blog-redirector
+    memory: 64M
+    disk_quota: 128M
+    instances: 2
+    timeout: 60
+    buildpacks:
+      - https://github.com/cloudfoundry/nginx-buildpack.git
+    path: .
+    default-route: true
+    routes:
+      - route: blog-nrrd.doi.gov
+      - route: blog-redirector.app.cloud.gov
