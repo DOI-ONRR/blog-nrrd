@@ -13,7 +13,7 @@ tags:
 date: "2022-01-20"
 ---
 
- The main way the government establishes accessibility requirements for information and communication technology is through [Section 508 of the Rehabilitation Act](https://www.access-board.gov/law/ra.html). Our team recently [documented](https://blog-nrrd.doi.gov/accessibility/) the steps we took to ensure all documents on onrr.gov are Section 508 compliant. This daunting task is now complete!
+ The main way the government establishes accessibility requirements for information and communication technology is through [Section 508 of the Rehabilitation Act](https://www.access-board.gov/law/ra.html). Our team recently [documented](./accessibility/) the steps we took to ensure all documents on onrr.gov are Section 508 compliant. This daunting task is now complete!
 
 During the last few months of the onrr.gov document compliance project, we decided to interview our stakeholders to better understand (1) the current level of understanding ONRR employees have of 508 compliance, and (2) what we need to do to make all ONRR resources (not just onrr.gov) 508 compliant. This blog post discusses our interview findings and outlines our next steps to ensure ONRR continues to be at the forefront of Section 508 compliance. For further details, our study plan and a presentation of our findings can be found in [GitHub](https://github.com/ONRR/research/tree/master/onnr-dot-gov-research/09_508_Study).
 
@@ -27,7 +27,7 @@ For our stakeholder research, we interviewed employees across all levels and are
 
 The first question we asked interview participants was to describe their familiarity with ONRR’s 508 compliance project and 508 compliance in general. Those who described themselves as very familiar had largely participated in remediating documents or require compliant documents. Those only somewhat familiar tended to be managers who delegated remediation tasks or employees who were aware of efforts, but not tasked with remediating documents. Those not familiar were employees who had not participated in remediation tasks and were not aware of the efforts to make documents compliant.
 
-As explained in our previous 508 compliance [blog post](https://blog-nrrd.doi.gov/accessibility/), each group within ONRR is responsible for remediating all the documents they own. This means all their existing documents on onrr.gov and all documents they produce in the future. So, there are many people within ONRR that are familiar with the document remediation process.
+As explained in our previous 508 compliance [blog post](./accessibility/), each group within ONRR is responsible for remediating all the documents they own. This means all their existing documents on onrr.gov and all documents they produce in the future. So, there are many people within ONRR that are familiar with the document remediation process.
 
 ![Circles indicate that the participant doesn't need accessible materials. Triangles indicate that the participant does need accessible materials. Axis for participants to indicate how familiar they are with 508 compliance. Line with "not familiar with 508" on the left and "very familiar with 508 on the right."](./familiarity.jpg)
 
