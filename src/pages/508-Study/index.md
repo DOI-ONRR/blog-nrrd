@@ -13,7 +13,7 @@ tags:
 date: "2022-01-20"
 ---
 
- The main way the government establishes accessibility requirements for information and communication technology is through [Section 508 of the Rehabilitation Act](https://www.access-board.gov/law/ra.html). Our team recently [documented](../accessibility/) the steps we took to ensure all documents on onrr.gov are Section 508 compliant. This daunting task is now complete!
+ The main way the government establishes accessibility requirements for information and communication technology is through [Section 508 of the Rehabilitation Act](https://www.access-board.gov/law/ra.html). Our team recently [documented](./accessibility/) the steps we took to ensure all documents on onrr.gov are Section 508 compliant. This daunting task is now complete!
 
 During the last few months of the onrr.gov document compliance project, we decided to interview our stakeholders to better understand (1) the current level of understanding ONRR employees have of 508 compliance, and (2) what we need to do to make all ONRR resources (not just onrr.gov) 508 compliant. This blog post discusses our interview findings and outlines our next steps to ensure ONRR continues to be at the forefront of Section 508 compliance. For further details, our study plan and a presentation of our findings can be found in [GitHub](https://github.com/ONRR/research/tree/master/onnr-dot-gov-research/09_508_Study).
 

@@ -10,7 +10,7 @@ module.exports = {
     title: 'Open Data, Design, & Development at the Office of Natural Resources Revenue',
     author: 'The Open Data, Design, & Development (ODDD) team',
     description: 'Blog for the Open Data, Design, & Development team at the Office of Natural Resources Revenue',
-    siteUrl: 'https://blog-nrrd.doi.gov/',
+    siteUrl: 'https://blog-nrrd.onrr.gov/',
   },
   pathPrefix: `${BASEURL}/`,
   mapping: {

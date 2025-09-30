@@ -32,7 +32,7 @@ const Footer = () => (
       </div>
       <div class="grid-row">
         <div class="grid-col footer-social-icons">
-          <a href='https://blog-nrrd.doi.gov/rss.xml'>
+          <a href='/rss.xml'>
             <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
               <use href="/assets/img/sprite.svg#rss_feed"></use>
             </svg>
